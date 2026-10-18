@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-18T21:44:39.946Z",
+  "atualizadoEm": "2026-10-18T22:14:48.829Z",
   "noticias": [
+    {
+      "t": "PlayStation 6 pode chegar com preço recorde e surpreender jogadores",
+      "d": "&nbsp;&nbsp; Terra",
+      "link": "https://www.terra.com.br/byte/playstation-6-pode-chegar-com-preco-recorde-e-surpreender-jogadores,adf8d7086e39c2103bf9b7fcde1a3b931k6yfx9q.html",
+      "fonte": "Terra",
+      "data": "2026-10-18T21:48:00.000Z",
+      "c": "Consoles",
+      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/18/407166807-imagem2026-10-18182906142.png",
+      "orig": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMmpOejVGcF9MaENOc3ZfaFMyYjh3eWVucGZrS0szb2xwTFNleDFad2VSV1MwaHFjNk1ha2V3dlU2M2dVMEZ0YS1rcTl2WnpMUkNva0NIUFgzUVJvMTd0VjBkNzJJcURRSzBqMTZ5ODF0OXI4T0JrZkZWazBqa1Bfc0tWd0JzQVBaYi1kY3RwUEdkWkxBc0VYcEpMXzVEYTdrNnI2R19QbDRzNjN4YmNrVkgwYnlkSzBqTlJjQWhVbGg0ak43RG04cnh3aXZfdFNURTNwUE8xZ3lSSzg?oc=5"
+    },
     {
       "t": "Xbox Labs pesquisa upscaling por IA para melhorar gráficos do Series S e rivalizar com DLSS e QSSR",
       "d": "&nbsp;&nbsp; Central Xbox",
@@ -49,16 +59,6 @@
       "data": "2026-10-18T18:00:22.000Z",
       "c": "Geral",
       "img": "https://www.youtube.com/embed/Gn6zU6Ly0GA"
-    },
-    {
-      "t": "The Legend of Zelda: Ocarina of Time terá opção para remover elementos da interface no Switch 2",
-      "d": "&nbsp;&nbsp; Nintendo Blast",
-      "link": "https://www.nintendoblast.com.br/2026/10/the-legend-of-zelda-ocarina-of-time-tera-opcao-para-remover-elementos-interface-switch2.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-10-18T17:52:29.000Z",
-      "c": "Consoles",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_nSwaas3uRyNv2hTWAg9tysvWQw-Qu-H681MAW1d8jcnIIKFE1x9peWpYwfw4f4KuDJ0141ANoq7FO1QPuCKJuglNVo8LFWx0MqSrY2af6SlDHyETQxYvMVD94NY5wefucqZ_k3A_hk8I09kAPD0TyKYjlwbzFxP5rBoFwGmn29zo47Uc855YnHbuvj8/w1200-h630-p-k-no-nu/the-legend-of-zelda-40th-anniversary-direct-9-8-2026-45-4-screenshot.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2pyNzhoWlg0eDZBY3ZGdnBQWWNPUldkNHRkSWJPZ3JIaS1jQkFBYmRsSzBoaUVibmozaDdEUGtob2FuQThQWlBqOWtKa0gwRW9Fdlgtbnk3bmplV1J6R25Lb245U3h5MnB4Y2ZwSC03bWtMMXctUmFqSkhqQWtLUlg0S28wQWRQZ0Q1SWxYWVNKTnd4eVFhZUVJSjJIQnNOTlkwRTVHVm5zZ0pPWUVPWWZXcFJhN080YVRtTnUwUW5WdG5vM1l4bzNXNEZ5UQ?oc=5"
     },
     {
       "t": "8 melhores jogos de Star Wars que deixam você ser um Jedi",
@@ -445,7 +445,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20003,
+      "views": 20004,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -1464,7 +1464,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxv9.jpg",
-      "hype": 7,
+      "hype": 8,
       "link": "https://www.igdb.com/games/demon-bluff"
     },
     {
