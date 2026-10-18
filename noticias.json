@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-18T18:43:44.047Z",
+  "atualizadoEm": "2026-10-18T19:13:52.864Z",
   "noticias": [
     {
       "t": "One Piece: Grand Gourmet terá resolução 4K e rodará a 30 fps no Switch 2",
@@ -27,7 +27,7 @@
       "fonte": "Nintendo Blast",
       "data": "2026-10-18T17:52:29.000Z",
       "c": "Consoles",
-      "img": "",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_nSwaas3uRyNv2hTWAg9tysvWQw-Qu-H681MAW1d8jcnIIKFE1x9peWpYwfw4f4KuDJ0141ANoq7FO1QPuCKJuglNVo8LFWx0MqSrY2af6SlDHyETQxYvMVD94NY5wefucqZ_k3A_hk8I09kAPD0TyKYjlwbzFxP5rBoFwGmn29zo47Uc855YnHbuvj8/w1200-h630-p-k-no-nu/the-legend-of-zelda-40th-anniversary-direct-9-8-2026-45-4-screenshot.jpg",
       "orig": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc2pyNzhoWlg0eDZBY3ZGdnBQWWNPUldkNHRkSWJPZ3JIaS1jQkFBYmRsSzBoaUVibmozaDdEUGtob2FuQThQWlBqOWtKa0gwRW9Fdlgtbnk3bmplV1J6R25Lb245U3h5MnB4Y2ZwSC03bWtMMXctUmFqSkhqQWtLUlg0S28wQWRQZ0Q1SWxYWVNKTnd4eVFhZUVJSjJIQnNOTlkwRTVHVm5zZ0pPWUVPWWZXcFJhN080YVRtTnUwUW5WdG5vM1l4bzNXNEZ5UQ?oc=5"
     },
     {
@@ -2820,16 +2820,6 @@
       "link": "https://www.igdb.com/games/building-relationships"
     },
     {
-      "t": "Espiocracy",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co933f.jpg",
-      "hype": 9,
-      "link": "https://www.igdb.com/games/espiocracy"
-    },
-    {
       "t": "HeartLinks: A Puzzle Called Love",
       "data": "2026-12-31",
       "plats": [
@@ -4363,6 +4353,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99ix.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/footsy"
+    },
+    {
+      "t": "Noblemen: 1941",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod68w.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/noblemen-1941"
     },
     {
       "t": "Trifoil",
