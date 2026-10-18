@@ -1,6 +1,25 @@
 {
-  "atualizadoEm": "2026-10-18T17:13:15.185Z",
+  "atualizadoEm": "2026-10-18T17:43:25.931Z",
   "noticias": [
+    {
+      "t": "8 melhores jogos de Star Wars que deixam você ser um Jedi",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/8-melhores-jogos-de-star-wars-com-jedi-e-sabres-de-luz/",
+      "fonte": "TecMundo",
+      "data": "2026-10-18T17:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/5BNCDLGOPJKAXLBT5U3E2SJDNQ.jpg?quality=80&auth=36ca761890867731e00f5cb8f85622ffdf671090a52aef88eb8eb5f7ffbf3345&width=710"
+    },
+    {
+      "t": "Próximo Xbox terá jogos físicos? Vaga da Microsoft dá pista",
+      "d": "&nbsp;&nbsp; Game Overdrive",
+      "link": "https://gameoverdrive.com.br/proximo-xbox-jogos-fisicos-vaga-microsoft/",
+      "fonte": "Game Overdrive",
+      "data": "2026-10-18T17:05:06.000Z",
+      "c": "Consoles",
+      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/09/Bootup_Wire-9c068aa206c9a72d2b1f-1600x900.webp",
+      "orig": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JblM1YUJ3cWhDQmw4ak5XQng3bzIyNlhzVmRGZ3RPXzFjanh3Y2drSEhOenJ3MDJRV3RaSDhGdnR2S1hPalpLMXg3Z3A0T3Y2bzVwdVNvZEdEanFxdE4wM05HUzU5cDRqQkpKQVZ5Y0pEUngwQlhZZjZCYw?oc=5"
+    },
     {
       "t": "Lançamentos físicos até 24/Out | Nintendo Switch Sports Resort é o destaque da semana, mais",
       "d": "&nbsp;&nbsp; Universo Nintendo",
@@ -10,6 +29,16 @@
       "c": "Consoles",
       "img": "https://universonintendo.com/wp-content/uploads/2026/06/Nintendo-Switch-Sports-Resort-KEYART-1.jpg",
       "orig": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGtmRGd3QkhDVXdRTkoyajBqTU9yandMWG8za1Z6ZmlfVnY1SFpjSzM3U2RlTGYxQm84MnlvaFA1U0xkcngxUVNEQXVrOHdJeGpJamxxSTlJX1ZBb095ZkVrRWhubnBiSTFaZ3ZzeHoxZURFUTV6YVhCSl9UVlo1RVBYa0FDVmZqb0lVeXBvQzBSdFpNU1BZLWpMMjdoV1M5b2Z1RmM2eDcyb2w0SV96N3ltZWwtUnFoZlE?oc=5"
+    },
+    {
+      "t": "A BGS como a gente conhece morreu",
+      "d": "&nbsp;&nbsp; Canaltech",
+      "link": "https://canaltech.com.br/games/a-bgs-como-a-gente-conhece-morreu/",
+      "fonte": "Canaltech",
+      "data": "2026-10-18T16:30:00.000Z",
+      "c": "Eventos",
+      "img": "https://tl.ctcdn.com.br/ZcTq8pr3axLlFClAUHm1-HlQT7Y=/1200x675/smart/filters:format(webp):quality(85)/646801de-650a-41ce-92ea-5ab486c2fb10.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtd2NUVjVMbkJlNDh4SmljS2ZIcEk3QUQ5Si1fRDNLRWd0ekNfeXNYUjhRVW4tdk1XYjNmS0FuZk1qR3FkS2tJSlZ2b19XYUZrMHJUOXZlb0FYUkVxX1hycGF0R1hraHNpU0V1dVJkck5KN2M?oc=5"
     },
     {
       "t": "Receita leiloa Audi a partir de R$ 20 mil, iPhone 17 e PlayStation 5",
@@ -50,16 +79,6 @@
       "img": "https://www.youtube.com/embed/J2N5eF-qmVU"
     },
     {
-      "t": "DC tem o concorrente perfeito para o Homem-Aranha nos games",
-      "d": "&nbsp;&nbsp; einerd.com",
-      "link": "https://www.einerd.com/super-choque-jogo-dc-spider-man/",
-      "fonte": "einerd.com",
-      "data": "2026-10-18T15:00:00.000Z",
-      "c": "Geral",
-      "img": "https://www.einerd.com/wp-content/uploads/2018/08/spider-man-expansões-e1792090130842.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4bV9fYUw2TmwxM0tKSHFxZ3JpSEVnWVE4S0J1NFFSU25ZOThVSUZ4TTlBMTFoakZrRGZTbjJ6d0pSMHh4NkNwb3ZWdUJxTFRJNm1HNUVXTk9yZXJaS0ttWXg1U2VKZw?oc=5"
-    },
-    {
       "t": "Jogos descompilados e recompilados para PC, a lista do allrecomps.com",
       "d": "&nbsp;&nbsp; Pasquale Pillitteri",
       "link": "https://pasqualepillitteri.it/pt/news/25226/jogos-descompilados-recompilados-pc-allrecomps",
@@ -68,16 +87,6 @@
       "c": "PC",
       "img": "https://pasqualepillitteri.it/uploads/img/news/giochi-decompilati-ricompilati-pc-allrecomps-cover.webp",
       "orig": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTmZ6Sk5iQXhCTTkxR0l1Q0tiaFhhY0FPLThVVUZuZUExMldGWU1IdElvMl8wZVFlMno0ZW84RXhzVHBETUIycmxlWHlmeEU0YUxTbnBsbFlvVEhXZ2h2czgwWEg4QkE1MDdKRkZsVEdKS0xNdDBseVctRDcxeHFFdnNWaEF6SUFOaEluaG9KakFNWUln?oc=5"
-    },
-    {
-      "t": "Xbox confirma apresentação de 18 jogos independentes em 20 de outubro, às 14h, e prepara novidades no evento ID@Xbox com trailers e estreias mundiais",
-      "d": "&nbsp;&nbsp; RD1",
-      "link": "https://rd1.com.br/xbox-confirma-apresentacao-de-18-jogos-independentes-em-20-de-outubro-as-14h/",
-      "fonte": "RD1",
-      "data": "2026-10-18T14:32:15.000Z",
-      "c": "Consoles",
-      "img": "https://rd1.com.br/wp-content/uploads/2026/10/20261016-materias-em-geral-sites-4.png",
-      "orig": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzB5UjVVR0tJRHE3UW5TVUoxMm55eDVoTkxhX2FhZ053QzdpYk16RkNzSVo1U3B6REJJYld5N2RwOXRsSFgwUGRORkJRa1ViNWdVbmQtb3d6Z0FteHZieGxEeU1sOWpqVlhLOHBzSVRxMGVTYUlVcWM0ZWtYaEVwMTFDREVxOXpVVGdiZXBfOXlrbkFGM3NlVnJ3aGg?oc=5"
     },
     {
       "t": "29 novidades no remake de The Legend of Zelda: Ocarina of Time — quebra-cabeças reformulados, lutas contra minibosses atualizadas e diálogos mais aprofundados",
@@ -269,15 +278,6 @@
       "data": "2026-10-17T12:00:37.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/marvel-iron-fist-danny-rand-6444380_c986.jpg"
-    },
-    {
-      "t": "5 jogos grátis para curtir o fim de semana no PC e consoles! (17)",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-e-consoles-17/",
-      "fonte": "TecMundo",
-      "data": "2026-10-17T11:15:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/ARND45PMVNDYRNKKVXOQSS2Z3I.jpg?quality=80&auth=dfde66a5fb40b532f6ec799385165e36157aba085d05f95682d21061ef54bdbf&width=710"
     }
   ],
   "videos": [
@@ -293,7 +293,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8042,
+      "views": 8043,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -445,7 +445,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 19998,
+      "views": 20001,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
