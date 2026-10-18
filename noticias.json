@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-10-18T22:15:20.993Z",
+  "atualizadoEm": "2026-10-18T22:45:41.903Z",
   "noticias": [
+    {
+      "t": "Call of Duty: MW 4, Final Fantasy Resonance e mais! Veja os lançamentos de games da semana",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/call-of-duty-mw-4-final-fantasy-resonance-e-mais-veja-os-lancamentos-de-games-da-semana/",
+      "fonte": "TecMundo",
+      "data": "2026-10-18T22:30:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.estadao.com.br/resizer/v2/BKE5BL675ZGFFORTSUPKGH3FZ4.jpg?quality=80&auth=4a3f44105dde67ef95bc08b78b045a3989a6cf626f34b008ebd1c8dc044d9344&width=710"
+    },
     {
       "t": "Bloodborne ganha port nativo para Android",
       "d": "Após God of War 3 Remastered, o Bloodborne também ganhou um port nativo para Android feito por fãs",
@@ -245,15 +254,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/DKZGALGPCJNGNA6H7VLDYFCTNY.jpg?quality=80&auth=c3193361f1e526d00f273d07a05b5e23ff40647304386b9cfe1d4e42db18e09c&width=710"
     },
     {
-      "t": "Deadlock, jogo secreto da Valve, bate recorde de jogadores antes de ser lançado oficialmente",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/deadlock-jogo-secreto-da-valve-bate-recorde-de-jogadores-antes-de-ser-lancado-oficialmente/",
-      "fonte": "TecMundo",
-      "data": "2026-10-16T20:15:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.estadao.com.br/resizer/v2/2X3WZFWDVJAIJMUGZ3LKFX6WME.png?quality=80&auth=73a4988be994a94c6dffd5bbdc508193f11ec1598343f4522324424e66f8d26d&width=710"
-    },
-    {
       "t": "PlayStation 5: loja de jogos piratas sai do ar",
       "d": "Loja que permitia o download de milhares de jogos piratas no PlayStation 5 saiu do ar. Entenda o que rolou!",
       "link": "https://flowgames.gg/playstation-5-loja-de-jogos-piratas-sai-do-ar/",
@@ -277,7 +277,7 @@
       "id": "fu7tRT_y3is",
       "t": "GOD OF WAR 3 REMASTERED - NATIVE PC PORT RTX 5070 | 1440P 60 FPS",
       "data": "2026-10-12T17:27:55Z",
-      "views": 1194,
+      "views": 1195,
       "img": "https://i.ytimg.com/vi/fu7tRT_y3is/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=fu7tRT_y3is"
     },
@@ -437,7 +437,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20003,
+      "views": 20004,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
