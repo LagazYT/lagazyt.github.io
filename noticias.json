@@ -1,23 +1,64 @@
 {
-  "atualizadoEm": "2026-10-19T17:13:33.739Z",
+  "atualizadoEm": "2026-10-19T17:43:44.544Z",
   "noticias": [
+    {
+      "t": "10 Great Horror Games You've Likely Never Played",
+      "d": "&nbsp;&nbsp; IMDb",
+      "link": "https://www.imdb.com/pt/news/ni66070091/?ref_",
+      "fonte": "IMDb",
+      "data": "2026-10-19T17:34:49.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43Mkt4UUhmUDh6QzdOQ3J5aHM5UUpqWVp5RVNReHc1RkdTUnpQZFZ6YVVqNzhZVkREWEE0eERWYXlNU1V3a2xaaVdJckNUMEllUVFjRk1VQXY2UWZkRlpCa3BSbTM4aTZEeVFR?oc=5"
+    },
+    {
+      "t": "Exclusivos de PlayStation e Nintendo Switch chegam ao PC em ports com auxílio de IA",
+      "d": "&nbsp;&nbsp; Estadão",
+      "link": "https://www.estadao.com.br/em-alta/tecmundo/voxel/exclusivos-de-playstation-e-nintendo-switch-chegam-ao-pc-em-ports-com-auxilio-de-ia/",
+      "fonte": "Estadão",
+      "data": "2026-10-19T17:31:01.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/534UMZV6OBG3DMDYZRD54LMXRA.jpg?quality=80&auth=94e85509b0600cfc4fefc1e921cd6ac4c28bc6aae78c4fc46e7672a7d24a8238&width=1200&height=630&smart=true",
+      "orig": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNTRmVjR1Rzc1NGtUeGF0THdabmk1Y2Q3cWppZUVCb2FiQkoyYVRHOWtJdHp5X3M5ZDB3OGh2aXhNbUlyMHp1WHp4RjZjOWhiY0ItVGNfdlJ4dDRpUkhodlFVbXZPb08wajFJWElKMHo0M0dOMjM0aUkxZnl3MTlyRkFaNndlMEN2RmFnVnNKTHVaRkRCX0JteFRDb3pEc2hSZ3hmZnhnOVNyMEp2WW45WjRxTXRQNXRKcmY2OWxRRXdORzFHbXJ1bnFkMHJ2dXM?oc=5"
+    },
+    {
+      "t": "'We Were Here Tomorrow', 'Switch Sports Resort' e 'One Piece': os lançamentos de games da semana",
+      "d": "&nbsp;&nbsp; Exame",
+      "link": "https://exame.com/pop/we-were-here-tomorrow-switch-sports-resort-e-one-piece-os-lancamentos-de-games-da-semana/",
+      "fonte": "Exame",
+      "data": "2026-10-19T17:26:20.000Z",
+      "c": "Consoles",
+      "img": "https://classic.exame.com/wp-content/uploads/2026/10/Nintendo-Switch-Sports-Resort.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0JkeHhLbi1uRldBYUN5NEs5NklmT3E0WUZlc19laWFzc252dWdGWmtFUmtRT1pQSmdRNW95M2NVWkZaLTRpbEdpdVdreDJWQmpPbWVyaWFjRkpITWlnbVZiWTNUVG5UTWpNbXpIMVJodVhVNzltQVd1VHNGc1dPQkRkSjhRNzQ5OUphbkFIZWcxSFNBSG85NXE5ZmFRb3FsYWppRlFoS1ZvMmtVQ1dfXw?oc=5"
+    },
+    {
+      "t": "Xbox Game Pass perderá mais 8 jogos no fim de outubro; confira a lista",
+      "d": "&nbsp;&nbsp; Portal do Nerd",
+      "link": "https://www.portaldonerd.com.br/xbox-game-pass-perdera-mais-8-jogos-no-fim-de-outubro-confira-a-lista/",
+      "fonte": "Portal do Nerd",
+      "data": "2026-10-19T17:24:19.000Z",
+      "c": "Consoles",
+      "img": "https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2026/10/765092-1-2.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmRSNkJfa1FBRXNBVUg1UTQ0OW9Od0d3dExOVmFBdDZNeFBvWmpmdHRrVFkzeS1pLXNwcy0wRzQ5VFh5ZEFwaGtHbVgwb2ZORVFuUGhDYTdtMTU2Wkxpa19SYnRSOUVRR3NBR3JpOFdWMEJIdGctbWlOTHBCTEJ0MDctdmFvcldOX2xPd3o0NEg3cXZjdlVMRWx1NkpsTVo5R09BQw?oc=5"
+    },
+    {
+      "t": "\"Ficamos muito empolgados com a ideia\": desenvolvedores de Ghost of Yotei detalham novidades do DLC Ecos de Sekigahara",
+      "d": "Mais histórias de Atsu e o retorno de Jin Sakai",
+      "link": "https://br.ign.com/ghost-of-yotei/156931/ficamos-muito-empolgados-com-a-ideia-desenvolvedores-de-ghost-of-yotei-detalham-novidades-do-dlc-eco",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-19T17:13:17.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/9efa89fc7c9374d280c483d7c3d07417dcb28647_h3qa.png"
+    },
     {
       "t": "Sil and the Fading World amplia demo para o Steam Next Fest",
       "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa18wMDRhWlFMNFBTY2EzdnBuR3JDNDNOTVBVTVE3WnpfbGN2OHAzSEw5MzR5dG9rTlZjQ1dTQndYQW0zY1psLVdKaU1MdE9pUlpZVDFLVFBOWXNUTU9CUGlXN0FpbXJPU2dhRVhUUUJtdFVVV2w1UlFtdGI4NlhLcGR6RXJkMVBoSzhEMWl2ZUl3anhiNkhZdnY2LWtOQQ?oc=5",
+      "link": "https://alternativanerd.com.br/games/sil-and-the-fading-world-amplia-demo-para-o-steam-next-fest/",
       "fonte": "Alternativa Nerd",
       "data": "2026-10-19T17:11:32.000Z",
       "c": "PC",
-      "img": ""
-    },
-    {
-      "t": "ROG Xbox Ally X20 vs Steam Deck: 2.599€ ou 549€?",
-      "d": "&nbsp;&nbsp; shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YYTFFOUtYRHM3Q29DVGhNZFlqMFdTUFdSZDNObWh2Zlh6dDNYQVVWVDNwWWhPOEtfNEx4LThaUEhzeEt5ckt1ajhHQURyU1JkUGZ4VXp3ZnQ4VHhnU0dfT1FtX1I3QVl6TndJVFhyYmpIVV9TX2Fn?oc=5",
-      "fonte": "shattered.io",
-      "data": "2026-10-19T17:07:49.000Z",
-      "c": "PC",
-      "img": ""
+      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/08/AN_SIL-and-the-Fading-World.webp",
+      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa18wMDRhWlFMNFBTY2EzdnBuR3JDNDNOTVBVTVE3WnpfbGN2OHAzSEw5MzR5dG9rTlZjQ1dTQndYQW0zY1psLVdKaU1MdE9pUlpZVDFLVFBOWXNUTU9CUGlXN0FpbXJPU2dhRVhUUUJtdFVVV2w1UlFtdGI4NlhLcGR6RXJkMVBoSzhEMWl2ZUl3anhiNkhZdnY2LWtOQQ?oc=5"
     },
     {
       "t": "28% OFF! Jogo Pokémon Pokopia registra queda no valor em oferta do Mercado Livre",
@@ -29,15 +70,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/pokemon-pokopia-169_3413.jpg"
     },
     {
-      "t": "Xbox Game Pass vai perder mais 8 jogos no final de outubro",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSG5lYVBOUkhwcV8waXJuYl9yX0g0RnVUOHI4cGxmaU9UZHVJQzEwOWk1dVpRVjMtclp1Q3lGRXZVT2NiLXRTREd0dnNQR0tNX2hRbUhmOHJ0a3c0ei1ZaHNyN0UtWEo1dFU2TU9VTnhVZEJWV2Z6RmM0dmJMZng4bkx4OURMaFVXaDg0?oc=5",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-10-19T16:38:17.000Z",
-      "c": "Consoles",
-      "img": ""
-    },
-    {
       "t": "Os lançamentos da Netflix desta semana (19 a 25/10)",
       "d": "Para esta semana, o destaque da Netflix fica com a chegada da quarta temporada de \"Lupin\". Confira os demais lançamentos!",
       "link": "https://flowgames.gg/os-lancamentos-da-netflix-desta-semana-19-a-25-10/",
@@ -45,24 +77,6 @@
       "data": "2026-10-19T16:34:40.000Z",
       "c": "Lançamentos",
       "img": "https://www.youtube.com/embed/FrnzTOCCKNA"
-    },
-    {
-      "t": "Damned 2 ganha atualização The Fallen com novo monstro",
-      "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMC1ZMUJFYzNPb2NpeEdvcTlDT18zVG5wdUZSTHgwTm5qcEJ6M1lPQ2RaZENGOWpyRzlQajRLOEFnb3BLN0hOWjJSTXk0VTd6SVBKZk1ZTFliUHZoaGEyVWx3OGY2VTB2SXVrNzBtZk1BRlVGdy1CT2ozOS1qZUxsUy1Yelp6bGJMZHF0cVBMbWhWMFNUZDA0?oc=5",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-10-19T16:21:38.000Z",
-      "c": "Geral",
-      "img": ""
-    },
-    {
-      "t": "Xbox Game Pass: 8 jogos saem em 31 de outubro; veja lista",
-      "d": "&nbsp;&nbsp; Game Overdrive",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aZnVZQ1MyUHpPaHFFRXQzNmg1ZzcxdGVBcUhJeTB1eE1XUmt6UXV3czZ1SURsU3dGdnFXYmFrUVdpVTFwUkFSa0dib2dnN1pPYTkwbkM3bW0tS3RlSWRfUlJZZFBvRkR4eXVSbkdHcFF6WnNlOGNydG82YmxfZw?oc=5",
-      "fonte": "Game Overdrive",
-      "data": "2026-10-19T16:18:27.000Z",
-      "c": "Consoles",
-      "img": ""
     },
     {
       "t": "Saiba qual é a agenda de podcasts do Flow Games nesta semana",
@@ -226,15 +240,6 @@
       "data": "2026-10-19T14:02:29.000Z",
       "c": "Consoles",
       "img": "https://flowgames.gg/wp-content/uploads/2024/10/pasqualino-capobianco-BhUjORnu8f8-unsplash-1-1044x697.jpg"
-    },
-    {
-      "t": "Grupo de K-Pop de League of Legends, K/DA ressurge com novo single e clipe musical feito pelo estúdio de Arcane após 6 anos de silêncio",
-      "d": "Novas artistas soltam o vozeirão nesse ciclo do grupo Após seis anos de silêncio, o grupo de K-pop de Legue of Legends , K/DA retornou com o single \"Firestarter\" junto ao clipe musical feito pelo...",
-      "link": "https://br.ign.com/league-of-legends/156912/grupo-de-k-pop-de-league-of-legends-kda-ressurge-com-novo-single-e-clipe-musical-feito-pelo-estudio",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-19T13:41:05.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/l/league-of-/league-of-legends-virtual-k-pop-group-kda-reemerge-after-6-y_zvs8.jpg"
     },
     {
       "t": "PlayStation 6: apenas RAM e SSD devem custar mais de US$ 680",
