@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-19T05:50:13.392Z",
+  "atualizadoEm": "2026-10-19T06:20:30.332Z",
   "noticias": [
     {
       "t": "Rockstar Games: dois grandes clássicos quase foram cancelados",
@@ -3271,16 +3271,6 @@
       "link": "https://www.igdb.com/games/kaiju-girls"
     },
     {
-      "t": "Gilded Destiny",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa16n.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/gilded-destiny"
-    },
-    {
       "t": "HexLands",
       "data": "2026-12-31",
       "plats": [
@@ -4736,6 +4726,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co958h.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/snake-in-the-dark"
+    },
+    {
+      "t": "Deprision",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95me.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/deprision"
     }
   ],
   "musicas": []
