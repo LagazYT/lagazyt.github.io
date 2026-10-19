@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-10-19T20:14:58.270Z",
+  "atualizadoEm": "2026-10-19T20:45:09.152Z",
   "noticias": [
+    {
+      "t": "Xbox abre vaga para gerir jogos físicos e reacende o debate sobre o futuro dos discos",
+      "d": "&nbsp;&nbsp; OtakuPT",
+      "link": "https://www.otakupt.com/jogos/xbox-jogos-fisicos-discos/",
+      "fonte": "OtakuPT",
+      "data": "2026-10-19T20:36:53.000Z",
+      "c": "Consoles",
+      "img": "https://www.otakupt.com/wp-content/uploads/2026/02/Dia-da-Internet-Segura-press-xbox-comando.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vOU5rcU9RQl8xTHRYTDhrSmdUQnRJdTZxbmo3b1RNMHhCTmxscFczM0pVbkw1YUdJX0xlV3VxbzdEcTlvaTVObE5rdm1vSk9TQi1JRmlZNDRSZ1ZiNGhRRE81QWVkaFk?oc=5"
+    },
+    {
+      "t": "Epic Games Store traz ofertas com até 80% de desconto durante a Promoção de Halloween",
+      "d": "&nbsp;&nbsp; GameBlast",
+      "link": "https://www.gameblast.com.br/2026/10/epic-games-store-traz-ofertas-ate-80-por-cento-desconto-durante-promocao-de-halloween.html",
+      "fonte": "GameBlast",
+      "data": "2026-10-19T20:31:29.000Z",
+      "c": "Ofertas",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJpnoyQYsNsfhwmkqDZ1IntMUm2UNq5ILOStCQb7HV83ycL9N9oEv6QyepsJAJZIaX9k0AbVlX836kJYJLkQNPmv9lxUO4p8Ojvwp4Za_qXY3nzDeKDmER-FMdAzUMk3KElAT3RyTc12vW894ISVpi7zinenIA7nvfllRj84C52xe4T_md1DtL7O3m92c/w1200-h630-p-k-no-nu/epic-games-store-traz-ofertas-ate-80-por-cento-desconto-durante-promocao-de-halloween.png",
+      "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYzRQOUtoY2ZoZ3QwUzlhb1FKS3A5UXVEZTg2a3c0dnVaM253M1JSWTFVWFU4Wk9WdjBEUFVFTHdXUzVGcWVVWHk4TGRONEd4SWZWREtHUU1vcjQ4dEt3VFBUUGNmYlY1R1pnMk51MVlzc2FwZ2hWVGx1aV9sbXJWUkZEQnNpRTZ3dzMxZWhFZzBZdllYbXF1YWlxR2NsM0cyaC0zUFpWaUR1Wm56OS02OWx1eWVVX3UwSDNPNE9FOG5udDFzS2c?oc=5"
+    },
     {
       "t": "Pai do PlayStation entende frustração do público com fim da mídia física",
       "d": "&nbsp;&nbsp; Adrenaline",
@@ -33,23 +53,12 @@
     },
     {
       "t": "Gears of War E-Day é inclusivo? Confira review de acessibilidade do game",
-      "d": "&nbsp;&nbsp; Estadão",
-      "link": "https://www.estadao.com.br/em-alta/tecmundo/voxel/gears-of-war-e-day-e-inclusivo-confira-review-de-acessibilidade-do-game-de-xbox/",
-      "fonte": "Estadão",
-      "data": "2026-10-19T19:40:10.000Z",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gears-of-war-e-day-e-inclusivo-confira-review-de-acessibilidade-do-game-de-xbox/",
+      "fonte": "TecMundo",
+      "data": "2026-10-19T19:30:00.000Z",
       "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/KSJSH2I4XRAAZDPFYIYGXFC6GA.png?quality=80&auth=32865be60e086ccf82cde85b1fb88c4e3471ae9045148f707b7a00877ae1fc15&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVU16RnU5by00dlVlX1RHbDMwbl9leDNSWmU0V3hfYk1SVGN3R2hUQS14a3ZRZElrWlg2RjVtdmFKeVJGelRMbzY5RkJBMHFwX0FyQ0J6TTdQNFhJWnVhaUhyTHdiUVpxYUgzQ0ptLWF2dE4xYU92YUFLbHAxNDBuUmZSVkQ5cEFIMmpWdDVEdWxCUFF3ZGtQMGRNZk1oRUpSb0tLTnZtT25YNi1tXzJpSHBUWklrcENMNW5PNGZSMEZ5TkFvMzVtR0tn?oc=5"
-    },
-    {
-      "t": "Além de K/DA: 5 melhores grupos e bandas dos games",
-      "d": "&nbsp;&nbsp; Recreio",
-      "link": "https://recreio.com.br/noticias/entretenimento/alem-de-k-da-5-melhores-grupos-e-bandas-dos-games.phtml",
-      "fonte": "Recreio",
-      "data": "2026-10-19T19:34:20.000Z",
-      "c": "Geral",
-      "img": "https://recreio.com.br/wp-content/uploads/2026/10/KDA.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb2dFLXpxdC1NZzNDb3ZsUHllc0ZGNmV3ZFVPNFFmcjkyZV9nSTR6Tkd3bkpsbzByTEdMcWJWMHNJRkZZMmltRnhpamRMYmJRbkxMNDBJQ2k1Z3NFMF9nYVdDM2VhLXNub0lWZUNxOUs1RHJsQWtGbkxwUkh6bFhsX1FDTGV1X2stelFaSFZLZ0ZGTHV6N00wdjJfYTRjSXdvMDZZbQ?oc=5"
+      "img": "https://www.estadao.com.br/resizer/v2/KSJSH2I4XRAAZDPFYIYGXFC6GA.png?quality=80&auth=32865be60e086ccf82cde85b1fb88c4e3471ae9045148f707b7a00877ae1fc15&width=710"
     },
     {
       "t": "Vampire The Masquerade Bloodlines vai ganhar remaster [rumor]",
@@ -267,15 +276,6 @@
       "data": "2026-10-19T14:17:40.000Z",
       "c": "Ofertas",
       "img": "https://flowgames.gg/wp-content/uploads/2026/04/Saros-um-dos-jogos-a-serem-lancados-nesta-semana.jpg"
-    },
-    {
-      "t": "Call of Duty: MW 4, Final Fantasy Resonance e mais! Veja os lançamentos de games da semana",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/call-of-duty-mw-4-final-fantasy-resonance-e-mais-veja-os-lancamentos-de-games-da-semana/",
-      "fonte": "TecMundo",
-      "data": "2026-10-18T22:30:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.estadao.com.br/resizer/v2/BKE5BL675ZGFFORTSUPKGH3FZ4.jpg?quality=80&auth=4a3f44105dde67ef95bc08b78b045a3989a6cf626f34b008ebd1c8dc044d9344&width=710"
     }
   ],
   "videos": [
@@ -291,7 +291,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8053,
+      "views": 8056,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -443,7 +443,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20026,
+      "views": 20029,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -483,7 +483,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3527,
+      "views": 3530,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
