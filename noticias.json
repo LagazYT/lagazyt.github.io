@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-19T01:17:24.543Z",
+  "atualizadoEm": "2026-10-19T01:47:47.027Z",
   "noticias": [
     {
       "t": "Call of Duty: MW 4, Final Fantasy Resonance e mais! Veja os lançamentos de games da semana",
@@ -317,7 +317,7 @@
       "id": "eC8zHzW_tcc",
       "t": "KANABO LENDÁRIO PILAR VENENOSO COM O DANO INSANO | ASSASSINS CREED SHADOWS",
       "data": "2025-06-18T14:01:06Z",
-      "views": 159,
+      "views": 161,
       "img": "https://i.ytimg.com/vi/eC8zHzW_tcc/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=eC8zHzW_tcc"
     },
@@ -421,7 +421,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6673,
+      "views": 6674,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -437,7 +437,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20004,
+      "views": 20010,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -2385,6 +2385,18 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaxx.jpg",
       "hype": 34,
       "link": "https://www.igdb.com/games/warhammer-40000-dawn-of-war-iv"
+    },
+    {
+      "t": "Freestyle Football 2",
+      "data": "2026-12-03",
+      "plats": [
+        "Xbox",
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab6k.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/freestyle-football-2"
     },
     {
       "t": "Dragon Quest Monsters: The Withered World",
@@ -4716,16 +4728,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co958h.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/snake-in-the-dark"
-    },
-    {
-      "t": "Deprision",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95me.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/deprision"
     }
   ],
   "musicas": []
