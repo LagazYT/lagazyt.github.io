@@ -1,23 +1,64 @@
 {
-  "atualizadoEm": "2026-10-19T18:44:24.359Z",
+  "atualizadoEm": "2026-10-19T19:14:38.460Z",
   "noticias": [
+    {
+      "t": "Vampire The Masquerade Bloodlines vai ganhar remaster [rumor]",
+      "d": "Segundo um insider, Vampire The Masquerade Bloodlines terá um remaster",
+      "link": "https://flowgames.gg/vampire-the-masquerade-bloodlines-tera-remaster-rumor/",
+      "fonte": "Flow Games",
+      "data": "2026-10-19T19:05:11.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2025/09/Bloodlines-2_Key-art_final-1456x908-1.jpg"
+    },
+    {
+      "t": "Maricá Games integra programação da FLIM 2026 com torneios, K-pop e cosplay",
+      "d": "&nbsp;&nbsp; Prefeitura de Maricá",
+      "link": "https://www.marica.rj.gov.br/noticia/marica-games-integra-programacao-da-flim-2026-com-torneios-k-pop-e-cosplay/",
+      "fonte": "Prefeitura de Maricá",
+      "data": "2026-10-19T19:02:26.000Z",
+      "c": "Geral",
+      "img": "https://www.marica.rj.gov.br/wp-content/uploads/2026/10/IMG_0547-545-scaled.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdDVCeVRqLWxDVlBrSEhrdklLb1B0RnZ5NlZzb3V0QTBHUUZDVjI1dE82NGwxM1pmVjFnVHRVbVVYUTk1UXhybmdtMG9KSVNKRG52OGlJMVlBZTNPSWhFa0NySHNHUWpzYWFUZUZQLVo3djkyX1JCQkQxdkVzNno4T1RRMXJ4ZGU4RFF5UXI3eDRzN2J6SE9uSnZzUnRCb1V4NF9mNmhYSG94SzJzRnlNOEVR?oc=5"
+    },
+    {
+      "t": "Antimatéria analisa remake de \"The Legend of Zelda: Ocarina of Time\" nesta segunda-feira (19)",
+      "d": "&nbsp;&nbsp; TV Cultura",
+      "link": "https://cultura.uol.com.br/entretenimento/noticias/2026/10/19/15785_antimateria-analisa-remake-de-the-legend-of-zelda-ocarina-of-time-nesta-segunda-feira-19.html",
+      "fonte": "TV Cultura",
+      "data": "2026-10-19T19:01:00.000Z",
+      "c": "Geral",
+      "img": "https://cultura.uol.com.br/upload/tvcultura/entretenimento/happens_big/20261015163459_20250917180519-antimat-ria-1-.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS2lLZm1XX0p5dmJxTS1hZ2xINVBkd0l0RmIwYUU5cGVNVklxYnZwTHVQVmJmQjRPa2YtZXdRdEdLMG8zTmVjQkpZZUpibzN6VzBOZmQ3ZEhmT0VzWjliN1BiV0p5VjRyYWJ6a3ZRUVNCN1ZJaFM4Y3JjWnlYRHJUTzdaVjAxMkIxRmRubkd0eDdpbExkWFRZaGVpc0FxUHRPbjlsdGI1QnZfcEVpSElWbTZtQnR0OEoxSHE1R3F6dTkwdkxqUWFEa1JuWDFYNERfb3RMOUFkUTdjcUxsTXFVZVM5UXNxNkNtb0JsTHUzU0xDRDQ?oc=5"
+    },
+    {
+      "t": "Nintendo admite que subestimou procura por Switch 2 de Zelda e promete reposição",
+      "d": "&nbsp;&nbsp; Olhar Digital",
+      "link": "https://olhardigital.com.br/2026/10/19/games-e-consoles/nintendo-switch-2-de-zelda-esgota-no-brasil-e-tera-reposicao-diz-nintendo/",
+      "fonte": "Olhar Digital",
+      "data": "2026-10-19T18:45:00.000Z",
+      "c": "Consoles",
+      "img": "https://olhardigital.com.br/wp-content/uploads/2026/10/Nintendo-Switch-2-Zelda-Amazon-1.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1A2aFJFaGg4UmVjbWFVc0ZUU3RlUEZ6b1pQMmJCNXdHNk92bklMVExiNW1FbVRzZ1RWcnJRem80eGpweDhoTzNxZGd1T29jNExBY3FEaThybE1od1JDand6eE9HYzMwclF4WWRSZVhaREZvYkJYR1JGcFp3dkNESnFwUEtZT0tWR1dleWF6SDg1OFczVFNXcmZBRmNvYXdkQVRweW9WamJ5UjJMdW1OSUlRU21DUksyMGZueVJsY1IyVGVDZFR3Tll3?oc=5"
+    },
+    {
+      "t": "7 jogos de terror no PS5 para deixar seu Halloween mais assustador",
+      "d": "&nbsp;&nbsp; Fast Company Brasil",
+      "link": "https://fastcompanybrasil.com/games/7-jogos-terror-ps5-deixar-halloween-assustador/",
+      "fonte": "Fast Company Brasil",
+      "data": "2026-10-19T18:43:32.000Z",
+      "c": "Consoles",
+      "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/jogos-terror.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNckhlemxJckg0dGZIU0JUMjJ6VW9naDNmQUloZ2c3Zm9IVnZyZVZudFB3a1VmUkFIUHFLSG1Yamh5R1hTTXB2S08xLTdOaDVnN0dydUVYMjIwQ29Dd0d5TWNJRjc2UmVLc3dqWDA5QmVldXFiT296cEZseFJwd0Z6QVZNOVpabHJGSU00?oc=5"
+    },
     {
       "t": "Xbox admite uso de IA e funcionário afirma que toda a indústria utiliza a tecnologia",
       "d": "&nbsp;&nbsp; Combo Infinito",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0dQR0E4allHaHp1Z1JuV1R5T2xoQkZKQndQZVM2M2ZFMzJRZ2JGc0htdVZWZ0Y5MmQ0YUVSX2FXbHZQUlF3Z3VrSzNGdm5ONjdCT2xHb3pZanExN0p2aGtyTGNYd1UweXRwSXRUWXRaOHNEYVVobkp6ZmpIbGh1SWQtSHVqNTd5OGgyQ0s4UG1BSHpPNmtXUVRaMExra3dKNUE1RDEtcw?oc=5",
+      "link": "https://www.comboinfinito.com.br/principal/xbox-inteligencia-artificial-industria-games-brandon-stirrup/",
       "fonte": "Combo Infinito",
       "data": "2026-10-19T18:37:18.000Z",
       "c": "Consoles",
-      "img": ""
-    },
-    {
-      "t": "PlayStation 6: preço de componentes pode encarecer novo console da Sony",
-      "d": "&nbsp;&nbsp; Agora Litoral",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFhkMVI5VVh5Y0taYW8tLW9VLUU1MzlkM2Y2N0JrVVR0MEw4MDliY1gxb0V3VEs5TnBYY2NrYUNOb3VlbnF0N01kaFIwR2J6RHRhTzhIRzdqMUhiRjc5MG5LRXZfTlZTd1hzY0pHNk12ajU1SV9reDVqUXUzYVBQNUh6cjhFbFBNUEt5RFRBb0V0WTViQWZ5LWtxWkJSb2c5QUEwUnNnaTQ5S3JXdThR?oc=5",
-      "fonte": "Agora Litoral",
-      "data": "2026-10-19T18:32:02.000Z",
-      "c": "Consoles",
-      "img": ""
+      "img": "https://www.comboinfinito.com.br/principal/wp-content/uploads/2026/04/xbox-3-1200x628.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0dQR0E4allHaHp1Z1JuV1R5T2xoQkZKQndQZVM2M2ZFMzJRZ2JGc0htdVZWZ0Y5MmQ0YUVSX2FXbHZQUlF3Z3VrSzNGdm5ONjdCT2xHb3pZanExN0p2aGtyTGNYd1UweXRwSXRUWXRaOHNEYVVobkp6ZmpIbGh1SWQtSHVqNTd5OGgyQ0s4UG1BSHpPNmtXUVRaMExra3dKNUE1RDEtcw?oc=5"
     },
     {
       "t": "Compositores de Rayman Legends Retold enfrentaram desafios divertidos ao \"Raymanizar\" músicas e na construção de uma trilha sonora inédita",
@@ -38,15 +79,6 @@
       "img": "https://sm.ign.com/ign_br/news/w/with-gta-6/with-gta-6s-dating-system-incoming-a-surprising-percentage-o_tdb8.jpg"
     },
     {
-      "t": "REVIEW | Castlevania: Belmont's Curse é um excelente retorno para a franquia",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcUxhXzNhOUhfbXhvV1JRb1lrcUMtYVNOYUp3ZDRaaDJZRFJHcE5KXzNpTDl2ZkV3M0xBdUR2NkFmdTdTZVNVTUJYQ1laSmRhck9tS3AxeWhfcDA4NnRsR1JRd2Y1Q1NnRThpTzhDYXY5a09HUTN4UHdVcjdVdEpJUUJYMzE?oc=5",
-      "fonte": "Adrenaline",
-      "data": "2026-10-19T18:23:00.000Z",
-      "c": "Geral",
-      "img": ""
-    },
-    {
       "t": "Saldão da Amazon tem headsets gamer com preços mais baixos do ano",
       "d": "Modelos da JBL, Havit e Redragon estão no Saldão da Amazon com grandes descontos!",
       "link": "https://br.ign.com/descontos/156932/saldao-da-amazon-tem-headsets-gamer-com-precos-mais-baixos-do-ano",
@@ -56,22 +88,13 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_2hhj.jpg"
     },
     {
-      "t": "Promoção de Halloween Epic Games Store 2026: Descontos de 80%",
-      "d": "&nbsp;&nbsp; Última Ficha",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzlUb0VNUkJIOHpDRlpiUlZsdDgzaWVfVEpNUUd1V3B2LVJqaGZYeFB1WFZHTGJwUExWWTN6clkzVWkzdVpQb2ZrdHhMMm9zVmx5Q21Ea0RrLTkwUVkwT0cyVGt6c3daWGota2ZBTUZFWWRQbkYtcUUzUXRtcV9kdEM3bXZUdw?oc=5",
-      "fonte": "Última Ficha",
-      "data": "2026-10-19T18:05:09.000Z",
-      "c": "Ofertas",
-      "img": ""
-    },
-    {
-      "t": "Orsse apresenta 'Games in Concert' no Teatro Tobias Barreto",
-      "d": "&nbsp;&nbsp; A8SE",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPczh2WTlTMGh2UFNnOS10Vy12ZmJxOUI1WXhtMV8tMXJUaGp5d2w0WmxZeHlnTlRSTXdydEhPTlpVZ2NoNmhrb3dIcVI5S0VCVUZ5WVVzNWVpTjFJNm52dk8xRklKaGlucmxMXzZUaVZDY0hqRnhvTGtCTTlLVEtUSlR4cWVCWHRKdUtDOGZVRTNYS3BMS3J5UGk3OXpQSHJtYThwMU1KZjRaZFNWYlRMN2VoZnFJQS04OXFhSDgzaDY?oc=5",
-      "fonte": "A8SE",
-      "data": "2026-10-19T18:05:00.000Z",
+      "t": "Crise! Liquid Swords, estúdio de Samson, vai à falência",
+      "d": "Estúdio declarou falência após meses de salários atrasados",
+      "link": "https://flowgames.gg/crise-liquid-swords-estudio-de-samson-vai-a-falencia/",
+      "fonte": "Flow Games",
+      "data": "2026-10-19T17:47:51.000Z",
       "c": "Geral",
-      "img": ""
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/ba0d1c66203d9bd4a2b3337024b2c3d14afcec24cf7b7d7c.jpg"
     },
     {
       "t": "Carga de GPUs RTX 5090 avaliada em R$ 2,5 milhões desaparece no Aeroporto de Guarulhos",
@@ -108,6 +131,42 @@
       "data": "2026-10-19T16:51:52.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/pokemon-pokopia-169_3413.jpg"
+    },
+    {
+      "t": "Os lançamentos da Netflix desta semana (19 a 25/10)",
+      "d": "Para esta semana, o destaque da Netflix fica com a chegada da quarta temporada de \"Lupin\". Confira os demais lançamentos!",
+      "link": "https://flowgames.gg/os-lancamentos-da-netflix-desta-semana-19-a-25-10/",
+      "fonte": "Flow Games",
+      "data": "2026-10-19T16:34:40.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.youtube.com/embed/FrnzTOCCKNA"
+    },
+    {
+      "t": "Saiba qual é a agenda de podcasts do Flow Games nesta semana",
+      "d": "A gente conta para você quais são os programas, temas e convidados dos próximos podcasts do Flow Games – incluindo sua data e horário",
+      "link": "https://flowgames.gg/confira-agenda-podcasts-flow-games-nesta-semana/",
+      "fonte": "Flow Games",
+      "data": "2026-10-19T16:14:54.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2023/11/image-2023-11-06T132528.896.jpg"
+    },
+    {
+      "t": "Red Dead Redemption e Bully quase não existiram, diz Dan Houser",
+      "d": "De acordo Dan Houser, co-fundador da Rockstar, Red Dead Redemption e Bully quase não foram feitos",
+      "link": "https://flowgames.gg/red-dead-redemption-bully-quase-nao-existiram/",
+      "fonte": "Flow Games",
+      "data": "2026-10-19T16:05:26.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/HfskoxOZBwU"
+    },
+    {
+      "t": "Os filmes mais pirateados da semana via torrent (12 a 18/10)",
+      "d": "Veja quais são os 10 filmes que mais foram pirateados durante a última semana via torrent",
+      "link": "https://flowgames.gg/filmes-mais-pirateados-semana-via-torrent-12-a-18-10/",
+      "fonte": "Flow Games",
+      "data": "2026-10-19T16:03:32.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/bwt2-nyEP0A"
     },
     {
       "t": "Quatro agentes de IA do Google levaram mais de 27 horas para derrotar o Ender Dragon no Minecraft sem a ajuda de humanos",
@@ -155,6 +214,15 @@
       "img": "https://sm.ign.com/ign_br/gallery/s/street-fig/street-fighter-images_y2hz.jpg"
     },
     {
+      "t": "Game Pass se despede de mais 8 jogos no fim de outubro",
+      "d": "LEGO Star War Skywalker Saga e mais 7 jogos deixam o serviço no fim do mês",
+      "link": "https://flowgames.gg/game-pass-se-despede-de-mais-8-jogos-no-fim-outubro/",
+      "fonte": "Flow Games",
+      "data": "2026-10-19T15:23:16.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2025/04/TGA-2023-Xbox-Game-Pass-1.jpg"
+    },
+    {
       "t": "Desbloquear o PS5 dá banimento na conta PlayStation? Entenda o que é Relapse e a relação com GTA 6",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/desbloquear-o-ps5-da-banimento-na-conta-playstation-entenda-o-que-e-relapse-e-a-relacao-com-gta-6/",
@@ -162,6 +230,15 @@
       "data": "2026-10-19T15:15:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/LIFXAVGZKFNWJFPSJQGUPBXYQI.jpg?quality=80&auth=b2ff19ef25cf69025b7472893ae04752b7a58792a7e31b79610a0dae1573b163&width=710"
+    },
+    {
+      "t": "Phantom Blade Zero ocupará um espação no seu SSD",
+      "d": "Veja quanto espaço em disco você precisará para jogar Phantom Blade Zero",
+      "link": "https://flowgames.gg/phantom-blade-zero-exige-mais-de-130-gb-ssd/",
+      "fonte": "Flow Games",
+      "data": "2026-10-19T14:58:58.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/9Ad58UTaIy0"
     },
     {
       "t": "Xbox Series, PS5, Switch e PC: lançamentos de jogos nesta semana 19 a 23/10",
@@ -174,6 +251,24 @@
       "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFlyQ3pZX1BfODd2Vk1JelE5Q1hDd0xseGNhRXFyU2JxTkl0aXNlREowVnEtOHA0TzRsckVmMHRtRWxOZ2ZxZWYxT0RXc29SVHd1bXFmaUZienNJTHphWjVYenBZd05RWmV3WGsxVURKYXk4elZVUGZSTGdwaFFUWjlrNUVWNldDQ0pJWXBPRjQxWkk?oc=5"
     },
     {
+      "t": "Os lançamentos de jogos desta semana (19 a 25/10)",
+      "d": "Em uma semana bem movimentada, o destaque fica com o lançamento do jogo Final Fantasy Resonance",
+      "link": "https://flowgames.gg/os-lancamentos-de-jogos-desta-semana-19-a-25-10/",
+      "fonte": "Flow Games",
+      "data": "2026-10-19T14:31:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.youtube.com/embed/BJl6QvjFpsA"
+    },
+    {
+      "t": "Saros ganhou uma baita atualização gratuita!",
+      "d": "Você já pode baixar o novo update grátis do Saros no PS5 agora mesmo",
+      "link": "https://flowgames.gg/saros-ganhou-uma-baita-atualizacao-gratuita-zenith/",
+      "fonte": "Flow Games",
+      "data": "2026-10-19T14:17:40.000Z",
+      "c": "Ofertas",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/04/Saros-um-dos-jogos-a-serem-lancados-nesta-semana.jpg"
+    },
+    {
       "t": "Call of Duty: MW 4, Final Fantasy Resonance e mais! Veja os lançamentos de games da semana",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/call-of-duty-mw-4-final-fantasy-resonance-e-mais-veja-os-lancamentos-de-games-da-semana/",
@@ -181,96 +276,6 @@
       "data": "2026-10-18T22:30:00.000Z",
       "c": "Lançamentos",
       "img": "https://www.estadao.com.br/resizer/v2/BKE5BL675ZGFFORTSUPKGH3FZ4.jpg?quality=80&auth=4a3f44105dde67ef95bc08b78b045a3989a6cf626f34b008ebd1c8dc044d9344&width=710"
-    },
-    {
-      "t": "8 melhores jogos de Star Wars que deixam você ser um Jedi",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/8-melhores-jogos-de-star-wars-com-jedi-e-sabres-de-luz/",
-      "fonte": "TecMundo",
-      "data": "2026-10-18T17:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/5BNCDLGOPJKAXLBT5U3E2SJDNQ.jpg?quality=80&auth=36ca761890867731e00f5cb8f85622ffdf671090a52aef88eb8eb5f7ffbf3345&width=710"
-    },
-    {
-      "t": "Mafia: The Old Country na PS Plus, GTA V em promoção e mais! Veja as indicações de games",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/mafia-the-old-country-na-ps-plus-gta-v-em-promocao-e-mais-veja-as-indicacoes-de-games/",
-      "fonte": "TecMundo",
-      "data": "2026-10-18T14:00:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/7DHGSTXFEFJJLNMOHE2S4EEIFE.jpg?quality=80&auth=3e28993563d2c65203dee3ce738537b01f0f1166aef50ae2c6d0071c179d8c58&width=710"
-    },
-    {
-      "t": "Jogos da Warner Bros. em oferta na Steam com até 95% de desconto",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlVVcFNIUWx1NTFGcHVfSGJncExPcU5vR0ZlQm1xVjRJbFo4MWh3VUk2c28wWEdzTHR4TkZ4S1JjX1A1R043ZTZvUXZxY09NTWlfclgzVWpWYjcyOFk0MC03cGZRNlRWVW5OM25qeTlZcnVFV1dWcUZ5QmJ2eFNEUW1faGJWVGg5V2ZyMnRHNDRtdzhQNVAxeXdCSnlVNHhZbFNCMGlsVFladVlkb2Zv?oc=5",
-      "fonte": "Adrenaline",
-      "data": "2026-10-18T13:15:00.000Z",
-      "c": "Ofertas",
-      "img": ""
-    },
-    {
-      "t": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (18)",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-novo-jogo-gratis-no-celular-resgate-agora-no-android-18/",
-      "fonte": "TecMundo",
-      "data": "2026-10-18T11:15:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/IKCAAVVMRZLJ7CZLMBD254M42Y.jpg?quality=80&auth=04d3affc0a45a22d171650f8afc011b1baac98a104cf2476b8921902b7db41f0&width=710"
-    },
-    {
-      "t": "O que é TCG? Conheça 7 jogos de cartas colecionáveis",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/tcg-o-que-e-e-7-melhores-jogos-de-cartas-para-pc-e-console/",
-      "fonte": "TecMundo",
-      "data": "2026-10-17T22:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/2TIXFQIXHRNGRDZ53PW2DZIGDI.jpg?quality=80&auth=d5976a5586210153c146be46cd33957023198f65655b21180497e0d0a7ee8bdc&width=710"
-    },
-    {
-      "t": "Xbox Game Pass recebe Battlefield 6 e mais jogos esta semana! Veja os lançamentos (17)",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-battlefield-6-e-mais-jogos-esta-semana-veja-os-lancamentos-17/",
-      "fonte": "TecMundo",
-      "data": "2026-10-17T16:15:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/WDBWBLMLL5HQHBW5TIOBUZPCHI.jpg?quality=80&auth=bcc38582a08debeeb953349395d09786dde0f4aeac743edfaeb879f5318448b5&width=710"
-    },
-    {
-      "t": "007 First Light e mais jogos para PC com até 90% OFF na Steam",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/007-first-light-e-mais-jogos-para-pc-com-ate-90-off-na-steam/",
-      "fonte": "TecMundo",
-      "data": "2026-10-17T14:00:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/ID4CNUIEQRNAXDA76BH4F2PJ2Y.jpg?quality=80&auth=9a82e3b2494e0947f55a8c0b820ad6ce5a2cc2256814bfeea3daf4c297ef0ba2&width=710"
-    },
-    {
-      "t": "Steam muda sistema de conquistas e protege o seu 100% contra DLCs",
-      "d": "&nbsp;&nbsp; TudoCelular.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZERucnRmdUJSZ1RpcnhqUDFOZF9XaE9mUzZLa0JhdHNDWHVHNDZwbE9yNEVoN053ZUxuUkgxSWR6ZW1FU2xPMkV3cDN6LWItbUo4VkV5WmN3bG9nSXNhTDZTa21vdjBnekExcTdIbjFFOENVbDdKYUR4SnRNV0UzM2RIeWV4Mm9uUGhQVGpFalNRam1zYk43S0VfdTZUaFF6MmpQaEJ2eWQ?oc=5",
-      "fonte": "TudoCelular.com",
-      "data": "2026-10-17T12:01:24.000Z",
-      "c": "PC",
-      "img": ""
-    },
-    {
-      "t": "Jogos de PC em oferta especial com até 95% de desconto nesta semana",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQlQwOWJGNGo1U0ozUU5BbUNRcXlEMUtJWUxiR2R1NWpkZFZpSXBZZlV6V1JyaThNRjNtZW8xRFp0VEZrVDNJNkNaQTVqbzU1T2tUSVg5NXZ6NjBHN3MyckFZb2tlbVp3QlN5YlZvc2pTcWVQQzhSM3MtTXo4Rk8zUWo2MkUwZnJBcmNJT0lBbGRueXFVSTVwV3MyTDFWTlI3QkRUZlN1NWF4ZFNPNE9NXzhn?oc=5",
-      "fonte": "Adrenaline",
-      "data": "2026-10-16T23:00:00.000Z",
-      "c": "Ofertas",
-      "img": ""
-    },
-    {
-      "t": "Jogos em oferta na Steam por menos de R$ 20; até 95% de desconto",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHJfd2tBMEF5WU9ZWllhODJNYU5YWTQ3ZGNQY29pdWhPcXcwZ00wcWJVczlyc1FXQVd3TmpNMGNEVmx3eEpETzRrZ2UwMTZNS1V6Q2p1THo3ZjR2ZmpCT3dkZWJxX3ZwS0tsTnhleDlCMWpjbmVJRkZSNGNldjkwSzRRRmxzQmpKc0w2dVB3NGZxNDdpMklnUnU0M2VNbzJaUGllbGgwdmJEMGs?oc=5",
-      "fonte": "Adrenaline",
-      "data": "2026-10-16T19:00:00.000Z",
-      "c": "Ofertas",
-      "img": ""
     }
   ],
   "videos": [
@@ -2486,6 +2491,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6oq.jpg",
       "hype": 58,
       "link": "https://www.igdb.com/games/acts-of-blood"
+    },
+    {
+      "t": "King's Haven",
+      "data": "2026-12-04",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocwb3.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/kings-haven"
     },
     {
       "t": "Muri: Wildwoods",
@@ -4722,16 +4737,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co954f.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/feltopia"
-    },
-    {
-      "t": "Snake in the Dark",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co958h.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/snake-in-the-dark"
     }
   ],
   "musicas": []
