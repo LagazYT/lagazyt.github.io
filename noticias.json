@@ -1,64 +1,86 @@
 {
-  "atualizadoEm": "2026-10-19T17:43:44.544Z",
+  "atualizadoEm": "2026-10-19T18:13:54.525Z",
   "noticias": [
     {
-      "t": "10 Great Horror Games You've Likely Never Played",
-      "d": "&nbsp;&nbsp; IMDb",
-      "link": "https://www.imdb.com/pt/news/ni66070091/?ref_",
-      "fonte": "IMDb",
-      "data": "2026-10-19T17:34:49.000Z",
+      "t": "Promoção de Halloween Epic Games Store 2026: Descontos de 80%",
+      "d": "&nbsp;&nbsp; Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzlUb0VNUkJIOHpDRlpiUlZsdDgzaWVfVEpNUUd1V3B2LVJqaGZYeFB1WFZHTGJwUExWWTN6clkzVWkzdVpQb2ZrdHhMMm9zVmx5Q21Ea0RrLTkwUVkwT0cyVGt6c3daWGota2ZBTUZFWWRQbkYtcUUzUXRtcV9kdEM3bXZUdw?oc=5",
+      "fonte": "Última Ficha",
+      "data": "2026-10-19T18:05:09.000Z",
+      "c": "Ofertas",
+      "img": ""
+    },
+    {
+      "t": "Orsse apresenta 'Games in Concert' no Teatro Tobias Barreto",
+      "d": "&nbsp;&nbsp; A8SE",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPczh2WTlTMGh2UFNnOS10Vy12ZmJxOUI1WXhtMV8tMXJUaGp5d2w0WmxZeHlnTlRSTXdydEhPTlpVZ2NoNmhrb3dIcVI5S0VCVUZ5WVVzNWVpTjFJNm52dk8xRklKaGlucmxMXzZUaVZDY0hqRnhvTGtCTTlLVEtUSlR4cWVCWHRKdUtDOGZVRTNYS3BMS3J5UGk3OXpQSHJtYThwMU1KZjRaZFNWYlRMN2VoZnFJQS04OXFhSDgzaDY?oc=5",
+      "fonte": "A8SE",
+      "data": "2026-10-19T18:05:00.000Z",
       "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43Mkt4UUhmUDh6QzdOQ3J5aHM5UUpqWVp5RVNReHc1RkdTUnpQZFZ6YVVqNzhZVkREWEE0eERWYXlNU1V3a2xaaVdJckNUMEllUVFjRk1VQXY2UWZkRlpCa3BSbTM4aTZEeVFR?oc=5"
+      "img": ""
     },
     {
-      "t": "Exclusivos de PlayStation e Nintendo Switch chegam ao PC em ports com auxílio de IA",
-      "d": "&nbsp;&nbsp; Estadão",
-      "link": "https://www.estadao.com.br/em-alta/tecmundo/voxel/exclusivos-de-playstation-e-nintendo-switch-chegam-ao-pc-em-ports-com-auxilio-de-ia/",
-      "fonte": "Estadão",
-      "data": "2026-10-19T17:31:01.000Z",
+      "t": "Sony registra patente de tecnologia de quadros para o PlayStation 6",
+      "d": "&nbsp;&nbsp; Última Ficha",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWm1pc3c3Zi1IdjVpZ21jeEdDUk50eWY0aUJGMTJtV3VqYzBJWTBRVGloNEFJUkR1WHI2dW5MRkNpaUxHbTFUVTIxODRQbU0yMDJ6Q3U3R25DTXpBRk5GOHlrQkl5alJrMWxJUjRhU3p1MWRBTU16b2l2cHYwY0Frb0tSbUZFLU1keWNnWjdYY0Z1dFdvQ2c?oc=5",
+      "fonte": "Última Ficha",
+      "data": "2026-10-19T18:01:59.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "COD VOLTOU COM TUDO! MODERN WARFARE 4 NO XBOX SERIES S!",
+      "d": "&nbsp;&nbsp; Xboxers",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbl83UUVzbEZqcTZZdFl6NU5lQ3NLWDZzTHVDZEJGN0dtWWxuU3BvRHlRYWlBb0I2SnBMQVN1VzVoR0lHVks5VkZRWHdWSExwenFSb25XWDFBa1FTOW1VQ0pGQ21MWlZwNFFEeW5nS25VQ2puSjV0VFpRRzNEd002RDk4MA?oc=5",
+      "fonte": "Xboxers",
+      "data": "2026-10-19T17:59:04.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "Jogadores de PS5 e PS4 têm 24 horas para não perder oito jogos que estão saindo do PlayStation Plus",
+      "d": "&nbsp;&nbsp; NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWjhtNTJUb3N2Wlk2MjR4SDEwYnVCNlRMd2tiNEFLT05LOUd1TzhOVkpLT0pESEtIN1pxWW9qS004VGJ6c3hQdVgxV1ZiN1ZQWHdNQ085TGJObUcyMGliT3J1TUNtZzg3cFFsMThsZUZyNVFxQUY4UXQyUGs3N0o2MjNFT1V4YWphV3g3UnYxOEVnRE82OEVCN1FZU2FqSkpkdzJDNk1lX3hRUm42UGVEaU12LVgwVmdkNDBKdGJlQ2NDckFYWkU5bmdtTjZHMEtHaGc?oc=5",
+      "fonte": "NSC Total",
+      "data": "2026-10-19T17:49:03.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "Crise! Liquid Swords, estúdio de Samson, vai à falência",
+      "d": "Estúdio declarou falência após meses de salários atrasados",
+      "link": "https://flowgames.gg/crise-liquid-swords-estudio-de-samson-vai-a-falencia/",
+      "fonte": "Flow Games",
+      "data": "2026-10-19T17:47:51.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/ba0d1c66203d9bd4a2b3337024b2c3d14afcec24cf7b7d7c.jpg"
+    },
+    {
+      "t": "Carga de GPUs RTX 5090 avaliada em R$ 2,5 milhões desaparece no Aeroporto de Guarulhos",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/carga-de-gpus-rtx-5090-avaliada-em-r-25-milhoes-desaparece-no-aeroporto-de-guarulhos/",
+      "fonte": "TecMundo",
+      "data": "2026-10-19T17:45:00.000Z",
       "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/534UMZV6OBG3DMDYZRD54LMXRA.jpg?quality=80&auth=94e85509b0600cfc4fefc1e921cd6ac4c28bc6aae78c4fc46e7672a7d24a8238&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNTRmVjR1Rzc1NGtUeGF0THdabmk1Y2Q3cWppZUVCb2FiQkoyYVRHOWtJdHp5X3M5ZDB3OGh2aXhNbUlyMHp1WHp4RjZjOWhiY0ItVGNfdlJ4dDRpUkhodlFVbXZPb08wajFJWElKMHo0M0dOMjM0aUkxZnl3MTlyRkFaNndlMEN2RmFnVnNKTHVaRkRCX0JteFRDb3pEc2hSZ3hmZnhnOVNyMEp2WW45WjRxTXRQNXRKcmY2OWxRRXdORzFHbXJ1bnFkMHJ2dXM?oc=5"
-    },
-    {
-      "t": "'We Were Here Tomorrow', 'Switch Sports Resort' e 'One Piece': os lançamentos de games da semana",
-      "d": "&nbsp;&nbsp; Exame",
-      "link": "https://exame.com/pop/we-were-here-tomorrow-switch-sports-resort-e-one-piece-os-lancamentos-de-games-da-semana/",
-      "fonte": "Exame",
-      "data": "2026-10-19T17:26:20.000Z",
-      "c": "Consoles",
-      "img": "https://classic.exame.com/wp-content/uploads/2026/10/Nintendo-Switch-Sports-Resort.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ0JkeHhLbi1uRldBYUN5NEs5NklmT3E0WUZlc19laWFzc252dWdGWmtFUmtRT1pQSmdRNW95M2NVWkZaLTRpbEdpdVdreDJWQmpPbWVyaWFjRkpITWlnbVZiWTNUVG5UTWpNbXpIMVJodVhVNzltQVd1VHNGc1dPQkRkSjhRNzQ5OUphbkFIZWcxSFNBSG85NXE5ZmFRb3FsYWppRlFoS1ZvMmtVQ1dfXw?oc=5"
-    },
-    {
-      "t": "Xbox Game Pass perderá mais 8 jogos no fim de outubro; confira a lista",
-      "d": "&nbsp;&nbsp; Portal do Nerd",
-      "link": "https://www.portaldonerd.com.br/xbox-game-pass-perdera-mais-8-jogos-no-fim-de-outubro-confira-a-lista/",
-      "fonte": "Portal do Nerd",
-      "data": "2026-10-19T17:24:19.000Z",
-      "c": "Consoles",
-      "img": "https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2026/10/765092-1-2.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmRSNkJfa1FBRXNBVUg1UTQ0OW9Od0d3dExOVmFBdDZNeFBvWmpmdHRrVFkzeS1pLXNwcy0wRzQ5VFh5ZEFwaGtHbVgwb2ZORVFuUGhDYTdtMTU2Wkxpa19SYnRSOUVRR3NBR3JpOFdWMEJIdGctbWlOTHBCTEJ0MDctdmFvcldOX2xPd3o0NEg3cXZjdlVMRWx1NkpsTVo5R09BQw?oc=5"
+      "img": "https://www.estadao.com.br/resizer/v2/HYT5YG34RBMV5HA646EPBKWARE.jpg?quality=80&auth=8dc0a75848b34b0e58737efbfff2d39e8f1db00fe94bdd818281e9b0d3b86d76&width=1150"
     },
     {
       "t": "\"Ficamos muito empolgados com a ideia\": desenvolvedores de Ghost of Yotei detalham novidades do DLC Ecos de Sekigahara",
-      "d": "Mais histórias de Atsu e o retorno de Jin Sakai",
+      "d": "Em entrevista exclusiva ao IGN Brasil, conhecemos mais sobre as novas histórias de Atsu e o retorno de Jin Sakai",
       "link": "https://br.ign.com/ghost-of-yotei/156931/ficamos-muito-empolgados-com-a-ideia-desenvolvedores-de-ghost-of-yotei-detalham-novidades-do-dlc-eco",
       "fonte": "IGN Brasil",
-      "data": "2026-10-19T17:13:17.000Z",
+      "data": "2026-10-19T17:30:20.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/9efa89fc7c9374d280c483d7c3d07417dcb28647_h3qa.png"
     },
     {
-      "t": "Sil and the Fading World amplia demo para o Steam Next Fest",
-      "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://alternativanerd.com.br/games/sil-and-the-fading-world-amplia-demo-para-o-steam-next-fest/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-10-19T17:11:32.000Z",
+      "t": "Exclusivos de PlayStation e Nintendo Switch chegam ao PC em ports com auxílio de IA",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/exclusivos-de-playstation-e-nintendo-switch-chegam-ao-pc-em-ports-com-auxilio-de-ia/",
+      "fonte": "TecMundo",
+      "data": "2026-10-19T17:22:00.000Z",
       "c": "PC",
-      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/08/AN_SIL-and-the-Fading-World.webp",
-      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa18wMDRhWlFMNFBTY2EzdnBuR3JDNDNOTVBVTVE3WnpfbGN2OHAzSEw5MzR5dG9rTlZjQ1dTQndYQW0zY1psLVdKaU1MdE9pUlpZVDFLVFBOWXNUTU9CUGlXN0FpbXJPU2dhRVhUUUJtdFVVV2w1UlFtdGI4NlhLcGR6RXJkMVBoSzhEMWl2ZUl3anhiNkhZdnY2LWtOQQ?oc=5"
+      "img": "https://www.estadao.com.br/resizer/v2/534UMZV6OBG3DMDYZRD54LMXRA.jpg?quality=80&auth=94e85509b0600cfc4fefc1e921cd6ac4c28bc6aae78c4fc46e7672a7d24a8238&width=710"
     },
     {
       "t": "28% OFF! Jogo Pokémon Pokopia registra queda no valor em oferta do Mercado Livre",
@@ -242,15 +264,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2024/10/pasqualino-capobianco-BhUjORnu8f8-unsplash-1-1044x697.jpg"
     },
     {
-      "t": "PlayStation 6: apenas RAM e SSD devem custar mais de US$ 680",
-      "d": "Segundo um leaker com bom histórico de acertos, apenas a memória RAM e o SSD do PlayStation 6 podem custar mais de US$ 680 por unidade",
-      "link": "https://flowgames.gg/playstation-6-apenas-ram-ssd-devem-custar-mais-us-680/",
-      "fonte": "Flow Games",
-      "data": "2026-10-19T12:30:11.000Z",
-      "c": "Consoles",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/06/ps6-1200x628-cropped-1.jpg"
-    },
-    {
       "t": "Call of Duty: MW 4, Final Fantasy Resonance e mais! Veja os lançamentos de games da semana",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/call-of-duty-mw-4-final-fantasy-resonance-e-mais-veja-os-lancamentos-de-games-da-semana/",
@@ -258,24 +271,6 @@
       "data": "2026-10-18T22:30:00.000Z",
       "c": "Lançamentos",
       "img": "https://www.estadao.com.br/resizer/v2/BKE5BL675ZGFFORTSUPKGH3FZ4.jpg?quality=80&auth=4a3f44105dde67ef95bc08b78b045a3989a6cf626f34b008ebd1c8dc044d9344&width=710"
-    },
-    {
-      "t": "8 melhores jogos de Star Wars que deixam você ser um Jedi",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/8-melhores-jogos-de-star-wars-com-jedi-e-sabres-de-luz/",
-      "fonte": "TecMundo",
-      "data": "2026-10-18T17:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/5BNCDLGOPJKAXLBT5U3E2SJDNQ.jpg?quality=80&auth=36ca761890867731e00f5cb8f85622ffdf671090a52aef88eb8eb5f7ffbf3345&width=710"
-    },
-    {
-      "t": "Mafia: The Old Country na PS Plus, GTA V em promoção e mais! Veja as indicações de games",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/mafia-the-old-country-na-ps-plus-gta-v-em-promocao-e-mais-veja-as-indicacoes-de-games/",
-      "fonte": "TecMundo",
-      "data": "2026-10-18T14:00:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/7DHGSTXFEFJJLNMOHE2S4EEIFE.jpg?quality=80&auth=3e28993563d2c65203dee3ce738537b01f0f1166aef50ae2c6d0071c179d8c58&width=710"
     }
   ],
   "videos": [
@@ -475,7 +470,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3069,
+      "views": 3070,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -696,7 +691,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "hype": 54,
+      "hype": 55,
       "link": "https://www.igdb.com/games/call-of-duty-modern-warfare-4"
     },
     {
@@ -4517,7 +4512,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xgc.jpg",
-      "hype": 31,
+      "hype": 32,
       "link": "https://www.igdb.com/games/archeage-chronicles"
     },
     {
