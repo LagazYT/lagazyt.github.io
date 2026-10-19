@@ -1,6 +1,33 @@
 {
-  "atualizadoEm": "2026-10-19T16:43:24.733Z",
+  "atualizadoEm": "2026-10-19T17:13:33.739Z",
   "noticias": [
+    {
+      "t": "Sil and the Fading World amplia demo para o Steam Next Fest",
+      "d": "&nbsp;&nbsp; Alternativa Nerd",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa18wMDRhWlFMNFBTY2EzdnBuR3JDNDNOTVBVTVE3WnpfbGN2OHAzSEw5MzR5dG9rTlZjQ1dTQndYQW0zY1psLVdKaU1MdE9pUlpZVDFLVFBOWXNUTU9CUGlXN0FpbXJPU2dhRVhUUUJtdFVVV2w1UlFtdGI4NlhLcGR6RXJkMVBoSzhEMWl2ZUl3anhiNkhZdnY2LWtOQQ?oc=5",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-10-19T17:11:32.000Z",
+      "c": "PC",
+      "img": ""
+    },
+    {
+      "t": "ROG Xbox Ally X20 vs Steam Deck: 2.599€ ou 549€?",
+      "d": "&nbsp;&nbsp; shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YYTFFOUtYRHM3Q29DVGhNZFlqMFdTUFdSZDNObWh2Zlh6dDNYQVVWVDNwWWhPOEtfNEx4LThaUEhzeEt5ckt1ajhHQURyU1JkUGZ4VXp3ZnQ4VHhnU0dfT1FtX1I3QVl6TndJVFhyYmpIVV9TX2Fn?oc=5",
+      "fonte": "shattered.io",
+      "data": "2026-10-19T17:07:49.000Z",
+      "c": "PC",
+      "img": ""
+    },
+    {
+      "t": "28% OFF! Jogo Pokémon Pokopia registra queda no valor em oferta do Mercado Livre",
+      "d": "Pokopia, exclusivo do Nintendo Switch 2, ganha preço menor no Mercado Livre. Conheça o jogo de simulação relaxante da Nintendo, compare o valor e garanta o seu pelo link da oferta! Pokopia em oferta!",
+      "link": "https://br.ign.com/descontos/156928/28-off-jogo-pokemon-pokopia-registra-queda-no-valor-em-oferta-do-mercado-livre",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-19T16:51:52.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/pokemon-pokopia-169_3413.jpg"
+    },
     {
       "t": "Xbox Game Pass vai perder mais 8 jogos no final de outubro",
       "d": "&nbsp;&nbsp; Eurogamer.pt",
@@ -38,15 +65,6 @@
       "img": ""
     },
     {
-      "t": "Demo de Elta: Defy All Gods já faz sucesso no Steam",
-      "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONGphdXVYOEFYX0s0cVUydmRydDFvNXNVQ0VqRWRNcU5OZF80SlZFUEdFaVoxREdZOV9rS1F4MGVMLXJrZHhBeHJtVGxLVjllVDNORnZUZzZXblJwWm5FSUU3Q2dYUVVjdjcwNkVMU2tES3JwaDlRVHFsbV9DVW85OEVVS2RIM215V0V0b29ZQk16UQ?oc=5",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-10-19T16:15:22.000Z",
-      "c": "PC",
-      "img": ""
-    },
-    {
       "t": "Saiba qual é a agenda de podcasts do Flow Games nesta semana",
       "d": "A gente conta para você quais são os programas, temas e convidados dos próximos podcasts do Flow Games – incluindo sua data e horário",
       "link": "https://flowgames.gg/confira-agenda-podcasts-flow-games-nesta-semana/",
@@ -54,15 +72,6 @@
       "data": "2026-10-19T16:14:54.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2023/11/image-2023-11-06T132528.896.jpg"
-    },
-    {
-      "t": "Faraway chega ao Switch e Switch 2 em 5 de novembro",
-      "d": "&nbsp;&nbsp; Nintendo Blast",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcm5qZTZFSHIxOG55ZEh3LTJPbGp6SGxZVU13RmpxUmJDbnBmVjVLV0tqLXN4TDFTSTFxTHJiQUNxRzViVnRzZC1UcTJRNElJZW9NUThjV0JNRDktVmQyaEdOVF9YRTByOUxfUDBkalhWdXlPOWdBcnV0OW9aV2ctbGVOcEtKOGRKaUVvRURB?oc=5",
-      "fonte": "Nintendo Blast",
-      "data": "2026-10-19T16:13:14.000Z",
-      "c": "Consoles",
-      "img": ""
     },
     {
       "t": "Red Dead Redemption e Bully quase não existiram, diz Dan Houser",
@@ -226,15 +235,6 @@
       "data": "2026-10-19T13:41:05.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/news/l/league-of-/league-of-legends-virtual-k-pop-group-kda-reemerge-after-6-y_zvs8.jpg"
-    },
-    {
-      "t": "Bloober Team, estúdio por trás do remake de Silent Hill, quer continuar lançando mídia física \"pelo maior tempo possível\"",
-      "d": "Se o tempo deixar... A Bloober Team, desenvolvedora de Silent Hill, quer produzir versões físicas de seus jogos \"pelo maior tempo possível\". O CEO do estúdio, Piotr Babieno, falou abertamente...",
-      "link": "https://br.ign.com/silent-hill-2-remake-1/156910/bloober-team-estudio-por-tras-do-remake-de-silent-hill-quer-continuar-lancando-midia-fisica-pelo-mai",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-19T12:37:57.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/news/s/silent-hil/silent-hill-remake-studio-wants-to-make-physical-games-for-a_5w56.jpg"
     },
     {
       "t": "PlayStation 6: apenas RAM e SSD devem custar mais de US$ 680",
