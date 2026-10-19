@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-19T07:51:05.736Z",
+  "atualizadoEm": "2026-10-19T08:21:14.899Z",
   "noticias": [
     {
       "t": "Rockstar Games: dois grandes clássicos quase foram cancelados",
@@ -293,7 +293,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8052,
+      "views": 8053,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -1131,7 +1131,7 @@
         "Switch"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8bj6.jpg",
-      "hype": 11,
+      "hype": 12,
       "link": "https://www.igdb.com/games/tom-the-postgirl"
     },
     {
@@ -1955,6 +1955,16 @@
       "link": "https://www.igdb.com/games/calmaria-wild-growth"
     },
     {
+      "t": "Amusement Factory",
+      "data": "2026-11-10",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5pi.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/amusement-factory"
+    },
+    {
       "t": "Imperial Grace",
       "data": "2026-11-11",
       "plats": [
@@ -2333,7 +2343,7 @@
         "Switch"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9i7h.jpg",
-      "hype": 4,
+      "hype": 5,
       "link": "https://www.igdb.com/games/aeterna-lucis"
     },
     {
@@ -4726,16 +4736,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co958h.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/snake-in-the-dark"
-    },
-    {
-      "t": "Deprision",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95me.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/deprision"
     }
   ],
   "musicas": []
