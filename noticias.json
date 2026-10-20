@@ -1,6 +1,45 @@
 {
-  "atualizadoEm": "2026-10-20T23:21:14.833Z",
+  "atualizadoEm": "2026-10-20T23:51:27.458Z",
   "noticias": [
+    {
+      "t": "A história por trás de Mina the Hollower, um dos melhores jogos de 2026",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/a-historia-por-tras-de-mina-the-hollower-um-dos-melhores-jogos-de-2026/",
+      "fonte": "TecMundo",
+      "data": "2026-10-20T23:30:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/53BINU2YNJEQ7KMZSYOIMGXWAY.webp?quality=80&auth=acbb11c002a48ce23e455cb9ceb17747cc2e38b1758a084fe961b7afdcd199c9&width=710"
+    },
+    {
+      "t": "Xbox Game Pass recebe 9 novos jogos, incluindo Final Fantasy VII Remake",
+      "d": "&nbsp;&nbsp; Eurogamer.pt",
+      "link": "https://www.eurogamer.pt/xbox-game-pass-recebe-9-novos-jogos-incluindo-final-fantasy-vii-remake",
+      "fonte": "Eurogamer.pt",
+      "data": "2026-10-20T23:24:37.000Z",
+      "c": "Consoles",
+      "img": "https://assetsio.gnwcdn.com/XBOX-Series-X25-Limited-Edition_2-1bfdd2858ad74a2180ff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNnNqa1pSQWdBbnJwMFdaaGxONUw3UmhWZzE1NUtDVlZPZWtYeDRwV1A4djlBdlZLTnhDZWJONlJOVmZCODZITFcwbXpZU09KOTd5UC1YZ2FXODhYamNJMnFnS3lnRkJPY01UQTZOU09URDJpZGI3SFVwcklGOVYxT29CZTNGblZRQUMyelB4ZDM1a2N5RktLZy00UQ?oc=5"
+    },
+    {
+      "t": "Sesc Geek Literacon leva games, cosplay e cultura pop a Ponta Grossa",
+      "d": "&nbsp;&nbsp; Sesc Paraná",
+      "link": "https://www.sescpr.com.br/2026/10/sesc-geek-literacon-leva-games-cosplay-e-cultura-pop-a-ponta-grossa/",
+      "fonte": "Sesc Paraná",
+      "data": "2026-10-20T23:12:43.000Z",
+      "c": "Geral",
+      "img": "https://www.sescpr.com.br/wp-content/uploads/2026/10/55555312551_3f14aa5085_o-scaled.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVkxGR2tkZVNiUTlsOS1sU0x0UUh4TDdZTGd6em12UUpSc3J2TEJ5SkpjMjA1YTA5QXB6T1pNYVpfcjU1T3hTUEJwN1BzRmtOTzc0cXEtSWhjZHFhV2RiVW9nNjlJdlhZcXlWNTUzakNGMHVXQWlNVENfbEhrWlN4cVJ1dnp0WFlSNWlaQUljbkp5NnZuWGtuem03R1l4RjRQRFBZVw?oc=5"
+    },
+    {
+      "t": "Xodus Nexus permite PC Game Pass em SteamOS e Linux com suporte a nuvem e log-in Xbox",
+      "d": "&nbsp;&nbsp; Espaço do Povo -",
+      "link": "https://espacodopovo.com.br/xodus-nexus-pc-game-pass-steamos-linux/",
+      "fonte": "Espaço do Povo -",
+      "data": "2026-10-20T22:57:24.000Z",
+      "c": "PC",
+      "img": "https://espacodopovo.com.br/wp-content/uploads/2026/10/Xodus-Nexus-permite-PC-Game-Pass-em-SteamOS-e-Linux-com-suporte-a-nuvem-e-log-in-Xbox.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mSDVwcEVsa3pBZTlNZ1o3NTRmM3NwdXVFcC1xZHFJdFo4NXpBbVRKS2RlZEJmSTFCbUd4S2VPXzU3WFc2eHFfV2hhX0hlSnROX0FaQWZqalRXVmJscGp5Yml5TmFPZEVwc3c1VjFSWm5DSFdmSGc?oc=5"
+    },
     {
       "t": "Vídeos mostram funcionário levando voadora e loja de games saqueada durante protestos na França",
       "d": "&nbsp;&nbsp; Estadão",
@@ -19,26 +58,6 @@
       "data": "2026-10-20T22:30:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/AA3RWYCBHRFRZNLYCMM34IJYPA.png?quality=80&auth=07e74e952addfbec749ac3b1c51bd54b65d145b42f7886da83c711e0649cbcfb&width=710"
-    },
-    {
-      "t": "Ys VIII: Lacrimosa of DANA será lançado para Nintendo Switch 2 em fevereiro de 2027",
-      "d": "&nbsp;&nbsp; Nintendo Blast",
-      "link": "https://www.nintendoblast.com.br/2026/10/ys-viii-lacrimosa-of-dana-sera-lancado-para-nintendo-switch-2-em-fevereiro-de-2027.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-10-20T22:24:44.000Z",
-      "c": "Consoles",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY7Pb9FzviiRYDxkInIvqh_gs5nO15R7OCFpc8axEfk-DiERS9CPaMt9Wv6b0pVX6W8pK4xDJBF-zTWKd4t6SioMplZHlgVkvOLJo-n5SvDt7qu64x4kevppXJbGFd6ZtDJxowIBGG_x995aiZUni4Pxc4eZC3NrEjQoW1zEJan6tDCdAu9GzTvzeAzd_n/w1200-h630-p-k-no-nu/ys%20lacrimosa.jfif",
-      "orig": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS3RGdFNOY2lNSmU1dUx0WTJxOTRFcTY5MUlDRW54M2ZiY0k0YWJzTjBuT2hqLW5mVHNuN2hldGc2YXBiTEsyU3BXYnVka1F3b0h2SlBiUEtkRU9taUtWLTNkVnV4ZGZNMnlVOUV2N0tXa3R1N3ZUZDI0amlKVTRoSWYwSFVkOWFxNFd5V3Q4bVhEeWJHYmxlak1jTGdZclRKbGFWdm9ZOUc3UlFVSVdZWmh1UHNvbE9CTkJDWW0xVkRsQ1ppSVBV?oc=5"
-    },
-    {
-      "t": "Xbox planeja lançar novo console portátil em 2027",
-      "d": "&nbsp;&nbsp; tmc.com.br",
-      "link": "https://tmc.com.br/tecnologia/xbox-asha-sharma-console-portatil-2027/",
-      "fonte": "tmc.com.br",
-      "data": "2026-10-20T22:22:14.000Z",
-      "c": "Consoles",
-      "img": "https://tmc.com.br/wp-content/uploads/2026/10/X-box-pode-lancar-novo-console.png",
-      "orig": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wZkl6TU1jWVB0SmMxZ3R2V1RRemFSQnhXSENIZ2dZZnFsV1VTNFdoemo4aWJRWGdBdDl0OGpvY0wycklBZmlNajdZVlhqSWdwWlBiRUZka2JHVlJQWElObFBiUlJBUzlfNWpXTl8yRHhqQXFlXzItNA?oc=5"
     },
     {
       "t": "ID@Xbox Showcase 2026: todos os jogos indie anunciados no evento de jogo",
@@ -258,24 +277,6 @@
       "data": "2026-10-20T16:13:47.000Z",
       "c": "Lançamentos",
       "img": "https://www.youtube.com/embed/goDLkWjwEbU"
-    },
-    {
-      "t": "Aí sim! Silver Pines terá preço na PS Store reduzido no Brasil",
-      "d": "Estúdio anunciou mudança para alinhar valor do jogo nas plataformas brasileiras, especialmente o PS5",
-      "link": "https://flowgames.gg/silver-pines-tera-preco-ps-store-reduzido-no-brasil/",
-      "fonte": "Flow Games",
-      "data": "2026-10-20T16:08:36.000Z",
-      "c": "Consoles",
-      "img": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4d1.png"
-    },
-    {
-      "t": "Rumores apostam em Battlefront 3 feito pela Bungie ou Respawn",
-      "d": "Lucasfilm pode estar escolhendo os estúdios de Star Wars Battlefront 3 agora mesmo",
-      "link": "https://flowgames.gg/star-wars-battlefront-3-na-bungie-ou-respawn/",
-      "fonte": "Flow Games",
-      "data": "2026-10-20T15:42:33.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2024/12/the-official-starwars-battlefront-3-v0-LPrh8ilMeQFmMfXT00-nY1mK4q3XPNQStk0Xk3z_xtc.webp"
     }
   ],
   "videos": [
@@ -451,7 +452,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4255,
+      "views": 4256,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -973,6 +974,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9745.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/mega-met"
+    },
+    {
+      "t": "Hypnosync",
+      "data": "2026-10-28",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqno.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/hypnosync"
     },
     {
       "t": "Neuron Activation",
@@ -4730,16 +4741,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94zs.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/pinbleton-park"
-    },
-    {
-      "t": "Feltopia",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co954f.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/feltopia"
     }
   ],
   "musicas": []
