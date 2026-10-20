@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-20T11:43:42.386Z",
+  "atualizadoEm": "2026-10-20T12:13:53.232Z",
   "noticias": [
+    {
+      "t": "AETHUS chegará ao PS5, Xbox Series X|S e Switch 2 em 2027",
+      "d": "&nbsp;&nbsp; Pizza Fria",
+      "link": "https://pizzafria.ig.com.br/news/aethus-ps5-xbox-switch-2-2027/",
+      "fonte": "Pizza Fria",
+      "data": "2026-10-20T11:57:04.000Z",
+      "c": "Consoles",
+      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/AETHUS.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QTzEwRU9FeXBFUlpjWWxiaVpZbW50dFlBN05BVjE0dkYtVHNGOHU2eEFha1hkWmdCMVZwcmQ0V1B1dG85WXNMSFpwYktsSllvcGp0TENCVFZDaTVDZWtCTmhCd3NpY19acml6RlYtUVE?oc=5"
+    },
     {
       "t": "Epic Games Store libera promoção de Halloween com descontos de até 80% em jogos de PC",
       "d": "&nbsp;&nbsp; Portal R10",
@@ -49,16 +59,6 @@
       "c": "Geral",
       "img": "https://back.ww-cdn.com/resizeapi/b21f996b68b6f4d5b93f340c64149cddc29724ef2d3b924a1a55f044f137cda3/750/-1/",
       "orig": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSHJ4WWJua2JBZDhQWERFTDlRWTNNQjdzUU45VDRTMERYS0g0OWs4NGhwamlNZl9rWW5XZUtscFJLYzczTXpVTVhzNTBiX1FuOFJZY0R4bXZ6Vk1CVV9ER3NwM2ozT1BCS3RiSnZiSmhMNm9iT0o5THNrM2VXaTh5UW14UE9ObnotaDlGcjlSWDFIZXhjVlVac29tenpsd3I1TWpMZEUzLUthMUhkX2N0N1EtbkY2MC10ZVlsN2dfdmwxdXZBYnRRc0h2aDh2Q3UtTUNSOXF0NlN6dHZkYmtWT054Q2RQU0JCNy1rQng5ZFBYRXJUdk1yOEVZR1p0OTRScWfSAYcCQVVfeXFMTXMxQnoyWVVSOFMzWXhXLXphMUk1Q3JRUXpDd0VOam1WaGNfQmpGMG4zN3lvQ1A4VXQydTJxcVdpa2FxRUs0cGREeGFSbnplRHR6aDRlSFhmZzdBNXl6aEFMMGE1SVlzeFZQbmtQUEdiSlNnS2dpOFdMTm90MlJkSzVxZml1Z2FiX0NyMDFJSmNYbTIzZnZyVVI5NnZ2elpXdFRQSFZ1d1NYUERYdHp0ZnBmejVzaGlHbGVSOEI1VDNhTWo4YXhHVTF5RVA0M0oxVXBtTGJfd0FGZzJvZExmRzdLYjZUTENTRjRKaDlFWmxhY1dPWFVZRF9CMmM3cXFmQjFCMGRNRmc?oc=5"
-    },
-    {
-      "t": "ID@Xbox Showcase: horário, onde assistir e jogos de hoje",
-      "d": "&nbsp;&nbsp; Game Overdrive",
-      "link": "https://gameoverdrive.com.br/idxbox-showcase-outubro-2026-horario-onde-assistir-jogos/",
-      "fonte": "Game Overdrive",
-      "data": "2026-10-20T10:31:21.000Z",
-      "c": "Consoles",
-      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/10/idxbox-showcase-xbox-ign-1600x900.webp",
-      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGZhNkVHbkd1dlJjQzJmS3pVNl9PUVY5RVpwS29WN2xrWnVIQjR6Y3A2UEdiVVpVV0QyYkVGUTNTVWs5MXF4RkRZVXZxR0ZaUHJCZG9oTGpfUmlPMWE0YUZYVEZLbEN6M21XNEV3M3ZxYzRkY1NTcUxJa05rQUlremZraG5FVmdKYkxpSUNtTQ?oc=5"
     },
     {
       "t": "3 em 1! Combo com 3 jogos da saga God of War fica 10% mais barato em bundle exclusivo na Amazon",
@@ -314,7 +314,7 @@
       "id": "-4zg_Y74HoA",
       "t": "KUSARIGAMA LENDARIA FLOR DA MORTE é MUITO DANO | ASSASSINS CREED SHADOWS!",
       "data": "2025-06-19T20:00:00Z",
-      "views": 249,
+      "views": 248,
       "img": "https://i.ytimg.com/vi/-4zg_Y74HoA/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=-4zg_Y74HoA"
     },
@@ -633,7 +633,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4mu.jpg",
-      "hype": 55,
+      "hype": 56,
       "link": "https://www.igdb.com/games/call-of-duty-modern-warfare-4"
     },
     {
