@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-19T23:39:26.643Z",
+  "atualizadoEm": "2026-10-20T00:09:35.799Z",
   "noticias": [
+    {
+      "t": "Gerente de loja de games é agredido ao tentar impedir saque na França",
+      "d": "&nbsp;&nbsp; R7 Entretenimento",
+      "link": "https://entretenimento.r7.com/prisma/refugio-geek/gerente-de-loja-de-games-e-agredido-ao-tentar-impedir-saque-na-franca-19102026/",
+      "fonte": "R7 Entretenimento",
+      "data": "2026-10-19T23:37:41.000Z",
+      "c": "Geral",
+      "img": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/4WKBGQPKBBCZNLNPRY6SHUO7KA.jpg?smart=true&auth=31fa979d7cac0a977d388b53518101b21593ac5251d186738d7a61e98245744d&width=1200&height=630",
+      "orig": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTllaYzExdHowOUhSY2pvczdnYldtRkdTYnBBLU1kNmZsMkQzRFJKMm8tblhEOW9GOGxaS2JYb1FiYzZfLUdDSjBudjlfQXhIRUVRd1FpanhJdl94d0xMTnROMFBDSDRKVU5YQ0owdTlCQ29NWjNjQUxZbzl4WUhCNVVBTFNnUEZZcHBVWVNUSjNrdWM5bG5iMWFQVDFIRXFUOXhkMlFHRUNacnF2S0tuaEVvRUJ0clRkRkRWSWJQUzQyQXhmazRrSw?oc=5"
+    },
     {
       "t": "Os melhores jogos de Xbox em promoção na Amazon agora",
       "d": "&nbsp;&nbsp; Olhar Digital",
@@ -266,15 +276,6 @@
       "c": "PC",
       "img": "https://www.oficinadanet.com.br/imagens/post/73440/s5-xbox-series-switch-e-pc-lancamentos-de-jogos-nesta-semana-19-a-23-10.jpg",
       "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFlyQ3pZX1BfODd2Vk1JelE5Q1hDd0xseGNhRXFyU2JxTkl0aXNlREowVnEtOHA0TzRsckVmMHRtRWxOZ2ZxZWYxT0RXc29SVHd1bXFmaUZienNJTHphWjVYenBZd05RWmV3WGsxVURKYXk4elZVUGZSTGdwaFFUWjlrNUVWNldDQ0pJWXBPRjQxWkk?oc=5"
-    },
-    {
-      "t": "Os lançamentos de jogos desta semana (19 a 25/10)",
-      "d": "Em uma semana bem movimentada, o destaque fica com o lançamento do jogo Final Fantasy Resonance",
-      "link": "https://flowgames.gg/os-lancamentos-de-jogos-desta-semana-19-a-25-10/",
-      "fonte": "Flow Games",
-      "data": "2026-10-19T14:31:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.youtube.com/embed/BJl6QvjFpsA"
     }
   ],
   "videos": [
@@ -488,68 +489,6 @@
     }
   ],
   "lancamentos": [
-    {
-      "t": "A Sister's Journey",
-      "data": "2026-10-20",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7j6q.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/a-sisters-journey"
-    },
-    {
-      "t": "Out of the Shadows",
-      "data": "2026-10-20",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9sia.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/out-of-the-shadows"
-    },
-    {
-      "t": "We Were Here Tomorrow",
-      "data": "2026-10-20",
-      "plats": [
-        "Xbox",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwi7.jpg",
-      "hype": 15,
-      "link": "https://www.igdb.com/games/we-were-here-tomorrow"
-    },
-    {
-      "t": "Star Trek: Outposts Unknown",
-      "data": "2026-10-20",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc74n.jpg",
-      "hype": 6,
-      "link": "https://www.igdb.com/games/star-trek-outposts-unknown"
-    },
-    {
-      "t": "Dino Crisis 2",
-      "data": "2026-10-20",
-      "plats": [
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocthm.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/dino-crisis-2--2"
-    },
-    {
-      "t": "Sloptoberfest",
-      "data": "2026-10-20",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod4fg.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/sloptoberfest"
-    },
     {
       "t": "The House in the Hollow",
       "data": "2026-10-21",
@@ -1268,7 +1207,7 @@
         "Switch"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6r3.jpg",
-      "hype": 28,
+      "hype": 29,
       "link": "https://www.igdb.com/games/the-wolf-among-us-remastered"
     },
     {
@@ -4736,6 +4675,66 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94pe.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/a-tiny-wander"
+    },
+    {
+      "t": "Life of a Lonely Indie Game Developer",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94pg.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/life-of-a-lonely-indie-game-developer"
+    },
+    {
+      "t": "Pinbleton Park",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94zs.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/pinbleton-park"
+    },
+    {
+      "t": "Feltopia",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co954f.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/feltopia"
+    },
+    {
+      "t": "Snake in the Dark",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co958h.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/snake-in-the-dark"
+    },
+    {
+      "t": "Deprision",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95me.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/deprision"
+    },
+    {
+      "t": "The Patient: Can You Escape?",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacts.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/the-patient-can-you-escape"
     }
   ],
   "musicas": []
