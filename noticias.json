@@ -1,55 +1,82 @@
 {
-  "atualizadoEm": "2026-10-20T16:45:48.787Z",
+  "atualizadoEm": "2026-10-20T17:15:59.216Z",
   "noticias": [
     {
-      "t": "AMD FSR 4.1 está a caminho do Xbox Series X|S e ROG Xbox Ally",
-      "d": "&nbsp;&nbsp; Terra",
-      "link": "https://www.terra.com.br/gameon/plataformas-e-consoles/amd-fsr-41-esta-a-caminho-do-xbox-series-xs-e-rog-xbox-ally,31b40f6b0ba0c35af43bb09386e081a1otkf95le.html",
-      "fonte": "Terra",
-      "data": "2026-10-20T16:39:00.000Z",
+      "t": "Wolverine, Star Fox e mais jogos em mídia física em promoção na Amazon",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/wolverine-star-fox-e-mais-jogos-em-midia-fisica-em-promocao-na-amazon/",
+      "fonte": "TecMundo",
+      "data": "2026-10-20T17:05:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/OYJ4CNGHAZKL7NTER7HMQ3RHAM.jpg?quality=80&auth=d897fd07059b98995d94d3538bf3a43d6c9695cf3e123ca5ead96a41823df208&width=710"
+    },
+    {
+      "t": "Nvidia detalha como sua CPU Vera terá mais potência para IAs Agênticas",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/nvidia-detalha-como-sua-cpu-vera-tera-mais-potencia-para-ias-agenticas/",
+      "fonte": "TecMundo",
+      "data": "2026-10-20T17:00:00.000Z",
       "c": "PC",
-      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/20/xbox-series-s1jhoerrfsqe.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWnVLX0pZU2ZzOTcwYWFGdHAwTklOeld3QmN2RWk2RFlidmg1bzl2bEVVOUloZmRtQi15dEVYMlVXTGxpOEhLMFVmeGlNeGMyQWhMX2FVUUxxUmxnVFhWNklIUHhMY1laT3NScXQ0M0k2VWZNWXBkNEg5OFVDMnB6UWxJbGUtWHBfdkdDbWhUSnlYaGpnbUk2UGtTX1ZJbWFaYzN5YXpJc3dSanN3U0R3Yy1wMmpVUllmbmV1Yjh3ZG50bmFlS2Y3RGZBd0JiLXNWeTVQUkZpTnNJUnlXdzEteFJPMDBtNUZSMmFqaDB4bVFNdw?oc=5"
+      "img": "https://www.estadao.com.br/resizer/v2/QMTNYXBWNFGFFIZGGBY75MYIRA.jpg?quality=80&auth=149028e8bc73f7f21ac0d2bed84f073aaae5ce834310ae769368b8ffacc3c823&width=710"
     },
     {
-      "t": "Red Dead Redemption 2, GTA V e mais 8 jogos deixam a PS Plus em novembro",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/playstation/red-dead-redemption-2-gta-v-e-mais-8-jogos-deixam-a-ps-plus-em-novembro/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-20T16:32:00.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQVlGNkNsTDlMUWFXc3licFByNmFaVTdTbUl5OVZSOGttWUtvVkhnbUIybnRaNVlPZWpKZkxkN0dxaEhvR2VnUDhxR3RwUEJ4dU8xUVNCTDRXdUFKaUtiZ05TaXA3aEpwOFNyU2V5RXJPLUZyN3RQVFdBSzhScjJwb1pjMU9jdFl6Y0trTFZmcHdJUXNIcGpmZGJWb04wdzkwTXoxR3R3R2Y5UFhIeUdNcDhfZG9TcVF6S19QbQ?oc=5"
-    },
-    {
-      "t": "Xbox e AMD confirmam tecnologia FSR 4.1 para consoles e portáteis",
-      "d": "&nbsp;&nbsp; Combo Infinito",
-      "link": "https://www.comboinfinito.com.br/principal/xbox-amd-fsr-4-1-tecnologia-upscaling/",
-      "fonte": "Combo Infinito",
-      "data": "2026-10-20T16:30:51.000Z",
-      "c": "PC",
-      "img": "https://www.comboinfinito.com.br/principal/wp-content/uploads/2026/09/gears-5-1200x628.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa0g3aFp6c0NGeEdOeXNUMGtidnBabVhfODk5WlA1VDE1UmRGZXVNX1FWbjZuMU9MVVZWcjdfWjhVUW5WWTJnX1FQOGNOcmJUR2NFZ3gxcFk1dDIwTWVqT2stSWY1YnB2aTRWQ0ZzQ2JQWUVxUDFCRlNaS2g3Qm54dG5FdF90MmUw?oc=5"
-    },
-    {
-      "t": "Enhanced Games e ISL 2026 ambos no mesmo dia: 19 de Dezembro",
-      "d": "&nbsp;&nbsp; Best Swimming",
-      "link": "https://bestswimming.swimchannel.net/2026/10/20/enhanced-games-e-isl-2026-ambos-no-mesmo-dia-19-de-dezembro/",
-      "fonte": "Best Swimming",
-      "data": "2026-10-20T16:30:07.000Z",
-      "c": "Geral",
-      "img": "https://bestswimming.swimchannel.net/wp-content/uploads/2024/11/NATFEM_AL_24_11_19_AL17599.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGlCTW9lcmV5X3RQbUM5ZVN2OEhVX3p6UFltUEZIV0lpZkNDWTJLbVoyZ2pCUDdYN1JDdUYwcjhqYzQ4REJkazV2LXh3UlpWUGd6NFFmMzRpRFFfbkpWZlg3TVY5TEZMLXdiTHh1bVZXTG51M3pmY3ZtWHRQNUlPdXBELTJmeUNPZmk1d24zRG9ReUEtMV9CcXNXWWpQcTYteTBSX2pEbEhmcTlS?oc=5"
-    },
-    {
-      "t": "REVELADOS! Confira os novos jogos do Xbox Game Pass para a segunda metade de outubro",
-      "d": "&nbsp;&nbsp; Central Xbox",
-      "link": "https://centralxbox.com.br/2026/10/20/revelados-confira-os-novos-jogos-do-xbox-game-pass-para-a-segunda-metade-de-outubro/",
-      "fonte": "Central Xbox",
-      "data": "2026-10-20T16:26:29.000Z",
+      "t": "Novo trailer de Zelda: Ocarina of Time para Switch 2 lembra as propagandas do Nintendo 64",
+      "d": "&nbsp;&nbsp; Arkade",
+      "link": "https://arkade.com.br/novo-trailer-de-zelda-ocarina-of-time-para-switch-2-lembra-as-propagandas-do-nintendo-64/",
+      "fonte": "Arkade",
+      "data": "2026-10-20T17:00:00.000Z",
       "c": "Consoles",
-      "img": "https://centralxbox.com.br/wp-content/uploads/2026/10/XGP_ComingSoon201026_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_PT-BR-d6b4150e205c09106629.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa3A1YTI1emFoZzFZeHhzb09tNTVKQThYN0lyUy04WHFmVUs1NXJnRHJTVUUwRHZXNFVlYWREX2I0U0xzUm9xTHVpTU55MzZLaTJsTVdpNmhhYzdsSXcwX3dxRTkxRGg1UnZvM25fSVdjajNMVXZxZUI5bzZ4MTVpbUVYbGwwWERvT05QdkFLbzRSVkZKeWstVVFWVm8zZy1icUF6WVlHckwwc1laSDNBcEl3cGlEcU92MDJJOU1xNA?oc=5"
+      "img": "https://arkade.com.br/wp-content/uploads/2026/10/novo-trailer-de-zelda-ocarina-of-time-para-switch-2-lembra-as-propagandas-do-nin.webp",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGRIWlpTUHhFZVVEUXNTTXdCbnl3Ym9aZ2pBd1NJMTgxaWZrVlo4XzVVUFllUy1aN1FZaE9OVUZKWEI3MVdNVjg1ajdWYk5fNTJpbnZJR1RkUXAzUGNNd00xbEJJOHpfcURFc1B2SHUzY2JoRHNCTTBybkxPa2k5MkdQdEp1UDF5VGh4dHpPM2M3UW42SFpaa19tOW9yRGtzc0JObEdVenEydWI3ek0tbw?oc=5"
+    },
+    {
+      "t": "Review | Beyond the Dark: Nightwatch",
+      "d": "&nbsp;&nbsp; NintendoBoy",
+      "link": "https://nintendoboy.com.br/2026/10/review-beyond-the-dark-nightwatch/",
+      "fonte": "NintendoBoy",
+      "data": "2026-10-20T16:56:33.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PTTdfeUNOT2Y2ODFzOXFqVy1zVEIzU3A5ZmRFcHdLLXM5V3lYVF9mSS1aRWlUX0x6d3dYOGJTRjR2YU9BNkVPblZTUU5DYVE2bmtaTEh2N3RRUWRUZ1ZoNTdDWVdaMGlqUEo0YkJKb05qaGx1cWc2Tg?oc=5"
+    },
+    {
+      "t": "AMD confirma FSR 4.1 para Xbox Series X e Series S",
+      "d": "&nbsp;&nbsp; Game Overdrive",
+      "link": "https://gameoverdrive.com.br/amd-fsr-4-1-xbox-series-x-series-s/",
+      "fonte": "Game Overdrive",
+      "data": "2026-10-20T16:55:04.000Z",
+      "c": "PC",
+      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/10/xbox-series-x-series-s-fsr-4-1-1600x900.webp",
+      "orig": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MejhMWDZsZWJyeWFsMUI1VElpa2F4TVFLNDNQMDJGYkZwZzNqOWlDTzktV3BHaWM4dG90cGhkUUhPZzhwb280RlgyUDQ1QV93OVlyUlpYbU5sRVhIYkVJUDFuOG5QcHlndDlEdXM4eHEyQQ?oc=5"
+    },
+    {
+      "t": "XBOX ganha upscaling com IA da AMD para disputar contra PlayStation e Nintendo",
+      "d": "&nbsp;&nbsp; Canaltech",
+      "link": "https://canaltech.com.br/games/xbox-ganha-upscaling-com-ia-da-amd-para-disputar-contra-playstation-e-nintendo/",
+      "fonte": "Canaltech",
+      "data": "2026-10-20T16:54:24.000Z",
+      "c": "PC",
+      "img": "https://tl.ctcdn.com.br/GNW4jBQkR2KxPSVzfwmJhiPDaSc=/1200x675/smart/filters:format(webp):quality(85)/8b1ba948-a7dc-4874-ac81-35259c2246e4.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOalhTSGo5ekRMLUxwd0lTRmNlUThCZm9sMUgzSGs1YUpfVUFyMWZvMXZFOVJ2SGNiUFppbG5sTUJhWEtoWUdJSEM2OHRFUml4eWxic1UxRGJpNkJ3N3ZpRkFJS3htSzlfSngybEpZckxRVm9UVjhjZDBuZURlam5NaTJ1dDlUNWxJQjR1MlJpRXlJNzlvTllUa2p6U3R5UWptVkN2cE5DV3RBSDhqdWcw?oc=5"
+    },
+    {
+      "t": "Xbox Game Pass receberá Final Fantasy VII Remake Intergrade e outros no fim de outubro; Veja",
+      "d": "&nbsp;&nbsp; O Vício",
+      "link": "https://ovicio.com.br/xbox-game-pass-recebera-final-fantasy-vii-remake-intergrade-e-outros-no-fim-de-outubro-veja/",
+      "fonte": "O Vício",
+      "data": "2026-10-20T16:52:00.000Z",
+      "c": "Consoles",
+      "img": "https://ovicio.com.br/wp-content/uploads/2021/12/20211230-ovicio-final-fantasy-7-remake-intergrade-ps5-playstation-5-1-large_.webp",
+      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbjZ1QTZrR2lpMFJHajFfLWpMMFEyY1BpQUpDTmdJaXc3OTJLS1JLdUR5bFNuMGRLNE1nbTEwandwdVJPWVNad1MwVjlNMy03TVlBX2FSUFdkdkJVSFM5NGhCdkVsU2diMjFfYWJ2VEQ0dEhvTVdYUkRFT3V3N2lWYUc3Ty15bFBRcENnWDkxcm1Xd1NXXzJqWVpjLVVoMDBYcFVodGhOOWMtUFRFWjFLbHZiSHrSAboBQVVfeXFMTzlKRlhWT0tLR21tQkFnYkMzcGpOQkloOGt3M3hoR0J4N3dOOUJxWkVzSUNHQkNBN2RQNU5sSHM2anN4c2hCOGx1dUxVVTRVbUM2OW5ael85c3dOTWZWZENwUG1TZGhGblNlR0t3dHgzMDNORjRMbTR3WWNGcUpkV1RCRmZzZkRobTROV0J0bDhFQ29JU0dGenhrWk5lVnY1WlpCWUhyMW8yeEd4clpVaXdYZFpBNjlGTjFR?oc=5"
+    },
+    {
+      "t": "ID@Xbox Showcase: veja todos os trailers e anúncios do evento",
+      "d": "Veja tudo o que vai rolar no novo ID@Xbox Showcase",
+      "link": "https://flowgames.gg/idxbox-showcase-veja-todos-os-trailers-do-evento/",
+      "fonte": "Flow Games",
+      "data": "2026-10-20T16:45:07.000Z",
+      "c": "Consoles",
+      "img": "https://www.youtube.com/embed/203U4tDw2Lw"
     },
     {
       "t": "CLT: GTA “clássico” brasileiro é lançado em early access",
@@ -234,15 +261,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/VGADW2G35ZF5XALUTAHUU5YZW4.png?quality=80&auth=52cb6008b5400b3d85a4e21e8f54aa73695383687cc9d651e2e0849cf5684140&width=710"
     },
     {
-      "t": "Kojima é confirmado na 2ª temporada de Cyberpunk Mercenários 2",
-      "d": "Lendário criador japonês reprisará personagem de Cyberpunk 2077 no anime da franquia",
-      "link": "https://flowgames.gg/cyberpunk-mercenarios-2-tera-presenca-de-hideo-kojima/",
-      "fonte": "Flow Games",
-      "data": "2026-10-19T20:56:35.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/10/image-44.jpg"
-    },
-    {
       "t": "Gears of War E-Day é inclusivo? Confira review de acessibilidade do game",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/gears-of-war-e-day-e-inclusivo-confira-review-de-acessibilidade-do-game-de-xbox/",
@@ -259,24 +277,6 @@
       "data": "2026-10-19T18:25:52.000Z",
       "c": "Lançamentos",
       "img": "https://sm.ign.com/ign_br/news/w/with-gta-6/with-gta-6s-dating-system-incoming-a-surprising-percentage-o_tdb8.jpg"
-    },
-    {
-      "t": "Saldão da Amazon tem headsets gamer com preços mais baixos do ano",
-      "d": "Modelos da JBL, Havit e Redragon estão no Saldão da Amazon com grandes descontos!",
-      "link": "https://br.ign.com/descontos/156932/saldao-da-amazon-tem-headsets-gamer-com-precos-mais-baixos-do-ano",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-19T18:15:35.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_2hhj.jpg"
-    },
-    {
-      "t": "Carga de GPUs RTX 5090 avaliada em R$ 2,5 milhões desaparece no Aeroporto de Guarulhos",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/carga-de-gpus-rtx-5090-avaliada-em-r-25-milhoes-desaparece-no-aeroporto-de-guarulhos/",
-      "fonte": "TecMundo",
-      "data": "2026-10-19T17:45:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/HYT5YG34RBMV5HA646EPBKWARE.jpg?quality=80&auth=8dc0a75848b34b0e58737efbfff2d39e8f1db00fe94bdd818281e9b0d3b86d76&width=1150"
     }
   ],
   "videos": [
@@ -340,7 +340,7 @@
       "id": "0ZIRBuW6lqE",
       "t": "KATANA LENDARIA ZÉFIRO TURQUESA PARA O YASUKE | ASSASSINS CREED SHADOWS!",
       "data": "2025-06-16T14:00:02Z",
-      "views": 181,
+      "views": 180,
       "img": "https://i.ytimg.com/vi/0ZIRBuW6lqE/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0ZIRBuW6lqE"
     },
@@ -4431,16 +4431,6 @@
       "link": "https://www.igdb.com/games/crisisx"
     },
     {
-      "t": "Croak",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8pqa.jpg",
-      "hype": 10,
-      "link": "https://www.igdb.com/games/croak--1"
-    },
-    {
       "t": "Psycho Dead",
       "data": "2026-12-31",
       "plats": [
@@ -4738,6 +4728,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co958h.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/snake-in-the-dark"
+    },
+    {
+      "t": "Deprision",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95me.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/deprision"
     }
   ],
   "musicas": []
