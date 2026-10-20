@@ -1,35 +1,82 @@
 {
-  "atualizadoEm": "2026-10-20T21:20:10.402Z",
+  "atualizadoEm": "2026-10-20T21:50:22.469Z",
   "noticias": [
     {
-      "t": "Xbox | Project Helix pode custar até US$ 1,800",
-      "d": "&nbsp;&nbsp; Omelete",
-      "link": "https://www.omelete.com.br/games/xbox-project-helix-pode-custar-ate-us-1800",
-      "fonte": "Omelete",
-      "data": "2026-10-20T21:15:00.000Z",
+      "t": "Jogos clássicos de ‘O Senhor dos Anéis’ são relançados para consoles modernos",
+      "d": "&nbsp;&nbsp; Rolling Stone Brasil",
+      "link": "https://rollingstone.com.br/rs-gaming/jogos-classicos-de-o-senhor-dos-aneis-sao-relancados-para-consoles-modernos/",
+      "fonte": "Rolling Stone Brasil",
+      "data": "2026-10-20T21:46:38.000Z",
+      "c": "Lançamentos",
+      "img": "https://rollingstone.com.br/wp-content/uploads/2026/10/Middle-earth-Shadow-of-Mordor-steam-800x450.png",
+      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGlheU5pY0NydC1hT3VNVTlGaUxTXzYtc21PaV8ya1RkbkphNmJzTE14M2pkV0Rra2Q3NmZ5THJHTFdaMHRRV3g2M0NTU3F0ZExocGxJT0h0Y3V3alpSVVlyTHVJVnRsbFlfYlJ0QU1GeW1Ma0ZWV3hMc2xRcmk5M1FmQmhPbXpTWE5XSWJwcUVBSVFKLThOY0cwSkxXZTk1azVHekFxNjM1RWtTOGRreFZxYVY?oc=5"
+    },
+    {
+      "t": "ID@Xbox Showcase 2026: todos os jogos indie anunciados no evento de jogo",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/xbox/id-xbox-ign-showcase-outubro-2026-todos-os-jogos-indie-anunciados-game-pass-datas/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-20T21:31:00.000Z",
       "c": "Consoles",
-      "img": "https://cdn.ome.lt/KCloiEIvYODSdNjRu-j5afZSmmY=/1200x630/smart/filters:format(webp)/extras/conteudos/Helix_hero-6eb706583761b7354b51.webp",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSGJrQmVJNlZndTlCcXBKTzY5M0I1c2JwMzlBak9oTE14THlweVY3YXNLSERTZ3kwVUYtZVZHaUtKbk44X2tVN1BUR2NKLWUtTlpqbHRQTEtOYVBDMTBvbC1jbjVlallweEFPM3dmb2Q1U3JiUG1aaTFUVmdpUEkxYg?oc=5"
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdG9DLWhuMTUzVklpRWtfVE9YbGxsclljcUlhRFF0SnZNVlp2Y1R6QjF2MERhbGx1eW01MV8tQ0RUYWg2T3lKbFZtaG53cy0xWGZEQUtNZ0hib1lGVkZYWDhxY19tLUFFc0NJWVRBS0ExZHlTZl8tSG9NMXl6ekhyRGN0UXpvQzdfZjEwSU44Mi1SWG1rTmkzQ3c2emswNlBrZjVNWjNpQUFRY2VGSGU1dVpDVG9aRG5rRF9IODYwV2Q?oc=5"
+    },
+    {
+      "t": "“Estrategista de negócios” do Xbox afirma que a indústria de videogames está “fingindo não usar IA” e exclui conta no Twitter após enxurrada de respostas",
+      "d": "&nbsp;&nbsp; IGN Brasil",
+      "link": "https://br.ign.com/xbox-series-s-1/156963/estrategista-de-negocios-do-xbox-afirma-que-a-industria-de-videogames-esta-fingindo-nao-usar-ia-e-ex",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-20T21:30:14.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/t/ign_br/news/x/xbox-busin/xbox-business-strategist-claims-video-game-industry-is-prete_nkpz.1200.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdkJ4NWN1Zy1HTmlJZEpwNW42WTA5bGdsQTlkZUxYRm8tekxxT0NvZTJ1aGdDdE5FOVdheUNSekFIWVJKVVU2RkVBTXNaTTQ3Ti1QS1hqVVRGU0tMV3QyNWRNMmhFZnRiNmprenNiUHhQTW40Q1h2OWd3cmw3QVhIZ1Y3cVB0bDlfc2dQZWw3NG9fS3REUHUzQmQyWlNHWHlDNTZMeVMtcHRramVZTGQzbFVubVVJTGdZQmVWNGY5NHNhZUNWRTg2SklvczFWRnB0bUliRnBtWXpEZw?oc=5"
+    },
+    {
+      "t": "Protestos na França: VÍDEO mostra loja de games sendo saqueada após vendedor levar 'voadora' nas costas",
+      "d": "&nbsp;&nbsp; G1",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/20/video-mostra-loja-de-games-na-franca-sendo-saqueada-em-protesto-apos-vendedor-levar-voadora-nas-costas.ghtml",
+      "fonte": "G1",
+      "data": "2026-10-20T21:30:05.000Z",
+      "c": "Geral",
+      "img": "https://s2-g1.glbimg.com/lXkF3WzhPwF_ncx2vfnaZJkNbbU=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Q/KdtW3YRB2CUkNYMc880A/pierre.webp",
+      "orig": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYU5lVjEtM1UtbVFXVjVlSmhqWjZ6dGhKWFBYem44UWg5V1JhcVdrSzNpYXpncWxTWE5aRWFoU1lXUHpXdjJmSHh0eTRVVU5vS2lrcmtEUlBxaWhIT1NaUTFlcWthMkFBNXduWDFVNk84OW4wOC1sZ3BIamdJWWhKLXNrM2kyY1hhaFd4eHA2MWUwZkJNaWhEQjlLcVZrTXpFYVJBMUhfZldOdmV6VDJtOTZSMmtMMUdtMmItRXFPelh3c1JlS3ktazVqVUJVSDN5S2lqRkZHOUpHeVpxQU5CR1IwTXA0WlhYc3fSAfgBQVVfeXFMTkl5eG1TWlVSNlExTnM4VFg0N2tabGVEV1JDalFBRmFqTUJnaEEzcnJ5ajN0YUNNVEpFUUlZY09pLWVXSnZzZHIwM09uclUwakd0eEtGSzdFNlp2MTJja0FfMUR3R2JFMi1iWF94eDBWaVAyWFE2QmNlV0w4S2tKd2VEakJaNkhrbzJvRVNjZlRCVmJxSFFWMm9mMVlpQlFtTVgxbXFWTGRCQ2ZaYjR1aWtkZE9GeUJYY2FjWEdXeUg1UjNtVDQzbUpKWXZyaHladV84dHcyX3hGT0NkUGJnUkoxM1hlQ1R5RmdkaDBVX0RVMTlmTWVqU1U?oc=5"
+    },
+    {
+      "t": "“Se os sucessos são inesperados, os conjuntos de dados não vão levar você até lá”: executivos da Take-Two Interactive e da Sony afirmam que a IA não pode substituir a criatividade humana",
+      "d": "Strauss Zelnick e Hiroki Totoki também não acreditam que a IA vá desaparecer",
+      "link": "https://br.ign.com/grand-theft-auto-v/156962/se-os-sucessos-sao-inesperados-os-conjuntos-de-dados-nao-vao-levar-voce-ate-la-executivos-da-take-tw",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-20T21:24:54.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/i/if-hits-ar/if-hits-are-unexpected-datasets-arent-gonna-get-you-there-ta_9cdq.jpg"
+    },
+    {
+      "t": "Novo Xbox pode chegar mais tarde e com preço mais alto",
+      "d": "&nbsp;&nbsp; Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/novo-xbox-pode-chegar-mais-tarde-e-com-preco-mais-alto/",
+      "fonte": "Tecnoblog",
+      "data": "2026-10-20T21:23:16.000Z",
+      "c": "Consoles",
+      "img": "https://files.tecnoblog.net/wp-content/uploads/2022/04/xbox-x_capa-1_tb-1536x864.png",
+      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMTJaM0IwYk1ROTU3dUw4end1c1lzVGswcTJyQ2lBRi12eEctV3ZzU3E3WVdIMDB1bmNEWTR0NDdLNm55R2hGTTZuczMxd1Q1b09OV1F0WGNweUEtRW91dzJTTnVGWGZOY0VsaDljbk84V0VrUHg0ODBxZE1VU282M3NUUURqekdtVDZzY0lhOA?oc=5"
     },
     {
       "t": "Próximo console do Xbox pode custar até US$ 1.800; há rumores de que um novo portátil será lançado no ano que vem, antes do Helix",
-      "d": "&nbsp;&nbsp; IGN Brasil",
+      "d": "É uma estratégia ousada Um novo relatório afirma que a Xbox espera que seu console de próxima geração custe até US$ 1.800 e que, atualmente, a previsão é de lançamento em 2028. Um novo artigo da...",
       "link": "https://br.ign.com/xbox-next-generation/156960/proximo-console-do-xbox-pode-custar-ate-us-1800-ha-rumores-de-que-um-novo-portatil-sera-lancado-no-a",
       "fonte": "IGN Brasil",
-      "data": "2026-10-20T21:10:11.000Z",
+      "data": "2026-10-20T21:08:57.000Z",
       "c": "Consoles",
-      "img": "https://sm.ign.com/t/ign_br/news/x/xboxs-next/xboxs-next-console-may-reportedly-cost-as-much-as-1800-new-h_6tur.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcU52MU1vMGdBcjIyZXRQLWc1SkYzYWJrMXh3d0RCNmZtQlhWV0NzejNmblUyT0dkbDBkeWxmSl92LVlQYXB4aEJ1WG9kU1hPNGhMWTRPeXJYcmlna0lsWXpGaFZVX3ZZTHpRZkZuRGVsUmtIMWJ5cWpOQ0U5eUI5bU9NS2xSQkdrVE00bF83NXQ3U2pkY2VjbENsNGpwQWhTS1RzMzMxckRiUHdhbFY0ZHZXTEdYRU1vTGxlMFh3YVp4NlhGRzNIYnR2MktRR2xDbC14UUJHQ0h4QUVwaE90VA?oc=5"
+      "img": "https://sm.ign.com/ign_br/news/x/xboxs-next/xboxs-next-console-may-reportedly-cost-as-much-as-1800-new-h_6tur.jpg"
     },
     {
       "t": "Xbox Game Pass passará por uma “grande reformulação”, segundo relatos, e contará com opções “à la carte”",
-      "d": "&nbsp;&nbsp; IGN Brasil",
+      "d": "Ter opções é bom!",
       "link": "https://br.ign.com/xbox-game-pass-1/156958/xbox-game-pass-passara-por-uma-grande-reformulacao-segundo-relatos-e-contara-com-opcoes-a-la-carte",
       "fonte": "IGN Brasil",
-      "data": "2026-10-20T21:10:11.000Z",
+      "data": "2026-10-20T21:06:20.000Z",
       "c": "Consoles",
-      "img": "https://sm.ign.com/t/ign_br/news/x/xbox-game-/xbox-game-pass-reportedly-getting-major-overhaul-will-featur_gpsf.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMDkyUDdRS1ZhYmFjdmNRN09hMnlGcWkyVFBXVldxTjljZFF6cDNoOU82MXRFSVN4NXpmLWNFUlhKMUkwLVNuZDJFNzhCVnhGc0FNSFhRMkxFeE9mdUlxdjk5d0RoWG9Pa1ZyMEJrMVRRRDRrM3JPOHNMT1IxVWVMVUxMRk5EUkw3cDdfc2RUY1Fla3E3WjJGVzlPUlhOanFyZlc5WV9kNjlpMDBheEFPZDJKc1Q4aVF0eGZCSXZ4SmRsVmZBb3FPaGNhN0JRZkdtV1dNLTJRR20?oc=5"
+      "img": "https://sm.ign.com/ign_br/news/x/xbox-game-/xbox-game-pass-reportedly-getting-major-overhaul-will-featur_gpsf.jpg"
     },
     {
       "t": "Atualização 1.1 de The Blood of Dawnwalker adiciona a possibilidade de acariciar animais em diferentes direções, além de mais de 1.100 outras melhorias e correções",
@@ -50,16 +97,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2024/12/Gex2.jpg"
     },
     {
-      "t": "Xbox portátil pode chegar antes do próximo console",
-      "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://alternativanerd.com.br/games/xbox-portatil-pode-chegar-antes-do-proximo-console/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-10-20T20:51:34.000Z",
-      "c": "Consoles",
-      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/04/AN_Asha-Sharma-Xbox.webp",
-      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmRKUWJvVFEyQWpFZ0dpOHRDVkt2VVcwZ2hlWmZRdWdNOTJDSW4zbHdoYW9jWHZ0NGVPSVdZMFEwbkptdEpKNkVtZGhkRTduZk1JTmxvT0lmclBUSDI0cXhHRl9fNGpjekdWTzJDemRDTl9hZTJ2Y3p0Y0JLbWFESE4yX3ktb3JkMU0td2JTRlM2Zw?oc=5"
-    },
-    {
       "t": "Supostas imagens vazadas mostram jogo cancelado de Assassin's Creed ambientado na China da Dinastia Qin",
       "d": "Destinado ao infortúnio",
       "link": "https://br.ign.com/assassins-creed-codename-jade/156955/supostas-imagens-vazadas-mostram-jogo-cancelado-de-assassins-creed-ambientado-na-china-da-dinastia-q",
@@ -67,25 +104,6 @@
       "data": "2026-10-20T20:45:35.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/news/a/apparent-l/apparent-leaked-footage-shows-canceled-assassins-creed-game_rmck.jpg"
-    },
-    {
-      "t": "Slideshow: Sony PlayStation Frame Generation Patent",
-      "d": "&nbsp;&nbsp; IGN Brasil",
-      "link": "https://br.ign.com/playstation-6/156950/sony-playstation-frame-generation-patent",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-20T20:42:53.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/t/ign_br/gallery/s/sony-plays/sony-playstation-frame-generation-patent_cfn4.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEJyUUlJaWdwZUhMandvbTVfbGZiV191VW1XRG5BQl9kMG1iUHFiMzVoNW5OVmRoalo3dzZtX3M5Q2NRTmhoTHBHN0lyRnZ5OTN5SUttOFRNTHc1eHZOSFI3S015bWhEMFEwOGJUcVBjTHZHNzdGTlAyUG00WmVvZVVRbENBNGM?oc=5"
-    },
-    {
-      "t": "Atualização do Nvidia App permitirá que agentes de IA ajustem sua placa de vídeo, mas alguns usuários alertam para desativar o recurso",
-      "d": "Agente não tão secreto",
-      "link": "https://br.ign.com/nvidia-rtx-5080/156944/atualizacao-do-nvidia-app-permitira-que-agentes-de-ia-ajustem-sua-placa-de-video-mas-alguns-usuarios",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-20T20:35:29.000Z",
-      "c": "PC",
-      "img": "https://sm.ign.com/ign_br/news/n/nvidia-app/nvidia-app-update-will-let-ai-agents-tune-your-graphics-card_7c4b.jpg"
     },
     {
       "t": "Nvidia GeForce RTX 5080 – Photos",
@@ -97,13 +115,13 @@
       "img": "https://sm.ign.com/ign_br/gallery/n/nvidia-gef/nvidia-geforce-rtx-5080-photos_puzp.jpg"
     },
     {
-      "t": "Vendas de Ghost of Yotei ficam atrás das de Tsushima, mas ainda são expressivas no PS5, apontam estimativas de analistas",
-      "d": "No limite",
-      "link": "https://br.ign.com/ghost-of-yotei/156947/vendas-de-ghost-of-yotei-ficam-atras-das-de-tsushima-mas-ainda-sao-expressivas-no-ps5-apontam-estima",
+      "t": "Atualização do Nvidia App permitirá que agentes de IA ajustem sua placa de vídeo, mas alguns usuários alertam para desativar o recurso",
+      "d": "Agente não tão secreto",
+      "link": "https://br.ign.com/nvidia-rtx-5080/156944/atualizacao-do-nvidia-app-permitira-que-agentes-de-ia-ajustem-sua-placa-de-video-mas-alguns-usuarios",
       "fonte": "IGN Brasil",
-      "data": "2026-10-20T20:27:10.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/news/g/ghost-of-y/ghost-of-yotei-sales-lag-behind-tsushima-but-are-still-stron_xpqz.jpg"
+      "data": "2026-10-20T20:35:29.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/news/n/nvidia-app/nvidia-app-update-will-let-ai-agents-tune-your-graphics-card_7c4b.jpg"
     },
     {
       "t": "Ghost of Yōtei Complete Edition Screenshots",
@@ -115,40 +133,13 @@
       "img": "https://sm.ign.com/ign_br/gallery/g/ghost-of-y/ghost-of-yotei-complete-edition-screenshots_tpfu.jpg"
     },
     {
-      "t": "PlayStation 6 provavelmente terá a própria versão da Sony de geração de quadros, segundo patente mais recente",
-      "d": "Mais rápido",
-      "link": "https://br.ign.com/playstation-6/156949/playstation-6-provavelmente-tera-a-propria-versao-da-sony-de-geracao-de-quadros-segundo-patente-mais",
+      "t": "Vendas de Ghost of Yotei ficam atrás das de Tsushima, mas ainda são expressivas no PS5, apontam estimativas de analistas",
+      "d": "No limite",
+      "link": "https://br.ign.com/ghost-of-yotei/156947/vendas-de-ghost-of-yotei-ficam-atras-das-de-tsushima-mas-ainda-sao-expressivas-no-ps5-apontam-estima",
       "fonte": "IGN Brasil",
-      "data": "2026-10-20T20:19:22.000Z",
+      "data": "2026-10-20T20:27:10.000Z",
       "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/news/p/playstatio/playstation-6-will-likely-have-sonys-own-take-on-frame-gener_1mkf.jpg"
-    },
-    {
-      "t": "Sony PlayStation Frame Generation Patent",
-      "d": "",
-      "link": "https://br.ign.com/playstation-6/156950/sony-playstation-frame-generation-patent",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-20T20:19:22.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/gallery/s/sony-plays/sony-playstation-frame-generation-patent_cfn4.jpg"
-    },
-    {
-      "t": "“Deveria existir uma premiação de jogos para ‘pais gatos’”: desenvolvedores de Castlevania: Belmont’s Curse estão totalmente cientes — e adorando — as fanarts sexuais do jogo",
-      "d": "\"Na verdade, é uma escolha. Tipo, é uma vibe\"",
-      "link": "https://br.ign.com/castlevania-belmonts-curse-1/156952/deveria-existir-uma-premiacao-de-jogos-para-pais-gatos-desenvolvedores-de-castlevania-belmonts-curse",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-20T20:10:03.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/t/there-shou/there-should-be-a-game-award-for-hot-dads-castlevania-belmon_5djd.jpg"
-    },
-    {
-      "t": "Castlevania: Belmont's Curse Gallery",
-      "d": "",
-      "link": "https://br.ign.com/castlevania-belmonts-curse-1/156953/castlevania-belmonts-curse-gallery",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-20T20:10:03.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/gallery/c/castlevani/castlevania-belmonts-curse-gallery_6xpb.jpg"
+      "img": "https://sm.ign.com/ign_br/news/g/ghost-of-y/ghost-of-yotei-sales-lag-behind-tsushima-but-are-still-stron_xpqz.jpg"
     },
     {
       "t": "Xbox deve ter portátil em 2027 e console só em 2028",
@@ -276,6 +267,15 @@
       "data": "2026-10-20T15:00:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/DPB374YI6JESLOV22ZJ4YQMMCU.jpg?quality=80&auth=a72fb692eb0d5a5e9228fae39fcf1eb488723f94cb9aa1f82af1a667980d473a&width=710"
+    },
+    {
+      "t": "ReVamp tem teste público adiado por medo de clone de IA",
+      "d": "Diversos jogos indies têm sido clonados com engenharia reversa com IA – e por isso ReVamp adiou o playtest",
+      "link": "https://flowgames.gg/revamp-tem-teste-publico-adiado-por-medo-clone-de-ia/",
+      "fonte": "Flow Games",
+      "data": "2026-10-20T14:55:24.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/image-48.jpg"
     }
   ],
   "videos": [
