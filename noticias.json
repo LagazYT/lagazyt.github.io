@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-20T05:41:25.849Z",
+  "atualizadoEm": "2026-10-20T06:11:32.184Z",
   "noticias": [
     {
       "t": "Já disponível: Promoção de Halloween da Epic Games Store tem descontos de até 80%",
@@ -22,6 +22,16 @@
       "orig": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVENWdFFkNlFJNG9aNGhBZjNlTVMySmpobUpUVnVrU0plU25nNnVQVjZzSmhhcXFESERBYU91OFF3emZRLWJYbkZ5ejZsZjFBMTdPaHVVZTZzUl9lcC1mdGY5QU15TDM0bDF6a2xaZ0dkZHNaRHpEYVMyNTR5ejFYN0wzYTByZHlYQzVqdk5sNFY4N1p0ejJOV1FhTDE5My0xM0o2NU9xenl1MUktMXktQkh0cV8yMEZtZ3VON0VhMFE0bF9OV1VSWFlrN3VBYVFObTY0SHdPSXliVngxX2hXdA?oc=5"
     },
     {
+      "t": "gamescom latam 2027 abre inscrições para o gamescom latam BIG Festival e para sugestões de palestras",
+      "d": "&nbsp;&nbsp; Drops de Jogos",
+      "link": "https://dropsdejogos.uai.com.br/noticias/gamescom-latam-2027-abre-inscricoes-para-o-gamescom-latam-big-festival-e-para-sugestoes-de-palestras/",
+      "fonte": "Drops de Jogos",
+      "data": "2026-10-20T02:26:15.000Z",
+      "c": "Eventos",
+      "img": "https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2026/10/unnamed-13-scaled.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRHZqcEFtMkpBN05lRC1qcEpFOFRJSFdMdGp4bktQbE5sNVk0Q0N3d3BXc0dNc1ZqMnBNVVlxYno2aWllSDJzb0lINHNGMEs2XzF6OVRNNFdGUUlKdmhud0E3QnRMV0NtSVhXaEd6WFgzZWpvcjc3RlFzNVd0aURyU3ZrbVpTQnVQRVJfRUUzMkNZWVFsTS1oM0hacTVWNEVFWS1HS29Nc05BS0FZSENzQ3duSTBsdDVVSV9RLTc3ZXhpaWFWZGU4VTFrU09QUjI5V2JyWFNyNEtVUQ?oc=5"
+    },
+    {
       "t": "Monster Hunter Wilds ganha demo gratuita no Nintendo Switch 2",
       "d": "&nbsp;&nbsp; jwave.com.br",
       "link": "https://www.jwave.com.br/2026/10/monster-hunter-wilds-ganha-demo-gratuita-no-nintendo-switch-2/",
@@ -40,16 +50,6 @@
       "c": "Geral",
       "img": "https://cabinecelular.com.br/wp-content/uploads/2026/10/1MM-399.webp",
       "orig": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOeHdOcVVRREZpazNhTHRScHpIYnN0UXU0OGRJYW5OMTh3RGttZXZ5LUFXR2hWS1JUSk9ZWDY1dGpjQTc2dmJaYVBLeThqX05BR0NiZ1Y0VG01SlFvZWdwY3IwSGMwVE4wRVVoekNFUWJkeXBXblJxUXlxV2ZORnNFQzdfbUxTZWJkZUdvOUw4QnAwSWlHRHpZNDRybWVjcUZyMXlKRFRvWmtBNUJPMjdJN2Q3QjNpcHd1bVFWbmxnSDZhMXc4VzJaamE5WmxSOUVVZUFWNEpLSUtZZm1aTXNsV0Jnc3F6a01uZHJHa0NiZVlfV3BKSEV1Z0tXYlhOWmpvN0txOVdfSWJqQkZDNlVIM3RVZUpNNzFhR0JTLTZoM2VnUHVqMUx3TFNvUG9ldEVyd3NtT2E3YmYxZm9zTlFTSWg2bFF4V3F0RVk2Tjh0OUhwdDNFb0FvZ09n?oc=5"
-    },
-    {
-      "t": "Vaga da Xbox cita jogos físicos e reacende debate digital",
-      "d": "&nbsp;&nbsp; einerd.com",
-      "link": "https://www.einerd.com/xbox-vaga-jogos-fisicos-debate-digital/",
-      "fonte": "einerd.com",
-      "data": "2026-10-20T00:30:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.einerd.com/wp-content/uploads/2026/06/Xbox-Games-Showcase.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DdTlMY0J5NlpmMmstSVF2RzE0R1I4VU41LXZ6bjZjOTh5S1pKLTdmYS0xNG90RmhLT1RFZGM2QVNUQi1KMFZBYWpZZzFvUmhDYWY4YV80dTZjcUJ0RzZzNkh5cFo3TGRlWTFacHRhaw?oc=5"
     },
     {
       "t": "3 em 1! Combo com 3 jogos da saga God of War fica 10% mais barato em bundle exclusivo na Amazon",
@@ -2076,6 +2076,18 @@
       "link": "https://www.igdb.com/games/trees-hate-you"
     },
     {
+      "t": "Tekken 8: Roger Jr.",
+      "data": "2026-11-16",
+      "plats": [
+        "Xbox",
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobhpt.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/tekken-8-roger-jr"
+    },
+    {
       "t": "Aurora Requiem: The Lullaby of Calvaris",
       "data": "2026-11-16",
       "plats": [
@@ -2103,7 +2115,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv1v.jpg",
-      "hype": 1102,
+      "hype": 1109,
       "link": "https://www.igdb.com/games/grand-theft-auto-vi"
     },
     {
@@ -4725,16 +4737,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95me.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/deprision"
-    },
-    {
-      "t": "The Patient: Can You Escape?",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacts.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/the-patient-can-you-escape"
     }
   ],
   "musicas": []
