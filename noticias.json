@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-21T03:22:45.221Z",
+  "atualizadoEm": "2026-10-21T03:52:50.948Z",
   "noticias": [
+    {
+      "t": "Arctis GameBuds ou Pulse HB200: conexão gamer de 2,4 GHz ou Bluetooth",
+      "d": "&nbsp;&nbsp; Cabine Celular",
+      "link": "https://cabinecelular.com.br/guias-de-compra/arctis-gamebuds-ou-pulse-hb200-conexao-gamer-de-24-ghz-ou-bluetooth-um-fone-bluetooth-5-3-pode-funcionar-bem-com-o-celular-e-ainda-assim-nao-atender-quem-pretende-jogar-no-playstation-5-essa-dif/",
+      "fonte": "Cabine Celular",
+      "data": "2026-10-21T03:42:00.000Z",
+      "c": "Geral",
+      "img": "https://cabinecelular.com.br/wp-content/uploads/2026/10/1MM-426.webp",
+      "orig": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQZXU1dXN1TVhnUnllMFU0Wl90d0NNWXVZUFc0Q25JTkhwdWFTVHdZbnVMMS0wbFcxeFg2Y1Z4TjBMRFBUSkEtcTVScHZ0Q3NITEtCY2d1TmdLTXA2T3ZfVFcyZnpocHU2VjJqbUlXS2NSRmZwTE5qMzNnLWJSZlIwenotXy16UDFXVWlqVU9NT3k4UHZfMmJ2RXkwYjZBNW9nYXhzNDRmbTd1NnFYbXVQc0Z3cDlWTVNrcDhqSHpvUENNQXNhNzZIWUhPUTEzYWwwMGRlYXU4X3JJRU45Y2twclRmR09WcENDM1U0c3NtSm1QeTNueEk0M3JIUUVXQWtoTWlxc19pdDNHc3FSUV9XNDVXNmNfUjl2djRabjQwSG1EVEFRZ1NOUGhGMFRDd2lWdHp1b25sM3Fpck5Nd3lZUFJMd1FNTTBHXzM3SUtMMHBZQ2RKNVY2WWdZekg?oc=5"
+    },
     {
       "t": "Xbox estaria planejando mais três rodadas de demissões",
       "d": "&nbsp;&nbsp; Notebookcheck.info",
@@ -40,16 +50,6 @@
       "c": "Ofertas",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcEx4TGFtaTNFYTB3dHRiUnVJRVNBaC1MbHhuZ1ZBQXBaSUdFMTlwTW44RUFEQ2hIQ0JLYTFEV19vRWdPUUs3NWhCNnNVVzNfY2UwSDhHdGVlNXg0eHlOWkwwTkJmZllwTlpjS2xzZ2tvQTRlWWlwZTJjTzZVNDNtM2pndUN3enN1NVBYSHJ5b0JLOVBaZklhdXc0dGUxMVRlRllNcGphZWcwWEdENzJFeHRMYi1tYkZhemNaaWpmSFpTYWx6ZFE?oc=5"
-    },
-    {
-      "t": "Xbox | Game Pass vai sofrer grande reformulação",
-      "d": "&nbsp;&nbsp; Omelete",
-      "link": "https://www.omelete.com.br/games/xbox-game-pass-vai-sofrer-grande-reformulacao",
-      "fonte": "Omelete",
-      "data": "2026-10-21T00:59:00.000Z",
-      "c": "Consoles",
-      "img": "https://cdn.ome.lt/hy4rJlB3HHMeOtAD9elVNPUHpJk=/1200x630/smart/filters:format(webp)/extras/conteudos/Xbox-Game-KV-1024x575.webp",
-      "orig": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzVtOTlXYnIzQXZiSlh4QjVWQk5XTkdqaVNISG0yenJuOFBnS1FhcmxOYUhpd3Vncnk1aVdtaFM1UTZaZDNWc2xIOEZMT1lubmlrRUgwcTUxSkZROGVOc0NvZ04xNkhqMzM1ZFhtUHZoVXFXUEtGSkpPVnFYZVFoZ1NyTFM?oc=5"
     },
     {
       "t": "A história por trás de Mina the Hollower, um dos melhores jogos de 2026",
@@ -2010,7 +2010,9 @@
       "t": "Derelikt",
       "data": "2026-11-13",
       "plats": [
-        "PC"
+        "Xbox",
+        "PC",
+        "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa07m.jpg",
       "hype": 3,
