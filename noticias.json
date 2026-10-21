@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-21T02:22:11.059Z",
+  "atualizadoEm": "2026-10-21T02:52:17.645Z",
   "noticias": [
     {
       "t": "Xbox estaria planejando mais três rodadas de demissões",
@@ -262,6 +262,16 @@
       "img": "https://www.estadao.com.br/resizer/v2/OYJ4CNGHAZKL7NTER7HMQ3RHAM.jpg?quality=80&auth=d897fd07059b98995d94d3538bf3a43d6c9695cf3e123ca5ead96a41823df208&width=710"
     },
     {
+      "t": "Diversos jogos da Sony estão sendo portados para PC em uma velocidade nunca vista",
+      "d": "&nbsp;&nbsp; Gameplayscassi",
+      "link": "https://gameplayscassi.com.br/videos/diversos-jogos-da-sony-estao-sendo-portados-para-pc-em-uma-velocidade-nunca-vista/134429/",
+      "fonte": "Gameplayscassi",
+      "data": "2026-10-20T17:00:33.000Z",
+      "c": "PC",
+      "img": "https://gameplayscassi.com.br/wp-content/uploads/2026/10/maxresdefault-11.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ29YZW91dkhOSmN3OEgxejkyVnlhWWFwdnJFQ1pqTHdZeTRPaFphN2lkMTI5YTZJamEyaTZ3cXR2MXB5cG5pdm85NVZjdFloYXJjS2ZnT3o1SExyYkpWSW9uZG40SThOdUtaQUkydG9vcWxUNGNNTGlqa2padWU2LVpoT3MycC1EN3ZFa25YZ0ROTzlrRU9VcWJZb18xNlNkSVVNRjJ4RUxoa2o5ZEFvQ085LWo2bmpFTjF4V0JkMVZKeHdX?oc=5"
+    },
+    {
       "t": "Nvidia detalha como sua CPU Vera terá mais potência para IAs Agênticas",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/nvidia-detalha-como-sua-cpu-vera-tera-mais-potencia-para-ias-agenticas/",
@@ -269,15 +279,6 @@
       "data": "2026-10-20T17:00:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/QMTNYXBWNFGFFIZGGBY75MYIRA.jpg?quality=80&auth=149028e8bc73f7f21ac0d2bed84f073aaae5ce834310ae769368b8ffacc3c823&width=710"
-    },
-    {
-      "t": "ID@Xbox Showcase: veja todos os trailers e anúncios do evento",
-      "d": "Veja tudo o que rolou no novo ID@Xbox Showcase",
-      "link": "https://flowgames.gg/idxbox-showcase-veja-todos-os-trailers-do-evento/",
-      "fonte": "Flow Games",
-      "data": "2026-10-20T16:45:07.000Z",
-      "c": "Consoles",
-      "img": "https://www.youtube.com/embed/203U4tDw2Lw"
     }
   ],
   "videos": [
@@ -293,7 +294,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8069,
+      "views": 8068,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -373,7 +374,7 @@
       "id": "zUskua35owE",
       "t": "FARM BRUTAL DE TOM DE LUMINA 1 MILHÃO POR HORA | EXPEDITION 33!",
       "data": "2025-05-23T22:23:39Z",
-      "views": 3524,
+      "views": 3522,
       "img": "https://i.ytimg.com/vi/zUskua35owE/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=zUskua35owE"
     },
@@ -445,7 +446,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20045,
+      "views": 20043,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -477,7 +478,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3074,
+      "views": 3073,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -485,7 +486,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3536,
+      "views": 3534,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -4249,16 +4250,6 @@
       "link": "https://www.igdb.com/games/junxions"
     },
     {
-      "t": "Battle Vision Network",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8biz.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/battle-vision-network"
-    },
-    {
       "t": "Petal Runner",
       "data": "2026-12-31",
       "plats": [
@@ -4738,6 +4729,19 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacts.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/the-patient-can-you-escape"
+    },
+    {
+      "t": "Golf With Your Friends 2",
+      "data": "2026-12-31",
+      "plats": [
+        "Xbox",
+        "Switch 2",
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyw1.jpg",
+      "hype": 6,
+      "link": "https://www.igdb.com/games/golf-with-your-friends-2"
     }
   ],
   "musicas": []
