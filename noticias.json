@@ -1,6 +1,36 @@
 {
-  "atualizadoEm": "2026-10-21T10:55:33.254Z",
+  "atualizadoEm": "2026-10-21T11:25:41.299Z",
   "noticias": [
+    {
+      "t": "Vendas físicas de Resident Evil: Requiem na PlayStation superam o total do jogo na Xbox",
+      "d": "&nbsp;&nbsp; Eurogamer.pt",
+      "link": "https://www.eurogamer.pt/vendas-fisicas-de-resident-evil-requiem-na-playstation-superam-o-total-do-jogo-na-xbox",
+      "fonte": "Eurogamer.pt",
+      "data": "2026-10-21T11:19:20.000Z",
+      "c": "Consoles",
+      "img": "https://assetsio.gnwcdn.com/resident-evil-requiem--Grace.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTVJpYktZZUVFLS1EZ3ZpbDJta0tqY241cVVHWDJyZGloZUpEQmwtRmVYYzFiSlc0WUxNTG5UaXFRSDFka21KaHAyV0Y5czA0dlR0aDJhekxwZmdwMVJBWk9EWms5MS1Tel82eUk5d2tDV3U5SThGUHY0ZGU1UmV1ZHBCZXpwaXU4clVGaHZ2cGoyUXMyeW9KMTZtR2I4UVpKZElocUlpcnFyTXlIR0Y0cg?oc=5"
+    },
+    {
+      "t": "GTA 5, Red Dead Redemption 2 e mais games deixarão o PS Plus em novembro! Veja a lista",
+      "d": "&nbsp;&nbsp; Estadão",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-5-red-dead-redemption-2-e-mais-games-deixarao-o-ps-plus-em-novembro-veja-a-lista/",
+      "fonte": "Estadão",
+      "data": "2026-10-21T11:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/THVRJP5D4NJKFNOGCZMFOYIN2U.jpg?quality=80&auth=0d4df0cef2754e96c0ee4c01a83aa72c8730cfd5e01665f387748e95fd570e1f&width=1200&height=630&smart=true",
+      "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEhab08xNG52RGtadzl0Zk9yajg4N2wwbFJhV0k1a3A3RGg0cENBUUJBNElvSVF4ZjRWVmMzbnhQd1V1QUx3SW5aZXpZVHN5Tkp0alBCZEczaDRnN2dWeEo2VE9FZXhVcm5uc1k4cE1mbUo3OTVMa2NfbVlIVHB1cENYNGFZQmNvblhJdEU5MF9ydHJCMTJRa0lKZlcxeXNiR1BpNmNwNkxIaWJpaUdyY3N4Xy1MaFFCeXNJWXJjVVFzZFRicnfSAcsBQVVfeXFMUDFiaWNqcGVWUkZGQm56dXFLOE9oTHVsQTRDWTVUMWdpUGg0Y2o0dnloVGlGLUNZNXZlZDFEVU5LakRhTUVLQjZaQlhLMUZxelF1SURuSXVhNFR2dXVNREFXaUp3cG02VjIyWjVRVHBnMDU3UG8wdHgwdXNadGNEQWhnb01uaUVRWV9LLWJycm9qOW5aS0NFUFMxQWVHSEtIb2V5WWpmWXFzR3ctMExxc2syc0gwUlFTRGM0LW9SR1ZkRnQ5WDE2V0FJbUU?oc=5"
+    },
+    {
+      "t": "KyTyPS5: emulador de PlayStation 5 dá grande passo e já roda Gran Turismo 7 sem falhas no PC",
+      "d": "&nbsp;&nbsp; TudoCelular.com",
+      "link": "https://www.tudocelular.com/curiosidade/noticias/n265489/kytyps5-emulador-ja-roda-gran-turismo-7-no-pc.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-10-21T11:09:21.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWNGejVZNHpIaVIxYXRCZVV4REtJRWFFQUFyMTZvNXJHcXpyaUpBdG1sXzMwdkVZSUlFR09iMFdHMXBRX3FNdm5MQWY5Z2tGNkdJZzZ1eEdENVlKUTdJOEdpeFIyZGZZT0gzQzhQOUJLOFZGNlEwaDFILTkwX1laaG9YUV9wUTZlckZEdDEzX2dZWDQtQXRTTlV4LXdUcW8zdnd2TUl5MkQ3VmM?oc=5"
+    },
     {
       "t": "Fantasy Boy é anunciado para Nintendo Switch 2",
       "d": "&nbsp;&nbsp; Nintendo Blast",
@@ -8,7 +38,7 @@
       "fonte": "Nintendo Blast",
       "data": "2026-10-21T10:20:13.000Z",
       "c": "Consoles",
-      "img": "",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2cWxYDUzqPmkAYwbawaZU2h8v-FsQc8PD6rirQUNnpc7zMy8L1tzTQVBVg7HS165mzRLeBowIqlqOKkNQ0AaZLdexcr-g1D4qiClup6ugGzrhi5H3yZoxT_rq4pxQQVvlPhvmVOayCoXP-GyChUWxW5Jbbtx45QHHKKJzKYtiDuGMZsZ7ojbNp36PYObV/w1200-h630-p-k-no-nu/Fantasyboyum.jpg",
       "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTlR5QWZyQUI3M0NUV1JlOWg0QncwTncxaG84M25jTjAtOFdGX0dINUQ3WC03MWJseWY1S3NDMUllZHlzbnQweUxKb25tSWNwbTBoZFhKR0xnbWN6ZFVLTGZlODNsNUNTM1BkZ1lqVXJvdEpndmRaRWxKS05jdzBreUllaFlxRDFZdG9YeUcxV010dlFJb1VZ?oc=5"
     },
     {
@@ -29,36 +59,6 @@
       "c": "Consoles",
       "img": "https://assetsio.gnwcdn.com/XBOX-Wireless-Controller-X25-Special-Edition_1-d75d6cc00415223ed301.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "orig": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVh6aGlRSzJGNUtFcTRrZV81VjctN3ZUeTYxdUE3V1Q0M1cyelRNWldzZ21hWllYa2dPUXFuMHVVOEc0czZ2RjBFQjVpRHozQk95a1k1MWFlYnhxcnRpS3FUNm5pTEhfdkVlZGw0eDN6MHZDUVdLVm5YNEhkMzU1NmdhRGs?oc=5"
-    },
-    {
-      "t": "Christopher Uckermann 40: ator de Rebelde exigiu PlayStation na Televisa e namorou Belinda e Anahí",
-      "d": "&nbsp;&nbsp; NaTelinha",
-      "link": "https://natelinha.uol.com.br/famosos/2026/10/21/christopher-uckermann-40-ator-de-rebelde-exigiu-playstation-na-televisa-e-namorou-belinda-e-anahi-249292.php",
-      "fonte": "NaTelinha",
-      "data": "2026-10-21T09:44:00.000Z",
-      "c": "Consoles",
-      "img": "https://imagem.natelinha.uol.com.br/original/christopher-uckermann-faz-40-anos_5257.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNTd4OGV1S2dBNXl3dEVNd0dmM1hiOXEwVDdoTm9Cckw4Nk1zMVZieEVDUlRJaWo1azdNclRBZFVpWlRLek5aYUtRdXNiOElWcGR5TjZxcmRxYzlBTHBKM1RjdVRUMkNJT2RwOTgwd2ZxdjFHNUZoTy16RXlNZVFFMWl3V0liUzFmbmZZWjFSOEZjQVhwQl92cWdJQ3FNRWVwaDJ6RmdjS3A4T0VIVXhuU3JpS2Y4MTd4RkJqSzI1Vm8xQkRoTzJETUE5dllYNElvcG41a2JOMGhackhTQ0w3WVZuQ2JfaDRYem5vONIB8gFBVV95cUxNZFZFOThydFJTQVJSZzlrVTNrODdzVUpIdHp5aUhpYlNnU1dxTjMtek1JOVpCVTBjaHNSR1dXVjYzUkZpZFd0QnJOOXJtdVJOcnkyR1dCRHFXaTdlRDRzTEc0T1VWeE9WX0x3cTltSjJHSmFlMXlVOHRVTm11dGJ4eXhCNzYzZ25qX3EwZDBHMDY3OUxYd2hSWXVLOVlscVJUdU5Fdm1mREl5aktXVG00SU9WckJQdGpPTTdLSEZLN1VnYlBYcUZTbmRwUWVSZ053RmI1YVd2T0txMUNiaWpUSVlmUmhlTllxbGk0TGhkTGlQQQ?oc=5"
-    },
-    {
-      "t": "A PS6 é mais barata de produzir do que a nova Xbox",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://www.eurogamer.pt/a-ps6-e-mais-barata-de-produzir-do-que-a-nova-xbox",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-10-21T09:29:53.000Z",
-      "c": "Consoles",
-      "img": "https://assetsio.gnwcdn.com/c19e94a1c16dc4627814185c99adbf3910dec4ea.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVhzcUhBTk1uMXhGV0xrOThrTXRWbE5NRkpLbGcybnBmbkZLZkFpZFlVZEtqM1hncXpNMU40S2ZJNkFFdl9hYzlrZW94cFhzY2VmTU5tbGVUeU1vM2xaYWVKYllNUGlDTDBOS0Y4U3IweFRrZnpueV9HS3ZQTHlkZQ?oc=5"
-    },
-    {
-      "t": "Xbox avaliada em $100 mil milhões",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://www.eurogamer.pt/xbox-avaliada-em-100-mil-milhoes",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-10-21T09:18:42.000Z",
-      "c": "Consoles",
-      "img": "https://assetsio.gnwcdn.com/Captura-de-ecra%CC%83-2026-01-22%2C-a%CC%80s-09.52.29.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IamtlUUw0VDNKOUxrM1FjLWpDS3EzWW40VmxrM1J2c1RSZEZTNURHaWZveUlHTm5NUEJlcWprQTlFbGEyZkwxcTA3cmpCbkF2S19sRHlqemdLS2Q2SkIzSjR4ajN4V1Va?oc=5"
     },
     {
       "t": "A história por trás de Mina the Hollower, um dos melhores jogos de 2026",
@@ -271,13 +271,14 @@
       "img": "https://www.estadao.com.br/resizer/v2/OYJ4CNGHAZKL7NTER7HMQ3RHAM.jpg?quality=80&auth=d897fd07059b98995d94d3538bf3a43d6c9695cf3e123ca5ead96a41823df208&width=710"
     },
     {
-      "t": "Nvidia detalha como sua CPU Vera terá mais potência para IAs Agênticas",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/nvidia-detalha-como-sua-cpu-vera-tera-mais-potencia-para-ias-agenticas/",
-      "fonte": "TecMundo",
-      "data": "2026-10-20T17:00:00.000Z",
+      "t": "Diversos jogos da Sony estão sendo portados para PC em uma velocidade nunca vista",
+      "d": "&nbsp;&nbsp; Gameplayscassi",
+      "link": "https://gameplayscassi.com.br/videos/diversos-jogos-da-sony-estao-sendo-portados-para-pc-em-uma-velocidade-nunca-vista/134429/",
+      "fonte": "Gameplayscassi",
+      "data": "2026-10-20T17:00:33.000Z",
       "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/QMTNYXBWNFGFFIZGGBY75MYIRA.jpg?quality=80&auth=149028e8bc73f7f21ac0d2bed84f073aaae5ce834310ae769368b8ffacc3c823&width=710"
+      "img": "https://gameplayscassi.com.br/wp-content/uploads/2026/10/maxresdefault-11.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ29YZW91dkhOSmN3OEgxejkyVnlhWWFwdnJFQ1pqTHdZeTRPaFphN2lkMTI5YTZJamEyaTZ3cXR2MXB5cG5pdm85NVZjdFloYXJjS2ZnT3o1SExyYkpWSW9uZG40SThOdUtaQUkydG9vcWxUNGNNTGlqa2padWU2LVpoT3MycC1EN3ZFa25YZ0ROTzlrRU9VcWJZb18xNlNkSVVNRjJ4RUxoa2o5ZEFvQ085LWo2bmpFTjF4V0JkMVZKeHdX?oc=5"
     }
   ],
   "videos": [
