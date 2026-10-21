@@ -1,6 +1,53 @@
 {
-  "atualizadoEm": "2026-10-21T14:57:22.665Z",
+  "atualizadoEm": "2026-10-21T15:27:32.901Z",
   "noticias": [
+    {
+      "t": "Cyberpunk 2077: atualização traz duas missões e mais conteúdo",
+      "d": "Novo update trará conteúdos inspirados na 2ª temporada de Cyberpunk Mercenários 2",
+      "link": "https://flowgames.gg/cyberpunk-2077-atualizacao-2-missoes-mais-conteudo/",
+      "fonte": "Flow Games",
+      "data": "2026-10-21T15:22:44.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/HVEAMhXXIAADxYv.jpeg"
+    },
+    {
+      "t": "Beyond Good and Evil 2 está em pré-produção, diz rumor",
+      "d": "Segundo informações de um site francês, o Beyond Good and Evil 2 ainda está em fase de pré-produção. Entenda o motivo!",
+      "link": "https://flowgames.gg/beyond-good-and-evil-2-esta-em-pre-producao-diz-rumor/",
+      "fonte": "Flow Games",
+      "data": "2026-10-21T15:10:02.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2023/03/20230227-ovicio-beyond-good-evil-3.jpg"
+    },
+    {
+      "t": "Novas rodadas de demissões do Xbox estão planejadas para o final de 2026 e começo de 2027, segundo reportagem",
+      "d": "&nbsp;&nbsp; IGN Brasil",
+      "link": "https://br.ign.com/xbox/156974/novas-rodadas-de-demissoes-do-xbox-estao-planejadas-para-o-final-de-2026-e-comeco-de-2027-segundo-re",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-21T15:09:43.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/t/ign_br/screenshot/default/1-1_nmfg.1200.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa2tYcUg2X3hvTC1iQnlIVDgtVElKVGttSnNKRzg5NGNlNURzM0Q0Q3pfbjBtSGZaelBRNHpaVWlkaTViTk45SWVvTmxKUzRMS21HMFB6ZG1oZVVoZFdJVmJmbTVmbkcxdzZvenM1cE40ZHlhTkswV0VqT2thNkdoT3BWejdsV2ZDbXdnVG5ubC1xVy04dzVBbmxDTDItQVhBWmNhMmF2U2tfaWh0MEtCTmlCRE1PTUpoQkd4RVFxLUJaM3dwdW9FcEZQQQ?oc=5"
+    },
+    {
+      "t": "Usuários do Steam imploram por um filtro que exclua conteúdos gerados por IA, já que o Steam Next Fest está repleto de material de baixa qualidade",
+      "d": "Feche as comportas",
+      "link": "https://br.ign.com/steam-machine/156973/usuarios-do-steam-imploram-por-um-filtro-que-exclua-conteudos-gerados-por-ia-ja-que-o-steam-next-fes",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-21T15:03:59.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/news/s/steam-fans/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest_eh1z.jpg"
+    },
+    {
+      "t": "Microsoft planeja Game Pass \"self service\" para jogador montar própria assinatura",
+      "d": "&nbsp;&nbsp; Canaltech",
+      "link": "https://canaltech.com.br/games/microsoft-planeja-game-pass-self-service-para-jogador-montar-propria-assinatura/",
+      "fonte": "Canaltech",
+      "data": "2026-10-21T15:03:00.000Z",
+      "c": "Geral",
+      "img": "https://tl.ctcdn.com.br/7XtDABUX77IJh4wuYPz5rjcM1vo=/1200x675/smart/filters:format(webp):quality(85)/92dc9279-ec68-4070-bedc-7bb38332aedc.png",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGRpVFUtbTVFVERQTjRZR0tXamt6T3JkeW5hS2dhbXpOam1yQ1NYS0Zvc1FjdVFhSlQyUlo2Vl9fWUw1elU4ejFxOUVJRGZWaTFjUFVZVjNLcVQtb1h0cmhPWkJObjhtMTE1QzluN2ZsMmgwRXhXdHFtNUFsc1BJSkdtMUtnRTFvN3g0U2c3eHo3OUlKaWc1TUxyam85QnYxTW9qZzlMXzJTQml2NWhqMg?oc=5"
+    },
     {
       "t": "Monitor LG UltraWide 29” tem 35% OFF em oferta relâmpago no Mercado Livre",
       "d": "Tela IPS de 29 polegadas, formato 21:9, HDR10 e 100 Hz para trabalhar e jogar com mais espaço!",
@@ -48,14 +95,14 @@
       "orig": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQm9PVVpyRlkwU0pMTTN2QkdqamVZOHozR1FfVnJESE45TWFQNFlIME1EVW1JRjNBVlhIaWtBSFdRM2oybks3OGZOOWkwWkFIWUcxUWJ6aHNSYl94eGVQWWZ2dUdKLWg2ZWN1ejNlTGVGQ09CYjgyWXdabkpqTlRHb013V3VoSEY5NFZUcm1Ga3Q3bkc1ZC1XSDZ4RlowNnpTWnRYdXRjcVhZZzdNbVdTWXVwSi1pWXc1N09lMldvZHU4Tm40Rmc0VjhBRQ?oc=5"
     },
     {
-      "t": "A regulamentação do Marco Legal dos Jogos Eletrônicos e o futuro da indústria de games no Brasil",
-      "d": "&nbsp;&nbsp; Tribuna do Agreste",
-      "link": "https://www.tribunadoagreste.com.br/geral/2026/10/21/1002186-brasil-na-era-dos-games-como-essa-industria-vai-crescer-no-pais-especialista-explica-videos",
-      "fonte": "Tribuna do Agreste",
+      "t": "Brasil na era dos games: como essa indústria vai crescer no país? Especialista explica (VÍDEOS)",
+      "d": "&nbsp;&nbsp; Tribuna do Sertão",
+      "link": "https://www.tribunadosertao.com.br/geral/2026/10/21/1002185-brasil-na-era-dos-games-como-essa-industria-vai-crescer-no-pais-especialista-explica-videos",
+      "fonte": "Tribuna do Sertão",
       "data": "2026-10-21T14:43:00.000Z",
       "c": "Geral",
-      "img": "https://img.dhost.cloud/i6EAJ8_XmouznbBUlw81ZCfJFo8=/1200x630/smart/https://tdan.nyc3.digitaloceanspaces.com/images/75f2d/77cb706391edeb2d56209ca37c0c5e9060d.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMEZjc2t6WDRfWWYxSjI3Z0h1bGJuQjhiRnFXV3B5a3loQ3pHcHZlVWdTWUhRWTlfVzIxelVQWGJYQWktcldRNjE2UWJFNkdOTFc3bTV3NDFVVFN3THAyYUZoRUtCZ29VZXp3TFJYQVZLMHg4NTF0Tk4ydHBTeVFtOXdaU0RXcGtXRUpsUkRZcXVuSHE5S2UtRXFnY19YSGtBYkhlSGk3X3JYZnpWN3o1UVFoRm5fb3BTYmlQcXUybXAxVXZPUTBUZlFhRTdNOWM2MmFtLWpuY3BYYlJFVVB4ZEI4M0dmSk0?oc=5"
+      "img": "https://img.dhost.cloud/KbDACDj3rR2kptGXmy-F463O6i0=/1280x720/smart/https://tdan.nyc3.digitaloceanspaces.com/images/75f2d/77cb706391edeb2d56209ca37c0c5e9060d.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQnpkMW9aaUd5bTV6NGlMQ0hwMktkRUxZTmdQRjhtQVNoMGpDMGpNNkt5eVAyZ2hvN3BUTnZ3RUxKUGw5U3prOVgyV1dWNGJyVGFDQU40amY0Z3lwdWNZcGlpS29Vd2NmMFR0MUZrV2J1UV81blRsUkRwai1OR05VUnNTVWFTb2RWS2s5RkhjS3ExcTBfVFdPYjdRVzA0T21rZ2lnbzNyYjBiT0IybGppVHlETUdTN2tLZ0FsNWVWLV9TOXduMHVLVGZ3b2lHaDlIcWFnV25SVmxvUjdWQ196RTdTVXhlQQ?oc=5"
     },
     {
       "t": "EA Sports anuncia retorno de franquia icônica",
@@ -75,26 +122,6 @@
       "c": "Consoles",
       "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/White-Box-Quiz.png",
       "orig": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UZFhmd21wM2pCbjBMZGVwNHJKaWlMSTVHSzdtYkpjY3BnWXZ3ZlNoTHgwRGpkWHQ3dHZKWGE3aGtpNUZDUnNYcm1ndnpaSTNKeGdHbnN1T1dLYTlQSmxKSlhtSVdIYUhkbkUwRDd0dzNjeVVVS2JoSWZn?oc=5"
-    },
-    {
-      "t": "Games competitivos: tecnologia permite disputar partidas com base no desempenho individual",
-      "d": "&nbsp;&nbsp; Olhar Digital",
-      "link": "https://olhardigital.com.br/2026/10/21/games-e-consoles/como-a-tecnologia-transforma-desempenho-nos-games-em-competicoes/",
-      "fonte": "Olhar Digital",
-      "data": "2026-10-21T14:30:00.000Z",
-      "c": "Geral",
-      "img": "https://img.odcdn.com.br/wp-content/uploads/2026/10/Gamers-Brawl-GGamers.webp",
-      "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXp3RkZGUWRTQUY0YnlBZUFZOHhETnpITzdid0ZyaUpSUHJOdDZubXVBR3lDRXZveGJoZ09fbF9uRFE1QTBoSTNwcEFjRXJzUnBPWWpBeFM4eUhlV0s0OHc3UXJzeENmbGI4cVNwS21YYlVFVG5wVlV3NjczX3lLdnF3N1lKc3p2ODNmNWtXVUJyZWFaX3hHdF8yQ18tN3hMaUpEZWZ1ZFpNelM3ZWU5SGlBQm5ZRGlMTU5TTk93?oc=5"
-    },
-    {
-      "t": "2014 FIFA World Cup Brazil ganha versão para PC",
-      "d": "&nbsp;&nbsp; Arkade",
-      "link": "https://arkade.com.br/preso-no-ps3-e-xbox-360-enfim-o-jogo-da-copa-do-mundo-de-2014-do-brasil-ganha-versao-nativa-para-pc-gracas-a-um-dev/",
-      "fonte": "Arkade",
-      "data": "2026-10-21T14:30:00.000Z",
-      "c": "PC",
-      "img": "https://arkade.com.br/wp-content/uploads/2026/10/preso-no-ps3-e-xbox-360-enfim-o-jogo-da-copa-do-mundo-de-2014-do-brasil-ganha-ve.webp",
-      "orig": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc1hxNUNlZF8wS1gwRU1JbVhPRVVnNHpMMzR0M2Z5cnRkSzlub0hWWFlTZGhxVW90SjNqYjJ3Y3N6SmFtTUR2ZndzYXdzWkxOSXptSTJYZG9ZN1pfczBNYXN5VXBaR0I1MzRwS2dKWmllaEhmZFNESDFjMzZSa1Z6ak9nN0wyMHkxNi1nQ3dkTUNXaWI1eW9odlE3Q2lvSmxTQlBleHI4YVRVYVZzYUdqT0lsN1A5dUpBOHgyU3VhNkVEbVRCeWpWaktZRWVGYzNGYzJvaw?oc=5"
     },
     {
       "t": "Helix: Microsoft pode lançar Xbox de nova geração em 2028 com preço alto",
@@ -206,24 +233,6 @@
       "img": "https://sm.ign.com/ign_br/news/i/if-hits-ar/if-hits-are-unexpected-datasets-arent-gonna-get-you-there-ta_9cdq.jpg"
     },
     {
-      "t": "Próximo console do Xbox pode custar até US$ 1.800; há rumores de que um novo portátil será lançado no ano que vem, antes do Helix",
-      "d": "É uma estratégia ousada Um novo relatório afirma que a Xbox espera que seu console de próxima geração custe até US$ 1.800 e que, atualmente, a previsão é de lançamento em 2028. Um novo artigo da...",
-      "link": "https://br.ign.com/xbox-next-generation/156960/proximo-console-do-xbox-pode-custar-ate-us-1800-ha-rumores-de-que-um-novo-portatil-sera-lancado-no-a",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-20T21:08:57.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/news/x/xboxs-next/xboxs-next-console-may-reportedly-cost-as-much-as-1800-new-h_6tur.jpg"
-    },
-    {
-      "t": "Xbox Game Pass passará por uma “grande reformulação”, segundo relatos, e contará com opções “à la carte”",
-      "d": "Ter opções é bom!",
-      "link": "https://br.ign.com/xbox-game-pass-1/156958/xbox-game-pass-passara-por-uma-grande-reformulacao-segundo-relatos-e-contara-com-opcoes-a-la-carte",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-20T21:06:20.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/news/x/xbox-game-/xbox-game-pass-reportedly-getting-major-overhaul-will-featur_gpsf.jpg"
-    },
-    {
       "t": "God of War: Kratos teria outro nome, mas piadas de pizza impediram",
       "d": "Segundo o criador de God of War, o nome original de Kratos seria Dominus, mas as piadas o fizeram mudar de ideia",
       "link": "https://flowgames.gg/god-of-war-kratos-teria-outro-nome-piadas-impediram/",
@@ -269,15 +278,6 @@
       "c": "Ofertas",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOTRVd2ZiaUNiZGJ3aG9qZVJxZmh1RnFHei1iRHJvNEtQdFp1eUwzc3hHcldWdXFGRmN3aWhYZTZTZkxmV2VfREd3dVpuUVBIS21yMkk4cEdFeGZRaUtfY3EzZ29haHR1MHVVZ2lfRi0wUTlscnZyVGk5eEdyUEJfZTNGWUJpZ3FnNlNuUFpENFBiZG1EbGdTQU5LRllaSFJLQ1J1bA?oc=5"
-    },
-    {
-      "t": "Xbox Game Pass de outubro recebe Final Fantasy VII Remake Intergrade e mais jogos! Veja a lista",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-de-outubro-recebe-final-fantasy-vii-remake-intergrade-e-mais-jogos-veja-a-lista/",
-      "fonte": "TecMundo",
-      "data": "2026-10-20T18:15:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/Z6C2YLGIWBFR7ESPSZF4IEVTXQ.jpg?quality=80&auth=4cefe77a2e2c58554392bd5d7b0cb64dcf122f883388a4499738a3d00ed37d41&width=710"
     }
   ],
   "videos": [
@@ -1911,7 +1911,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod6wd.jpg",
-      "hype": 2,
+      "hype": 3,
       "link": "https://www.igdb.com/games/shrek-2-remastered"
     },
     {
