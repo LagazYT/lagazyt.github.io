@@ -1,45 +1,64 @@
 {
-  "atualizadoEm": "2026-10-21T11:25:41.299Z",
+  "atualizadoEm": "2026-10-21T11:55:53.234Z",
   "noticias": [
     {
-      "t": "Vendas físicas de Resident Evil: Requiem na PlayStation superam o total do jogo na Xbox",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://www.eurogamer.pt/vendas-fisicas-de-resident-evil-requiem-na-playstation-superam-o-total-do-jogo-na-xbox",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-10-21T11:19:20.000Z",
+      "t": "Microsoft prepara grande reformulação do Xbox Game Pass, aponta reportagem",
+      "d": "&nbsp;&nbsp; Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/reformulacao-xbox-game-pass/",
+      "fonte": "Hardware.com.br",
+      "data": "2026-10-21T11:52:53.000Z",
       "c": "Consoles",
-      "img": "https://assetsio.gnwcdn.com/resident-evil-requiem--Grace.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTVJpYktZZUVFLS1EZ3ZpbDJta0tqY241cVVHWDJyZGloZUpEQmwtRmVYYzFiSlc0WUxNTG5UaXFRSDFka21KaHAyV0Y5czA0dlR0aDJhekxwZmdwMVJBWk9EWms5MS1Tel82eUk5d2tDV3U5SThGUHY0ZGU1UmV1ZHBCZXpwaXU4clVGaHZ2cGoyUXMyeW9KMTZtR2I4UVpKZElocUlpcnFyTXlIR0Y0cg?oc=5"
+      "img": "https://www.hardware.com.br/wp-content/uploads/2026/10/Microsoft-prepara-grande-reformulacao-do-Xbox-Game-Pass-aponta-reportagem.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95X3VndlIxaG1tVU9xSElLVGhCSFJQazFEbXpCdXUwZjZzY0VNZjVOSkw4Vm92UlgxT3BWNlY4Tmt4dDhZRGJBRllndjhuYzZYa2ItdF91bTI1dTZ1bGZfbUE2N1gyYzQ4Y2dYS1FUOA?oc=5"
+    },
+    {
+      "t": "Novo Xbox pode custar até US$ 1.800 e chegar em 2028, aponta reportagem",
+      "d": "&nbsp;&nbsp; Quero Bolsa",
+      "link": "https://querobolsa.com.br/revista/novo-xbox-pode-custar-ate-us-1-800-e-chegar-em-2028",
+      "fonte": "Quero Bolsa",
+      "data": "2026-10-21T11:52:50.000Z",
+      "c": "Consoles",
+      "img": "https://wordpress-cms-revista-prod-assets.quero.space/uploads/2026/10/xbox-logo.png",
+      "orig": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmJPVV91dWMtNjFnTjQzRDljWDR5bmRHbkJQajFCbGk4UW1FM2x4bHdZQjJiWDZOak5ISFUtMWd4aEpTSHFnVl91S09qMDhyR2d3SW0ycnU2cnplYkFwTzU5Um1KRDhtalczeXpmbHF0OU50MVNiMXpKLWhVWGRfRW91Qzk1ZXZvZzY0dlh3?oc=5"
+    },
+    {
+      "t": "I am your beast é lançado para Nintendo Switch e Switch 2: confira trailer de lançamento",
+      "d": "&nbsp;&nbsp; Nintendo Blast",
+      "link": "https://www.nintendoblast.com.br/2026/10/i-am-your-beast-e-lancado-para-nintendo-switch-e-switch-2-confira-trailer-de-lancamento.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-10-21T11:50:28.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZTlzeGRWOVU2ZnRPTkRRdC1RUnZBRVdzTFhkQVZMSnJ6S2dpWVhKUTROeXl1MVdEX0FCWTREbW9ISUpnWmlzelVEZHowaDA4bGd2dnNkZm01dHBOV1R4LVdGaUVmSlNNMmNtT2hFTVB0NFltcUg0eHJkWGQ1bzBXZ3k4SzJIcThsdVd0LTBwdXZiVjBaeFFpSU94eEpKUGZqaUQ5bFRjbEQwMGttMzVXbU9VcXd5MHJwQ3d6Rjk1Nl9XVGlDdFQxNmhON3ZwZw?oc=5"
+    },
+    {
+      "t": "Review | Dragon’s Dogma 2: Dark Arisen",
+      "d": "&nbsp;&nbsp; NintendoBoy",
+      "link": "https://nintendoboy.com.br/2026/10/review-dragons-dogma-2-dark-arisen/",
+      "fonte": "NintendoBoy",
+      "data": "2026-10-21T11:47:14.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85dF9qWXgyZGRCUEpQZERDZjFSUzh3bEVLQ2JNZjhVQWtRYmlLLWdFbkk2bWxIMWR4RTRvNk1wNDIyZ3VuRHdWZzZOeUtaWnE5VW5sYjNMUlBnSTcwNDRJdU1VaDk5WjJiNEtjOFFQNF9rc2dNdl9odzB3?oc=5"
+    },
+    {
+      "t": "Arctic Eggs é anunciado para o Switch",
+      "d": "&nbsp;&nbsp; Project N",
+      "link": "https://projectn.com.br/arctic-eggs-nintendo-switch-anunciado/",
+      "fonte": "Project N",
+      "data": "2026-10-21T11:40:41.000Z",
+      "c": "Consoles",
+      "img": "https://projectn.com.br/wp-content/uploads/2026/10/Arctic-Eggs-no-Nintendo-Switch.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTR0duSE5xVkQtY1hXbXh4OUtjZk9LRC1CVENoLWkya04tN0dORXVxZ05MM2NLRnNiVTZJbjVMTEY1OGtKUG91aEZDWjNUWFQ1MXlhMjVDLXZsd0ltVEZ6dnJFSkxoOW1xNThsNG9mYw?oc=5"
     },
     {
       "t": "GTA 5, Red Dead Redemption 2 e mais games deixarão o PS Plus em novembro! Veja a lista",
-      "d": "&nbsp;&nbsp; Estadão",
+      "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/gta-5-red-dead-redemption-2-e-mais-games-deixarao-o-ps-plus-em-novembro-veja-a-lista/",
-      "fonte": "Estadão",
+      "fonte": "TecMundo",
       "data": "2026-10-21T11:15:00.000Z",
       "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/THVRJP5D4NJKFNOGCZMFOYIN2U.jpg?quality=80&auth=0d4df0cef2754e96c0ee4c01a83aa72c8730cfd5e01665f387748e95fd570e1f&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOEhab08xNG52RGtadzl0Zk9yajg4N2wwbFJhV0k1a3A3RGg0cENBUUJBNElvSVF4ZjRWVmMzbnhQd1V1QUx3SW5aZXpZVHN5Tkp0alBCZEczaDRnN2dWeEo2VE9FZXhVcm5uc1k4cE1mbUo3OTVMa2NfbVlIVHB1cENYNGFZQmNvblhJdEU5MF9ydHJCMTJRa0lKZlcxeXNiR1BpNmNwNkxIaWJpaUdyY3N4Xy1MaFFCeXNJWXJjVVFzZFRicnfSAcsBQVVfeXFMUDFiaWNqcGVWUkZGQm56dXFLOE9oTHVsQTRDWTVUMWdpUGg0Y2o0dnloVGlGLUNZNXZlZDFEVU5LakRhTUVLQjZaQlhLMUZxelF1SURuSXVhNFR2dXVNREFXaUp3cG02VjIyWjVRVHBnMDU3UG8wdHgwdXNadGNEQWhnb01uaUVRWV9LLWJycm9qOW5aS0NFUFMxQWVHSEtIb2V5WWpmWXFzR3ctMExxc2syc0gwUlFTRGM0LW9SR1ZkRnQ5WDE2V0FJbUU?oc=5"
-    },
-    {
-      "t": "KyTyPS5: emulador de PlayStation 5 dá grande passo e já roda Gran Turismo 7 sem falhas no PC",
-      "d": "&nbsp;&nbsp; TudoCelular.com",
-      "link": "https://www.tudocelular.com/curiosidade/noticias/n265489/kytyps5-emulador-ja-roda-gran-turismo-7-no-pc.html",
-      "fonte": "TudoCelular.com",
-      "data": "2026-10-21T11:09:21.000Z",
-      "c": "PC",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWNGejVZNHpIaVIxYXRCZVV4REtJRWFFQUFyMTZvNXJHcXpyaUpBdG1sXzMwdkVZSUlFR09iMFdHMXBRX3FNdm5MQWY5Z2tGNkdJZzZ1eEdENVlKUTdJOEdpeFIyZGZZT0gzQzhQOUJLOFZGNlEwaDFILTkwX1laaG9YUV9wUTZlckZEdDEzX2dZWDQtQXRTTlV4LXdUcW8zdnd2TUl5MkQ3VmM?oc=5"
-    },
-    {
-      "t": "Fantasy Boy é anunciado para Nintendo Switch 2",
-      "d": "&nbsp;&nbsp; Nintendo Blast",
-      "link": "https://www.nintendoblast.com.br/2026/10/fantasy-boy-e-anunciado-para-nintendo-switch-2.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-10-21T10:20:13.000Z",
-      "c": "Consoles",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2cWxYDUzqPmkAYwbawaZU2h8v-FsQc8PD6rirQUNnpc7zMy8L1tzTQVBVg7HS165mzRLeBowIqlqOKkNQ0AaZLdexcr-g1D4qiClup6ugGzrhi5H3yZoxT_rq4pxQQVvlPhvmVOayCoXP-GyChUWxW5Jbbtx45QHHKKJzKYtiDuGMZsZ7ojbNp36PYObV/w1200-h630-p-k-no-nu/Fantasyboyum.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTlR5QWZyQUI3M0NUV1JlOWg0QncwTncxaG84M25jTjAtOFdGX0dINUQ3WC03MWJseWY1S3NDMUllZHlzbnQweUxKb25tSWNwbTBoZFhKR0xnbWN6ZFVLTGZlODNsNUNTM1BkZ1lqVXJvdEpndmRaRWxKS05jdzBreUllaFlxRDFZdG9YeUcxV010dlFJb1VZ?oc=5"
+      "img": "https://www.estadao.com.br/resizer/v2/THVRJP5D4NJKFNOGCZMFOYIN2U.jpg?quality=80&auth=0d4df0cef2754e96c0ee4c01a83aa72c8730cfd5e01665f387748e95fd570e1f&width=710"
     },
     {
       "t": "Techland confirma e Dying Light The Beast terá seu suporte encerrado",
@@ -49,16 +68,6 @@
       "data": "2026-10-21T10:02:28.000Z",
       "c": "Lançamentos",
       "img": "https://flowgames.gg/wp-content/uploads/2025/09/dltb-02-1749214336850.jpg"
-    },
-    {
-      "t": "Xbox Game Pass vai perder 9 jogos no final de outubro",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://www.eurogamer.pt/xbox-game-pass-vai-perder-9-jogos-no-final-de-outubro",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-10-21T09:50:32.000Z",
-      "c": "Consoles",
-      "img": "https://assetsio.gnwcdn.com/XBOX-Wireless-Controller-X25-Special-Edition_1-d75d6cc00415223ed301.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVh6aGlRSzJGNUtFcTRrZV81VjctN3ZUeTYxdUE3V1Q0M1cyelRNWldzZ21hWllYa2dPUXFuMHVVOEc0czZ2RjBFQjVpRHozQk95a1k1MWFlYnhxcnRpS3FUNm5pTEhfdkVlZGw0eDN6MHZDUVdLVm5YNEhkMzU1NmdhRGs?oc=5"
     },
     {
       "t": "A história por trás de Mina the Hollower, um dos melhores jogos de 2026",
@@ -269,16 +278,6 @@
       "data": "2026-10-20T17:05:00.000Z",
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/OYJ4CNGHAZKL7NTER7HMQ3RHAM.jpg?quality=80&auth=d897fd07059b98995d94d3538bf3a43d6c9695cf3e123ca5ead96a41823df208&width=710"
-    },
-    {
-      "t": "Diversos jogos da Sony estão sendo portados para PC em uma velocidade nunca vista",
-      "d": "&nbsp;&nbsp; Gameplayscassi",
-      "link": "https://gameplayscassi.com.br/videos/diversos-jogos-da-sony-estao-sendo-portados-para-pc-em-uma-velocidade-nunca-vista/134429/",
-      "fonte": "Gameplayscassi",
-      "data": "2026-10-20T17:00:33.000Z",
-      "c": "PC",
-      "img": "https://gameplayscassi.com.br/wp-content/uploads/2026/10/maxresdefault-11.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ29YZW91dkhOSmN3OEgxejkyVnlhWWFwdnJFQ1pqTHdZeTRPaFphN2lkMTI5YTZJamEyaTZ3cXR2MXB5cG5pdm85NVZjdFloYXJjS2ZnT3o1SExyYkpWSW9uZG40SThOdUtaQUkydG9vcWxUNGNNTGlqa2padWU2LVpoT3MycC1EN3ZFa25YZ0ROTzlrRU9VcWJZb18xNlNkSVVNRjJ4RUxoa2o5ZEFvQ085LWo2bmpFTjF4V0JkMVZKeHdX?oc=5"
     }
   ],
   "videos": [
@@ -374,7 +373,7 @@
       "id": "zUskua35owE",
       "t": "FARM BRUTAL DE TOM DE LUMINA 1 MILHÃO POR HORA | EXPEDITION 33!",
       "data": "2025-05-23T22:23:39Z",
-      "views": 3524,
+      "views": 3525,
       "img": "https://i.ytimg.com/vi/zUskua35owE/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=zUskua35owE"
     },
