@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-21T18:28:33.865Z",
+  "atualizadoEm": "2026-10-21T18:28:57.516Z",
   "noticias": [
     {
       "t": "Mais de 500 páginas de Bleach por R$ 45: volume 2 da edição Remix está em oferta na Amazon",
@@ -17,7 +17,7 @@
       "fonte": "Nintendo Blast",
       "data": "2026-10-21T18:12:12.000Z",
       "c": "Consoles",
-      "img": "",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6SAv-SObTxAQSgFuquUs3UvxCPmv8jca-GP0qGlTIx1r9-HqO2_cgwin8xi4-ve0p6j0EUMH-hbeRn_11D9vpaZBFueCIl4aPHNE6MJYY3IJGyhU3vGgEBE3Y_UP40qJcnG_HciJE3qIDE-_73s-b8fQN2k0EhPsbD02JI3C049ogqAi80oNBjY0S-lw/w1200-h630-p-k-no-nu/pratfall-capa.jpg",
       "orig": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2RQN05VaVQ5QjZpVUVpMEhjdGJaa1FKNi0ydTdGZi1wVnFvNFNSU2kyVkRNYWF0VVdSZFNvUjdBQjYxNkhPR1F0Qm4ySVB5aFNGWHpSdlR3N2YxUUI4SXI2QUVzNFBZYjhFU1pUa19teHhLaFllNGE3Wks2M0tYQ08zaENjOUZhQ0puVXpRTmVFOGhobFNlZC1fZkpqWGlTMVVN?oc=5"
     },
     {
@@ -241,16 +241,6 @@
       "img": "https://m.media-amazon.com/images/I/91BLfjTum0L._AC_UF894,1000_QL80_.jpg"
     },
     {
-      "t": "RyGT | Projeto de Gran Turismo Sport que leva jogo de corrida exclusivo do PS4 pro PC",
-      "d": "&nbsp;&nbsp; Nerd Maldito",
-      "link": "https://www.nerdmaldito.com/2026/10/rygt-projeto-de-gran-turismo-ps4-pra-pc.html",
-      "fonte": "Nerd Maldito",
-      "data": "2026-10-21T12:28:00.000Z",
-      "c": "PC",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIDHKRyJpFDSHiKL4vLMw_f-1yDYE41rIjJO9Nq_c8l1j1j3z8wbF5E5S5S4mw1zodQn0P1VcfyFSXP_9lm2nahEyVPW26VMr9lfhSL397yZp0xY4o21RVQucLOnHN_qOllEZcw0if3eYeIEQJ8zgE0iNMk7RWoaK9a2bHzT9_j-npJEQxEw97nXiJK8qp/w1200-h630-p-k-no-nu/veja%20a%20alegria%20do%20rapaz%20ao%20descobrir%20que%20o%20pc%20vei%20da%20vo%20dele%20vai%20ser%20colocado%20a%20prova.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEFYUzd3ZlhxRjYxVUhZc1lGb3R2NkxHS1EzQmZwUFh5VTRRSkFqNGk1UXE4a0IwMWhmLXhzM29jd2hRd1RRdTVPSDgyekk2N1dXTXNjQm1UVDFxcDN6ZGpwYlVielFzUkw0eGNOcWlhV09DeUZHRkV0YUpkM09DMFBpWnF0Tmc?oc=5"
-    },
-    {
       "t": "GTA 5, Red Dead Redemption 2 e mais games deixarão o PS Plus em novembro! Veja a lista",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/gta-5-red-dead-redemption-2-e-mais-games-deixarao-o-ps-plus-em-novembro-veja-a-lista/",
@@ -276,6 +266,15 @@
       "data": "2026-10-20T23:30:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/53BINU2YNJEQ7KMZSYOIMGXWAY.webp?quality=80&auth=acbb11c002a48ce23e455cb9ceb17747cc2e38b1758a084fe961b7afdcd199c9&width=710"
+    },
+    {
+      "t": "Dragon’s Dogma 2: Dark Arisen e mais jogos da Steam com até 95% OFF na Nuuvem; confira",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/dragons-dogma-2-dark-arisen-e-mais-jogos-da-steam-com-ate-95-off-na-nuuvem-confira/",
+      "fonte": "TecMundo",
+      "data": "2026-10-20T22:30:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/AA3RWYCBHRFRZNLYCMM34IJYPA.png?quality=80&auth=07e74e952addfbec749ac3b1c51bd54b65d145b42f7886da83c711e0649cbcfb&width=710"
     }
   ],
   "videos": [
@@ -395,7 +394,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3491,
+      "views": 3492,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
