@@ -1,6 +1,56 @@
 {
-  "atualizadoEm": "2026-10-21T19:59:31.411Z",
+  "atualizadoEm": "2026-10-21T20:29:42.588Z",
   "noticias": [
+    {
+      "t": "Sony começa a blindar PS5 contra pirataria de GTA 6 com nova atualização",
+      "d": "&nbsp;&nbsp; Canaltech",
+      "link": "https://canaltech.com.br/games/sony-comeca-a-blindar-ps5-contra-pirataria-de-gta-6-com-nova-atualizacao/",
+      "fonte": "Canaltech",
+      "data": "2026-10-21T20:23:33.000Z",
+      "c": "Consoles",
+      "img": "https://tl.ctcdn.com.br/gttoYr90hhJFnWK8Wbesus0ihAY=/1200x675/smart/filters:format(webp):quality(85)/1dd9e86a-32d5-41f6-876f-c25abdc03682.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT3Q4eEQySjJZdjFSREhERFNnOGdOZTJMTUUxSGVQRkhtUnlFaW1MLTBrU2pmQnBUWGNMZWp2bjZwcWVwdXNLdVNObXpsYXZFeDVOUjVXUlBLbXBiOWFFdnJYUmdFX0Rpb0FGUHhJOXRjVTlRUGx5UWZxNHV2U1FCY25mSjZUcmJLSG9CS19BOHdua3dfLUtQTmxlcTVvNlVnRG5SOGFnaw?oc=5"
+    },
+    {
+      "t": "Resident Evil, The Witcher e mais: os melhores jogos Xbox em promoção agora",
+      "d": "&nbsp;&nbsp; Olhar Digital",
+      "link": "https://olhardigital.com.br/2026/10/21/reviews/resident-evil-the-witcher-e-mais-os-melhores-jogos-xbox-em-promocao-agora/",
+      "fonte": "Olhar Digital",
+      "data": "2026-10-21T20:22:41.000Z",
+      "c": "Ofertas",
+      "img": "https://img.odcdn.com.br/wp-content/uploads/2026/10/hero-jogos-xbox-19.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU2lXci1VMkVnT09rN0lGSUZmT0IyRGxSaXRuQlJMVi1kUGxrREZvc04yb3BPcVQ2dlNKU2NfM2M4NElWendNTnM1SGw0UlVyTUNzbUx2bGR2bktlTEdtdFZldDBxaWZTT0V2ODBRUHJLTmR4ZUNqYjhHZWpZNGZUbUw0dHdFZERoTnZrMFp5dVhtaWFwTUxlQzhKNFhjbk9BRjd5OUdjMmJLYWlDWk9sQ09mdFVtcEh0aE82Z0J3?oc=5"
+    },
+    {
+      "t": "Cyberpunk 2077: como instalar mods no PS5 e Xbox",
+      "d": "&nbsp;&nbsp; Game Overdrive",
+      "link": "https://gameoverdrive.com.br/cyberpunk-2077-como-instalar-mods-ps5-xbox/",
+      "fonte": "Game Overdrive",
+      "data": "2026-10-21T20:18:56.000Z",
+      "c": "Consoles",
+      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/10/cyberpunk-2077-finalmente-recebe-mods-no-ps5-e-xbox-veja-como-usar-featured-1536x900.webp",
+      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03RHV4SXQwdHJjaUdpUEY3ck5QTXhIQS1IVzJaS1FIUy1iMEh2MHFnd1I3cEdZNExLOV9yVTlSV3dZT0RtYkREZXNkSVVZODBjWWtwY2JFN2N4NGhzTmMzYS01VUxwd3YwTHpsT0lFVHFoQ3VhVHFTazQ4djU?oc=5"
+    },
+    {
+      "t": "Asha Sharma, CEO da Xbox, revela seus próximos passos para a empresa em entrevista",
+      "d": "&nbsp;&nbsp; GameBlast",
+      "link": "https://www.gameblast.com.br/2026/10/asha-sarma-ceo-da-xbox-revela-seus-proximos-passos-para-a-empresa-em-entrevista.html",
+      "fonte": "GameBlast",
+      "data": "2026-10-21T20:15:16.000Z",
+      "c": "Consoles",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFR-9_b9KO1L1pF_IMliNU2ZY_9IqLVRLyptIC6Nj5NehyutDFRiwL3WlykeX3nmLjP7Q9p3VYmjD835cm3rwkQvTsM5QvQNJjwfWrZxy-S4JKTPKYxeQjDquxDgvMk9tLgGBz-PDD_3Gv_dOQ_1aA929OGm2Qiy0Hcqz_4HgMbJkCTvASw9dmbCqPFps/w1200-h630-p-k-no-nu/Asha_Sharma_CEO_of_XBOX_at_2026_XBOX_Showcase.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzUzenNNMHg0YlV2OHVMQ2lsUjdWa0pBUl9KV3h6MGdXOGVucC1QTF9Xd1JmdGVzLWY5emZ3emZJM3hOOFc1ZVZRTU5IRk5NczdZdVFOYXhkelhnX2hteERSTk5aZ3hBaHg2Q19YX2NtcEZCMEd5SXpIQXJzZWl5bGpQaURPdmJJVUo4QUFEOGlybm4wM2ZxNldYTjlDWFJjNFRjMk5TOEVEWk94Ykp3bXFqS1pwU21aSl9yMFVB?oc=5"
+    },
+    {
+      "t": "Sem Game Pass: Microsoft começa a liberar planos pré-pagos para o XBOX Cloud Gaming",
+      "d": "&nbsp;&nbsp; TudoCelular.com",
+      "link": "https://www.tudocelular.com/software/noticias/n265551/xbox-cloud-gaming-comeca-receber-planos-pre-pago.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-10-21T20:14:45.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0ptVGpXVkhFc19GR0dWVC1VT01YSkljbGJGNmdrVzNiU09rQ3ZSUVNEV3d1M0RqWlluUTZfYUJVeDFMTmdvSjliQzlvTDBEWldQUGdtU2Fpa3hxTHYtSUQ1UWtsVzZBQUIzZGpod0tJLWFHNV9naEtnYkZiTVo5MzViampveXFUY21sVzNJaWFnTmhBQm15M0FpY3cwT3F0UEJXVDBGd1RveUE?oc=5"
+    },
     {
       "t": "Projeto da franquia The Sims é cancelado pela EA",
       "d": "EA declarou que focará seus esforços em outros projetos da franquia The Sims",
@@ -11,16 +61,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2023/04/the-sims-4-update-adds-new-athletic-and-business-c_12w2.1280.jpg"
     },
     {
-      "t": "Tenebris Somnia - Análise",
-      "d": "&nbsp;&nbsp; Diario de Pernambuco",
-      "link": "https://www.diariodepernambuco.com.br/tecnologia/2026/10/11727231-tenebris-somnia-analise.html",
-      "fonte": "Diario de Pernambuco",
-      "data": "2026-10-21T19:29:00.000Z",
-      "c": "Geral",
-      "img": "https://www.diariodepernambuco.com.br/_midias/jpg/2026/10/21/600x400/1_ts_21_9_format-980285.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEpGM2t4MlB1Z294UVhEVDF4YXBMT2ttbEVuWS1yQnJYcVV5SWVQZ0dBdTJVeUdJM0lURHljeWZQZDRCWkRJMjg1TzQwSGxfVVFnbVNzTUNJQWNsRjhSN3pFYWM3cUxab0Q1MmhIdWF0eVlTc2g1YjFZZ3JKUW1CUE94R0NaLXI4bnU1M1BQZ0NMeGxhVHVRQjhn?oc=5"
-    },
-    {
       "t": "RTX 6060 pode ter performance inferior à do PS6 e deve demorar, diz insider",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/rtx-6060-pode-ter-performance-inferior-a-do-ps6-e-deve-demorar-diz-insider/",
@@ -28,46 +68,6 @@
       "data": "2026-10-21T19:21:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/RMY5LG77ZBJKBDXT6RGZQ3RUGU.jpg?quality=80&auth=23756bbbcf971563d549a4c2945c3d8c418329ab9fbff8a7e4a38e9376d2f88a&width=710"
-    },
-    {
-      "t": "Tales of Eternia Remastered revive uma das joias do PlayStation",
-      "d": "&nbsp;&nbsp; Terra",
-      "link": "https://www.terra.com.br/gameon/analises/tales-of-eternia-remastered-revive-uma-das-joias-do-playstation,1c36153463eaad3eb3efbef40926c7b475zrpos7.html",
-      "fonte": "Terra",
-      "data": "2026-10-21T19:21:00.000Z",
-      "c": "Consoles",
-      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/21/tales-of-eternia-1-1iauwjpmorxo4.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOHZhSWVoRjdIMFgwTDJFZFFTQm9ySm1uUm9YYXRPaXNLTlpoNTlCVlVCWm1qVFpGSUZDbVBvNVY3V1NnTTJsVjZCSkt2TDFMVW14RjF5aE1UTzdjNzFqdGZkRU1sQUZac3BtR0ZLVlA4UWhsRDIxU3gtMklxTDRkZURfRXFpb1BKV1UyelhCSmRPTlI0Q2UwVzFzVWdwcFUzN1QtYnlUdjliNkg2dmM5MTFEdHdsY2p3QS1UcjZlWkM1Mk5Wb3ltNVNfREM5NUpGeC15SXVjbGJWanVmZ3NIYUhabWw?oc=5"
-    },
-    {
-      "t": "Novo Xbox “Helix” pode custar quase R$ 10 mil e chegar em 2028",
-      "d": "&nbsp;&nbsp; Agora Litoral",
-      "link": "https://agoralitoral.com.br/2026/10/21/novo-xbox-helix-pode-custar-quase-r-10-mil-e-chegar-em-2028/",
-      "fonte": "Agora Litoral",
-      "data": "2026-10-21T19:18:15.000Z",
-      "c": "Consoles",
-      "img": "https://agoralitoral.com.br/wp-content/uploads/2026/10/novo-xbox-apelidado-de-helix-pode-custar-quase-r-10-mil-e-chegar-em-2028-1792610172.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblhFTFE3UlhBSFYtQWNXQjJtVXhuSG5oN240ZGJfbEpaMlFwZmYyVGk5S2FhZjVLdk5PX0U1aUxUOFRJSkp5OWwwZjFYd2lUb2J3cnowbVJYSFh1QlQ0UVg5XzFHOEZTOUNiNVZUckpvcnlMRzI1QXJ4c2trWjRhdnpZYW1RQVJVcHhVSjBQdk9vbXBDYnB4eFpoU0NUOUl2?oc=5"
-    },
-    {
-      "t": "Headset PlayStation Pulse será lançado em 19 de novembro",
-      "d": "&nbsp;&nbsp; PSX Brasil",
-      "link": "https://psxbrasil.com.br/headset-playstation-pulse-sera-lancado-em-19-de-novembro/",
-      "fonte": "PSX Brasil",
-      "data": "2026-10-21T19:14:54.000Z",
-      "c": "Consoles",
-      "img": "https://psxbrasil.com.br/wp-content/uploads/2026/09/HSSz021aYAEuTXq.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPazRURmRhUzlIVGZnWlNjQ2VpWXpiY3Q0bERyZ25wZVFpWE1EczlPZFdFZUxsU2dPMFQtU0lWUm5zUjRDdHVSaTQ5anF3Tkg5bkYwbFZ0NFlvQ01DSkdaWWxwY1BVbjEwb3I3RnVDcmU1ZHFCZEllcXRRdm1yeEVGZWo5N1BQRkp3dGc?oc=5"
-    },
-    {
-      "t": "EA cancela novo 'Mass Effect' e fecha BioWare, criadora da franquia e de 'Dragon Age'",
-      "d": "&nbsp;&nbsp; G1",
-      "link": "https://g1.globo.com/pop-arte/games/noticia/2026/10/21/ea-cancela-novo-mass-effect-e-fecha-bioware-criadora-da-franquia-e-de-dragon-age.ghtml",
-      "fonte": "G1",
-      "data": "2026-10-21T19:10:54.000Z",
-      "c": "Geral",
-      "img": "https://s2-g1.glbimg.com/SKtULaECRy4GsZ6Ml42Bvy-06Xs=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/u/k26otiRWiy7HfkDfwP9Q/mass-effect-legendary-edition-review-part-2-mass-effect-2-j5m4.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ3d0WHJuTzVWRjJibkdDMVRVR29FRkQyblhOeVl3Q2dIdTdrZ3htMFBGODlLUC1oakxtRmt6OVVQX2hmdUxVTWJZb2taRjB1WFRsQ0pvX2RhblpSWThmejZXbVJTeGZtWnJwV1N5X3MwWFZhb3pSQTdSRDVuS0ZjX3lTdWFSUERZcWlYMHYxbE5sNHBqc0VlUkhEUHZSb3puRU5fY3VualNhY3pCLVFiZ1MxZnJYV0NnX2s2T21kNnR5a3YzX3I5OXM0V3pBTzhlTzlxNlRGY2TSAecBQVVfeXFMTWxmZE1GUmxoSGhadkhTSHprSjZCcjZaVUxlUmdzeGNHQXRCZEplQXRGRlMxZW03dEt3dnQ5ODVoRUtkQXFycUJCZTZHdEhKXzRlNy0yeXVjMjE3WTZlQmpmZThRYnJOazRuajZMNG04dnpBbWxVcmhocjNPRGI5YVhlTHNQbVBDZUsyaUZfMUkzVk1uMnlHUElFUWJxdjQyMGtjLTUzbVdiM1pfaWx1YWVrZjZUQ2o2eUxrYVhaRXVEaS1pVWJuT0hsM0lxVTk3YkR1b1cwMEo3U2JKV1Q3SG9lYlNzMXFN?oc=5"
     },
     {
       "t": "Grotesco e sombrio, Cara-de-Barro é o pesadelo de terror corporal que a DC precisava",
@@ -269,13 +269,14 @@
       "img": "https://flowgames.gg/wp-content/uploads/2024/03/PlayStation-5-2.jpg"
     },
     {
-      "t": "GTA 5, Red Dead Redemption 2 e mais games deixarão o PS Plus em novembro! Veja a lista",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-5-red-dead-redemption-2-e-mais-games-deixarao-o-ps-plus-em-novembro-veja-a-lista/",
-      "fonte": "TecMundo",
-      "data": "2026-10-21T11:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/THVRJP5D4NJKFNOGCZMFOYIN2U.jpg?quality=80&auth=0d4df0cef2754e96c0ee4c01a83aa72c8730cfd5e01665f387748e95fd570e1f&width=710"
+      "t": "RyGT | Projeto de Gran Turismo Sport que leva jogo de corrida exclusivo do PS4 pro PC",
+      "d": "&nbsp;&nbsp; Nerd Maldito",
+      "link": "https://www.nerdmaldito.com/2026/10/rygt-projeto-de-gran-turismo-ps4-pra-pc.html",
+      "fonte": "Nerd Maldito",
+      "data": "2026-10-21T12:28:00.000Z",
+      "c": "PC",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIDHKRyJpFDSHiKL4vLMw_f-1yDYE41rIjJO9Nq_c8l1j1j3z8wbF5E5S5S4mw1zodQn0P1VcfyFSXP_9lm2nahEyVPW26VMr9lfhSL397yZp0xY4o21RVQucLOnHN_qOllEZcw0if3eYeIEQJ8zgE0iNMk7RWoaK9a2bHzT9_j-npJEQxEw97nXiJK8qp/w1200-h630-p-k-no-nu/veja%20a%20alegria%20do%20rapaz%20ao%20descobrir%20que%20o%20pc%20vei%20da%20vo%20dele%20vai%20ser%20colocado%20a%20prova.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEFYUzd3ZlhxRjYxVUhZc1lGb3R2NkxHS1EzQmZwUFh5VTRRSkFqNGk1UXE4a0IwMWhmLXhzM29jd2hRd1RRdTVPSDgyekk2N1dXTXNjQm1UVDFxcDN6ZGpwYlVielFzUkw0eGNOcWlhV09DeUZHRkV0YUpkM09DMFBpWnF0Tmc?oc=5"
     }
   ],
   "videos": [
@@ -443,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20056,
+      "views": 20059,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
