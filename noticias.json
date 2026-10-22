@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-22T00:31:22.596Z",
+  "atualizadoEm": "2026-10-22T01:01:32.213Z",
   "noticias": [
     {
       "t": "Jogos de PC em oferta por menos de R$ 5; até 90% de desconto",
@@ -930,6 +930,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocyfw.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/ironwake"
+    },
+    {
+      "t": "Cop Bastard",
+      "data": "2026-10-29",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7gqn.jpg",
+      "hype": 7,
+      "link": "https://www.igdb.com/games/cop-bastard"
     },
     {
       "t": "Phantom Blade Zero",
@@ -1996,6 +2006,16 @@
       "link": "https://www.igdb.com/games/trees-hate-you"
     },
     {
+      "t": "Clicky Islands",
+      "data": "2026-11-16",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cock6l.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/clicky-islands"
+    },
+    {
       "t": "Tekken 8: Roger Jr.",
       "data": "2026-11-16",
       "plats": [
@@ -2035,7 +2055,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv1v.jpg",
-      "hype": 1109,
+      "hype": 1110,
       "link": "https://www.igdb.com/games/grand-theft-auto-vi"
     },
     {
@@ -4714,27 +4734,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat6g.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/nightmare-circus--1"
-    },
-    {
-      "t": "Project TurboBlast",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coak0j.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/project-turboblast"
-    },
-    {
-      "t": "The Dropouts",
-      "data": "2026-12-31",
-      "plats": [
-        "PC",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqq6.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/the-dropouts--1"
     }
   ],
   "musicas": []
