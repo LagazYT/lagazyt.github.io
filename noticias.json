@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-22T10:02:54.104Z",
+  "atualizadoEm": "2026-10-22T10:18:22.727Z",
   "noticias": [
+    {
+      "t": "Guerra na Microsoft: nem mesmo o time do XBOX quer o Windows 11 em portátil Helix",
+      "d": "&nbsp;&nbsp; TudoCelular.com",
+      "link": "https://www.tudocelular.com/mercado/noticias/n265582/xbox-windows-briga-microsoft-sistema-helix-console.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-10-22T10:14:24.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHpFdVBCVFo2X19rMWVtR3lHdWRGQ1BIVHoyX04ta1I3NlRpajZqQlotaUl6OTkycXAzTzdUVmlPM3prcVRVVGpXLTdyMnlkZ1BfcDhiX1ZkMWw3QlJXWWNyR25zMEQ3WHNpS3Y3MGlSc3BWdE9hdnc2QmsxUWdsT2ZpT2FOUWMtcVU0RXRWZEZLdy1qcEI2TF82Q3pHWUpndW13WWZMUFo3dk4y?oc=5"
+    },
     {
       "t": "Como tecnologia e dados redefinem OOH, games e influência",
       "d": "&nbsp;&nbsp; Meio e Mensagem",
@@ -32,24 +42,14 @@
       "orig": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUNGZmTWpqbnRQTmNNYjR5dFdmUFNDR3UwSWtVSDdrTDFGMGlWOElBVWFmS0wwNEt1WDhDaGRkaGtjLXRoN1Bkd2RFZDRjWV9hRXc?oc=5"
     },
     {
-      "t": "Saiam os memecoins: vêm aí os “meme games” de cripto, com bagholders e tudo",
-      "d": "&nbsp;&nbsp; TradingView",
-      "link": "https://br.tradingview.com/news/cointelegraph:91fa4c6b4bc81:0/",
-      "fonte": "TradingView",
-      "data": "2026-10-22T05:35:00.000Z",
+      "t": "IA pode desencadear um boom de “meme games” de cripto",
+      "d": "&nbsp;&nbsp; Cointelegraph Brasil",
+      "link": "https://cointelegraph.com.br/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all",
+      "fonte": "Cointelegraph Brasil",
+      "data": "2026-10-22T05:55:59.000Z",
       "c": "Geral",
-      "img": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjSExiVTVpYUlCWHE4MVJzakVIaWhFcGVfaG16S2ZXaDZBTUJxLXdvTmYwSXlLRlg5V1A3TVl2aF80Q3ZpOUZ5NWN2RkhQdS1YdDlrSU5wUkd3MFhUb21hUWRXY0hZQTNXM2pQclliSQ?oc=5"
-    },
-    {
-      "t": "Elementos de ícones inspirados no jogo Nintendo Switch Sports Resort estão aqui por tempo limitado",
-      "d": "&nbsp;&nbsp; Nintendo",
-      "link": "https://www.nintendo.com/pt-br/whatsnew/elementos-de-icones-inspirados-no-jogo-nintendo-switch-sports-resort-estao-aqui-por-tempo-limitado/",
-      "fonte": "Nintendo",
-      "data": "2026-10-22T03:43:50.000Z",
-      "c": "Consoles",
-      "img": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUVJxN2t6S3F3REx1TlJYSy03OU5JektySWdCNWVlcnpPOXA4NTNFNkNhQnM2R3lvZHZuTlcwVENlUnY4OW1UaXM3OFdOWnd6RDg0ZU95MUNRWXdxT0J6QW56TEktY0wxRDlZdFFtNEpwYllpSnh5WGJKU2xOZ0poTlo3VVdzeWgtNmt5UkU5M2Zpa1lyTFNrNThfTXhqRWtzbzZMcDhjRlFOLXp6ZFFFeFQybHpFYlZaSUdleldVTldRU0k2bFhrSExMNHVNTDhQT3h5RzJ3?oc=5"
+      "img": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5H1AQMX8R4G54PG9X27A71M/crypto-meme-games.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXBGZFNpNk1RS2lxWVllNW5PczFSUzlhSmY4clloVjZTbkpaVE5kVGRrN0s4dTgySW5RclBXRVNHWGpPLW01Y1FxUlNwT0x2eUw5WGJtVnpaRk43c2hZVFJtZFZNRl9aeGZ6MVJ4Z3BHcVdOcXJaVmR5S3pMLXlUN2JLUktXSzlleERfc2ZQTW45SkFsajVEeGVWS056UQ?oc=5"
     },
     {
       "t": "Cyberpunk 2077 e mais jogos de Xbox com até 90% OFF; aproveite",
@@ -68,6 +68,16 @@
       "data": "2026-10-21T22:17:28.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/blob_jbcu.jpg"
+    },
+    {
+      "t": "Advanced Shader Delivery agora disponível no Windows 11 para acabar com stutter em jogos de PC",
+      "d": "&nbsp;&nbsp; TecStudio",
+      "link": "https://www.tecstudio.com.br/games/advanced-shader-delivery-agora-disponivel-no-windows-11-para-acabar-com-stutter-em-jogos-de-pc/",
+      "fonte": "TecStudio",
+      "data": "2026-10-21T22:06:07.000Z",
+      "c": "PC",
+      "img": "https://i0.wp.com/www.tecstudio.com.br/wp-content/uploads/2026/10/surface_windows11_windows_microsoft-c389.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQenRGNkoyR3RUOGhZV2c2OHFjSzVlRUtpejZieXBiX2ZjaFBLd1ZISTRsVklfSDJ0Z2pEazU4alVjaXIzNDZMY19PT0VtclhMVDFqeGNKbkxnNWVZUTUxaF8tNmI0SXFiMTlOQlpDVGpLTWQxcUl1RlBlOWdWRDluV1hIc1ZRQ05lekJPSU5sVk9FdGtyV25XRjU5cURPdWZ0ZVFhbFc4RV85UmJmMFpQMGZiVXlmWndtN1lvaU94dEtWYWhnd3QybVJn?oc=5"
     },
     {
       "t": "EA Games anuncia retorno da franquia de boxe Fight Night pouco antes de fechar a Bioware",
@@ -267,15 +277,6 @@
       "data": "2026-10-21T17:08:06.000Z",
       "c": "Geral",
       "img": "https://www.youtube.com/embed/TAVyjQtApe4"
-    },
-    {
-      "t": "Gran Turismo 7 já está sendo emulado no PC",
-      "d": "Com uma qualidade aceitável e poucos glitches gráficos, o Gran Turismo 7 já está rodando no emulador de PlayStation 5 para PCs",
-      "link": "https://flowgames.gg/gran-turismo-7-ja-esta-sendo-emulado-no-pc/",
-      "fonte": "Flow Games",
-      "data": "2026-10-21T16:35:49.000Z",
-      "c": "PC",
-      "img": "https://www.youtube.com/embed/QO1_aBGCF98"
     }
   ],
   "videos": [
