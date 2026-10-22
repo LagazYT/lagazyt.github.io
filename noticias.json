@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-22T07:32:11.927Z",
+  "atualizadoEm": "2026-10-22T08:02:20.957Z",
   "noticias": [
+    {
+      "t": "O novo headset sem fio PlayStation Pulse de US$ 100 da Sony leva áudio magnético planar a mais jogadores",
+      "d": "&nbsp;&nbsp; Hypebeast",
+      "link": "https://hypebeast.com/pt/2026/10/sony-unveils-100-playstation-pulse-wireless-headset",
+      "fonte": "Hypebeast",
+      "data": "2026-10-22T07:06:18.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQel8xSzV5ckdLNnBZeUtNMkFFTERCNUxBWmxmNVEzNHYyaDA2MklLSHJQMUVjTzZUakYydDhtRjRQMmdmNWo3YXBkSFZ4Z3VodkpmLWdHeXNrWlgyQWRfMzR3OFN3cEJoM2xfU0thNTNZMUQ2cHdTWGZ0bHdaM2F4blpTUlIzZG80YnZGYQ?oc=5"
+    },
     {
       "t": "🥈O jovem Bernardo Liporoni, de apenas 9 anos, conquistou a segunda colocação na categoria Sub-19 do Rocky Mountain Games, disputado no Pico do Jaraguá, na Capital. Representando o município de Ribeirão Pires, o garoto encarou o desafio na prova",
       "d": "&nbsp;&nbsp; Instagram",
@@ -40,16 +50,6 @@
       "c": "Geral",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlNSb0I4QXBSa2RPX1ZGY1F0YlQ4SUV4RWZXNUstMFE3Mm1BaXRibllhc2NBVkhCVEVmX0V4WWV0eDFoZGRoRWE2WVl0Qy1kZ2gtRHhNVDdaNFN5NVdDZHQ1aklBbVVSSzdIbG9qOTE4bGUtc05ndHpWSlhHZ25vTkhfV0pwU01sRU9pcnJiN08xRXl4T21LV25qRHZVbk1hYkdjcQ?oc=5"
-    },
-    {
-      "t": "OLOCO! XBOX REVELA PREÇOS PARA JOGAR NA NUVEM E SURPREENDE TODO MUNDO!",
-      "d": "&nbsp;&nbsp; Xboxers",
-      "link": "https://xboxers.com.br/oloco-xbox-revela-precos-para-jogar-na-nuvem-e-surpreende-todo-mundo/",
-      "fonte": "Xboxers",
-      "data": "2026-10-22T01:39:32.000Z",
-      "c": "Consoles",
-      "img": "https://i0.wp.com/xboxers.com.br/wp-content/uploads/2026/10/thumbnail-vrMmtXv1uwQ.jpg?fit=480%2C360&ssl=1",
-      "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVHhHWDllUllFYUl4akNOaFljYlFzMzJEbzZNSmF4cndMa3gySWZkc1dDOWlUNU94MVNfZ3dXODNveEFHc0dONm1SaUNJNFlUS2ZhWVZTSzBCLVZQRTBPWVN1enpFTng0UFdEdy1icUlpbXQ5Yl91cHNjOEl0eEhMdFc0QUhWbW9CVXhNVkNVVnBoYXFMODFN?oc=5"
     },
     {
       "t": "Cyberpunk 2077 e mais jogos de Xbox com até 90% OFF; aproveite",
@@ -283,7 +283,7 @@
       "id": "fu7tRT_y3is",
       "t": "GOD OF WAR 3 REMASTERED - NATIVE PC PORT RTX 5070 | 1440P 60 FPS",
       "data": "2026-10-12T17:27:55Z",
-      "views": 1203,
+      "views": 1202,
       "img": "https://i.ytimg.com/vi/fu7tRT_y3is/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=fu7tRT_y3is"
     },
@@ -395,7 +395,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3492,
+      "views": 3494,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -1385,6 +1385,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1at.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/ezalm-magics-memory"
+    },
+    {
+      "t": "Boost Vector EX",
+      "data": "2026-11-02",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaiko.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/boost-vector-ex"
     },
     {
       "t": "Brotato: Primal Dread",
@@ -4722,16 +4732,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyw1.jpg",
       "hype": 6,
       "link": "https://www.igdb.com/games/golf-with-your-friends-2"
-    },
-    {
-      "t": "Star Life",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co98in.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/star-life"
     }
   ],
   "musicas": []
