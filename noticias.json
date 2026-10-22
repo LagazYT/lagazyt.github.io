@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-22T02:32:00.477Z",
+  "atualizadoEm": "2026-10-22T03:02:09.194Z",
   "noticias": [
     {
       "t": "Bose compra rival Skullcandy para expandir presença nos mercados de games e esportes",
@@ -1637,6 +1637,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocw3k.jpg",
       "hype": 6,
       "link": "https://www.igdb.com/games/wielders-of-the-essence"
+    },
+    {
+      "t": "Underkeep",
+      "data": "2026-11-05",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobnk9.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/underkeep"
     },
     {
       "t": "Crymelight",
@@ -3884,7 +3894,7 @@
       "plats": [
         "PC"
       ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxte.jpg",
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7d4.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/northanda-chronicles--1"
     },
@@ -4722,16 +4732,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co98in.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/star-life"
-    },
-    {
-      "t": "Froggo's Adventure: Drifting Sky",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakvj.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/froggos-adventure-drifting-sky"
     }
   ],
   "musicas": []
