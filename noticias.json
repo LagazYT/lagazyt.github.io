@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-10-22T09:02:38.455Z",
+  "atualizadoEm": "2026-10-22T09:32:46.130Z",
   "noticias": [
+    {
+      "t": "Shrek 2 Remastered anunciado",
+      "d": "&nbsp;&nbsp; Eurogamer.pt",
+      "link": "https://www.eurogamer.pt/shrek-2-remastered-anunciado",
+      "fonte": "Eurogamer.pt",
+      "data": "2026-10-22T09:06:19.000Z",
+      "c": "Lançamentos",
+      "img": "https://assetsio.gnwcdn.com/SHREK-2-REMASTERD-SCREENSHOT-FARFARAWAY.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "orig": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pT2paQzJzWEUzR29yVUQxMHlWMGJSV04wNjdrVWUwQ3IxUUhZZ0NpaFVFLVdUU3BRUnozakR1TThwV01mV0k0cTB5MjNudXhZQUZJN2tKaGdIc0JnUFFwN2xUaw?oc=5"
+    },
+    {
+      "t": "Como tecnologia e dados redefinem OOH, games e influência",
+      "d": "&nbsp;&nbsp; Meio e Mensagem",
+      "link": "https://www.meioemensagem.com.br/cabore/como-tecnologia-e-dados-redefinem-ooh-games-e-influencia",
+      "fonte": "Meio e Mensagem",
+      "data": "2026-10-22T09:01:00.000Z",
+      "c": "Geral",
+      "img": "https://www.meioemensagem.com.br/wp-content/uploads/2026/10/cabore-servico-mkt-cred-div-1280x852-1.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0R4NXk3SHVlMHYzUElGWk1wVTVIaGg2U3N2S0lnQVEtTVU1YWhGSGdFRHdVaVItVVRsS1ZNb2xDV21tZHR0a0lZa0tFNEtGZU9ET29CWTdGQm9wX2hWTlQxbnJ3RV9fWjdvdTFkTERYS0Z6NFpwdkhJXzFzYmF4TW9BMDEzNmRPRmt1WnJOTE1Xb3BkcHFsajBUOXM?oc=5"
+    },
     {
       "t": "O novo headset sem fio PlayStation Pulse de US$ 100 da Sony leva áudio magnético planar a mais jogadores",
       "d": "&nbsp;&nbsp; Hypebeast",
@@ -30,26 +50,6 @@
       "c": "Geral",
       "img": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
       "orig": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjSExiVTVpYUlCWHE4MVJzakVIaWhFcGVfaG16S2ZXaDZBTUJxLXdvTmYwSXlLRlg5V1A3TVl2aF80Q3ZpOUZ5NWN2RkhQdS1YdDlrSU5wUkd3MFhUb21hUWRXY0hZQTNXM2pQclliSQ?oc=5"
-    },
-    {
-      "t": "Elementos de ícones inspirados no jogo Nintendo Switch Sports Resort estão aqui por tempo limitado",
-      "d": "&nbsp;&nbsp; Nintendo",
-      "link": "https://www.nintendo.com/pt-br/whatsnew/elementos-de-icones-inspirados-no-jogo-nintendo-switch-sports-resort-estao-aqui-por-tempo-limitado/",
-      "fonte": "Nintendo",
-      "data": "2026-10-22T03:43:50.000Z",
-      "c": "Consoles",
-      "img": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUVJxN2t6S3F3REx1TlJYSy03OU5JektySWdCNWVlcnpPOXA4NTNFNkNhQnM2R3lvZHZuTlcwVENlUnY4OW1UaXM3OFdOWnd6RDg0ZU95MUNRWXdxT0J6QW56TEktY0wxRDlZdFFtNEpwYllpSnh5WGJKU2xOZ0poTlo3VVdzeWgtNmt5UkU5M2Zpa1lyTFNrNThfTXhqRWtzbzZMcDhjRlFOLXp6ZFFFeFQybHpFYlZaSUdleldVTldRU0k2bFhrSExMNHVNTDhQT3h5RzJ3?oc=5"
-    },
-    {
-      "t": "Bose compra rival Skullcandy para expandir presença nos mercados de games e esportes",
-      "d": "&nbsp;&nbsp; TudoCelular.com",
-      "link": "https://www.tudocelular.com/musica/noticias/n265574/bose-compra-skullcandy-ampliar-presenca-games.html",
-      "fonte": "TudoCelular.com",
-      "data": "2026-10-22T02:19:24.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlNSb0I4QXBSa2RPX1ZGY1F0YlQ4SUV4RWZXNUstMFE3Mm1BaXRibllhc2NBVkhCVEVmX0V4WWV0eDFoZGRoRWE2WVl0Qy1kZ2gtRHhNVDdaNFN5NVdDZHQ1aklBbVVSSzdIbG9qOTE4bGUtc05ndHpWSlhHZ25vTkhfV0pwU01sRU9pcnJiN08xRXl4T21LV25qRHZVbk1hYkdjcQ?oc=5"
     },
     {
       "t": "Cyberpunk 2077 e mais jogos de Xbox com até 90% OFF; aproveite",
@@ -395,7 +395,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3492,
+      "views": 3494,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -443,7 +443,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20069,
+      "views": 20070,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
