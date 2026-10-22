@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-22T01:31:41.805Z",
+  "atualizadoEm": "2026-10-22T02:01:50.747Z",
   "noticias": [
+    {
+      "t": "OLOCO! XBOX REVELA PREÇOS PARA JOGAR NA NUVEM E SURPREENDE TODO MUNDO!",
+      "d": "&nbsp;&nbsp; Xboxers",
+      "link": "https://xboxers.com.br/oloco-xbox-revela-precos-para-jogar-na-nuvem-e-surpreende-todo-mundo/",
+      "fonte": "Xboxers",
+      "data": "2026-10-22T01:39:32.000Z",
+      "c": "Consoles",
+      "img": "https://i0.wp.com/xboxers.com.br/wp-content/uploads/2026/10/thumbnail-vrMmtXv1uwQ.jpg?fit=480%2C360&ssl=1",
+      "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVHhHWDllUllFYUl4akNOaFljYlFzMzJEbzZNSmF4cndMa3gySWZkc1dDOWlUNU94MVNfZ3dXODNveEFHc0dONm1SaUNJNFlUS2ZhWVZTSzBCLVZQRTBPWVN1enpFTng0UFdEdy1icUlpbXQ5Yl91cHNjOEl0eEhMdFc0QUhWbW9CVXhNVkNVVnBoYXFMODFN?oc=5"
+    },
     {
       "t": "Xbox: novas demissões podem vir até janeiro",
       "d": "&nbsp;&nbsp; einerd.com",
@@ -266,16 +276,6 @@
       "data": "2026-10-21T16:35:49.000Z",
       "c": "PC",
       "img": "https://www.youtube.com/embed/QO1_aBGCF98"
-    },
-    {
-      "t": "Alguém testou o Battlefield 6 com uma placa de vídeo de quase 10 anos atrás: o resultado demonstrou o quão péssima é a otimização de muitos jogos atuais",
-      "d": "&nbsp;&nbsp; Xataka Brasil",
-      "link": "https://www.xataka.com.br/diversos/alguem-testou-battlefield-6-com-uma-placa-video-quase-10-anos-atras-resultado-demonstrou-quao-pessima-e-a-otimizacao-muitos-jogos-atuais",
-      "fonte": "Xataka Brasil",
-      "data": "2026-10-21T14:31:40.000Z",
-      "c": "PC",
-      "img": "https://i.blogs.es/32b25b/1200_800---2026-10-20t105813.724/840_560.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTHI3TmhlMHVYSFpmLWdET2Q4WDVWTWxPckRUc3RNZm9BOUtDYVdheUtaRVhpdzlmVHdhbWk4RmhUM3R6ODBTcU9sSHhCQUFEd0lOZG9xM1dxdXpCQThKdGswNUZIRV85ajVoc1lsUmF3Y0g3UzNTaTlyek1lb0NEay1OSEktN3lmRnFTZ2Q1Y2ZDLXZNSU05WGFGQlo4OHlZcW1hcFluVy1HcUlMbWlBaUxwLWlzZVk2a01QbTBZU1ViWURtdU5DSFplTWZZaWlHR05RdC1ZMGtpTUFzd2M3eVpwbnZUNENUSVpkSHc5VnVSdlNUTl9yc2dYcnJST0VP?oc=5"
     }
   ],
   "videos": [
@@ -291,7 +291,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8069,
+      "views": 8070,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -1693,6 +1693,16 @@
       "link": "https://www.igdb.com/games/neo-junk-city"
     },
     {
+      "t": "Casualties: Unknown",
+      "data": "2026-11-09",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbi7.jpg",
+      "hype": 12,
+      "link": "https://www.igdb.com/games/casualties-unknown"
+    },
+    {
       "t": "Ho Ho Ho Sokoban",
       "data": "2026-11-09",
       "plats": [
@@ -1904,6 +1914,18 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocowo.jpg",
       "hype": 5,
       "link": "https://www.igdb.com/games/sonic-pico-park"
+    },
+    {
+      "t": "Moomin Midsummer Madness",
+      "data": "2026-11-12",
+      "plats": [
+        "Switch 2",
+        "PC",
+        "Switch"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6tu.jpg",
+      "hype": 5,
+      "link": "https://www.igdb.com/games/moomin-midsummer-madness"
     },
     {
       "t": "Barbie Rewind",
@@ -4449,7 +4471,7 @@
         "Switch"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8uyz.jpg",
-      "hype": 13,
+      "hype": 14,
       "link": "https://www.igdb.com/games/tanuki-pons-summer"
     },
     {
@@ -4710,30 +4732,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakvj.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/froggos-adventure-drifting-sky"
-    },
-    {
-      "t": "Elflock",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99t6.jpg",
-      "hype": 8,
-      "link": "https://www.igdb.com/games/elflock"
-    },
-    {
-      "t": "Nightmare Circus",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat6g.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/nightmare-circus--1"
     }
   ],
   "musicas": []
