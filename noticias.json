@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-21T23:31:02.543Z",
+  "atualizadoEm": "2026-10-22T00:01:13.306Z",
   "noticias": [
     {
       "t": "Jogos de Xbox têm descontos de até 90% e preços a partir de R$ 5,54",
@@ -177,6 +177,16 @@
       "img": "https://www.estadao.com.br/resizer/v2/RMY5LG77ZBJKBDXT6RGZQ3RUGU.jpg?quality=80&auth=23756bbbcf971563d549a4c2945c3d8c418329ab9fbff8a7e4a38e9376d2f88a&width=710"
     },
     {
+      "t": "Jogo de graça da semana é liberado pela Epic Games Store com acesso antecipado",
+      "d": "&nbsp;&nbsp; TudoCelular.com",
+      "link": "https://www.tudocelular.com/jogos/noticias/n265565/jogo-de-graca-semana-liberado-epic-games-store.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-10-21T19:04:43.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckhHeWRDdFNObjlyaGhqcTE5bHhIbjYwbmotd25ycHpNdmRHeExrRVBaQ3BfM2Z1VVVOcjMxLV9KU3JnaFRDc2Y2WGJBU0ZjbktfWGNsZmRoSHRpQU9pT2hfUHU1b1lCb0Q2SlVfN3ZtSUQxR0tRLXUybGxOa1JoeHVQNi1XS1hDSlZxMVB3a2I4RXJZTnRzeUpHelhvLTFpWWkwVQ?oc=5"
+    },
+    {
       "t": "Grotesco e sombrio, Cara-de-Barro é o pesadelo de terror corporal que a DC precisava",
       "d": "Novo filme da DC chega em 22 de outubro e mostra que o estúdio deve apostar em mais histórias de terror",
       "link": "https://br.ign.com/clayface/156967/grotesco-e-sombrio-cara-de-barro-e-o-pesadelo-de-terror-corporal-que-a-dc-precisava",
@@ -266,15 +276,6 @@
       "c": "PC",
       "img": "https://i.blogs.es/32b25b/1200_800---2026-10-20t105813.724/840_560.jpeg",
       "orig": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTHI3TmhlMHVYSFpmLWdET2Q4WDVWTWxPckRUc3RNZm9BOUtDYVdheUtaRVhpdzlmVHdhbWk4RmhUM3R6ODBTcU9sSHhCQUFEd0lOZG9xM1dxdXpCQThKdGswNUZIRV85ajVoc1lsUmF3Y0g3UzNTaTlyek1lb0NEay1OSEktN3lmRnFTZ2Q1Y2ZDLXZNSU05WGFGQlo4OHlZcW1hcFluVy1HcUlMbWlBaUxwLWlzZVk2a01QbTBZU1ViWURtdU5DSFplTWZZaWlHR05RdC1ZMGtpTUFzd2M3eVpwbnZUNENUSVpkSHc5VnVSdlNUTl9yc2dYcnJST0VP?oc=5"
-    },
-    {
-      "t": "Helix: Microsoft pode lançar Xbox de nova geração em 2028 com preço alto",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/helix-microsoft-pode-lancar-xbox-de-nova-geracao-em-2028-com-preco-alto/",
-      "fonte": "TecMundo",
-      "data": "2026-10-21T14:15:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/QSCKSBRDLNMV7H5P2IYAEXOEF4.jpg?quality=80&auth=ef26df3f52470b96603050aa91f65c4b10a2abab86bf0106db14018aec1b8991&width=710"
     }
   ],
   "videos": [
@@ -488,87 +489,6 @@
     }
   ],
   "lancamentos": [
-    {
-      "t": "Moadra",
-      "data": "2026-10-22",
-      "plats": [
-        "Xbox",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5lgk.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/moadra"
-    },
-    {
-      "t": "Alyssa",
-      "data": "2026-10-22",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobcaj.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/alyssa"
-    },
-    {
-      "t": "Demons' Night Fever",
-      "data": "2026-10-22",
-      "plats": [
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocb9w.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/demons-night-fever"
-    },
-    {
-      "t": "Beyond the Dark: Nightwatch",
-      "data": "2026-10-22",
-      "plats": [
-        "Switch 2"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5fe.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/beyond-the-dark-nightwatch"
-    },
-    {
-      "t": "Nintendo Switch Sports Resort",
-      "data": "2026-10-22",
-      "plats": [
-        "Switch 2"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7mb.jpg",
-      "hype": 19,
-      "link": "https://www.igdb.com/games/nintendo-switch-sports-resort"
-    },
-    {
-      "t": "Final Fantasy Resonance",
-      "data": "2026-10-22",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7q4.jpg",
-      "hype": 31,
-      "link": "https://www.igdb.com/games/final-fantasy-resonance"
-    },
-    {
-      "t": "Once Human: Isles of Abyss",
-      "data": "2026-10-22",
-      "plats": [
-        "Xbox",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxcc.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/once-human-isles-of-abyss"
-    },
     {
       "t": "Aspis",
       "data": "2026-10-23",
@@ -4737,6 +4657,84 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacts.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/the-patient-can-you-escape"
+    },
+    {
+      "t": "Golf With Your Friends 2",
+      "data": "2026-12-31",
+      "plats": [
+        "Xbox",
+        "Switch 2",
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyw1.jpg",
+      "hype": 6,
+      "link": "https://www.igdb.com/games/golf-with-your-friends-2"
+    },
+    {
+      "t": "Star Life",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co98in.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/star-life"
+    },
+    {
+      "t": "Froggo's Adventure: Drifting Sky",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakvj.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/froggos-adventure-drifting-sky"
+    },
+    {
+      "t": "Elflock",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99t6.jpg",
+      "hype": 8,
+      "link": "https://www.igdb.com/games/elflock"
+    },
+    {
+      "t": "Nightmare Circus",
+      "data": "2026-12-31",
+      "plats": [
+        "Xbox",
+        "Switch 2",
+        "PC",
+        "PS5",
+        "Switch"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat6g.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/nightmare-circus--1"
+    },
+    {
+      "t": "Project TurboBlast",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coak0j.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/project-turboblast"
+    },
+    {
+      "t": "The Dropouts",
+      "data": "2026-12-31",
+      "plats": [
+        "PC",
+        "Switch"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqq6.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/the-dropouts--1"
     }
   ],
   "musicas": []
