@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-10-23T20:02:55.449Z",
+  "atualizadoEm": "2026-10-23T20:33:04.362Z",
   "noticias": [
+    {
+      "t": "Xbox libera jogos na nuvem sem assinatura do Game Pass; entenda como funciona",
+      "d": "&nbsp;&nbsp; Fast Company Brasil",
+      "link": "https://fastcompanybrasil.com/games/xbox-libera-jogos-nuvem-sem-assinatura-game-pass-entenda-funciona/",
+      "fonte": "Fast Company Brasil",
+      "data": "2026-10-23T20:29:58.000Z",
+      "c": "Consoles",
+      "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/xbox-cloud.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWFVVGVBcnR0RWFNY2h2d1huTnRmY24wbEpsYXp1eGJwcTNQaGFWeUtmNEFpVnAyNktORlRqSEE5RHA0Y2lWbFcwRG0wM2ZlbFd2Sm93Vno1NFBBa1hVcVMtZHFRbkhtZkFWSVRMQ29GVjZlWFpUV1JaRXQwdlhQbjA2M2JJbmJmRHF3MElQT28zZXg4MGFlWHBneFE3dTB5dW5WSQ?oc=5"
+    },
+    {
+      "t": "Luma Island chega ao PS5 e Xbox com cross-play em dezembro",
+      "d": "&nbsp;&nbsp; Última Ficha",
+      "link": "https://ultimaficha.com.br/2026/10/23/luma-island-data-lancamento-consoles/",
+      "fonte": "Última Ficha",
+      "data": "2026-10-23T20:02:52.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOckVpNVMzSW9DZG12dDZ1MXBSXzdEa1NKZzFjeXdFSHVtVUYtTmhRNHVWaTdsR2JITVJUdGpEWHNEeTNvN2FqS2ZEUDVHOE9kTWRoTEF2X1MzM2V1bHJsR3lYRDNhd0ctV3Q3OFVlYU9FaFRVUXU0R0F6RWtIRVp4Qw?oc=5"
+    },
     {
       "t": "Look Outside será lançado para PlayStation 5, Switch 2, PlayStation 4 e Switch em 30 e outubro",
       "d": "&nbsp;&nbsp; GameBlast",
@@ -50,16 +70,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/detonado_y5ya.jpg"
     },
     {
-      "t": "Modern Warfare 4 tem crossplay? Como jogar com amigos no PS5, Xbox, PC e Switch 2",
-      "d": "&nbsp;&nbsp; Game Overdrive",
-      "link": "https://gameoverdrive.com.br/modern-warfare-4-crossplay-como-jogar-amigos-ps5-xbox-pc-switch-2/",
-      "fonte": "Game Overdrive",
-      "data": "2026-10-23T19:26:46.000Z",
-      "c": "PC",
-      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/10/modern-warfare-4-crossplay-1-1600x900.webp",
-      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRURZZTVUNzZaaDRVTWJpTXo4a195X2c1a3hBYkJHdmVHX0FycVg4UFVLOElVeXE3dUFGTE1uSzhCdldiQU85QkJ1U003MkVDUkN0cVF0TU1BY0VfTk50b2xHOTNrWlVpS3hsdEF0cEpmS1hlaW9yTUNiMUo2MGxHUndRdGpNU0kzTG1VVkJkUG5FRnJON2ZxcFFEZw?oc=5"
-    },
-    {
       "t": "Nvidia quer alcançar ‘todos os gamers do Brasil’ e ampliar presença fora do eixo Rio-São Paulo",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/nvidia-quer-alcancar-todos-os-gamers-do-brasil-e-ampliar-presenca-fora-do-eixo-rio-sao-paulo/",
@@ -67,16 +77,6 @@
       "data": "2026-10-23T19:15:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/X4QGDPZHR5C77PBC3RGLY2H3RU.jpg?quality=80&auth=0e728f7ed4e1a3938837b9b8d74e71f8326f40bee295853a53472f1da94804cf&width=710"
-    },
-    {
-      "t": "\"Acordo no PlayStation\"! Cubarsí esquenta o Clássico com declarações divertidas e revela seu sonho ao lado de Messi",
-      "d": "&nbsp;&nbsp; Goal.com",
-      "link": "https://www.goal.com/br/not%C3%ADcias/acordo-no-playstation-cubarsi-esquenta-o-classico-com-declaracoes-divertidas-e-revela-seu-sonho-ao-lado-de-messi/bltf2ae951495133b67",
-      "fonte": "Goal.com",
-      "data": "2026-10-23T19:11:27.000Z",
-      "c": "Consoles",
-      "img": "https://assets.goal.com/images/v3/getty-2291171215/crop/MM5DINRYHA5DENRTG45G433XMU5DOORWGU======/GettyImages-2291171215.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNjQ5eEJtTW1sZlowRkhhOF96b05IbW1fb2FaellQQjg5MjFtQ2lfOTF6RjU5VU1KNUR5VFFySnhQMXRkSUh0TDBKSnQ2OWVhUl9ydk5JRkY2bmZUa0R5dVlNdmRteDlpZUtqbTVRdnlkdzNFQktWZU1mcm9HWHlEQ1lVTkJIekRqdDRSblRDcjN0ZUJvMW5WTjl2ZndJU0Y0MDN5SXFTbWNOUG4tRXpQSDhvVFh0aE5IQ1BBUUlyVURDVjlJZUo2VF9OclNDNmVGdnJidDgxc1lfQW0yWmtuVl9HWXcwMGZGRVdyUnFXSVJFWE9vMGdrN1YwbjAtTU0?oc=5"
     },
     {
       "t": "Assassin’s Creed Black Flag Resynced ganhará New Game+",
@@ -292,7 +292,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8079,
+      "views": 8080,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -404,7 +404,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2889,
+      "views": 2890,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
@@ -444,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20088,
+      "views": 20089,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -460,7 +460,7 @@
       "id": "ugGDjTdbvpU",
       "t": "MELHOR ARMA PARA MAELLE APÓS O NERF | EXPEDITION 33!",
       "data": "2025-05-13T17:30:14Z",
-      "views": 5523,
+      "views": 5524,
       "img": "https://i.ytimg.com/vi/ugGDjTdbvpU/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ugGDjTdbvpU"
     },
