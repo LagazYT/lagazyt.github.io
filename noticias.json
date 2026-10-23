@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-23T05:57:09.280Z",
+  "atualizadoEm": "2026-10-23T06:27:16.471Z",
   "noticias": [
     {
       "t": "Game Boy – Nintendo Classics receberá três novos jogos em atualização",
@@ -1975,6 +1975,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocqye.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/dice-hoarder"
+    },
+    {
+      "t": "IWA Fighting Adventure",
+      "data": "2026-11-15",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5sx.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/iwa-fighting-adventure"
     },
     {
       "t": "Scopecreep",
@@ -4715,16 +4725,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co98in.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/star-life"
-    },
-    {
-      "t": "Froggo's Adventure: Drifting Sky",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakvj.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/froggos-adventure-drifting-sky"
     }
   ],
   "musicas": []
