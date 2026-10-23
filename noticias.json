@@ -1,15 +1,73 @@
 {
-  "atualizadoEm": "2026-10-23T13:30:05.401Z",
+  "atualizadoEm": "2026-10-23T14:00:17.111Z",
   "noticias": [
     {
-      "t": "Xbox muda plano de fundo dos consoles sem avisar; veja como desativar",
-      "d": "&nbsp;&nbsp; Central Xbox",
-      "link": "https://centralxbox.com.br/2026/10/23/xbox-muda-plano-de-fundo-dos-consoles-sem-avisar-veja-como-desativar/",
-      "fonte": "Central Xbox",
-      "data": "2026-10-23T13:28:06.000Z",
+      "t": "O restaurante de fast-food de GTA 6, Burger Shot, chegará à vida real na arena do Miami Heat",
+      "d": "Morra de inveja",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157016/o-restaurante-de-fast-food-de-gta-6-burger-shot-chegara-a-vida-real-na-arena-do-miami-heat",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-23T13:51:34.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6s-fas/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-li_de5w.jpg"
+    },
+    {
+      "t": "Maricá Games ocupa a Orla do Parque Nanci, na cidade fluminense, com eSports, K-pop e cosplay",
+      "d": "&nbsp;&nbsp; Arkade",
+      "link": "https://arkade.com.br/marica-games-ocupa-a-orla-do-parque-nanci-na-cidade-fluminense-com-esports-k-pop-e-cosplay/",
+      "fonte": "Arkade",
+      "data": "2026-10-23T13:45:00.000Z",
+      "c": "Geral",
+      "img": "https://arkade.com.br/wp-content/uploads/2026/10/IMG_3853.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaXJSWEFHT2p4NTMwRlhSakVxNDBpdGcwb1ptWEhaLUlNTWlHZksyajF6VlJyUDdoRTEzd2dMRlhkd042RHlPVlN2X1k5elk0Y2tQUzdKTjZVTmNZaTlaR001U1Q3X2lEaTZPVzV0NVd0b1NyTVAwU3FYRUZIcVlXd2s4S2w3RlgtQlUzNExnZXRiUWFLY2JqUk1qSHJTaHZJVmk5aXNQY0tBVzY5ODZzLVFTNA?oc=5"
+    },
+    {
+      "t": "Estúdio de Dandadan confirma novo projeto do anime de The Ghost in the Shell",
+      "d": "O Science SARU não revelou muitos detalhes sobre o projeto O Science SARU, estúdio por trás de Dandadan confirmou que um novo anime de The Ghost in the Shell está em andamento (via Anime News...",
+      "link": "https://br.ign.com/ghost-in-the-shell/157015/estudio-de-dandadan-confirma-novo-projeto-do-anime-de-the-ghost-in-the-shell",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-23T13:42:52.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/gs_emxr.jpg"
+    },
+    {
+      "t": "Saros: criando os épicos Supremos de Carcosa",
+      "d": "&nbsp;&nbsp; PlayStation.Blog BR",
+      "link": "https://blog.br.playstation.com/2026/10/23/saros-criando-os-epicos-supremos-de-carcosa/",
+      "fonte": "PlayStation.Blog BR",
+      "data": "2026-10-23T13:40:07.000Z",
       "c": "Consoles",
-      "img": "https://centralxbox.com.br/wp-content/uploads/2026/10/call-of-duty-modern-warfare-4-novo-scaled.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmtzWHNWVEtuWVZyY1VPSG9zaHRleVlKa2RFeE13RzAxN1JWSWtuRUVCODh5V3l2aDlQemptR25vU3NsUy1mcU1YUHZQTElqU09YblNTRl9xZzJaOG5ZTmpBa2s1VGw5UHhMQmwwQzdudmRUTjhqaUo2OGNoaXNMSEJzb3dhT21kbnJyN1hjS2RKNGJYZkE3M2t5bEt1NU4yVGMxUVJFZHVmWW8?oc=5"
+      "img": "https://blog.br.playstation.com/tachyon/sites/4/2026/10/28980c45bed3769710991b241dc90689445b188e.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTJuSGVXRTV2aGdTMk5sbXVMenNTQ2NzclJOWGRwUC1kRWRtUWRYVElDR1ZWdF82U0hiNHdmZzNCTmg2NS0zc1pRSGxMTGlDeWxzeDdXaWFxUFlOdDhkUnA0eHh4dXZBZTljVDIyZnFHWXNmc0NkVEVLdF9UbXR5M0NzOE9jOU55ZERHSWZsaGU?oc=5"
+    },
+    {
+      "t": "Warrior Cats: Clans of the Forest estreia nos consoles e PC",
+      "d": "&nbsp;&nbsp; Alternativa Nerd",
+      "link": "https://alternativanerd.com.br/games/warrior-cats-clans-of-the-forest-estreia-nos-consoles-e-pc/",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-10-23T13:35:32.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONDhvcFNLTWE2a3JoM2k1UlNzS1ZSLXY4VFFZdzNTU0dUeTRXYVRhdldCWWJPS3FleGpzZF9nMDR6aGVsVWVUOW5iNm1tWERDbTF2WFREbmFCZG40R2JkWExxQzNEdS1IWUtTVjdxQXlXM2hNWjlhTUFUSW8wNnlUVzd5RFVYRTdVa2dSUW81S2M3N0tKelZOSDl2RWo?oc=5"
+    },
+    {
+      "t": "Epic Games libera dois jogos grátis de terror para PC até 29 de outubro",
+      "d": "&nbsp;&nbsp; Portal G",
+      "link": "https://portalg.com.br/epic-games-jogos-gratis-pc-outubro-2026/",
+      "fonte": "Portal G",
+      "data": "2026-10-23T13:32:41.000Z",
+      "c": "Ofertas",
+      "img": "https://portalg.com.br/wp-content/uploads/2026/10/Epic-Games-libera-dois-jogos-gratis-de-terror-para-PC-ate-29-de-outubro.webp",
+      "orig": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01WGFSeG1Hd2NzX3hacHhaaV9VRm5oLUJkcVVKZmhLVU9TWDdzRl9fcUxOUzN0WFFKc0Vyemh2akx6cGtUYmZaMTZ0TU82ZktOaFFVbzc4OVhxV1BXOWxGa2ZfSmU0S01VemwzUnFEcmQ?oc=5"
+    },
+    {
+      "t": "Daft Punk teria recusado orçamento ilimitado da Rockstar para se reunir em ‘GTA 6’",
+      "d": "&nbsp;&nbsp; Rolling Stone Brasil",
+      "link": "https://rollingstone.com.br/rs-gaming/daft-punk-teria-recusado-orcamento-ilimitado-da-rockstar-para-se-reunir-em-gta-6/",
+      "fonte": "Rolling Stone Brasil",
+      "data": "2026-10-23T13:32:00.000Z",
+      "c": "Geral",
+      "img": "https://rollingstone.com.br/wp-content/uploads/2025/05/alem-de-lucia-e-jason-saiba-quem-sao-os-novos-personagens-de-gta-6-6.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGVvY3RCV05tUmQyUHh1dGFwSmk5X2tmekN1dGFiNkxwRWM1cVlzYndrTnJYX01ERHZnajFlWnc0LUtwalNUNFFOcmg1OENGTTN6R005VGdXYkFCQjRnSkpacHdxbDhSelByLUU0NnB6dmRPT2lTeU5DNXhIZllRSmZIVDJoYkplSUlLalQ2Wmd5QTFRci1CekI4eUhhWHNuT05qRWZfWmN1RURmU0hDQ3h2SjhuSGYxQXlF?oc=5"
     },
     {
       "t": "Xbox tem Dying Light 2 e mais 5 jogos grátis no fim de semana",
@@ -21,16 +79,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2025/05/kamil-switalski-Pp3Xg09igxE-unsplash-1-1044x696.jpg"
     },
     {
-      "t": "Demons’ Night Fever já disponível para PlayStation 5, Nintendo Switch e Steam",
-      "d": "&nbsp;&nbsp; arkade.com.br",
-      "link": "https://arkade.com.br/demons-night-fever-ja-disponivel-para-playstation-5-nintendo-switch-e-steam/",
-      "fonte": "arkade.com.br",
-      "data": "2026-10-23T13:15:00.000Z",
-      "c": "PC",
-      "img": "https://arkade.com.br/wp-content/uploads/2026/10/demons-night-fever-ja-disponivel-para-playstation-5-nintendo-switch-e-steam.webp",
-      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUtwTVE3RlV0dXc4REgxcnpEOVNtZ09aQzhKLUdpUFppSjRXYUVzS1NBRmVTTnN2eEFSSmtFNUU2d3o2N0o1ZHo2X2VKMFotdUZ2Q21uTTZBT3dEQ0E2MWFfZkRaNS1xN3JTZXJwUkd6MjVXTnhTTU0tUmlQeHVZUFFkOHVXNktMUi1LbUlrQUJEbjZKT1RjZXdEUUhub1E?oc=5"
-    },
-    {
       "t": "Metro 2033 e Last Light Redux ganham novos requisitos no PC",
       "d": "Com a chegada da atualização next-gen, os requisitos para rodar Metro 2033 e Last Light Redux no PC mudaram. Confira quais são!",
       "link": "https://flowgames.gg/metro-2033-e-last-light-redux-ganham-requisitos-pc/",
@@ -38,36 +86,6 @@
       "data": "2026-10-23T13:11:41.000Z",
       "c": "PC",
       "img": "https://flowgames.gg/wp-content/uploads/2026/10/Metro-2033-Redux.jpg"
-    },
-    {
-      "t": "Nintendo Switch 2 é desbloqueado via software pela primeira vez",
-      "d": "&nbsp;&nbsp; Tecnoblog",
-      "link": "https://tecnoblog.net/noticias/nintendo-switch-2-e-desbloqueado-via-software-pela-primeira-vez/",
-      "fonte": "Tecnoblog",
-      "data": "2026-10-23T13:01:55.000Z",
-      "c": "Consoles",
-      "img": "https://files.tecnoblog.net/wp-content/uploads/2026/10/img_2243-edited-1536x864.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbG5LemR5ZzJudHowTTF4VGlJOUdOdmpfbTEtYU9jZWlST3hJbWpMMjMtXzE2ZW1KZ21PX284Sks5NXlKM2EzQUpaWDFIb1daVXNVUm15SG1tM1EzbGtHdUVZd3dMZmdERFpaZU1sOVQxNnpCMVAtT0tBcjJheEMyOF9ST3V5U0I3Sm5QM1RESERYZUNEWlBwQnJMVQ?oc=5"
-    },
-    {
-      "t": "Metro 2033 se torna oficialmente o segundo jogo a receber o DLSS 5",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/metro-2033-se-torna-oficialmente-o-segundo-jogo-a-receber-o-dlss-5/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-23T12:52:00.000Z",
-      "c": "PC",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHF4TnNxcFJzXzM0WTFCWmhTQ0pXZGZHV184eWlJVXF3WkhYak1lZ1FJUXN4a2pHeUJiV1dka0ViOUo5Z25SQXNlaWF2UjJiNGFtdXpFeFc4enAtZXVxZURWWGMyd1ZKd3NaVloyT3BCSm5VVDFVU2t2T1FHVUVrYlJRd25YR0ZaNU1xQ1JOVE5sZmxVVEZnNFFnMU1QNDM4WWdpYjZn?oc=5"
-    },
-    {
-      "t": "Call of Duty: Modern Warfare 4 chega hoje ao Switch 2 com crossplay e DMZ",
-      "d": "&nbsp;&nbsp; projectn.com.br",
-      "link": "https://projectn.com.br/call-of-duty-modern-warfare-4-nintendo-switch-2-lancamento-23-outubro/",
-      "fonte": "projectn.com.br",
-      "data": "2026-10-23T12:20:04.000Z",
-      "c": "Consoles",
-      "img": "https://projectn.com.br/wp-content/uploads/2026/10/Call-of-Duty-Modern-Warfare-4-Switch-2.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTkzY182V3hNUWkyUzE4blhoQ0JyM21TS3lNLVMya3l1UFFBUXI2YXhOZ3hRN05pVktkdE5oMmhzNFZGekNXbmdfMVV0UzYxM1dxVmo1NWhKUjdlR1NPTllncXl0NUZXNHlzenZJUzFIWksxdV9tSVZXX0ZnY2d0TEhHbEd5SjUtYTI3NGhCVTdvZlo0YjFEUFRn?oc=5"
     },
     {
       "t": "Xbox Series S e X recebem AMD FSR 4.1 antes do lançamento de GTA 6",
@@ -196,15 +214,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/S3OA4EVJABAJ5I3H2SW6Q6AN5I.jpg?quality=80&auth=755bf7d58553615bfeee4ca31acc9d848003cf1d25201c4d773ec5654d11b8d7&width=710"
     },
     {
-      "t": "Tablet TCL com caneta e capa ganha mais de R$ 400 de desconto com cupom no Mercado Livre",
-      "d": "NXTPAPER 11 Plus está saindo apenas por R$ 1,5 mil",
-      "link": "https://br.ign.com/descontos/157003/tablet-tcl-com-caneta-e-capa-ganha-mais-de-r-400-de-desconto-com-cupom-no-mercado-livre",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-22T18:24:42.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/tcl-nxtpaper-11-plus-capa-1280x720_xqv7.jpg"
-    },
-    {
       "t": "Prepara o SSD! Zelda Ocarina of Time Remake pesará 27 GB no Switch 2",
       "d": "Zelda Ocarina of Time Remake promete ser mais leve que o original",
       "link": "https://flowgames.gg/zelda-ocarina-of-time-remake-pesara-27-gb-no-switch-2/",
@@ -212,15 +221,6 @@
       "data": "2026-10-22T18:02:12.000Z",
       "c": "Consoles",
       "img": "https://flowgames.gg/wp-content/uploads/2026/06/The-Legend-of-Zelda-Ocarina-of-Time-2.jpg"
-    },
-    {
-      "t": "Capcom, desenvolvedora de Resident Evil, emite alerta sobre phishing após vazamento de dados atingir mais de 11 milhões de contas de clientes",
-      "d": "196 contas tiveram suas senhas alteradas",
-      "link": "https://br.ign.com/pragmata/157001/capcom-desenvolvedora-de-resident-evil-emite-alerta-sobre-phishing-apos-vazamento-de-dados-atingir-m",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-22T17:33:46.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/r/resident-e/resident-evil-developer-capcom-issues-phishing-warning-after_s8nw.jpg"
     },
     {
       "t": "Xbox revela preços do Cloud Gaming por hora sem Game Pass no Brasil; confira os valores",
@@ -443,7 +443,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20081,
+      "views": 20082,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
