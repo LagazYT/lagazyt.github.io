@@ -1,6 +1,34 @@
 {
-  "atualizadoEm": "2026-10-23T19:02:32.693Z",
+  "atualizadoEm": "2026-10-23T19:32:42.748Z",
   "noticias": [
+    {
+      "t": "Nvidia quer alcançar ‘todos os gamers do Brasil’ e ampliar presença fora do eixo Rio-São Paulo",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/nvidia-quer-alcancar-todos-os-gamers-do-brasil-e-ampliar-presenca-fora-do-eixo-rio-sao-paulo/",
+      "fonte": "TecMundo",
+      "data": "2026-10-23T19:15:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/X4QGDPZHR5C77PBC3RGLY2H3RU.jpg?quality=80&auth=0e728f7ed4e1a3938837b9b8d74e71f8326f40bee295853a53472f1da94804cf&width=710"
+    },
+    {
+      "t": "\"Acordo no PlayStation\"! Cubarsí esquenta o Clássico com declarações divertidas e revela seu sonho ao lado de Messi",
+      "d": "&nbsp;&nbsp; Goal.com",
+      "link": "https://www.goal.com/br/not%C3%ADcias/acordo-no-playstation-cubarsi-esquenta-o-classico-com-declaracoes-divertidas-e-revela-seu-sonho-ao-lado-de-messi/bltf2ae951495133b67",
+      "fonte": "Goal.com",
+      "data": "2026-10-23T19:11:27.000Z",
+      "c": "Consoles",
+      "img": "https://assets.goal.com/images/v3/getty-2291171215/crop/MM5DINRYHA5DENRTG45G433XMU5DOORWGU======/GettyImages-2291171215.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNjQ5eEJtTW1sZlowRkhhOF96b05IbW1fb2FaellQQjg5MjFtQ2lfOTF6RjU5VU1KNUR5VFFySnhQMXRkSUh0TDBKSnQ2OWVhUl9ydk5JRkY2bmZUa0R5dVlNdmRteDlpZUtqbTVRdnlkdzNFQktWZU1mcm9HWHlEQ1lVTkJIekRqdDRSblRDcjN0ZUJvMW5WTjl2ZndJU0Y0MDN5SXFTbWNOUG4tRXpQSDhvVFh0aE5IQ1BBUUlyVURDVjlJZUo2VF9OclNDNmVGdnJidDgxc1lfQW0yWmtuVl9HWXcwMGZGRVdyUnFXSVJFWE9vMGdrN1YwbjAtTU0?oc=5"
+    },
+    {
+      "t": "Assassin’s Creed Black Flag Resynced ganhará New Game+",
+      "d": "Após os jogadores pedirem muito, a Ubisoft finalmente anunciou que Assassin's Creed Black Flag Resynced terá um modo New Game+",
+      "link": "https://flowgames.gg/assassins-creed-black-flag-resynced-ganhara-new-game/",
+      "fonte": "Flow Games",
+      "data": "2026-10-23T19:10:25.000Z",
+      "c": "Lançamentos",
+      "img": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f942.png"
+    },
     {
       "t": "AMD libera FSR 4.1 em beta para os portáteis da linha ASUS ROG XBOX Ally",
       "d": "&nbsp;&nbsp; TudoCelular.com",
@@ -20,16 +48,6 @@
       "c": "Consoles",
       "img": "https://universonintendo.com/wp-content/uploads/2025/02/Nintendo-Switch-2-Mouse-Con.jpg",
       "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNUo2RTJ5MlZJU3pSWURwazBQTjdNVnhNM0xFZGxpLWhKcGRST3FwTGF4ZXFLTnNLYWJERVlGdW9IWWwtQlMyaldqRDNCMzBWc3ZQQlZiaHVacW56b1l6ZldJLV9MN0hObEVVc3huZFNncHcxUlhBVWZFMFVIaVU3b2c4QVF0TzdIUDRTeHczem04aTZkaEJYajdhbzhYN0ZTa2llTWxXNU5Xa3dC?oc=5"
-    },
-    {
-      "t": "Uma reparação histórica está sendo feita e o arcade clássico de Os Simpsons está chegando ao Super Nintendo",
-      "d": "&nbsp;&nbsp; Arkade",
-      "link": "https://arkade.com.br/uma-reparacao-historica-esta-sendo-feita-e-o-arcade-classico-de-os-simpsons-esta-chegando-ao-super-nintendo/",
-      "fonte": "Arkade",
-      "data": "2026-10-23T18:30:00.000Z",
-      "c": "Consoles",
-      "img": "https://arkade.com.br/wp-content/uploads/2026/10/uma-reparacao-historica-esta-sendo-feita-e-o-arcade-classico-de-os-simpsons-esta.webp",
-      "orig": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeEt6bjhtWTBiRXZpNS1KWDRqS1hjQTJJWDVlQnZTN1htYi1tLTc3djVJSHlBU0tCM2s5cFZSYmRiLS1scXVDLVI3ZDFSWE5TOUJ3cmdvcWF2S2dGdDI4WmxZVlFQem5jXzktUGlRcVdieU9nTmJtbVJGR2dkWk15WV95RHFfN0dfYlFVc0RScXFYWUNqZnFINWV1elZkUlRfVGRQSC04SDBhMUN0eVFzeXAtMUpjTHFkS1B5NEpRUThLUDhJRUd4cGln?oc=5"
     },
     {
       "t": "Salvador terá evento gratuito com jogos digitais, realidade virtual e oficinas de criação de games",
@@ -259,24 +277,6 @@
       "data": "2026-10-22T21:15:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/AVIGE3MN2VFZ3AXGZHNCPC34BA.jpg?quality=80&auth=ab5ea3580dc0f7f3d77663a96f4122515268ca6387c0f84025182bc5b4033019&width=710"
-    },
-    {
-      "t": "Trailer do cancelado Mass Effect Universe cai na internet",
-      "d": "Fim da BioWare leva ao vazamento de Mass Effect Universe. Confira!",
-      "link": "https://flowgames.gg/mass-effect-universe-cai-na-internet-trailer-vazado/",
-      "fonte": "Flow Games",
-      "data": "2026-10-22T20:43:08.000Z",
-      "c": "Lançamentos",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/10/mass-effect-universe-trailer.jpg"
-    },
-    {
-      "t": "Xbox Series se beneficiará muito da chegada do AMD FSR 4.1",
-      "d": "AMD FSR 4.1 promete melhorar bastante a resolução dos jogos de Xbox Series S",
-      "link": "https://flowgames.gg/amd-fsr-4-1-ajuda-melhorar-jogos-xbox-series-s/",
-      "fonte": "Flow Games",
-      "data": "2026-10-22T18:50:04.000Z",
-      "c": "PC",
-      "img": "https://www.youtube.com/embed/fT6TIXnmv-s"
     }
   ],
   "videos": [
@@ -292,7 +292,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8079,
+      "views": 8080,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -404,7 +404,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2889,
+      "views": 2890,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
@@ -444,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20088,
+      "views": 20089,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -460,7 +460,7 @@
       "id": "ugGDjTdbvpU",
       "t": "MELHOR ARMA PARA MAELLE APÓS O NERF | EXPEDITION 33!",
       "data": "2025-05-13T17:30:14Z",
-      "views": 5523,
+      "views": 5524,
       "img": "https://i.ytimg.com/vi/ugGDjTdbvpU/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ugGDjTdbvpU"
     },
@@ -2256,6 +2256,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coczri.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/you-will-fall--1"
+    },
+    {
+      "t": "Anhedonia: Sanctuary of Ash",
+      "data": "2026-12-01",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coccnz.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/anhedonia-sanctuary-of-ash"
     },
     {
       "t": "Dumpster Gang",
@@ -4712,19 +4722,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacts.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/the-patient-can-you-escape"
-    },
-    {
-      "t": "Golf With Your Friends 2",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyw1.jpg",
-      "hype": 6,
-      "link": "https://www.igdb.com/games/golf-with-your-friends-2"
     }
   ],
   "musicas": []
