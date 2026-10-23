@@ -1,6 +1,54 @@
 {
-  "atualizadoEm": "2026-10-23T12:59:54.898Z",
+  "atualizadoEm": "2026-10-23T13:30:05.401Z",
   "noticias": [
+    {
+      "t": "Xbox muda plano de fundo dos consoles sem avisar; veja como desativar",
+      "d": "&nbsp;&nbsp; Central Xbox",
+      "link": "https://centralxbox.com.br/2026/10/23/xbox-muda-plano-de-fundo-dos-consoles-sem-avisar-veja-como-desativar/",
+      "fonte": "Central Xbox",
+      "data": "2026-10-23T13:28:06.000Z",
+      "c": "Consoles",
+      "img": "https://centralxbox.com.br/wp-content/uploads/2026/10/call-of-duty-modern-warfare-4-novo-scaled.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWmtzWHNWVEtuWVZyY1VPSG9zaHRleVlKa2RFeE13RzAxN1JWSWtuRUVCODh5V3l2aDlQemptR25vU3NsUy1mcU1YUHZQTElqU09YblNTRl9xZzJaOG5ZTmpBa2s1VGw5UHhMQmwwQzdudmRUTjhqaUo2OGNoaXNMSEJzb3dhT21kbnJyN1hjS2RKNGJYZkE3M2t5bEt1NU4yVGMxUVJFZHVmWW8?oc=5"
+    },
+    {
+      "t": "Xbox tem Dying Light 2 e mais 5 jogos grátis no fim de semana",
+      "d": "Os membros do Xbox Game Pass podem aproveitar mais uma seleção de jogos grátis; confira",
+      "link": "https://flowgames.gg/xbox-tem-dying-light-2-jogos-gratis-no-fim-de-semana/",
+      "fonte": "Flow Games",
+      "data": "2026-10-23T13:25:09.000Z",
+      "c": "Ofertas",
+      "img": "https://flowgames.gg/wp-content/uploads/2025/05/kamil-switalski-Pp3Xg09igxE-unsplash-1-1044x696.jpg"
+    },
+    {
+      "t": "Demons’ Night Fever já disponível para PlayStation 5, Nintendo Switch e Steam",
+      "d": "&nbsp;&nbsp; arkade.com.br",
+      "link": "https://arkade.com.br/demons-night-fever-ja-disponivel-para-playstation-5-nintendo-switch-e-steam/",
+      "fonte": "arkade.com.br",
+      "data": "2026-10-23T13:15:00.000Z",
+      "c": "PC",
+      "img": "https://arkade.com.br/wp-content/uploads/2026/10/demons-night-fever-ja-disponivel-para-playstation-5-nintendo-switch-e-steam.webp",
+      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUtwTVE3RlV0dXc4REgxcnpEOVNtZ09aQzhKLUdpUFppSjRXYUVzS1NBRmVTTnN2eEFSSmtFNUU2d3o2N0o1ZHo2X2VKMFotdUZ2Q21uTTZBT3dEQ0E2MWFfZkRaNS1xN3JTZXJwUkd6MjVXTnhTTU0tUmlQeHVZUFFkOHVXNktMUi1LbUlrQUJEbjZKT1RjZXdEUUhub1E?oc=5"
+    },
+    {
+      "t": "Metro 2033 e Last Light Redux ganham novos requisitos no PC",
+      "d": "Com a chegada da atualização next-gen, os requisitos para rodar Metro 2033 e Last Light Redux no PC mudaram. Confira quais são!",
+      "link": "https://flowgames.gg/metro-2033-e-last-light-redux-ganham-requisitos-pc/",
+      "fonte": "Flow Games",
+      "data": "2026-10-23T13:11:41.000Z",
+      "c": "PC",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/Metro-2033-Redux.jpg"
+    },
+    {
+      "t": "Nintendo Switch 2 é desbloqueado via software pela primeira vez",
+      "d": "&nbsp;&nbsp; Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/nintendo-switch-2-e-desbloqueado-via-software-pela-primeira-vez/",
+      "fonte": "Tecnoblog",
+      "data": "2026-10-23T13:01:55.000Z",
+      "c": "Consoles",
+      "img": "https://files.tecnoblog.net/wp-content/uploads/2026/10/img_2243-edited-1536x864.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbG5LemR5ZzJudHowTTF4VGlJOUdOdmpfbTEtYU9jZWlST3hJbWpMMjMtXzE2ZW1KZ21PX284Sks5NXlKM2EzQUpaWDFIb1daVXNVUm15SG1tM1EzbGtHdUVZd3dMZmdERFpaZU1sOVQxNnpCMVAtT0tBcjJheEMyOF9ST3V5U0I3Sm5QM1RESERYZUNEWlBwQnJMVQ?oc=5"
+    },
     {
       "t": "Metro 2033 se torna oficialmente o segundo jogo a receber o DLSS 5",
       "d": "&nbsp;&nbsp; Adrenaline",
@@ -20,36 +68,6 @@
       "c": "Consoles",
       "img": "https://projectn.com.br/wp-content/uploads/2026/10/Call-of-Duty-Modern-Warfare-4-Switch-2.jpg",
       "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTkzY182V3hNUWkyUzE4blhoQ0JyM21TS3lNLVMya3l1UFFBUXI2YXhOZ3hRN05pVktkdE5oMmhzNFZGekNXbmdfMVV0UzYxM1dxVmo1NWhKUjdlR1NPTllncXl0NUZXNHlzenZJUzFIWksxdV9tSVZXX0ZnY2d0TEhHbEd5SjUtYTI3NGhCVTdvZlo0YjFEUFRn?oc=5"
-    },
-    {
-      "t": "Fatal Fury: City of the Wolves chega ao Nintendo Switch 2 e apresenta sua collab com Tokyo Revengers",
-      "d": "&nbsp;&nbsp; arkade.com.br",
-      "link": "https://arkade.com.br/fatal-fury-city-of-the-wolves-chega-ao-nintendo-switch-2-e-apresenta-sua-collab-com-tokyo-revengers/",
-      "fonte": "arkade.com.br",
-      "data": "2026-10-23T12:15:00.000Z",
-      "c": "Consoles",
-      "img": "https://arkade.com.br/wp-content/uploads/2026/10/fatal-fury-city-of-the-wolves-chega-ao-nintendo-switch-2-e-apresenta-sua-collab.webp",
-      "orig": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeTZYS1pJTE5NODRnWTJTU25oNWRoQVk2RG02UWhZb2sxN2dLa1pLRGU1SVE3V0EzeVNrcmpXOVVBcERLWkdtQjhTR1VYaG1PRzBuMWp6Rl9xd0xHOVFpYS1mbFhLaC1DQW5EVkdBWlVTRDJFc3FPNTZNTEJPVjJtOENFdXo3SHk2UGFFaXVWTGRvcEpNNWc2QzlSWDlxYVQ4MV9zZ21LWXp2ZE9UbkxPT1kydWtSWU0tSERuN2Vsbw?oc=5"
-    },
-    {
-      "t": "ARMS chega ao Nintendo Music com 45 faixas",
-      "d": "&nbsp;&nbsp; Project N",
-      "link": "https://projectn.com.br/arms-nintendo-music-45-faixas-23-outubro/",
-      "fonte": "Project N",
-      "data": "2026-10-23T12:14:22.000Z",
-      "c": "Consoles",
-      "img": "https://projectn.com.br/wp-content/uploads/2020/02/H2x1_NSwitch_Arms_image1600w.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94R1JqaTFZNmxQajVrQnZnVjdNS0xKT3Jqcm5ObEhtQVZyNW8wMHlhWEF4cm1ldmcxeDBHRmVhWDZ6RElJelpmb3VrTW5DVEp3bVMwN3Q5cVo0RzMzeXZWQUFRcXJ5b1RVYUQ5enAyZDQtMnM?oc=5"
-    },
-    {
-      "t": "Wo Long 2 revela mudanças após ouvir a comunidade",
-      "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://alternativanerd.com.br/games/wo-long-2-revela-mudancas-apos-ouvir-a-comunidade/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-10-23T12:11:34.000Z",
-      "c": "Lançamentos",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMkxGbUZQUTY2NU4wSk1fUHlFZ2JhVXQ2NmEzVW5scUxWSW9UZUtWbDZRMGs3Tl9sQlQxb29FT2J4anhiVDZrdGh1VE5hbXBGWExuZ3h3VHJqTFE4U3ZRdkdfRFVVTDR5V2RmR2pwdGF3YnhjVjBJUFBhcEhjR2xpRFlZN2VDVnlKZGFtQWN0dlk?oc=5"
     },
     {
       "t": "Xbox Series S e X recebem AMD FSR 4.1 antes do lançamento de GTA 6",
@@ -258,25 +276,6 @@
       "data": "2026-10-22T15:15:00.000Z",
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/MJ4JD4353FOAHHPWTS7UKHGX2Y.jpg?quality=80&auth=d7591a2e7aecbe38330acda29ca5169e228b9a22e652b58db6205449dab3dc69&width=710"
-    },
-    {
-      "t": "Epic Games Store traz dose dupla de terror grátis com puzzles e tiros",
-      "d": "Visite a Epic Games Store para baixar agora mesmo 2 jogos gratuitos de PC",
-      "link": "https://flowgames.gg/epic-games-store-2-jogos-gratis-terror-22-10-2026/",
-      "fonte": "Flow Games",
-      "data": "2026-10-22T15:00:19.000Z",
-      "c": "Ofertas",
-      "img": "https://www.youtube.com/embed/GgGTsYLgnzQ"
-    },
-    {
-      "t": "Dois jogos para PC de graça hoje - resgate agora!",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/noticias/dois-jogos-para-pc-de-graca-hoje-resgate-agora-19/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-22T15:00:00.000Z",
-      "c": "Ofertas",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2pMUFNMNzdfRENxaUI1VjZDV0NqVnpkT2ZkLXRtYlBEdS1Db2F6WWxyX0FudzR4TzBOa1Y3dHByZkRxS1VLci1tRVRhNDBCZm9JazBRSXYzd09NMWhrcDgxVjJYRUxtRkxwM2RFVk9BanVDVVM0TDZUVm8xNkJ3dHAzNjJyWGI5cFNkcDFFQmFJZ0k?oc=5"
     }
   ],
   "videos": [
@@ -2090,7 +2089,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv1v.jpg",
-      "hype": 1110,
+      "hype": 1111,
       "link": "https://www.igdb.com/games/grand-theft-auto-vi"
     },
     {
