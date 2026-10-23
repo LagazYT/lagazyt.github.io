@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-10-23T01:25:57.681Z",
+  "atualizadoEm": "2026-10-23T01:56:04.642Z",
   "noticias": [
+    {
+      "t": "NBA 2K27 para PS5 por menos de R$ 200 com cupom na Amazon",
+      "d": "Simulador de basquete ganha grande desconto e atinge menor preço do ano",
+      "link": "https://br.ign.com/descontos/157013/nba-2k27-para-ps5-por-menos-de-r-200-com-cupom-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-23T01:23:23.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/maxresdefault_bdp9.jpg"
+    },
     {
       "t": "Halloween: jogos de Nintendo Switch e Switch 2 para aproveitar esse dia das bruxas",
       "d": "&nbsp;&nbsp; Nintendo Blast",
@@ -205,15 +214,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2025/03/download-2024-06-06T090121.928.jpg"
     },
     {
-      "t": "EA interrompe o desenvolvimento de jogo multiplayer de The Sims para dispositivos móveis em prol de uma suposta sequência de The Sims 4",
-      "d": "Nova direção",
-      "link": "https://br.ign.com/the-sims-4-game/156998/ea-interrompe-o-desenvolvimento-de-jogo-multiplayer-de-the-sims-para-dispositivos-moveis-em-prol-de",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-22T17:00:09.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/e/ea-halts-d/ea-halts-development-on-mobile-multiplayer-sims-game-in-favo_t8ku.jpg"
-    },
-    {
       "t": "Marvel’s Wolverine lidera vendas nos Estados Unidos",
       "d": "Apesar de recepção controversa, Marvel's Wolverine se consagrou como o jogo mais vendido de setembro nos Estados Unidos",
       "link": "https://flowgames.gg/marvels-wolverine-lidera-vendas-nos-estados-unidos/",
@@ -380,7 +380,7 @@
       "id": "gZSUZuB5jJ0",
       "t": "PICTO INSANO MUITO ROUBADO TENHA MAIS TURNOS | EXPEDITION 33",
       "data": "2025-05-22T17:01:01Z",
-      "views": 2341,
+      "views": 2343,
       "img": "https://i.ytimg.com/vi/gZSUZuB5jJ0/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=gZSUZuB5jJ0"
     },
@@ -484,7 +484,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3540,
+      "views": 3541,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -1807,7 +1807,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod6wd.jpg",
-      "hype": 4,
+      "hype": 5,
       "link": "https://www.igdb.com/games/shrek-2-remastered"
     },
     {
@@ -4454,7 +4454,7 @@
         "Switch"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8uyz.jpg",
-      "hype": 14,
+      "hype": 15,
       "link": "https://www.igdb.com/games/tanuki-pons-summer"
     },
     {
