@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-24T07:37:08.973Z",
+  "atualizadoEm": "2026-10-24T08:07:14.992Z",
   "noticias": [
     {
       "t": "FATAL FURY: City of the Wolves reúne estrelas dos games em comercial para Nintendo Switch 2",
@@ -59,16 +59,6 @@
       "c": "Consoles",
       "img": "https://www.einerd.com/wp-content/uploads/2025/12/ps5.jpg",
       "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xSmE1cVlqajFwWDJwcnNqSDBWcldMMFNPUktTOWNfQ0ZNRkVCaHdOTGx5eGZJWUVxS2pxUjhQTHd6QlUwQ245dEtFR1pSOGJSM1NtOHZ6djJTcnRWeGxKeTZHckZHZlpldlpLYmQ2STBORTI0QmZLZDFxR18?oc=5"
-    },
-    {
-      "t": "Jogos de PC em oferta limitada com até 95% de desconto",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-limitada-com-ate-95-de-desconto-7/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-23T23:00:00.000Z",
-      "c": "Ofertas",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVpiR2lxc2JJZURwTG9QWjY4VTVZTHktMkVYVFA5RUR2R3VWM1F3VDRnWkN0b3MzVEdUa1F1dklWRVlYeTZ2NjlESmVpRkJCMmRDZkNOcWltN3V2bjFmdnJwRnpTU1FGWjBaLXUwTGRsYU9Xb0FZSTYyUUZBQVpfdDJ6eG9NSUg3d19mempFLVo4Q3V1c3gxQk0ybUQ2eGFhMUw4?oc=5"
     },
     {
       "t": "Monster Hunter Wilds e mais jogos para Switch na eShop com até 90% OFF",
@@ -280,6 +270,15 @@
       "data": "2026-10-23T14:45:18.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2025/10/sony-streaming-guerra_2602.jpg"
+    },
+    {
+      "t": "Desenvolvedor da Valve acaba dando dicas sobre Half-Life 3",
+      "d": "Será que HLX é mesmo o codinome de Half-Life 3 dentro da Valve?",
+      "link": "https://flowgames.gg/half-life-3-pode-ter-codinome-hlx-na-valve/",
+      "fonte": "Flow Games",
+      "data": "2026-10-23T14:41:24.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/2wpuciLYgm0"
     }
   ],
   "videos": [
@@ -295,7 +294,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8084,
+      "views": 8086,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -447,7 +446,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20097,
+      "views": 20100,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
