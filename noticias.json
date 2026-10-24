@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-24T00:04:21.604Z",
+  "atualizadoEm": "2026-10-24T00:34:29.212Z",
   "noticias": [
     {
       "t": "Jogatina de FDS #81: o que estamos jogando",
@@ -68,6 +68,16 @@
       "data": "2026-10-23T21:15:00.000Z",
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/7EZOOIYHI5FXVAKUNSNXPWEUDY.jpg?quality=80&auth=e3f01cdeacf8679a564c47ae11ce47cb98870613d98e5ac888352398b02c4e97&width=710"
+    },
+    {
+      "t": "LANÇAMENTOS DA SEMANA | Phantom Blade Zero, Minecraft e mais jogos",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/lancamentos-da-semana-phantom-blade-zero-minecraft-e-mais-jogos/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-23T21:10:00.000Z",
+      "c": "Lançamentos",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlRmS21GZEw2YjFhVEJYUUh6dE96R3lMYWY0QVJZdjlhNW84TW9ibHMxQUtYZ1BhWkpOc1ZIalNDSW55Zy01WXRrVDR4TEZWOXZfV3RXN2gxZnIyMnhKeFN0dnQ0cUN6eHlqMlo2UWdYQmNGUHRvcHlVYURGSTdwMVFEc0Jucm5ydGpHWnhRTHBIM3E3VEd2XzNZWE5pNTRkQmc?oc=5"
     },
     {
       "t": "VPN para Modern Warfare 4: como funciona, o que pode mudar nos lobbies e como configurar",
@@ -268,16 +278,6 @@
       "data": "2026-10-23T14:15:00.000Z",
       "c": "Lançamentos",
       "img": "https://www.estadao.com.br/resizer/v2/HDUKSIVF7ZEZTPG4ZZQKLYRU7M.jpg?quality=80&auth=c6fdadd047f3f9615b77608fa571a1c18933a65da52d0b9e722207946c63cc83&width=710"
-    },
-    {
-      "t": "Xbox Game Pass localmente no Steam Deck: Guia em vídeo mostra como funciona",
-      "d": "&nbsp;&nbsp; Notebookcheck.info",
-      "link": "https://www.notebookcheck.info/Xbox-Game-Pass-localmente-no-Steam-Deck-Guia-em-video-mostra-como-funciona.1432281.0.html",
-      "fonte": "Notebookcheck.info",
-      "data": "2026-10-23T13:43:00.000Z",
-      "c": "PC",
-      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/Xodus-Nexus-Anleitung-Teaser.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzBWNmNKU2VuemFzeDcwaFBobS1YQmdoQWRkZjhKZFhQQW5oT2RVWmkzRXdkWVhBekVUMnprV3J2M2VwMXJPWVlRTjlwd2NWamZReGwwbGpmVWh3NWcyZ2tDOVhQaFJZNUpWU0ZVanlRcFJyRmdFckxneVRjVVZ1UUUwclY0WThqcGlkd0xyRzNSNjNLZThhdUlnM19OSm9JcnVPdTVkS1FXMUJDVkFJbkFWVkQ4SGZYV0Y2cg?oc=5"
     }
   ],
   "videos": [
@@ -293,7 +293,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8080,
+      "views": 8081,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -397,7 +397,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3494,
+      "views": 3496,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -429,7 +429,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6682,
+      "views": 6686,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
