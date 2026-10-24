@@ -1,12 +1,21 @@
 {
-  "atualizadoEm": "2026-10-24T11:08:06.846Z",
+  "atualizadoEm": "2026-10-24T11:38:15.707Z",
   "noticias": [
+    {
+      "t": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile! (24)",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-consoles-e-mobile-24/",
+      "fonte": "TecMundo",
+      "data": "2026-10-24T11:15:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/TDBVRBXJOZBX7MVQ6CLWGSHMRA.jpg?quality=80&auth=a4f0b5689bdc2ddf5f5ad25119dfdcda01d0031a14ab97574590eb1f8095a2a6&width=710"
+    },
     {
       "t": "Xbox libera jogos para testar de graça neste fim de semana; veja a lista",
       "d": "&nbsp;&nbsp; Fast Company Brasil",
       "link": "https://fastcompanybrasil.com/games/xbox-libera-jogos-testar-graca-neste-fim-de-semana-veja-lista/",
       "fonte": "Fast Company Brasil",
-      "data": "2026-10-24T11:06:24.000Z",
+      "data": "2026-10-24T11:04:55.000Z",
       "c": "Ofertas",
       "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/xbox-free.jpg",
       "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNUdHNHpJVVZWQ3VDTmI0SG5CVV96MVNEZXJtRWMwVUNudVBweEVqNXpRWENzendyMm4tVjR2VFZIV1VwbkVyQU50WXllanJvTllCM3VzOUR1MDk1alVOSEpGN2FKNGs2SHdVT2lsOTUzSzNZNEU3X18xLVlweS1sWFdjamZBNmtJeFhNTnJUbXNSbzNGZEp3Y1VZWGlBaFk?oc=5"
@@ -270,15 +279,6 @@
       "data": "2026-10-23T14:45:18.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2025/10/sony-streaming-guerra_2602.jpg"
-    },
-    {
-      "t": "Desenvolvedor da Valve acaba dando dicas sobre Half-Life 3",
-      "d": "Será que HLX é mesmo o codinome de Half-Life 3 dentro da Valve?",
-      "link": "https://flowgames.gg/half-life-3-pode-ter-codinome-hlx-na-valve/",
-      "fonte": "Flow Games",
-      "data": "2026-10-23T14:41:24.000Z",
-      "c": "Geral",
-      "img": "https://www.youtube.com/embed/2wpuciLYgm0"
     }
   ],
   "videos": [
@@ -446,7 +446,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20101,
+      "views": 20100,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -1416,7 +1416,7 @@
       "plats": [
         "PC"
       ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coayxp.jpg",
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7yh.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/death-at-fleming-manor"
     },
