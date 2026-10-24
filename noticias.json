@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-24T02:04:53.475Z",
+  "atualizadoEm": "2026-10-24T02:35:07.159Z",
   "noticias": [
     {
       "t": "WoW Forever recebe 9 novas dungeons: Confira os requisitos, locais e como acessar cada uma delas",
@@ -96,6 +96,16 @@
       "data": "2026-10-23T20:47:03.000Z",
       "c": "PC",
       "img": "https://sm.ign.com/ign_br/news/a/activision/activision-confirms-brand-new-call-of-duty-subfranchise-is-i_a95p.jpg"
+    },
+    {
+      "t": "Cozy Game Restoration: Simulador alcança 400 mil desejos no Steam",
+      "d": "&nbsp;&nbsp; Última Ficha",
+      "link": "https://ultimaficha.com.br/2026/10/23/cozy-game-restoration/",
+      "fonte": "Última Ficha",
+      "data": "2026-10-23T20:15:22.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QbHhTV2pfekJvbDJnRWk3bHpiMXVsMHlpS0szUnZVZENWLU1XNU94QnlkeElMc3pyeFlYNkZvY2xhM2xNSjVleWdjdXZKYTZwYVdzUGhieEZhcjJicHRXd1M2Y0FLTnF5RU8wUA?oc=5"
     },
     {
       "t": "Japão premia Shigeru Miyamoto por seu grande impacto cultural",
@@ -269,15 +279,6 @@
       "data": "2026-10-23T14:41:24.000Z",
       "c": "Geral",
       "img": "https://www.youtube.com/embed/2wpuciLYgm0"
-    },
-    {
-      "t": "Trailer vazado de Mass Effect 5 revela detalhes do jogo cancelado pela EA",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/trailer-vazado-de-mass-effect-5-revela-detalhes-do-jogo-cancelado-pela-ea/",
-      "fonte": "TecMundo",
-      "data": "2026-10-23T14:15:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.estadao.com.br/resizer/v2/HDUKSIVF7ZEZTPG4ZZQKLYRU7M.jpg?quality=80&auth=c6fdadd047f3f9615b77608fa571a1c18933a65da52d0b9e722207946c63cc83&width=710"
     }
   ],
   "videos": [
@@ -397,7 +398,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3494,
+      "views": 3496,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -429,7 +430,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6682,
+      "views": 6686,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
