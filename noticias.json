@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-25T23:20:52.722Z",
+  "atualizadoEm": "2026-10-25T23:51:03.444Z",
   "noticias": [
     {
       "t": "Call of Duty: Modern Warfare 4 (campanha) | Review",
@@ -188,6 +188,16 @@
       "img": "https://www.youtube.com/embed/heS7G8N4npY"
     },
     {
+      "t": "Jogo inspirado em Pokémon está disponível de graça na Steam!",
+      "d": "&nbsp;&nbsp; Estadão",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/265691-jogo-inspirado-pokemon-disponivel-graca-steam/",
+      "fonte": "Estadão",
+      "data": "2026-10-24T18:39:04.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/WSH6WL3WFVJEZMFK633TB77IIU.jpg?quality=80&auth=c81c968bb3888c04cc05499880449db510f0a4ddfcbaf564e1d9bc6d1a4f5838&width=1200&height=630&smart=true",
+      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2JaNHhSSFB2STNING1Gcld2SUNjX1dhTTl4blZEMUNMWHdfZUp6dmtiNjVkNDlNUkkzRU1kMDdOTE9GTkE5aGNsZlNhRDF5SHAyY2JwUEMzNnowZjlHdUd2S1huTHZXRHB2bXFHamlZc1hYV0cyVXB4TU1tWWk0dHVFNEhOdkJ3cUhxZTAzNFcyU0paeTNfSl9RWdIBoAFBVV95cUxOZ3hiX0FVRXdudlJORUNiTjZ3WVMwa1dpR1pqQ0ZJQTZ6NGVtVTFTTHVZTTR6WXRxdTV3b19VbGZSekwtanhMTmg0bVlWaHY3YW1WanBwN0tRalNITHlNYy1QVjFOeDlyYzJob0RQUG9IZ3liZlVLUktOcW9jNmh2TmNfc1NPQ05Qd2JZd2k3X2NPTUpRVlFmZ24yT2gxaFlM?oc=5"
+    },
+    {
       "t": "Brasileiro lança CLT, jogo inspirado em GTA que se passa em Santa Catarina! Veja preço e onde jogar",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/brasileiro-lanca-clt-jogo-inspirado-em-gta-que-se-passa-em-santa-catarina-veja-preco-e-onde-jogar/",
@@ -268,15 +278,6 @@
       "data": "2026-10-24T13:00:41.000Z",
       "c": "PC",
       "img": "https://www.youtube.com/embed/4Kamro6IBpQ"
-    },
-    {
-      "t": "10 anos de Yuri!!! On Ice: inovador, especial e que mudou o cenário do animes",
-      "d": "Dez anos depois, YOI continua dando o que falar Quando o episódio final de Yuri!!! On Ice (doravante, YOI) foi lançado em 21 de dezembro de 2016, a demanda para assistir e discutir o episódio foi...",
-      "link": "https://br.ign.com/yuri-on-ice/156994/10-anos-de-yuri-on-ice-inovador-especial-e-que-mudou-o-cenario-do-animes",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-24T12:00:37.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/feature/b/before-the/before-there-was-heated-rivalry-there-was-yuri-on-ice_v18y.jpg"
     }
   ],
   "videos": [
@@ -292,7 +293,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8106,
+      "views": 8107,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -396,7 +397,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3509,
+      "views": 3511,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -404,7 +405,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2900,
+      "views": 2901,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
@@ -420,7 +421,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 3995,
+      "views": 3996,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -428,7 +429,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6703,
+      "views": 6706,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -444,7 +445,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20129,
+      "views": 20133,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -484,7 +485,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3556,
+      "views": 3557,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
