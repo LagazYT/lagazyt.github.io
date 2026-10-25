@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-25T15:48:29.649Z",
+  "atualizadoEm": "2026-10-25T16:18:37.840Z",
   "noticias": [
     {
       "t": "Remake de Street Fighter 2 ganha port para PCs",
@@ -142,16 +142,6 @@
       "img": "https://www.youtube.com/embed/heS7G8N4npY"
     },
     {
-      "t": "Jogo inspirado em Pokémon está disponível de graça na Steam!",
-      "d": "&nbsp;&nbsp; Estadão",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/265691-jogo-inspirado-pokemon-disponivel-graca-steam/",
-      "fonte": "Estadão",
-      "data": "2026-10-24T18:39:04.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/WSH6WL3WFVJEZMFK633TB77IIU.jpg?quality=80&auth=c81c968bb3888c04cc05499880449db510f0a4ddfcbaf564e1d9bc6d1a4f5838&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ2JaNHhSSFB2STNING1Gcld2SUNjX1dhTTl4blZEMUNMWHdfZUp6dmtiNjVkNDlNUkkzRU1kMDdOTE9GTkE5aGNsZlNhRDF5SHAyY2JwUEMzNnowZjlHdUd2S1huTHZXRHB2bXFHamlZc1hYV0cyVXB4TU1tWWk0dHVFNEhOdkJ3cUhxZTAzNFcyU0paeTNfSl9RWdIBoAFBVV95cUxOZ3hiX0FVRXdudlJORUNiTjZ3WVMwa1dpR1pqQ0ZJQTZ6NGVtVTFTTHVZTTR6WXRxdTV3b19VbGZSekwtanhMTmg0bVlWaHY3YW1WanBwN0tRalNITHlNYy1QVjFOeDlyYzJob0RQUG9IZ3liZlVLUktOcW9jNmh2TmNfc1NPQ05Qd2JZd2k3X2NPTUpRVlFmZ24yT2gxaFlM?oc=5"
-    },
-    {
       "t": "Brasileiro lança CLT, jogo inspirado em GTA que se passa em Santa Catarina! Veja preço e onde jogar",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/brasileiro-lanca-clt-jogo-inspirado-em-gta-que-se-passa-em-santa-catarina-veja-preco-e-onde-jogar/",
@@ -277,6 +267,16 @@
       "c": "Lançamentos",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMlRmS21GZEw2YjFhVEJYUUh6dE96R3lMYWY0QVJZdjlhNW84TW9ibHMxQUtYZ1BhWkpOc1ZIalNDSW55Zy01WXRrVDR4TEZWOXZfV3RXN2gxZnIyMnhKeFN0dnQ0cUN6eHlqMlo2UWdYQmNGUHRvcHlVYURGSTdwMVFEc0Jucm5ydGpHWnhRTHBIM3E3VEd2XzNZWE5pNTRkQmc?oc=5"
+    },
+    {
+      "t": "Cozy Game Restoration: Simulador alcança 400 mil desejos no Steam",
+      "d": "&nbsp;&nbsp; Última Ficha",
+      "link": "https://ultimaficha.com.br/2026/10/23/cozy-game-restoration/",
+      "fonte": "Última Ficha",
+      "data": "2026-10-23T20:15:22.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QbHhTV2pfekJvbDJnRWk3bHpiMXVsMHlpS0szUnZVZENWLU1XNU94QnlkeElMc3pyeFlYNkZvY2xhM2xNSjVleWdjdXZKYTZwYVdzUGhieEZhcjJicHRXd1M2Y0FLTnF5RU8wUA?oc=5"
     }
   ],
   "videos": [
@@ -1767,6 +1767,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblk1.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/hillthorn"
+    },
+    {
+      "t": "The Devil's Due",
+      "data": "2026-11-10",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9up2.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/the-devils-due"
     },
     {
       "t": "Shock",
@@ -4717,16 +4727,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwng.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/scorched-warfare"
-    },
-    {
-      "t": "Expedition: Into Darkness",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co946c.jpg",
-      "hype": 4,
-      "link": "https://www.igdb.com/games/expedition-into-darkness"
     }
   ],
   "musicas": []
