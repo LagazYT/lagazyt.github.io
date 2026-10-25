@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-25T06:45:28.196Z",
+  "atualizadoEm": "2026-10-25T07:15:35.446Z",
   "noticias": [
     {
       "t": "NÃO ESQUEÇA NESTE DOMINGO: Epic Games Store solta os jogos A Unique Horror Adventure e Sker Ritual de graça",
@@ -1381,6 +1381,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocmbb.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/sunset-artisan-chocolate"
+    },
+    {
+      "t": "Mafia Hotel",
+      "data": "2026-11-02",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod6s4.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/mafia-hotel"
     },
     {
       "t": "Chair Chase",
@@ -4716,16 +4726,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94pg.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/life-of-a-lonely-indie-game-developer"
-    },
-    {
-      "t": "Pinbleton Park",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94zs.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/pinbleton-park"
     }
   ],
   "musicas": []
