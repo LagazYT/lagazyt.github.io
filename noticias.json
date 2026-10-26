@@ -1,6 +1,24 @@
 {
-  "atualizadoEm": "2026-10-26T22:02:11.838Z",
+  "atualizadoEm": "2026-10-26T22:32:18.337Z",
   "noticias": [
+    {
+      "t": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (26)",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-26/",
+      "fonte": "TecMundo",
+      "data": "2026-10-26T22:15:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/SBW5ZEZMOBKOTJGU3ZG6SMIOSU.jpg?quality=80&auth=69ce7718dcabe7987fed9b4a85eb5de21b57777da6f148b70e8e18d7ac3dcbab&width=710"
+    },
+    {
+      "t": "Clássico do cyberpunk, volume 1 de Ghost in the Shell está com 40% OFF na Amazon",
+      "d": "Mangá de Masamune Shirow caiu para menos de R$ 65",
+      "link": "https://br.ign.com/descontos/157079/classico-do-cyberpunk-volume-1-de-ghost-in-the-shell-esta-com-40-off-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-26T21:51:18.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/gs_emxr.jpg"
+    },
     {
       "t": "Remake de Tomb Raider ganha trailer nostálgico com momentos icônicos de 1996",
       "d": "&nbsp;&nbsp; Canaltech",
@@ -188,15 +206,6 @@
       "img": "https://sm.ign.com/ign_br/news/e/epic-games/epic-games-boss-tim-sweeney-doubles-down-on-valve-criticism_1ye1.jpg"
     },
     {
-      "t": "Xbox procura parceiro para apoiar Arkane Lyon na conclusão de Marvel’s Blade e amplia busca por comprador",
-      "d": "A qualquer momento A Microsoft afirmou que está explorando a possibilidade de uma empresa se associar à Arkane Lyon para apoiá-la enquanto ela trabalha para concluir o desenvolvimento de Marvel’s...",
-      "link": "https://br.ign.com/blade-arkane/157061/xbox-procura-parceiro-para-apoiar-arkane-lyon-na-conclusao-de-marvels-blade-e-amplia-busca-por-compr",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-26T17:49:06.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/news/x/xbox-seeks/xbox-seeks-partner-to-support-arkane-lyon-as-it-finishes-mar_ubn3.jpg"
-    },
-    {
       "t": "Jogos em oferta na Steam com até 90% de desconto nesta semana",
       "d": "&nbsp;&nbsp; Adrenaline",
       "link": "https://www.adrenaline.com.br/games/pc-games/jogos-em-oferta-na-steam-com-ate-90-de-desconto-nesta-semana-35/",
@@ -269,15 +278,6 @@
       "data": "2026-10-26T14:15:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/6COJAEUJBZD5ZKCVFMOMKBRWV4.jpg?quality=80&auth=6964befd298c233bff258325dc688686ec1c8bff1341711d223afffdb23386fa&width=710"
-    },
-    {
-      "t": "Minecraft no Nintendo Switch 2, Phantom Blade Zero e mais! Veja os lançamentos de games da semana",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/minecraft-no-nintendo-switch-2-phantom-blade-zero-e-mais-veja-os-lancamentos-de-games-da-semana/",
-      "fonte": "TecMundo",
-      "data": "2026-10-25T22:45:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/OON2AFQAWVC3BGZDD5LJRF7PAU.jpg?quality=80&auth=0341ce57996756e9ffea5f799b51f749e9938ce0be924a824c91c70b24cac888&width=710"
     }
   ],
   "videos": [
@@ -293,7 +293,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8114,
+      "views": 8113,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -445,7 +445,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20154,
+      "views": 20152,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -453,7 +453,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4263,
+      "views": 4262,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -461,7 +461,7 @@
       "id": "ugGDjTdbvpU",
       "t": "MELHOR ARMA PARA MAELLE APÓS O NERF | EXPEDITION 33!",
       "data": "2025-05-13T17:30:14Z",
-      "views": 5528,
+      "views": 5526,
       "img": "https://i.ytimg.com/vi/ugGDjTdbvpU/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ugGDjTdbvpU"
     },
@@ -477,7 +477,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3081,
+      "views": 3079,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
