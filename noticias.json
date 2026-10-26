@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-10-25T23:51:24.644Z",
+  "atualizadoEm": "2026-10-26T00:21:33.727Z",
   "noticias": [
+    {
+      "t": "Review: Com Phantom Blade Zero, China dá aula em jogos",
+      "d": "Nós já terminamos Phantom Blade Zero e contamos tudo sobre o jogo no nosso review completo",
+      "link": "https://flowgames.gg/review-phantom-blade-zero-da-aula-em-combate-diversao/",
+      "fonte": "Flow Games",
+      "data": "2026-10-26T00:00:06.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/image-1-1.jpg"
+    },
     {
       "t": "Call of Duty: Modern Warfare 4 (campanha) | Review",
       "d": "&nbsp;&nbsp; Alternativa Nerd",
@@ -269,15 +278,6 @@
       "c": "Ofertas",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZHpiS2VYXzN0d2F5TkFpT0oteFhab3cyR1FOb2pKRlBsRmVjdFNkaGszTk93NDNaSW40M1VOSzRoZThKOWRJaFk2Z2tpN0dFV21PcXR3Tk1Ic2RBQUdmMURQLW1zcHpzREF5MXA5cmlPWmhLb0RSYU5OSk4wY2lWZl9NRUF6QnptUDM3S0N1Y0NRbWVGckxVeTU2aURnZS1pNGJIbjR1MHJnczQ?oc=5"
-    },
-    {
-      "t": "Steam Next Fest: 6 jogos de simulação divertidos para testar",
-      "d": "Até 26 de outubro, os jogadores de PC poderão aproveitar uma batelada de demos disponíveis no Steam Next Fest",
-      "link": "https://flowgames.gg/steam-next-fest-6-jogos-simulacao-divertidos-testar/",
-      "fonte": "Flow Games",
-      "data": "2026-10-24T13:00:41.000Z",
-      "c": "PC",
-      "img": "https://www.youtube.com/embed/4Kamro6IBpQ"
     }
   ],
   "videos": [
@@ -293,7 +293,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8106,
+      "views": 8107,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -397,7 +397,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3509,
+      "views": 3511,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -405,7 +405,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2900,
+      "views": 2901,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
@@ -421,7 +421,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 3995,
+      "views": 3996,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -429,7 +429,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6703,
+      "views": 6706,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -445,7 +445,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20129,
+      "views": 20133,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -485,158 +485,12 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3556,
+      "views": 3557,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
   ],
   "lancamentos": [
-    {
-      "t": "Pao Pao",
-      "data": "2026-10-26",
-      "plats": [
-        "Xbox",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gmn.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/pao-pao"
-    },
-    {
-      "t": "Giggleland",
-      "data": "2026-10-26",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9p8t.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/giggleland"
-    },
-    {
-      "t": "Fangtopia",
-      "data": "2026-10-26",
-      "plats": [
-        "Switch 2",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coct9k.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/fangtopia"
-    },
-    {
-      "t": "The Mailroom",
-      "data": "2026-10-26",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobqfv.jpg",
-      "hype": 6,
-      "link": "https://www.igdb.com/games/the-mailroom"
-    },
-    {
-      "t": "Night Plane",
-      "data": "2026-10-26",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coct8k.jpg",
-      "hype": 7,
-      "link": "https://www.igdb.com/games/night-plane"
-    },
-    {
-      "t": "Scramble Knights Online",
-      "data": "2026-10-26",
-      "plats": [
-        "Xbox",
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocjj4.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/scramble-knights-online"
-    },
-    {
-      "t": "Last Floor",
-      "data": "2026-10-26",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc09g.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/last-floor--1"
-    },
-    {
-      "t": "Unending Aqua",
-      "data": "2026-10-26",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7wx.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/unending-aqua"
-    },
-    {
-      "t": "Possessed Kingdom",
-      "data": "2026-10-26",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocy40.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/possessed-kingdom--1"
-    },
-    {
-      "t": "Ecstatica II",
-      "data": "2026-10-26",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocr9e.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/ecstatica-ii--1"
-    },
-    {
-      "t": "Ecstatica",
-      "data": "2026-10-26",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocr9g.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/ecstatica--1"
-    },
-    {
-      "t": "Hunter's Moon",
-      "data": "2026-10-26",
-      "plats": [
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctlj.jpg",
-      "hype": 5,
-      "link": "https://www.igdb.com/games/hunters-moon--3"
-    },
-    {
-      "t": "Scopa Sweep",
-      "data": "2026-10-26",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxsw.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/scopa-sweep"
-    },
-    {
-      "t": "Crack",
-      "data": "2026-10-26",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0c2.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/crack--1"
-    },
     {
       "t": "Lacey's Flash Games",
       "data": "2026-10-27",
@@ -1547,7 +1401,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxj2.jpg",
-      "hype": 7,
+      "hype": 9,
       "link": "https://www.igdb.com/games/world-of-warcraft-forever"
     },
     {
@@ -4728,6 +4582,153 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9tph.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/nox-mortalis"
+    },
+    {
+      "t": "Scorched Warfare",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwng.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/scorched-warfare"
+    },
+    {
+      "t": "Expedition: Into Darkness",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co946c.jpg",
+      "hype": 4,
+      "link": "https://www.igdb.com/games/expedition-into-darkness"
+    },
+    {
+      "t": "A Tiny Wander",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94pe.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/a-tiny-wander"
+    },
+    {
+      "t": "Life of a Lonely Indie Game Developer",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94pg.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/life-of-a-lonely-indie-game-developer"
+    },
+    {
+      "t": "Pinbleton Park",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94zs.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/pinbleton-park"
+    },
+    {
+      "t": "Feltopia",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co954f.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/feltopia"
+    },
+    {
+      "t": "Snake in the Dark",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co958h.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/snake-in-the-dark"
+    },
+    {
+      "t": "Deprision",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95me.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/deprision"
+    },
+    {
+      "t": "The Patient: Can You Escape?",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacts.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/the-patient-can-you-escape"
+    },
+    {
+      "t": "Golf With Your Friends 2",
+      "data": "2026-12-31",
+      "plats": [
+        "Xbox",
+        "Switch 2",
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyw1.jpg",
+      "hype": 6,
+      "link": "https://www.igdb.com/games/golf-with-your-friends-2"
+    },
+    {
+      "t": "Star Life",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co98in.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/star-life"
+    },
+    {
+      "t": "Froggo's Adventure: Drifting Sky",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coakvj.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/froggos-adventure-drifting-sky"
+    },
+    {
+      "t": "Elflock",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99t6.jpg",
+      "hype": 8,
+      "link": "https://www.igdb.com/games/elflock"
+    },
+    {
+      "t": "Nightmare Circus",
+      "data": "2026-12-31",
+      "plats": [
+        "Xbox",
+        "Switch 2",
+        "PC",
+        "PS5",
+        "Switch"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat6g.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/nightmare-circus--1"
     }
   ],
   "musicas": []
