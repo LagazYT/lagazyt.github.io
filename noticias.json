@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-26T17:59:01.133Z",
+  "atualizadoEm": "2026-10-26T18:29:08.840Z",
   "noticias": [
     {
       "t": "Lucas Miranda | Autor comenta sobre o público feminino nos games",
@@ -16,7 +16,7 @@
       "d": "&nbsp;&nbsp; IGN Brasil",
       "link": "https://br.ign.com/blade-arkane/157061/xbox-procura-parceiro-para-apoiar-arkane-lyon-na-conclusao-de-marvels-blade-e-amplia-busca-por-compr",
       "fonte": "IGN Brasil",
-      "data": "2026-10-26T17:51:44.000Z",
+      "data": "2026-10-26T17:51:25.000Z",
       "c": "Consoles",
       "img": "https://sm.ign.com/t/ign_br/news/x/xbox-seeks/xbox-seeks-partner-to-support-arkane-lyon-as-it-finishes-mar_ubn3.1200.jpg",
       "orig": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM2RuVWlwQ3d5WjMwR0txanhSQ2Frb0RiTmhVaHNnb1VvUHhyMEdEdnFPeExXVEplNVpiWHFLUVFXeWdTaVRva0tFakl6b2FNOXJEVzJ5LVV3SVhQNkI5U204ZDAya1BOSU41NFFyQ3AzendpVEZMRjgwdWpSbG95MWZ5X2lJdzIzcmNWZWFqQVR6NGlrR2owRGUtekU0YlNWLXBBSThzOGI3ZmZmYmxzLTcwckFSZXRDR1lkRExIdmZDZTExbU1GZU5MTEc4T04yVnlhdWxB?oc=5"
@@ -232,15 +232,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/10/image-1-1.jpg"
     },
     {
-      "t": "Assista hoje à noite: este épico histórico de 2024 custou 250 milhões de dólares",
-      "d": "Em 14 de novembro de 2024, foi lançada a tão esperada sequência de “Gladiador”, intitulada “Gladiador II”. Você perdeu o filme nos cinemas e não quer se arriscar a comprá-lo sem saber como é? Você...",
-      "link": "https://br.ign.com/gladiador-2/157045/assista-hoje-a-noite-este-epico-historico-de-2024-custou-250-milhoes-de-dolares",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-26T10:02:22.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/g2_m5ae.png"
-    },
-    {
       "t": "Minecraft no Nintendo Switch 2, Phantom Blade Zero e mais! Veja os lançamentos de games da semana",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/minecraft-no-nintendo-switch-2-phantom-blade-zero-e-mais-veja-os-lancamentos-de-games-da-semana/",
@@ -276,6 +267,15 @@
       "data": "2026-10-25T16:15:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/ZBDTQOAQQ5IQ7E2E6N4CGVULEQ.jpg?quality=80&auth=35b734018ae6630a350fb886eff693492ec201fbd44a96c9c947774288b57b3c&width=710"
+    },
+    {
+      "t": "Days Gone Remastered baratinho, Battlefield 6 no Game Pass, e mais! Veja as indicações de games",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/days-gone-remastered-baratinho-battlefield-6-no-game-pass-e-mais-veja-as-indicacoes-de-games/",
+      "fonte": "TecMundo",
+      "data": "2026-10-25T14:00:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/XH5U3J5T3RGLXEZMWKOVL42XXQ.jpg?quality=80&auth=03ab0b1bf0f7b7ce7cc40c69da6a6651fc2611402486e9168870c8022df435c2&width=710"
     }
   ],
   "videos": [
@@ -1851,6 +1851,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocy5h.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/ball-x-pit-risen-ballbylon"
+    },
+    {
+      "t": "King Dies Rich",
+      "data": "2026-11-12",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod88f.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/king-dies-rich"
     },
     {
       "t": "Derelikt",
@@ -4713,20 +4723,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co99t6.jpg",
       "hype": 8,
       "link": "https://www.igdb.com/games/elflock"
-    },
-    {
-      "t": "Nightmare Circus",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat6g.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/nightmare-circus--1"
     }
   ],
   "musicas": []
