@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-10-27T02:04:05.957Z",
+  "atualizadoEm": "2026-10-27T02:34:12.928Z",
   "noticias": [
+    {
+      "t": "T-Mobile anuncia um plano que inclui o Xbox Game Pass",
+      "d": "&nbsp;&nbsp; einerd.com",
+      "link": "https://www.einerd.com/t-mobile-planos-t-mix-xbox-game-pass-netflix-gemini/",
+      "fonte": "einerd.com",
+      "data": "2026-10-27T02:00:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.einerd.com/wp-content/uploads/2026/05/Game-Pass.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWxoRElVUDFNVjF0WkdlVG53Xzk4d0ZuMVZSMVQ3UG9PQWpnZDNFMDNuVURLdk5fQl96SkNQdkdSdVRzX3c2ZTRKSWdlZ0hIWERrcW9VZ0RwMzZZX2JsS1V2STlYN3l3amczTzA1bFR5R0t0MHVHOF9pcTExT1lOTg?oc=5"
+    },
+    {
+      "t": "Playden PS5 permite rodar jogos da Steam no console desbloqueado",
+      "d": "&nbsp;&nbsp; Mobile Bit",
+      "link": "https://www.mobilebit.com.br/games/2026/10/26/playden-ps5-jogos-steam/",
+      "fonte": "Mobile Bit",
+      "data": "2026-10-27T01:59:11.000Z",
+      "c": "PC",
+      "img": "https://www.mobilebit.com.br/wp-content/uploads/2026/10/playden-ps5-biblioteca-steam.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xRXIwTF9GS0pydXlUTXdycDdmQks1YjZEY242U0tIZUYwN0tuVERsRnVXNURrMmhjdDdGT0FOYnZKZ0U4S2RONlRhVDlYUXJEWmlYbWRBalJqT0RUM0MzX25ial9hZWxyVzgzbkhITEZOVVFxYktwdThn?oc=5"
+    },
     {
       "t": "Marvel Tokon: Fighting Souls",
       "d": "&nbsp;&nbsp; Adrenaline",
@@ -40,16 +60,6 @@
       "c": "Consoles",
       "img": "https://projectn.com.br/wp-content/uploads/2026/10/The-Night-of-the-Exorcism.jpg",
       "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcWM0OTNMcmVwbDlCVU5GbVhLYVUwYk5sVWNXaEVKSnpVQ1JRWExRblo3dU5ManpnSkNBRVBnZGdtLXJleDZtYUtMWTFENVZicjYtVkthYkczN1A2U2JJN29LTHVsdVl4a0VaUHhrZHc1VDd6REJaWnFRbFZMaTRXd0ZvazVWYjBXdmkwaTBzQy1rVHVNUXc2RTIwT0JpUQ?oc=5"
-    },
-    {
-      "t": "Fangtopia chega ao PC, PS5 e Nintendo Switch 2; saiba tudo",
-      "d": "&nbsp;&nbsp; Última Ficha",
-      "link": "https://ultimaficha.com.br/2026/10/26/fangtopia-lancamento-pc-ps5-switch-2/",
-      "fonte": "Última Ficha",
-      "data": "2026-10-27T00:24:22.000Z",
-      "c": "PC",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXBLZGFUNnBxb1ptYW9aY2ZXMndOdzNERERKX1hZOGdPbWNKbjY4SEFycHJfR19WdmFLYjVVRTVJS1VMMnF4dk9EY1dDdDU1NzFnNWtyLU9NZkUzc09kcUZRR3Zzck1LZFF6WWxVVEE2Q2lNanpQeDhCbEVfUndPRw?oc=5"
     },
     {
       "t": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (26)",
@@ -270,15 +280,6 @@
       "data": "2026-10-26T16:20:54.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2023/11/image-2023-11-06T132528.896.jpg"
-    },
-    {
-      "t": "Call of Duty: Modern Warfare 4: campanha marca retorno à boa forma",
-      "d": "Modo campanha de Call of Duty: Modern Warfare 4 passa a régua no arco principal do Capitão Price e recoloca a franquia nos eixos",
-      "link": "https://flowgames.gg/call-of-duty-modern-warfare-4-marca-retorno-boa-forma/",
-      "fonte": "Flow Games",
-      "data": "2026-10-26T15:54:19.000Z",
-      "c": "Geral",
-      "img": "https://www.youtube.com/embed/yLFRQaQT0qM"
     }
   ],
   "videos": [
@@ -406,7 +407,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2904,
+      "views": 2905,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
@@ -1684,7 +1685,7 @@
         "Switch"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocowo.jpg",
-      "hype": 5,
+      "hype": 6,
       "link": "https://www.igdb.com/games/sonic-pico-park"
     },
     {
