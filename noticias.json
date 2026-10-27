@@ -1,6 +1,55 @@
 {
-  "atualizadoEm": "2026-10-27T17:44:05.271Z",
+  "atualizadoEm": "2026-10-27T18:14:15.444Z",
   "noticias": [
+    {
+      "t": "Diretor de Jogos Vorazes espera que você não esteja distraído demais com GTA 6 a ponto de não ver o Amanhecer na Colheita",
+      "d": "\"Jogue GTA, vá ver nosso filme, jogue mais GTA\"",
+      "link": "https://br.ign.com/games/157087/diretor-de-jogos-vorazes-espera-que-voce-nao-esteja-distraido-demais-com-gta-6-a-ponto-de-nao-ver-o",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-27T18:01:52.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/h/hunger-gam/hunger-games-director-hopes-you-arent-too-distracted-with-gt_x17e.png"
+    },
+    {
+      "t": "Sonic chega em dobro com coleções exclusivas da Gamer Hut",
+      "d": "&nbsp;&nbsp; Alternativa Nerd",
+      "link": "https://alternativanerd.com.br/games/sonic-chega-em-dobro-com-colecoes-exclusivas-da-gamer-hut/",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-10-27T17:54:20.000Z",
+      "c": "Lançamentos",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUERrblk3X1BMM0w3UVV4SlE1NjB6ZXd0U1BvYU9ZMUJweUNwaWdRNUtxZXZ1NndGX1N6TFVHV1FPbDBCb1NoOFFjVGpvTmliQnR6R3JHcHVkSFdxT2E3dzA5SlNuU3N6T1dPSHNZVlRlQjVGcDFzTnppRVFuTDluTXFJVkxBRXFTS1F0MjdFYnpJcGZReDMtekZ6VQ?oc=5"
+    },
+    {
+      "t": "EVO Brazil 2027 revela line-up de games e mais informações sobre edição de estreia",
+      "d": "&nbsp;&nbsp; Terra",
+      "link": "https://www.terra.com.br/gameon/esports/evo-brazil-2027-revela-line-up-de-games-e-mais-informacoes-sobre-edicao-de-estreia,5e56939da4692f58c3db0ae940d008e4ft5w3z6r.html",
+      "fonte": "Terra",
+      "data": "2026-10-27T17:53:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/evo-u7u4scbwzsc6.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYVltTVBhTkdONU50a1NxcTc5LVRma3RNNHFTcWVrZUhDZndvNXphYTd3V1F0dXNxc1NQOGdaN3dwMEl6UzlIaFBUNUFVbGl6T3hoaDNVb0Rjd2NzZmVPOHVLSnhWQVYxVW1nYUcwRWpTSFNwWC04UWxtemNuRl91VWdVeHo2MGZ2anhRREVnVkVyNU5vc24zdEtIeGFQSVk1Wkh0TWNaNllrQ3c5TVJDRkl1MVdFVFl6d2Q1TEhNS0dwZ3NXdFZGd2RGSVFxQW1YZHJHMzFVaFRxNXBBeTFCa0xXazlNc1A1V0FRNjZCRjhTWlU3VW81MXdxQ3Y?oc=5"
+    },
+    {
+      "t": "PESO PESADO! GTA 6 pode ocupar 210GB no Xbox",
+      "d": "&nbsp;&nbsp; Central Xbox",
+      "link": "https://centralxbox.com.br/2026/10/27/peso-pesado-gta-6-pode-ocupar-210gb-no-xbox/",
+      "fonte": "Central Xbox",
+      "data": "2026-10-27T17:48:45.000Z",
+      "c": "Consoles",
+      "img": "https://centralxbox.com.br/wp-content/uploads/2026/01/GTA-6-scaled.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVm5iMXI5dEVkVHhuSGJwRlU0enlGeUdPX3IzYWhKWnZQQUNrTE8wRTFNN0RyOGNuUmlDYld6S0Z3QzZQWmZPRUNOdEZ0OXBrdEllcGctdmNLcFlySGxfWmg3R255X3RtVzdhaWVpS2xqRDY3NTlZRVVYYzJIUFZRdlFGZTF6REl5OUE?oc=5"
+    },
+    {
+      "t": "Jogos de PC em oferta por menos de R$ 25 no Halloween Nuuvem",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-por-menos-de-r-25-no-halloween-nuuvem/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-27T17:44:00.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWdwZEd4bEdtYTVLM3ZDX042Sk9sTjNvcTE0c3pJNF9TR191MG1DSWk5MDBrOHNBeTRhZ29WVGNYMEROY3hEM18zeGhObkVJamtBcUxvdFEyZGczQW01bEVHZzRtcnZCNGVPZXBrVTExS0hOR0I2TTFyVm9OQXBNb08ycGd1VW16U19zM0FuT1hNcGI2XzRiMWItVmVMZG4zTTlNQWVxQ00?oc=5"
+    },
     {
       "t": "The Outlast Trials é lançado de surpresa para o Nintendo Switch 2",
       "d": "&nbsp;&nbsp; Nintendo Blast",
@@ -12,26 +61,6 @@
       "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1ZCQ2k2bDlpLWt0SXF1MnFpZjU2ZHJEcVppM045bGp0TDFkeHBtYjB3N1F5dmJIekdDVGVBMGhPalE5QlJWR2dVNHJ5YTFRWXkxNi1HN25SQVFVTWxTUDNoSUFpa1hYSU5WTFNwZDdBMTdYaGZjQ0l5SHZFbEVyU3I1MUtiM2gwbVpHZ0NpME1QVWlmYURlemUtdG45bTdGanEtWDRRZ29zZw?oc=5"
     },
     {
-      "t": "Nintendo anuncia Indie World para 28 de outubro; edição japonesa terá 25 minutos",
-      "d": "&nbsp;&nbsp; pclabs.com.br",
-      "link": "https://pclabs.com.br/nintendo-indie-world-28-outubro-switch-2/",
-      "fonte": "pclabs.com.br",
-      "data": "2026-10-27T17:36:08.000Z",
-      "c": "Consoles",
-      "img": "https://pclabs.com.br/wp-content/uploads/2026/10/nintendo-indie-world-28-outubro-logo.avif",
-      "orig": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMMEZkbDNUb2pUY2tEeVhCUFYxQ1QtTU5QRklUTExIdVdDMjFyQkdWczZ4RGxpS3Z2T1k4ZXZNSkoyaDVrT1VPUXhMRWx1RE41YVdyOUk5UVJBSVlTcHNvcjR6TWpmVW95dy1zRFdhR1Y?oc=5"
-    },
-    {
-      "t": "Como economizar na compra de GTA 6, Call of Duty e Phantom Blade Zero com a Hype Games",
-      "d": "&nbsp;&nbsp; Gamer Point",
-      "link": "https://www.gamerpoint.com.br/noticias/como-economizar-na-compra-de-gta-6-call-of-duty-e-phantom-blade-zero-com-a-hype-games/",
-      "fonte": "Gamer Point",
-      "data": "2026-10-27T17:32:40.000Z",
-      "c": "Geral",
-      "img": "https://www.gamerpoint.com.br/wp-content/uploads/2026/08/gta-vi-surpreende-com-procura-pela-ultimate.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOckYwcnBEYUp6YTJ6Smp2RHJ0M3g2bFg4d3RhSjNPS05qT1QtQjRRX3NKck9WRTg4M3RoSjN1YjB3VGJRZ1F2YklrWkdteDZGd01aaDg5S1B2QTB2MW1FSFN1S1NmM0lZNVVvUjNiaFBSWnEyQmhRSUJsdEZQbXkzUHRMekQ1LS1HSFJKZVNJa2VZNlMzNmh2VE45cEZUMlZJZEI5VjdGUk9yNkVzQXB1S0phQmYtb1NiX0QxdmJkVVF4Nzg?oc=5"
-    },
-    {
       "t": "Seu PC roda Phantom Blade Zero? Veja requisitos para encarar o game",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/seu-pc-roda-phantom-blade-zero-veja-requisitos-para-encarar-o-game/",
@@ -39,26 +68,6 @@
       "data": "2026-10-27T17:15:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/UYHUBVCMSVML7HZBE2IILEUTV4.jpg?quality=80&auth=c9f9b8a6690b21c83a1ec5888a5ef71aea29ee4d384c57c84cbeead77dcd2551&width=710"
-    },
-    {
-      "t": "The Séance of Blake Manor chega ao PS5, Xbox e Switch 2",
-      "d": "&nbsp;&nbsp; Pizza Fria",
-      "link": "https://pizzafria.ig.com.br/news/the-seance-of-blake-manor-consoles/",
-      "fonte": "Pizza Fria",
-      "data": "2026-10-27T16:53:10.000Z",
-      "c": "Consoles",
-      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/The-Seance-of-Blake-Manor.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OS2lBNkpGYjVucnBFc2lHWk1hUWgyWTJLOGh3VnNzS3QwX0FhclFZbGRGRVF2T0NLa3ROdFJ6Ql9JMTBlR09xWW5wT0NIUzdhMENQV29MdXgydXRtTmpYUFotLVBzUkJYOHJ2dGRNNHFUQWZlY1E4?oc=5"
-    },
-    {
-      "t": "Gosta de games? Ilhabela terá festival gratuito neste fim de semana",
-      "d": "&nbsp;&nbsp; Costa Norte",
-      "link": "https://costanorte.com.br/cidades/ilhabela/gosta-de-games-ilhabela-tera-festival-gratuito-neste-fim-de-semana.html",
-      "fonte": "Costa Norte",
-      "data": "2026-10-27T16:53:00.000Z",
-      "c": "Ofertas",
-      "img": "https://costanorte.com.br/media/_versions/2026/10/gosta-de-games-ilhabela-tera-festival-gratuito-neste-fim-de-semana_vm110128878_widelg.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbU9MM0VzTjhGdlBzc1BZR1JMWGRLVHhpRXpfVUZsV1dTVUR5enZtS29zRVIwd0tQRGFKSVZNLU54QS15LUp0c250N2xNcUxBNG45WTNsa1NpQzVVN3VNakRleHFTWGdjRHlISE9yZmRtNWtXeDhVazNTRlFfc01lVDBEZnFqQ2pTdnJxMlVXcjYzSXFmcGJodXNXLXEyaklOZ0JFVXI0ek9rTWNBS21DM0dUR2zSAboBQVVfeXFMTlA3RkJzZE9RN1FDZUN4Q3NTb0l0X1Z2aG85Q1lPbmxGVTVPd0MyWTJBd2huRFE3N1lEQllqS3l6R3owN1VjM1VnLTdZLU1xSlZERjFIaE01R1NGWWRoSXFiMlVKUG5aWkk4UUN5ejZxZG0zeHFnSVN4ajJibnZNX3VoeXo2Y1BOQ09IdGRRU0hKSlJ4eklrckw2NGtHVlZaSGZHVHV5MlFWZ2dDZG5GRjRxOHFJTWpqcDdR?oc=5"
     },
     {
       "t": "Cyberpunk 2: vaga sugere modo multiplayer",
@@ -252,6 +261,16 @@
       "img": "https://sm.ign.com/ign_br/news/s/silent-hil/silent-hill-remake-coming-2027-first-cast-details-leaked_6ph4.jpg"
     },
     {
+      "t": "RecompLauncher promete facilitar jogos clássicos de console no PC",
+      "d": "&nbsp;&nbsp; Critical Hits",
+      "link": "https://criticalhits.com.br/games/recomplauncher-promete-facilitar-jogos-classicos-de-console-no-pc/",
+      "fonte": "Critical Hits",
+      "data": "2026-10-27T12:26:56.000Z",
+      "c": "PC",
+      "img": "https://criticalhits.com.br/wp-content/uploads/2026/10/recomplauncher-promete-facilitar-jogos-classicos-de-console-no-pc-featured.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGVoNjVELWhHcUxtTFZlS1BnUFlmQjRpYWVwREZOQXVnRTJ3ZHdtRk83dThMUlRhVmVMbmNucThvQWIzZFRHaGVndUtJRWowc0RlMXNxbExKT3p1TlNqM2MxZHA1Szd2TXZacTZya1FpclE5NGJVeTczOVR5R29uM2c5SEc3Y2pNMVVDUjM3UmZkOUVBVng5aXFwZUtSSDNjcmc?oc=5"
+    },
+    {
       "t": "Christopher Abbott, novo Xavier dos X-Men, insiste que Professor X não aparece em Doutor Destino nem em Guerras Secretas",
       "d": "Charles Xavier (supostamente) só vai aparecer em 2028",
       "link": "https://br.ign.com/avengers-doomsday/157062/christopher-abbott-novo-xavier-dos-x-men-insiste-que-professor-x-nao-aparece-em-doutor-destino-nem-e",
@@ -259,24 +278,6 @@
       "data": "2026-10-27T09:00:40.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/news/x/x-men-acto/x-men-actor-christopher-abbott-insists-his-professor-x-is-no_3r74.jpg"
-    },
-    {
-      "t": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (26)",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-26/",
-      "fonte": "TecMundo",
-      "data": "2026-10-26T22:15:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/SBW5ZEZMOBKOTJGU3ZG6SMIOSU.jpg?quality=80&auth=69ce7718dcabe7987fed9b4a85eb5de21b57777da6f148b70e8e18d7ac3dcbab&width=710"
-    },
-    {
-      "t": "Clássico do cyberpunk, volume 1 de Ghost in the Shell está com 40% OFF na Amazon",
-      "d": "Mangá de Masamune Shirow caiu para menos de R$ 65",
-      "link": "https://br.ign.com/descontos/157079/classico-do-cyberpunk-volume-1-de-ghost-in-the-shell-esta-com-40-off-na-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-26T21:51:18.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/gs_emxr.jpg"
     }
   ],
   "videos": [
@@ -444,7 +445,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20174,
+      "views": 20173,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -484,7 +485,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3565,
+      "views": 3570,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
