@@ -1,6 +1,74 @@
 {
-  "atualizadoEm": "2026-10-27T18:14:15.444Z",
+  "atualizadoEm": "2026-10-27T18:44:34.005Z",
   "noticias": [
+    {
+      "t": "Vazou: GTA 6 deve ter 210 GB de tamanho de download no PS5",
+      "d": "Segundo um perfil no Twitter, GTA 6 deve ocupar 210 GB do SSD do PS5! Será?",
+      "link": "https://flowgames.gg/vazou-gta-6-deve-ter-210-gb-de-tamanho-download-ps5/",
+      "fonte": "Flow Games",
+      "data": "2026-10-27T18:39:43.000Z",
+      "c": "Consoles",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/08/download.jpg"
+    },
+    {
+      "t": "Conan Exiles Enhanced está a caminho do PlayStation 5 e Xbox Series",
+      "d": "&nbsp;&nbsp; Terra",
+      "link": "https://www.terra.com.br/gameon/plataformas-e-consoles/conan-exiles-enhanced-esta-a-caminho-do-playstation-5-e-xbox-series,a869a477efaef956cade53e1dec37f2e7i60t8o3.html",
+      "fonte": "Terra",
+      "data": "2026-10-27T18:28:00.000Z",
+      "c": "Consoles",
+      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/ss_67e8f8a7a3616f89131172359a731ff0f344c7ff-1920x1080-qe3vnhn9wbc6.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZTNqLVJaTU9QWEROV3p0T0h4LW9SNjJVVGItU2ZwaVJSeThGdXRFclBkWHlUNWh2dEd4ZVQzLVlIQ19SaUFTT0dQVEZKdUk3SXJ3OWxRNDVQOXdWVW1QTlFaWTRBWFZyZU43WlZsdEZ4ZTh6WTR2Ni1PRG9ZUVVNcFhrWnluZUxpOS1ReFFMTXdldk5ubHZpTm1Vbi1sUDBMcWxTd1lPWkN1Z2dMeFA0a2p0QTVHbXBlaFFBWjMxcEFPUWJSaEhHVWFmaGxsNlVYYkRNbERSVEtUOF9pNDFIa1RDd0JiQjg5QXp5M211a3hBTWtyZXplTzcycTE?oc=5"
+    },
+    {
+      "t": "A Pet Shop After Dark chega ao Switch em 12 de novembro",
+      "d": "&nbsp;&nbsp; Nintendo Blast",
+      "link": "https://www.nintendoblast.com.br/2026/10/a-pet-shop-after-dark-chega-switch-12-novembro.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-10-27T18:26:43.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjFLbWNJSC1KY2lLWDFiTnM3ODdRUVhBRWNnakVLbVdQVDViSlBpakQyWWVVSFJQd2VvVEF2Y0NIX3htOU5wMUt0RGtkUm5uSjZPOE9Hd3NweTdxdE9JNU5qMXllYmUwYXY0QjZmVGxBOWNFYVpwXzk5dzdIQjJGeDVzWDNXc1NINmFXaGRUdzFOTVRab1Iw?oc=5"
+    },
+    {
+      "t": "SP: O universo de games que pode florescer nas periferias",
+      "d": "&nbsp;&nbsp; Outras Palavras",
+      "link": "https://outraspalavras.net/tecnologiaemdisputa/sp-o-universo-de-games-que-pode-florescer-nas-periferias/",
+      "fonte": "Outras Palavras",
+      "data": "2026-10-27T18:19:59.000Z",
+      "c": "Geral",
+      "img": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/images-2.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNHdtYktjTTIyeXBkNnNpVmVLeHc2V1ZMU1hrNG5OTzhIQlF5alRuemxmdVhTa1JVdVRkLU1PQ21ySjczdnhsR0JfWTlRcGpqY2Y4Z3Ewa2FVdFI2VENTVzg0amI0WlFlRm5jMXNvUTV0VUdjX2JBaGcxbE9DZ25NcUNWZUtPSFN2UEpEZUtVSVhrRGIxRWxrT0lPYjhNRGtKS1RKUEljbw?oc=5"
+    },
+    {
+      "t": "Conan Exiles Enhanced e Aloft chegam ao PS5 em 2027",
+      "d": "&nbsp;&nbsp; Pizza Fria",
+      "link": "https://pizzafria.ig.com.br/plataformas/playstation/conan-exiles-enhanced-aloft-ps5-2027/",
+      "fonte": "Pizza Fria",
+      "data": "2026-10-27T18:19:06.000Z",
+      "c": "Consoles",
+      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/Conan-Exiles-Enhanced.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYVJfWFlxc1hTck5XU3RKOHRRR3Y2Ujc1ZDlLRkdHRXplMTNnMWp6NENqY1hyVFVFUmxMMzl3RXJtb2FtRWhnTUItTEhLRlg3LTRmU0lFVFJwOERNb0lJUDZqTC11bmJISXR1Vl80aGplWURNNGtrQjBXQkM1aWNieXUzdkNZNThPZXdXZ05IYWxGV0k?oc=5"
+    },
+    {
+      "t": "Conan Exiles Enhanced chega de graça ao PS5 e Xbox Series, e Aloft estreia no PlayStation 5 em 2027",
+      "d": "&nbsp;&nbsp; Arkade",
+      "link": "https://arkade.com.br/conan-exiles-enhanced-chega-de-graca-ao-ps5-e-xbox-series-e-aloft-estreia-no-playstation-5-em-2027/",
+      "fonte": "Arkade",
+      "data": "2026-10-27T18:15:00.000Z",
+      "c": "Ofertas",
+      "img": "https://arkade.com.br/wp-content/uploads/2026/10/IMG_4062.webp",
+      "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONGNOd1ktREpCTDVpVEYxejVfcGxYVkF0S3ZfRVNSTlBOY3F0T1NCd2E3RklETHZtV3NkbkRFZXI4WW9MOXhIMUt0OHFuSFBQY0RSTkd2VDRhNWRTLWFLaEN1OUMwUzZsdHpOeEtZVnd6TzZiaEVhYTdjV3pXNktIRHY3Q1ZMQzVERUNaWUtqQzh6MEF3MDlETU9rd1A5UW9BZ2hKYjJIc1JCMWdhV19sU3VpNG4ySTZOR1dCQnpR?oc=5"
+    },
+    {
+      "t": "Beast of Reincarnation ganha a sua atualização final",
+      "d": "Veja todas as novidades do último grande patch de Beast of Reincarnation",
+      "link": "https://flowgames.gg/beast-of-reincarnation-ganha-patch-final-melhorias/",
+      "fonte": "Flow Games",
+      "data": "2026-10-27T18:11:49.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/01/beast-of-reincarnation-gameplay.jpg"
+    },
     {
       "t": "Diretor de Jogos Vorazes espera que você não esteja distraído demais com GTA 6 a ponto de não ver o Amanhecer na Colheita",
       "d": "\"Jogue GTA, vá ver nosso filme, jogue mais GTA\"",
@@ -11,36 +79,6 @@
       "img": "https://sm.ign.com/ign_br/news/h/hunger-gam/hunger-games-director-hopes-you-arent-too-distracted-with-gt_x17e.png"
     },
     {
-      "t": "Sonic chega em dobro com coleções exclusivas da Gamer Hut",
-      "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://alternativanerd.com.br/games/sonic-chega-em-dobro-com-colecoes-exclusivas-da-gamer-hut/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-10-27T17:54:20.000Z",
-      "c": "Lançamentos",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUERrblk3X1BMM0w3UVV4SlE1NjB6ZXd0U1BvYU9ZMUJweUNwaWdRNUtxZXZ1NndGX1N6TFVHV1FPbDBCb1NoOFFjVGpvTmliQnR6R3JHcHVkSFdxT2E3dzA5SlNuU3N6T1dPSHNZVlRlQjVGcDFzTnppRVFuTDluTXFJVkxBRXFTS1F0MjdFYnpJcGZReDMtekZ6VQ?oc=5"
-    },
-    {
-      "t": "EVO Brazil 2027 revela line-up de games e mais informações sobre edição de estreia",
-      "d": "&nbsp;&nbsp; Terra",
-      "link": "https://www.terra.com.br/gameon/esports/evo-brazil-2027-revela-line-up-de-games-e-mais-informacoes-sobre-edicao-de-estreia,5e56939da4692f58c3db0ae940d008e4ft5w3z6r.html",
-      "fonte": "Terra",
-      "data": "2026-10-27T17:53:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/evo-u7u4scbwzsc6.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPYVltTVBhTkdONU50a1NxcTc5LVRma3RNNHFTcWVrZUhDZndvNXphYTd3V1F0dXNxc1NQOGdaN3dwMEl6UzlIaFBUNUFVbGl6T3hoaDNVb0Rjd2NzZmVPOHVLSnhWQVYxVW1nYUcwRWpTSFNwWC04UWxtemNuRl91VWdVeHo2MGZ2anhRREVnVkVyNU5vc24zdEtIeGFQSVk1Wkh0TWNaNllrQ3c5TVJDRkl1MVdFVFl6d2Q1TEhNS0dwZ3NXdFZGd2RGSVFxQW1YZHJHMzFVaFRxNXBBeTFCa0xXazlNc1A1V0FRNjZCRjhTWlU3VW81MXdxQ3Y?oc=5"
-    },
-    {
-      "t": "PESO PESADO! GTA 6 pode ocupar 210GB no Xbox",
-      "d": "&nbsp;&nbsp; Central Xbox",
-      "link": "https://centralxbox.com.br/2026/10/27/peso-pesado-gta-6-pode-ocupar-210gb-no-xbox/",
-      "fonte": "Central Xbox",
-      "data": "2026-10-27T17:48:45.000Z",
-      "c": "Consoles",
-      "img": "https://centralxbox.com.br/wp-content/uploads/2026/01/GTA-6-scaled.webp",
-      "orig": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVm5iMXI5dEVkVHhuSGJwRlU0enlGeUdPX3IzYWhKWnZQQUNrTE8wRTFNN0RyOGNuUmlDYld6S0Z3QzZQWmZPRUNOdEZ0OXBrdEllcGctdmNLcFlySGxfWmg3R255X3RtVzdhaWVpS2xqRDY3NTlZRVVYYzJIUFZRdlFGZTF6REl5OUE?oc=5"
-    },
-    {
       "t": "Jogos de PC em oferta por menos de R$ 25 no Halloween Nuuvem",
       "d": "&nbsp;&nbsp; Adrenaline",
       "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-por-menos-de-r-25-no-halloween-nuuvem/",
@@ -49,16 +87,6 @@
       "c": "Ofertas",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWdwZEd4bEdtYTVLM3ZDX042Sk9sTjNvcTE0c3pJNF9TR191MG1DSWk5MDBrOHNBeTRhZ29WVGNYMEROY3hEM18zeGhObkVJamtBcUxvdFEyZGczQW01bEVHZzRtcnZCNGVPZXBrVTExS0hOR0I2TTFyVm9OQXBNb08ycGd1VW16U19zM0FuT1hNcGI2XzRiMWItVmVMZG4zTTlNQWVxQ00?oc=5"
-    },
-    {
-      "t": "The Outlast Trials é lançado de surpresa para o Nintendo Switch 2",
-      "d": "&nbsp;&nbsp; Nintendo Blast",
-      "link": "https://www.nintendoblast.com.br/2026/10/the-outlast-trials-lancado-de-surpresa-para-nintendo-switch2.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-10-27T17:37:11.000Z",
-      "c": "Consoles",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlCuWXwi6nY5lS_SVlC7EBDJcAXKS13aZVWQ0M2zHaLMyaDaZcMp-FZ4fI1KfzmtxxAhv4CNxFzMAlELz4cZrltzSEZShV2t7Nans-yiF-XjNp2XJclhIHZfFZoVyGOMly2Bc-yud2NO9XklgsoljB2ej3SWCzA6eQqcMtT2S2gwK1DPSoQQKReEfH7iC6/w1200-h630-p-k-no-nu/IMG_0408.png",
-      "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1ZCQ2k2bDlpLWt0SXF1MnFpZjU2ZHJEcVppM045bGp0TDFkeHBtYjB3N1F5dmJIekdDVGVBMGhPalE5QlJWR2dVNHJ5YTFRWXkxNi1HN25SQVFVTWxTUDNoSUFpa1hYSU5WTFNwZDdBMTdYaGZjQ0l5SHZFbEVyU3I1MUtiM2gwbVpHZ0NpME1QVWlmYURlemUtdG45bTdGanEtWDRRZ29zZw?oc=5"
     },
     {
       "t": "Seu PC roda Phantom Blade Zero? Veja requisitos para encarar o game",
@@ -206,24 +234,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/10/image-67.jpg"
     },
     {
-      "t": "Anime Fighters Simulator: veja a lista de códigos e saiba como resgatar",
-      "d": "Pacote atualizado de códigos de Anime Fighters Simulator em Roblox rendem uma infinidade de recompensas",
-      "link": "https://flowgames.gg/anime-fighters-simulator-veja-resgate-lista-codigos/",
-      "fonte": "Flow Games",
-      "data": "2026-10-27T14:50:47.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2023/08/image-2023-08-11T142113.318.jpg"
-    },
-    {
-      "t": "PlayStation 5 pode rodar jogos da Steam com Playden",
-      "d": "O Playden é um projeto que permite aos PlayStation 5 desbloqueados rodarem jogos a partir da Steam",
-      "link": "https://flowgames.gg/playstation-5-pode-rodar-jogos-da-steam-com-playden/",
-      "fonte": "Flow Games",
-      "data": "2026-10-27T14:46:17.000Z",
-      "c": "PC",
-      "img": "https://flowgames.gg/wp-content/uploads/2023/04/nik-5KpNNyLiJOc-unsplash-1.jpg"
-    },
-    {
       "t": "RecompLauncher reúne mais de 200 jogos de console recompilados para PC",
       "d": "&nbsp;&nbsp; Adrenaline",
       "link": "https://www.adrenaline.com.br/games/pc-games/recomplauncher-reune-mais-de-200-jogos-de-console-recompilados-para-pc/",
@@ -269,15 +279,6 @@
       "c": "PC",
       "img": "https://criticalhits.com.br/wp-content/uploads/2026/10/recomplauncher-promete-facilitar-jogos-classicos-de-console-no-pc-featured.jpg",
       "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGVoNjVELWhHcUxtTFZlS1BnUFlmQjRpYWVwREZOQXVnRTJ3ZHdtRk83dThMUlRhVmVMbmNucThvQWIzZFRHaGVndUtJRWowc0RlMXNxbExKT3p1TlNqM2MxZHA1Szd2TXZacTZya1FpclE5NGJVeTczOVR5R29uM2c5SEc3Y2pNMVVDUjM3UmZkOUVBVng5aXFwZUtSSDNjcmc?oc=5"
-    },
-    {
-      "t": "Christopher Abbott, novo Xavier dos X-Men, insiste que Professor X não aparece em Doutor Destino nem em Guerras Secretas",
-      "d": "Charles Xavier (supostamente) só vai aparecer em 2028",
-      "link": "https://br.ign.com/avengers-doomsday/157062/christopher-abbott-novo-xavier-dos-x-men-insiste-que-professor-x-nao-aparece-em-doutor-destino-nem-e",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-27T09:00:40.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/x/x-men-acto/x-men-actor-christopher-abbott-insists-his-professor-x-is-no_3r74.jpg"
     }
   ],
   "videos": [
@@ -445,7 +446,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20173,
+      "views": 20174,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -485,7 +486,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3570,
+      "views": 3569,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -1243,7 +1244,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobywd.jpg",
-      "hype": 2,
+      "hype": 3,
       "link": "https://www.igdb.com/games/hull-rupture"
     },
     {
@@ -1389,7 +1390,7 @@
         "Switch 2"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv5r.jpg",
-      "hype": 77,
+      "hype": 79,
       "link": "https://www.igdb.com/games/the-legend-of-zelda-ocarina-of-time--1"
     },
     {
@@ -1747,6 +1748,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa07m.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/derelikt"
+    },
+    {
+      "t": "Sloppy Forgeries",
+      "data": "2026-11-13",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7pv.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/sloppy-forgeries"
     },
     {
       "t": "UnderMire",
@@ -4113,16 +4124,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8qnn.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/backrooms--2"
-    },
-    {
-      "t": "Sloppy Forgeries",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7pv.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/sloppy-forgeries"
     },
     {
       "t": "Sigils of Nightfall",
