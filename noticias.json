@@ -1,6 +1,56 @@
 {
-  "atualizadoEm": "2026-10-27T14:08:49.157Z",
+  "atualizadoEm": "2026-10-27T14:39:00.882Z",
   "noticias": [
+    {
+      "t": "Steam vs PSN vs Xbox vs Epic: 4 Contas Comparadas [2026]",
+      "d": "&nbsp;&nbsp; shattered.io",
+      "link": "https://shattered.io/pt/steam-guard-vs-psn-vs-xbox-vs-epic-seguranca-contas-2026/",
+      "fonte": "shattered.io",
+      "data": "2026-10-27T14:37:42.000Z",
+      "c": "PC",
+      "img": "https://shattered.io/pt/wp-content/uploads/sites/10/2026/10/steam-guard-vs-psn-vs-xbox-vs-epic-seguranca-contas-2026-gen.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnk3NjVnMG1oNGFUOUpHamhKRWhmOVZmeE9YeGZUMDJOLWhFc2JYQ1NVNmNYOEJNVzUtU3VOMDJWSWlvR1lsSUJ6NzVTY1lna3pzSkZ3VlduZU93OEttemJvNUxPNnpTcmhkNDZVMjNwR25DalI2Q3B0Uzc3SDFWem1jdHFhZmJo?oc=5"
+    },
+    {
+      "t": "GTA 6: análises do jogo devem ser publicadas um dia antes do lançamento",
+      "d": "&nbsp;&nbsp; Olhar Digital",
+      "link": "https://olhardigital.com.br/2026/10/27/games-e-consoles/gta-6-analises-devem-sair-em-18-de-novembro-diz-site/",
+      "fonte": "Olhar Digital",
+      "data": "2026-10-27T14:27:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://olhardigital.com.br/wp-content/uploads/2026/10/Jason_and_Lucia_13-1.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjVHUWRJRFQ3LWw3U2NvY1RUbmRPUGZmUEVDOVpPVXF5Ynl0Wm1CY2FOWW9XWnRCSG9aMEExRW5wME5ycGNvck1jeFVyYmt5blFPS2VYYko3QnE2R0Rkd0otVGlfWGVsMzB5bU5NNFAtc2cwdXZPRmFTeUozYUNlOE5qbEgtRjZYem8wLU9tN0JIb0xkdS0tVk14SDVlaVA4cklKalBhY0JjVnpQWlE?oc=5"
+    },
+    {
+      "t": "Nem mesmo GTA 6 consegue salvar o Xbox de um recorde negativo nos EUA",
+      "d": "&nbsp;&nbsp; Hardware.com.br",
+      "link": "https://www.hardware.com.br/games/gta-6-salvar-o-xbox/",
+      "fonte": "Hardware.com.br",
+      "data": "2026-10-27T14:22:17.000Z",
+      "c": "Consoles",
+      "img": "https://www.hardware.com.br/wp-content/uploads/2026/10/Nem-mesmo-GTA-6-consegue-salvar-o-Xbox-de-um-recorde-negativo-nos-EUA.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rUTlWV3VxNnpRUTA4NUQ0SGY0ZjZBdUZGUHQtRkFkS3N3MzQzaGRjT2swZDlHV0lUNDRsT21FYWZMSXJOZldmbUZMMF84QTRQZ0l2eHYyaXN2SHJRY0p4d2dRSFA?oc=5"
+    },
+    {
+      "t": "PlayStation 2 DUO: fã transforma PS2 em console portátil dobrável",
+      "d": "&nbsp;&nbsp; TudoCelular.com",
+      "link": "https://www.tudocelular.com/jogos/noticias/n265885/playstation-2-duo-fa-cria-console-dobravel.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-10-27T14:19:32.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSk1MT1RVV0lRYVlrQ1A3VDh4V2xQb2tXOGpnb0p0WkFlYXMxOThWQUF6ODR1V1diaFVfRWdYTmlNaDlqdWo5MWdhSGtNdFJBNFhMUExzT1pYcWRpQnBmeXhGZzJLZnNzbFBza2Nyd0FPYWVfZjJzY1hfTlhPSGhPdG1lTXlYVDhJc25FQkJGSkthMUFhcDdWaG9hRlg0SXM?oc=5"
+    },
+    {
+      "t": "Nintendo anuncia apresentação do Indie World Showcase para 28 de outubro",
+      "d": "&nbsp;&nbsp; NintendoBoy",
+      "link": "https://nintendoboy.com.br/2026/10/nintendo-anuncia-apresentacao-do-indie-world-showcase-para-28-de-outubro/",
+      "fonte": "NintendoBoy",
+      "data": "2026-10-27T14:09:09.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGhqMGlrS29GeVFtVjN3bWlNemhsNEhPV3dCNUdsWlB0U20xbkk2bnZBN1R0Vm5sQUd2czRiZ3VFNDUxbVptRzRvVS1uRm1YLUE5YTUwUTBnVlRYaDQtREliMk5zVXI4M2N1bDVfS3lGT19EekhMV3BpeFFIdTE5ZTNyXzgxQ0lrM25HLUxoZzlxVTZWQnBYbEJneU5HLWxNUFI2XzNlek9LSjZI?oc=5"
+    },
     {
       "t": "Remake de Silent Hill deve ser lançado já em 2027, diz site",
       "d": "Novo remake de Silent Hill pode chegar antes do esperado",
@@ -11,54 +61,14 @@
       "img": "https://flowgames.gg/wp-content/uploads/2025/06/image-10-1044x585.jpg"
     },
     {
-      "t": "Bomba Patch: como um mod feito numa locadora de Mogi Mirim virou o futebol de uma geração",
-      "d": "&nbsp;&nbsp; Olhar Digital",
-      "link": "https://olhardigital.com.br/2026/10/27/games-e-consoles/bomba-patch-a-historia-do-mod-que-marcou-uma-geracao-no-brasil/",
-      "fonte": "Olhar Digital",
+      "t": "Jogos de PC em oferta limitada com até 80% de desconto",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-limitada-com-ate-80-de-desconto/",
+      "fonte": "Adrenaline",
       "data": "2026-10-27T14:00:00.000Z",
-      "c": "Geral",
-      "img": "https://img.odcdn.com.br/wp-content/uploads/2026/10/Bomba-Patch-O-Dia.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM0FZQ3A1SnFVRmtrNFRlYTV2Z3RKWEZaenJmMDNMNnpEMS10UU1JdTBGdTdGd3NZcWZrc2lhZHM3WjRxYWMtdlp6S3Nqb0FHZWZvbzVWdGl0SE9LY0pTSk1yNlNYMy1HSGJvOGUza2NCU3ZJSjdxaTVSSEIwRXdOZV9iTTNXQ1F0QWdFX09RWEx4YTBzTzBiWFBRR3dRRWVJclFhN3BTTmNzajRzZjdOMk5Ua0lOYVhOdS1j?oc=5"
-    },
-    {
-      "t": "Floralis é anunciado para PlayStation e será lançado em 2027",
-      "d": "&nbsp;&nbsp; Pizza Fria",
-      "link": "https://pizzafria.ig.com.br/news/floralis-playstation-2027/",
-      "fonte": "Pizza Fria",
-      "data": "2026-10-27T13:57:58.000Z",
-      "c": "Consoles",
-      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/08/Floralis.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TbzNNQ2pTNjl4LXU3VXRNRnlKMW91ZTV3TUV2dU13MkxIMURWNktmb0haOFp1MEZpTndaMG9XeWg1YU1rdmZ5SDgxMUtnYVdrOHM5LTE1Mm5ubFN6eUx4cGR3bUdSbVUxN1Zn?oc=5"
-    },
-    {
-      "t": "Apresentação Indie World Showcase é agendada para 28 de outubro",
-      "d": "&nbsp;&nbsp; Universo Nintendo",
-      "link": "https://universonintendo.com/apresentacao-indie-world-showcase-e-agendada-para-28-de-outubro/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-10-27T13:55:11.000Z",
-      "c": "Consoles",
-      "img": "https://universonintendo.com/wp-content/uploads/2026/10/indie-world-out-2026.webp",
-      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXFNNDQxb1hMN3RrSV9QNVZ2TmJYSkV0Tm9GOEZmVi1WWjY2b3NwUGNfWmU3eXhLSFdJTlFScjJsZkFUc2trQ3NtVVNKUUlBT2RRVFJCWTV3WVRqaEJxaTFfS3AwTjQ3cmpJVUw3T2ZFMU1ERUFiVm1HV0UybUZuaEhBa1IySkt6TldVcXFDcF9peHhhcXVnSQ?oc=5"
-    },
-    {
-      "t": "PUBG recebe colaboração com o grupo de K-pop IVE",
-      "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://alternativanerd.com.br/games/pubg-recebe-colaboracao-com-o-grupo-de-k-pop-ive/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-10-27T13:43:58.000Z",
-      "c": "Geral",
-      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/10/AN_PUBG-recebe-colaboracao-com-o-grupo-de-K-pop-IVE.webp",
-      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeXRUWUNTbURpSERPTjB1NENCOGdjdEdwYVo5dGJZSUZIemM4c01PMl9SSmtzemhpejNnb3NDbE5LY0hpZV9wdl92SjN1R3NBOXNQRDNqSlg0RmFLU2pDdGJBWC1Hajdxd1hHQktLdjFtV0JiX0FFSlNOaEFWSlhUV3h5Ny1LeDZmOWF2a3Rrcw?oc=5"
-    },
-    {
-      "t": "Marvel Cosmic Invasion | Trailer revela novo modo de jogo",
-      "d": "&nbsp;&nbsp; Cromossomo Nerd",
-      "link": "https://cromossomonerd.com.br/games/marvel-cosmic-invasion-trailer-revela-novo-modo-de-jogo/",
-      "fonte": "Cromossomo Nerd",
-      "data": "2026-10-27T13:29:22.000Z",
-      "c": "Lançamentos",
-      "img": "https://cromossomonerd.com.br/wp-content/uploads/2026/10/CosmicInvasionDOOM.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3g0R3loUThxdjNiRGxwMDNuOEtsYWFHMi1ZRllvSGE3ajMtV3NUbWpZZndKc2RYUnFjU2E1Mkd4YU1DYXBFNVdqNEJxUXdzMkpGQXlndFZTeW9xYmdKVGVDb2tGX1RuTElqMzN2YnVkNnQ2MHczYVNwQnFqUVBKSDlyWWdNVHlFWS1zOXluVDMwNElRaVlN?oc=5"
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS1R2WEpLd3pwQjRjczVzM1dIU0Jud2ZpSmcxM3JyMkFzVnNjZ2ZzTGktZVdHNmlTeHpMTXBqUWZLeUxNNUxaZ1NwbDZvcl8xbUZhaktzT2FvV012WnBuTF9Ka1lDc0lMZy1xdTQ2RUc3WFNkQmpUa2VYSzF6WjJ0cW5HVzZ2dFV5bDNVQ21xSHN2SFNkUVF1VXp6VzktbXRi?oc=5"
     },
     {
       "t": "RecompLauncher reúne mais de 200 jogos de console recompilados para PC",
@@ -269,15 +279,6 @@
       "c": "Ofertas",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOW9acUExbUlPSmxOZW1QeXpBcXM2LUJxajFJRi1JSXZTN1U0SkwxOFpEaXRVaGhOa0NKdm9YUXNEYWxybGNDdnNrUUpURE5pcjRqSkdnVXc1MmxhZndUZndCdkI1bHJwQzdSNzBjUkVycjhvV2VSWVBOTHp1cTBQWVNSa0hwZktBV3pPQ3kxMU1mNFNlX1JJSmhGNzJaUjhKSVdUdU5BTQ?oc=5"
-    },
-    {
-      "t": "Próximos monstrinhos de Pokémon Pokopia podem ter vazado",
-      "d": "Confira uma possível lista do que está chegando a Pokémon Pokopia em breve por DLC",
-      "link": "https://flowgames.gg/pokemon-pokopia-dlc-2-podem-ter-vazado-monstrinhos/",
-      "fonte": "Flow Games",
-      "data": "2026-10-26T18:51:54.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.youtube.com/embed/_a6VU78MISA"
     }
   ],
   "videos": [
@@ -445,7 +446,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20169,
+      "views": 20171,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
