@@ -1,35 +1,82 @@
 {
-  "atualizadoEm": "2026-10-28T16:37:31.937Z",
+  "atualizadoEm": "2026-10-28T17:07:42.550Z",
   "noticias": [
     {
-      "t": "Epic Games inicia venda de gift cards de Fortnite no Brasil",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/epic-games-inicia-venda-de-gift-cards-de-fortnite-no-brasil/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-28T16:31:00.000Z",
+      "t": "Nintendo Indie World revela games promissores para 2026 e 2027",
+      "d": "&nbsp;&nbsp; Alternativa Nerd",
+      "link": "https://alternativanerd.com.br/games/nintendo-indie-world-revela-games-promissores-para-2026-e-2027/",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-10-28T17:01:02.000Z",
+      "c": "Consoles",
+      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/10/AN_Tenjutsu.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbmZ2eHg0TlBOSVdWSE9FMHRhVGZOMmRUQW14UVN1YmVQU292TE5GcTUxRVl2M0JBaDR6TFdnWXhjTnliTGp0RFVnVHQxZTdQa3NzYW5NWm1Sb0FoaVBWM1hkT3NYTXB0U1RMdlhfQk91NFByQmZGbElXVHpQZS1sRUc3VzdlUzJ6b2tBQkZyR1NFdXljZ1JPQWxwd3ZLdUo3Z3c?oc=5"
+    },
+    {
+      "t": "Raccoin: Chaos Max Edition no Nintendo Switch 2: Data e Trailer",
+      "d": "&nbsp;&nbsp; Última Ficha",
+      "link": "https://ultimaficha.com.br/2026/10/28/raccoin-chaos-max-edition-nintendo-switch-2/",
+      "fonte": "Última Ficha",
+      "data": "2026-10-28T16:54:45.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOEZ0ZnhGNkg5WnFTbGVYUV9uWVZjQ1pWLXUxV3A0N2ZUYUs2RDJ5Nm5UZl8zcnVXdlRLQnp5QVJOUTNfLXpPM2l6UDlZTDBSaDVndHIzSWhIalBiWkNBNC1ZOTREUUNnMzlzTUpqOEVBdEQxQUU0VEVUTjBuRFFRc0tFdTdWNExSb0E?oc=5"
+    },
+    {
+      "t": "Threads of Time confirmado para Nintendo Switch 2 e Switch",
+      "d": "&nbsp;&nbsp; Última Ficha",
+      "link": "https://ultimaficha.com.br/2026/10/28/threads-of-time-nintendo-switch-2/",
+      "fonte": "Última Ficha",
+      "data": "2026-10-28T16:53:04.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GOFE1Y2xGR2hfZFBJX0c1R0Z5UXFvRnphajJHTDdwUDRyU0pIeHJ1RC1HTElid2RRU240X1BTS2phT18tc1haSnhXQ0pQdlRsR2I1U1REYkY4aElHN0RYUHhrOFQwTFFEX2pHakt3aUNVbDdwOUg4UGdXdW8?oc=5"
+    },
+    {
+      "t": "Witchbrook ganha data de lançamento para PC e consoles",
+      "d": "&nbsp;&nbsp; Alternativa Nerd",
+      "link": "https://alternativanerd.com.br/games/witchbrook-ganha-data-de-lancamento-para-pc-e-consoles/",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-10-28T16:51:12.000Z",
+      "c": "PC",
+      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/10/AN_Witchbrook.webp",
+      "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT09McFZsM2JqZkxOYmU0aGxfSDJXV21tVHJBQS03VGdvcDlfNG9JY1BIVUU5SWprR3pmRFN0TE1ub0FsM1I4dnFzQmplU3lDS0RzM3JTZzlTa3pJOUZhMkhYQ3ltZnBiRlFtX1cxdHZEc0ZWS0ZsTW5oLTFOblJXZzhvRWxzTHFOUEFwOEdqVzhYSkRJZXJn?oc=5"
+    },
+    {
+      "t": "Principal suspeito de matar desenvolvedor de games dos EUA que vivia em Maringá é colocado em lista da Interpol",
+      "d": "&nbsp;&nbsp; Maringá Post",
+      "link": "https://maringapost.com.br/2026/10/28/principal-suspeito-de-matar-desenvolvedor-de-games-dos-eua-que-vivia-em-maringa-e-colocado-em-lista-da-interpol/",
+      "fonte": "Maringá Post",
+      "data": "2026-10-28T16:50:00.000Z",
       "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR212UkN1djNucG5lTWJMdDlfVUVUa3Jrb2xxNWFwVEgyQVdsSzczRS1PU2RRSGpYNkQ3OXUta0hVZ3Z2emdPdWl6US1ocy0tdkszQkF4UWh4cUtXOXA2T1g1RFg4bkhHYnBmanp0aUFKZnZud2loWEtzZ0pSUGZRek9NMjNNdUw5QW1DcnB1X0pwYy11QU9Fa1E1c0Q?oc=5"
+      "img": "https://maringapost.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-13.45.50.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMWVJWnZSUWo2VDBackJyNE4yMDctc25BbHRtZmN6X0RoTG1RS0g3LVJTX1pQdkFVN1k5VVZkeWhTZ2lYSTJGTjA5TlQxcnJlRDhRUnRSRFJIWmVpQmwwbERHUktpVnJVbUk4eHp2N1FzWnlYaEFoU1c3TGFSQVpmYnRDV05uYUFMMlY2ZnluR0NOV1VuZkw2Z3pIdV9udHZEcnFFR0gwbGo5LW16Zmh6OGZZeVVSczMwR0dIVjBOcGRpbHhSRU5STERRcnlTbFVVMHlReGpRcWNUeVo1Rno4S1ZqQUE?oc=5"
     },
     {
-      "t": "Bakudo será lançado para Nintendo Switch 2 em 2027",
-      "d": "&nbsp;&nbsp; Nintendo Blast",
-      "link": "https://www.nintendoblast.com.br/2026/10/bakudo-sera-lancado-para-nintendo-switch-2-em-2027.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-10-28T16:30:13.000Z",
+      "t": "PlayStation anuncia nova coleção do DualSense e tampas do PS5 com design nostálgico",
+      "d": "A volta dos controles transparentes",
+      "link": "https://br.ign.com/ps5/157125/playstation-anuncia-nova-colecao-do-dualsense-e-tampas-do-ps5-com-design-nostalgico",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-28T16:49:42.000Z",
       "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnJyS09tX0RyQm9uREU1RTZoZFR5bUkyY0xSMXlpME5uSExrczhiSG9uOFpxUmVCVFNwRkV3bGU5UEp3eTRjYkVFU05MNGpUTkVKZThIdnlmVnBWZmhzc3R1OE5zTWllcFU3NUNuUnlxOTMtUzNaVDF1eHpZNmNqdVpFR0N5Z3V1OWdtRHpSQXJNWnEzeEN1OFBuTnY?oc=5"
+      "img": "https://sm.ign.com/ign_br/screenshot/default/unnamed-3_7ncv.jpg"
     },
     {
-      "t": "Roblox recriou o menu do PlayStation 4",
-      "d": "&nbsp;&nbsp; Arkade",
-      "link": "https://arkade.com.br/colocaram-um-menu-de-ps4-com-suporte-a-jogos-classicos-dentro-do-roblox/",
-      "fonte": "Arkade",
-      "data": "2026-10-28T16:30:00.000Z",
-      "c": "Consoles",
-      "img": "https://arkade.com.br/wp-content/uploads/2026/10/IMG_4138-1.webp",
-      "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGIzZUhBYkRtZWthdGFmR1JaVFYwUnZudWp2NTJFUXVSa2tvcEdsUWVMZTQxajU3UlIzUUZnREVXZGtEeTJCZzJZLXdRUDZjb1hXZXVfeFQxaGZPMUVlZzVIckpVY1FXYTlVOHB2MFc3RHVvQ3hrbGtzODUtVDA0VnM2ZVZnemZvRF9fM29MR3Z3X1Ezc1lUUzV3?oc=5"
+      "t": "Dead Island 2 e mais dois jogos chegam ao PS Plus em novembro",
+      "d": "Os novos jogos serão liberados em 3 de novembro",
+      "link": "https://flowgames.gg/ps-plus-recebe-dead-island-2-e-mais-2-jogos-novembro/",
+      "fonte": "Flow Games",
+      "data": "2026-10-28T16:44:13.000Z",
+      "c": "Lançamentos",
+      "img": "https://flowgames.gg/wp-content/uploads/2024/05/image-2023-05-17T100426.530.webp"
+    },
+    {
+      "t": "Filme do Elden Ring promete ser Blockbuster caríssimo e bem concorrido!",
+      "d": "Todo mundo está de olho em Elden Ring e no seu orçamento de mais de 200 milhões de dólares",
+      "link": "https://flowgames.gg/elden-ring-filme-custara-mais-de-200-milhoes/",
+      "fonte": "Flow Games",
+      "data": "2026-10-28T16:41:45.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2024/06/GPPBlGAWAAAlsB4-1044x587.jpg"
     },
     {
       "t": "Arc Raiders ainda não sabe se implementa PvE no jogo",
@@ -41,26 +88,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2025/06/EGS_ARCRaiders_EmbarkStudios_S1_2560x1440-9c7de2c72b31a6332a78713c7dd2a473-1044x587.jpg"
     },
     {
-      "t": "GTA 6: quantos GB o jogo pode ocupar no PS5?",
-      "d": "&nbsp;&nbsp; Fast Company Brasil",
-      "link": "https://fastcompanybrasil.com/games/gta-6-quantos-gb-jogo-pode-ocupar-ps5/",
-      "fonte": "Fast Company Brasil",
-      "data": "2026-10-28T16:14:51.000Z",
-      "c": "Consoles",
-      "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/vice-city.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nemctdk5EZ1g1dEdpNXI1LUpoV21pOGJaMUMyc09JTDA2T1F4Sk1KaUgyQkxJVnM4NTRiSlN0MUd2MzBLTHJVV3dURmZheU8yOGx5NTlBeEQ2elVPb3RFRFoyQ3hDb2xITVdDMFlab2NVR2U5WVFMcG56cVBMWUE?oc=5"
-    },
-    {
-      "t": "Rayman Legends Retold terá traje inspirado em ASTRO BOT no PlayStation 5",
-      "d": "&nbsp;&nbsp; GameBlast",
-      "link": "https://www.gameblast.com.br/2026/10/rayman-legends-retold-tera-traje-inspirado-em-astro-bot-no-playstation-5.html",
-      "fonte": "GameBlast",
-      "data": "2026-10-28T16:14:08.000Z",
-      "c": "Consoles",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIRSnDPcg2t5Al1lb4lZ5NCJF1m3CbBgv9r-k2hSRw7jwvIatvrjeRLX54OMMkGEHjbLMLyzuExPI3Gq2_gPvopabVrrVL9bv7Nbv0eEUPfhWBlFj-YHAOkYaJ9Aw2WW2ujWSEONmXFXHmOVi5Ev5_LdUNF4CIUnuWwt_XIXpUN1eHrBbr3mmjYcWVpUE/w1200-h630-p-k-no-nu/BlastCapa.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU0hGM2draG1sZ0d0R1p6MWNfb1ZacXI4eTN5ZUpsZk9IT1ZFTXUyNG5zYVdYZ2JHUVZCOGZZVDVoaUNMVnh6R2tzb1RXWjBRN3VVMjlrcmY4WlhkTUpudjdsUFRtQ0tLS01TMWtDZm9WOVlMSDlPTjB1dkhHLV9hZE5wMm5FZUJ5TDFnelBiWUlMZG5feTF3VkNFTlNoaTBrckUtdk81OWNmVndydEt0dU85ZmI?oc=5"
-    },
-    {
       "t": "GTA 6: álbum Original Score terá 50 músicas",
       "d": "A Apple Music, da Nova Zelândia, revelou que o álbum GTA 6 Original Score terá 60 músicas. Veja os detalhes!",
       "link": "https://flowgames.gg/gta-6-album-original-score-tera-50-musicas/",
@@ -70,15 +97,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/08/GTAVI_12.jpg"
     },
     {
-      "t": "Blizzard gera reação negativa de fãs de World of Warcraft por \"quebrar promessa\" sobre microtransações relacionadas a habitação",
-      "d": "O terror das microtransações voltou",
-      "link": "https://br.ign.com/world-of-warcraft-midnight/157119/blizzard-gera-reacao-negativa-de-fas-de-world-of-warcraft-por-quebrar-promessa-sobre-microtransacoes",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-28T16:05:24.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/b/blizzard-s/blizzard-sparks-world-of-warcraft-fan-backlash-for-breaking_upm2.png"
-    },
-    {
       "t": "World of Warcraft: Midnight Cinematic Images and First Screenshots",
       "d": "",
       "link": "https://br.ign.com/world-of-warcraft-midnight/157120/world-of-warcraft-midnight-cinematic-images-and-first-screenshots",
@@ -86,6 +104,15 @@
       "data": "2026-10-28T16:05:24.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/gallery/w/world-of-w/world-of-warcraft-midnight-cinematic-images-and-first-screen_vc31.jpg"
+    },
+    {
+      "t": "Blizzard gera reação negativa de fãs de World of Warcraft por \"quebrar promessa\" sobre microtransações relacionadas a habitação",
+      "d": "O terror das microtransações voltou",
+      "link": "https://br.ign.com/world-of-warcraft-midnight/157119/blizzard-gera-reacao-negativa-de-fas-de-world-of-warcraft-por-quebrar-promessa-sobre-microtransacoes",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-28T16:05:24.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/b/blizzard-s/blizzard-sparks-world-of-warcraft-fan-backlash-for-breaking_upm2.png"
     },
     {
       "t": "GameSir anuncia novas versões do G7 Pro inspirados em GTA 6",
@@ -233,15 +260,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/ign-8_8s8n.jpg"
     },
     {
-      "t": "PS5 com Astro Bot e Gran Turismo 7 por menos de R$ 3,8 mil: confira esta oferta na Amazon",
-      "d": "Pacote inclui console com SSD de 825 GB, controle DualSense e versões digitais dos dois jogos",
-      "link": "https://br.ign.com/descontos/157109/ps5-com-astro-bot-e-gran-turismo-7-por-menos-de-r-38-mil-confira-esta-oferta-na-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-28T02:18:11.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/thumb-ignpsd-1_m3uh.jpg"
-    },
-    {
       "t": "Jogos em oferta na Steam por menos de R$ 5; até 95% de desconto",
       "d": "&nbsp;&nbsp; Adrenaline",
       "link": "https://www.adrenaline.com.br/games/pc-games/jogos-em-oferta-na-steam-por-menos-de-r-5-ate-95-de-desconto-3/",
@@ -259,25 +277,6 @@
       "data": "2026-10-27T22:45:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/AH3P7T2LBNK67BMAF74RGUBWOI.jpg?quality=80&auth=d41c38e49128439b379ea4f5a29a74b4b37a40872dd427de751da54451574e40&width=710"
-    },
-    {
-      "t": "Assassin’s Creed Black Flag Resynced recebe último update com New Game+ e mais! Vejas as novidades",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/assassins-creed-black-flag-resynced-recebe-ultimo-update-com-new-game-e-mais-vejas-as-novidades/",
-      "fonte": "TecMundo",
-      "data": "2026-10-27T21:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/AUQFT424YJINLCEF3AD73ZGAYQ.jpg?quality=80&auth=7fc04d8278452abda70d3d20b6a5208dd7561449052064ddd13f96e1be0a5eff&width=710"
-    },
-    {
-      "t": "Call of Duty: Modern Warfare 4 lidera na Steam em lançamento - veja lista!",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/pc-games/call-of-duty-modern-warfare-4-lidera-na-steam-em-lancamento-veja-lista/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-27T21:13:00.000Z",
-      "c": "PC",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkliSGpEUjNaaXVsaVpfX3dpVjc3Zld5MlBPUzIwcEhWQnJOMXFDN2NPeDVGeXNsOUFHbzI3MmVsUFAxVi1HeWE1M3FqTlQwRmkyVnpNZjBRSlEyOTRZZHBIaUpza20wdTlrN1N6SmU4NVpzazFNX0ZjSHRKbmY0elEtQTVaUE4zVmdZLVVod3Jpd1lsTVdDb3N5QUF3cXVhTk9sLVRxdEpYaFBJQ09nUzNPWTk5bDg?oc=5"
     }
   ],
   "videos": [
@@ -293,7 +292,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8126,
+      "views": 8125,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -357,7 +356,7 @@
       "id": "Cd6wFNBTWMw",
       "t": "PICTO MUITO INSANO O INIMIGO CAUSA MENOS DANO | EXPEDITION 33",
       "data": "2025-05-27T19:00:13Z",
-      "views": 382,
+      "views": 381,
       "img": "https://i.ytimg.com/vi/Cd6wFNBTWMw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Cd6wFNBTWMw"
     },
@@ -397,7 +396,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3517,
+      "views": 3516,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -421,7 +420,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 4001,
+      "views": 4000,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -429,7 +428,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6711,
+      "views": 6710,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -437,7 +436,7 @@
       "id": "UB6es2m1dGw",
       "t": "PICTO SECRETO MUITO ROUBADO TENHA VIDA INFINITA | EXPEDITION 33",
       "data": "2025-05-16T22:00:43Z",
-      "views": 5220,
+      "views": 5219,
       "img": "https://i.ytimg.com/vi/UB6es2m1dGw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=UB6es2m1dGw"
     },
@@ -445,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20184,
+      "views": 20183,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
