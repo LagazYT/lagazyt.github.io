@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T08:19:39.423Z",
+  "atualizadoEm": "2026-10-28T08:49:47.523Z",
   "noticias": [
     {
       "t": "The Outlast Trials no Nintendo Switch 2: Preço e Detalhes",
@@ -31,16 +31,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/ign-8_8s8n.jpg"
     },
     {
-      "t": "De GTA 6 a Zelda: veja como economizar na compra de grandes lançamentos de games",
-      "d": "&nbsp;&nbsp; Cebola Verde",
-      "link": "https://cebolaverde.com.br/de-gta-6-a-zelda-veja-como-economizar-na-compra-de-grandes-lancamentos-de-games/",
-      "fonte": "Cebola Verde",
-      "data": "2026-10-28T02:26:16.000Z",
-      "c": "Lançamentos",
-      "img": "https://i0.wp.com/cebolaverde.com.br/wp-content/uploads/2026/10/HYPE-GAMES-1.png?fit=1200%2C675&ssl=1",
-      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVpWTmZXM19jcXU4X3F4aWhqb0ZuQkE4b0IwcWRiLTFfeGlUSElVMG14aHVkbWctZmZtaWx1c0tpWi15b09HMnZtTzF2WEVQMUIwb0tyS2JNZUhxWmpsdjd5ckJISGd0TGRpNGN5bDNyLVBId1FoajVVQXNSZW11dnVaMl9IQU51T2xfTmZlUkJrVTRkWFhxdTFoNFNhaVhBbEo1NkR0MTEwR3c?oc=5"
-    },
-    {
       "t": "PS5 com Astro Bot e Gran Turismo 7 por menos de R$ 3,8 mil: confira esta oferta na Amazon",
       "d": "Pacote inclui console com SSD de 825 GB, controle DualSense e versões digitais dos dois jogos",
       "link": "https://br.ign.com/descontos/157109/ps5-com-astro-bot-e-gran-turismo-7-por-menos-de-r-38-mil-confira-esta-oferta-na-amazon",
@@ -68,6 +58,16 @@
       "c": "Consoles",
       "img": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1793151655.png",
       "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRnV0M0dXU0hHTjVydE5NZ1ZNOE12amp2MXZVSGR5aklRdFhhWDAyM2l4NkFqQ2pqaDlPRkpncGNKZGtueE54UUdfejhwSVBsYnZjT1VaWFFGN05nM083bHhHOVM3bEtYU2dvQWpDNmhuTHA2NHFLZy1XWXdUanNnTVo1aHliVE1T?oc=5"
+    },
+    {
+      "t": "Samsung lança novo portfólio premium de TVs Vision AI na Ferreira Costa, no Recife",
+      "d": "&nbsp;&nbsp; Folha PE",
+      "link": "https://www.folhape.com.br/colunistas/tecnologia-e-games/samsung-lanca-novo-portfolio-premium-de-tvs-vision-ai-na-ferreira-costa-no-recife/60724/",
+      "fonte": "Folha PE",
+      "data": "2026-10-28T00:32:08.000Z",
+      "c": "Lançamentos",
+      "img": "https://cdn.folhape.com.br/img/c/800/600/dn_arquivo/2026/10/whatsapp-image-2026-10-27-at-190903-4.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObXpfOW03T1BqdWFPZmYxWHFydGJEcnlBZEdKSnAteUpqRUhDbExCVUVhNUxQNG1rMkRIWmJ2SkxIN0dnV012WVBYXzU1Z2NGTkdoVWx5V1BXVWFhT0NFV2NpUmZ6QThtaG1MR3hlSWx6MDhkNG5ISGlWR01FX01VNVcwQVgwV2JRZlBXdk4tSnNmVzJJbWFwMzhVNVZXVUVmZmdJVjVidnJqcDBtajNQaTYyRjJRYndHc0NiUkxOWU5FNDMzRjBwNGl4TERqbjhNaHlKOS1SLTk5bEFjTEE?oc=5"
     },
     {
       "t": "Jogos em oferta na Steam por menos de R$ 5; até 95% de desconto",
@@ -382,7 +382,7 @@
       "id": "gZSUZuB5jJ0",
       "t": "PICTO INSANO MUITO ROUBADO TENHA MAIS TURNOS | EXPEDITION 33",
       "data": "2025-05-22T17:01:01Z",
-      "views": 2352,
+      "views": 2355,
       "img": "https://i.ytimg.com/vi/gZSUZuB5jJ0/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=gZSUZuB5jJ0"
     },
@@ -398,7 +398,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3515,
+      "views": 3516,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
