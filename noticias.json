@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-28T01:16:45.555Z",
+  "atualizadoEm": "2026-10-28T01:46:53.081Z",
   "noticias": [
+    {
+      "t": "Estreia fria de Modern Warfare 4 acende alerta na Microsoft: 32% menos jogadores no Xbox que Black Ops 7",
+      "d": "&nbsp;&nbsp; radiogeekbr.com.br",
+      "link": "https://radiogeekbr.com.br/estreia-fria-modern-warfare-4-queda-32-por-cento-xbox/",
+      "fonte": "radiogeekbr.com.br",
+      "data": "2026-10-28T01:41:09.000Z",
+      "c": "Consoles",
+      "img": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1793151655.png",
+      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRnV0M0dXU0hHTjVydE5NZ1ZNOE12amp2MXZVSGR5aklRdFhhWDAyM2l4NkFqQ2pqaDlPRkpncGNKZGtueE54UUdfejhwSVBsYnZjT1VaWFFGN05nM083bHhHOVM3bEtYU2dvQWpDNmhuTHA2NHFLZy1XWXdUanNnTVo1aHliVE1T?oc=5"
+    },
     {
       "t": "OLOCOOO! XBOX REVELA GRANDE SURPRESA E GTA VI NO SERIES S VAI CALAR OS CRÍTICOS!",
       "d": "&nbsp;&nbsp; Xboxers",
@@ -40,16 +50,6 @@
       "c": "Lançamentos",
       "img": "https://cdn.folhape.com.br/img/c/800/600/dn_arquivo/2026/10/whatsapp-image-2026-10-27-at-190903-4.jpeg",
       "orig": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObXpfOW03T1BqdWFPZmYxWHFydGJEcnlBZEdKSnAteUpqRUhDbExCVUVhNUxQNG1rMkRIWmJ2SkxIN0dnV012WVBYXzU1Z2NGTkdoVWx5V1BXVWFhT0NFV2NpUmZ6QThtaG1MR3hlSWx6MDhkNG5ISGlWR01FX01VNVcwQVgwV2JRZlBXdk4tSnNmVzJJbWFwMzhVNVZXVUVmZmdJVjVidnJqcDBtajNQaTYyRjJRYndHc0NiUkxOWU5FNDMzRjBwNGl4TERqbjhNaHlKOS1SLTk5bEFjTEE?oc=5"
-    },
-    {
-      "t": "Conan Exiles Enhanced chegará ao PS5 e Xbox com cross-play",
-      "d": "&nbsp;&nbsp; Última Ficha",
-      "link": "https://ultimaficha.com.br/2026/10/27/conan-exiles-enhanced-ps5-xbox-series/",
-      "fonte": "Última Ficha",
-      "data": "2026-10-28T00:21:39.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdTgzZHJfaDFydWFfUE5uSHN4bGNBMm52eWhOUkJNUUdJOHpnZ0Nib2JkLWxPVkR0WW1yTWZibnRSUkhYZDBtZE5mdmFvdzdoZEZMZG9ia1h4U1gzd0RzS0ozcmtia2xuQjg3aHpxaERnVlJRUzZTb0ZQUFB2SFF6VUhn?oc=5"
     },
     {
       "t": "Jogos em oferta na Steam por menos de R$ 5; até 95% de desconto",
@@ -99,15 +99,6 @@
       "img": "https://sm.ign.com/ign_br/news/p/pokemon-un/pokemon-unite-to-be-taken-offline-in-2027-in-game-sales-susp_keu6.png"
     },
     {
-      "t": "Desenvolvedora de Kingdom Come: Deliverance é atingida por incidente “grave” de segurança cibernética",
-      "d": "“Este é um incidente grave para a Warhorse Studios e para todos os envolvidos\" A Warhorse Studios — desenvolvedora responsável por Kingdom Come: Deliverance, sua sequência e um futuro RPG de O...",
-      "link": "https://br.ign.com/kingdom-come-deliverance/157096/desenvolvedora-de-kingdom-come-deliverance-e-atingida-por-incidente-grave-de-seguranca-cibernetica",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-27T19:36:22.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/k/kingdom-co/kingdom-come-deliverance-developer-hit-by-serious-cybersecur_demv.png"
-    },
-    {
       "t": "Kingdom Come: Deliverance 2 Legacy of the Forge DLC Screenshots",
       "d": "",
       "link": "https://br.ign.com/kingdom-come-deliverance-ii/157097/kingdom-come-deliverance-2-legacy-of-the-forge-dlc-screenshots",
@@ -115,6 +106,15 @@
       "data": "2026-10-27T19:36:22.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/gallery/k/kingdom-co/kingdom-come-deliverance-2-legacy-of-the-forge-dlc-screensho_x23b.jpg"
+    },
+    {
+      "t": "Desenvolvedora de Kingdom Come: Deliverance é atingida por incidente “grave” de segurança cibernética",
+      "d": "“Este é um incidente grave para a Warhorse Studios e para todos os envolvidos\" A Warhorse Studios — desenvolvedora responsável por Kingdom Come: Deliverance, sua sequência e um futuro RPG de O...",
+      "link": "https://br.ign.com/kingdom-come-deliverance/157096/desenvolvedora-de-kingdom-come-deliverance-e-atingida-por-incidente-grave-de-seguranca-cibernetica",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-27T19:36:22.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/k/kingdom-co/kingdom-come-deliverance-developer-hit-by-serious-cybersecur_demv.png"
     },
     {
       "t": "Sistema de reserva de nomes de World of Warcraft Forever está com falhas antes do lançamento",
@@ -171,13 +171,13 @@
       "img": "https://sm.ign.com/ign_br/gallery/c/call-of-du/call-of-duty-modern-warfare-4-campaign-screenshots_7h7r.jpg"
     },
     {
-      "t": "Vazam na internet imagens de um jogo de Transformers cancelado, revelando um trailer final inédito",
-      "d": "A fonte do vazamento levanta a hipótese de que se tratava de uma proposta de investimento para editoras que, \"no fim das contas, fracassou\"",
-      "link": "https://br.ign.com/transformers-reactivate/157088/vazam-na-internet-imagens-de-um-jogo-de-transformers-cancelado-revelando-um-trailer-final-inedito",
+      "t": "Transformers Reactivate",
+      "d": "",
+      "link": "https://br.ign.com/transformers-reactivate/157089/transformers-reactivate",
       "fonte": "IGN Brasil",
       "data": "2026-10-27T18:51:41.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/news/c/canceled-t/canceled-transformers-game-footage-leaks-online-showing-neve_2sxq.jpg"
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/gallery/t/transforme/transformers-reactivate_86jj.jpg"
     },
     {
       "t": "Vazou: GTA 6 deve ter 210 GB de tamanho de download no PS5",
