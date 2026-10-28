@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-10-27T23:46:23.512Z",
+  "atualizadoEm": "2026-10-28T00:16:31.941Z",
   "noticias": [
+    {
+      "t": "Nintendo Switch Sports Resort: dicas e truques para aproveitar os esportes e explorar a Ilha Wuhu",
+      "d": "&nbsp;&nbsp; Nintendo Blast",
+      "link": "https://www.nintendoblast.com.br/2026/10/dicas-e-truques-nintendo-switch-sports-resort.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-10-28T00:03:20.000Z",
+      "c": "Consoles",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg10cioZuU3eFKxQqMj2Vuf6q8WGq2iSxTtAM0uwV9WjvIhkOspUgETTLn01dn8qkNCSoi-oO2xU7mgc_FDaNegVDx3VWssi9ooKXSIxG5ibSODuYeujGT4xo3BsijA8rFXbWtugql3bwUIUEfA9Gw8lNU4TaTdM2SvGHqRA9JinXOPfMLnIclCGejbYkF7/w1200-h630-p-k-no-nu/nintendo-switch-sports-resort.webp",
+      "orig": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdThHd1hucHExMzltc0hDbk16NDhPMEJ3QnFCX1BNMzZHR0FNTDBmUVhXWXpwRFotTzAydnpVbUgzSzBBX2xZOTZNUW1WWDV2amNDeDV0X0JHYmVxcXpvV3hpSUNkMzRBcThOeTZGdFl2cVNzZlhtX0FFM1pzSG8xMUpDZzhoZThQM01vQU56aENWR3A0ekE?oc=5"
+    },
     {
       "t": "Indie World: Nintendo marca novo evento para 28 de outubro",
       "d": "&nbsp;&nbsp; einerd.com",
@@ -10,16 +20,6 @@
       "c": "Consoles",
       "img": "https://www.einerd.com/wp-content/uploads/2026/10/Nintendo-Indie-World.jpeg",
       "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xRU83S3Jna2JYcFhkVF85VGlSVGVJb0EyU2JZdmkyUVVRR09EbktJYlNUWGZIZ1VGRExOSHJUV1Z6MFFab196RC1BMGJGaUxvR3JaSHFNc3B1bXVHTE1wYTBJOFRpMjgxWkE?oc=5"
-    },
-    {
-      "t": "Call of Duty: Modern Warfare 4 perde 32% dos jogadores Xbox face a Black Ops 7",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://www.eurogamer.pt/call-of-duty-modern-warfare-4-perde-32-dos-jogadores-xbox-face-a-black-ops-7",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-10-27T23:23:52.000Z",
-      "c": "Consoles",
-      "img": "https://assetsio.gnwcdn.com/Warfare-4.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVdxYzFtUkpBVWlhOFRkY3VKbTFKeXZwVUN5Z004NzhiZTNnRUgyOUN1a0lyQ1cxdnRMNFZOZEYzc3VCM1FqNjV6YlQxNTBMQ0VZQmlhWEtnUmdtMFFaSWZRVkRqdUhmR183RWZZdDVKX2w0OU9zdHNRTGxleW5YLXJWTncxamRiTHI0T2paYkd4UVRKbGFWX2tyWlBGNVl4VXZZ?oc=5"
     },
     {
       "t": "Conan Exiles Enhanced chega ao PS5 e Xbox Series; confira o trailer",
@@ -492,118 +492,6 @@
     }
   ],
   "lancamentos": [
-    {
-      "t": "Airport Contraband",
-      "data": "2026-10-28",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwf0.jpg",
-      "hype": 4,
-      "link": "https://www.igdb.com/games/airport-contraband"
-    },
-    {
-      "t": "Sepulchron",
-      "data": "2026-10-28",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawen.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/sepulchron"
-    },
-    {
-      "t": "Mega Met",
-      "data": "2026-10-28",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9745.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/mega-met"
-    },
-    {
-      "t": "Hypnosync",
-      "data": "2026-10-28",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqno.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/hypnosync"
-    },
-    {
-      "t": "Neuron Activation",
-      "data": "2026-10-28",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba28.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/neuron-activation"
-    },
-    {
-      "t": "Zombie Assault: Resurgence",
-      "data": "2026-10-28",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmqx.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/zombie-assault-resurgence"
-    },
-    {
-      "t": "Anomalith",
-      "data": "2026-10-28",
-      "plats": [
-        "Switch 2",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc3jf.jpg",
-      "hype": 4,
-      "link": "https://www.igdb.com/games/anomalith"
-    },
-    {
-      "t": "Deductopia",
-      "data": "2026-10-28",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4nk.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/deductopia"
-    },
-    {
-      "t": "CH13: Rest Stop",
-      "data": "2026-10-28",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7pw.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/ch13-rest-stop"
-    },
-    {
-      "t": "Probably Stolen",
-      "data": "2026-10-28",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocm5l.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/probably-stolen"
-    },
-    {
-      "t": "Ironwake",
-      "data": "2026-10-28",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocyfw.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/ironwake"
-    },
     {
       "t": "Cop Bastard",
       "data": "2026-10-29",
@@ -4725,6 +4613,118 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qqp.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/bless-you-again"
+    },
+    {
+      "t": "Clawsome",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xv7.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/clawsome"
+    },
+    {
+      "t": "Fate's Masquerade",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0pt.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/fates-masquerade"
+    },
+    {
+      "t": "DigSite",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9d4.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/digsite"
+    },
+    {
+      "t": "Rootbound",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ipn.jpg",
+      "hype": 4,
+      "link": "https://www.igdb.com/games/rootbound--1"
+    },
+    {
+      "t": "Animas",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafto.jpg",
+      "hype": 4,
+      "link": "https://www.igdb.com/games/animas"
+    },
+    {
+      "t": "Ice on the Edge",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9izj.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/ice-on-the-edge"
+    },
+    {
+      "t": "Moonbrella",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajga.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/moonbrella"
+    },
+    {
+      "t": "Ghost Sector",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jkb.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/ghost-sector"
+    },
+    {
+      "t": "Wanted 3D: Dead or Alive",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jl8.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/wanted-3d-dead-or-alive"
+    },
+    {
+      "t": "Raev: Kingdom on the Distant Shores",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9k1f.jpg",
+      "hype": 4,
+      "link": "https://www.igdb.com/games/raev-kingdom-on-the-distant-shores"
+    },
+    {
+      "t": "Dark Mass",
+      "data": "2026-12-31",
+      "plats": [
+        "Xbox",
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9k1k.jpg",
+      "hype": 24,
+      "link": "https://www.igdb.com/games/dark-mass"
     }
   ],
   "musicas": []
