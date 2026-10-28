@@ -1,44 +1,72 @@
 {
-  "atualizadoEm": "2026-10-28T14:06:37.354Z",
+  "atualizadoEm": "2026-10-28T14:36:49.386Z",
   "noticias": [
     {
+      "t": "Discord: mensagens de canais aparecerão no Google",
+      "d": "Já em dezembro, mensagens em servidores públicos do Discord poderão aparecer no Google. Veja como isso funcionará!",
+      "link": "https://flowgames.gg/discord-mensagens-de-canais-aparecerao-no-google/",
+      "fonte": "Flow Games",
+      "data": "2026-10-28T14:26:35.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2023/09/mariia-shalabaieva-jtRkbtUHsps-unsplash-1.jpg"
+    },
+    {
+      "t": "Witchbrook recebe data de lançamento; confira novo trailer",
+      "d": "&nbsp;&nbsp; Nintendo Blast",
+      "link": "https://www.nintendoblast.com.br/2026/10/witchbrook-data-lancamento-trailer.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-10-28T14:20:52.000Z",
+      "c": "Consoles",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAof2bW7Ac73oRtL-VTgKRd5GZVzeLFP3MWyQn0Yo75JyZId6gkLvePhUJAYz-kaJ8kGpcI_mw2JUbF01w6qcEwT8hMv7x-BXNZNGv5j2u28Ja52FqMf_77TncO7j8xEVbq0RZ17PfRXT3IWXwhyphenhyphenKrpztOWo7QUDpZmoQjToMI1fhByHYGv44dl51Kpkfh/w1200-h630-p-k-no-nu/Witchbrook-release-date.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaFRPREVIQmR6OWhrMGpNQjNQbm10OXpHMVZrcFAyTHptNXFkX0RQdGNtX2NzUENOU0k0cEY0YkJURlBKSTU3d3hLUUEwd1JLWWRTc3FhQU9QZlU2MFRkZmtFZW5ueTBVcTVWZ0FCay0tSnFhcG9FYnRJZ1dWa1FyYjMzbjlUSnM?oc=5"
+    },
+    {
+      "t": "GTA 6 pode exigir mais de 200 GB para instalação! Veja quanto espaço o jogo ocupa no SSD",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-tem-espaco-de-armazenamento-revelado-veja-quanto-espaco-o-jogo-ocupa-no-ssd/",
+      "fonte": "TecMundo",
+      "data": "2026-10-28T14:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/IXYJHPI2MFAANBBWXZP2HV37S4.jpg?quality=80&auth=6427105c078d66b4d5ac7982682756608eefb55dd408553ceb9f3f56902baeb4&width=710"
+    },
+    {
+      "t": "De Mad World a GTA 6: os trailers que venderam jogos antes do primeiro clique",
+      "d": "&nbsp;&nbsp; Olhar Digital",
+      "link": "https://olhardigital.com.br/2026/10/28/games-e-consoles/de-gears-of-war-a-gta-6-trailers-que-marcaram-os-games/",
+      "fonte": "Olhar Digital",
+      "data": "2026-10-28T14:15:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://img.odcdn.com.br/wp-content/uploads/2026/10/Montagem-Minimalista-Estilo-Steam-1.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONnJ5NXVzLU5BYmFtcm1QTHlrVXphbVB1VzR1VkZyN2kyTll1VWJySGtVcDZZRHNuTkdXRTZxMUFmUHVjS3ZqaUVuZk5PSmcwM2dGYVlwS1RlTFA0cnBwQlg3Vno5MElaUFI4eHdHRFA3dWRxSEZNX0JNNVR0YXRyYTAtZG5EOHVQdHZzcHhEbnpfU0xzTE9NWHZhazU0MUh5TW9RLVYtXzN0aTlwTWNEdA?oc=5"
+    },
+    {
+      "t": "Xbox Helix pode custar US$999 e chegar em 2027 com suporte a jogos físicos",
+      "d": "&nbsp;&nbsp; Central Xbox",
+      "link": "https://centralxbox.com.br/2026/10/28/xbox-helix-pode-custar-us999-e-chegar-em-2027-com-suporte-a-jogos-fisicos/",
+      "fonte": "Central Xbox",
+      "data": "2026-10-28T14:06:54.000Z",
+      "c": "Consoles",
+      "img": "https://centralxbox.com.br/wp-content/uploads/2026/03/Xbox-Helix.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWZZU0R3X0NJOFBmTFRIbTA3WHJ0WG1UWHlMd1R5S0FkZHRaTXFYUlpQdmFrbmZGNnlvZnlQOHpPNk1DZ2NDTlRDNUx3MGlQdC0tS0ZvbUFXVnVsR3MtbmJZT2NHLUg0Wi1rREZMaTYtcHh0YWxGeVdkbDN3bjhpRElCSEp5NmpxSURZV0luY1pJaFNodm5Wc0NjcnZPckhhc0x2Wm5JbDZ3SUl4SWxXbHh3?oc=5"
+    },
+    {
       "t": "Nintendo Indie World: veja todos os anúncios e trailers do evento",
-      "d": "Veja tudo o que vai rolar no novo Indie World Showcase",
+      "d": "Veja tudo o que rolou no novo Indie World Showcase",
       "link": "https://flowgames.gg/nintendo-indie-world-todos-anuncios-e-trailers-evento/",
       "fonte": "Flow Games",
       "data": "2026-10-28T14:04:52.000Z",
       "c": "Consoles",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/10/HVpHCeUWoAAreHH.jpeg"
+      "img": "https://www.youtube.com/embed/jm7Q54YWVrI"
     },
     {
-      "t": "Análise: The Witch's Bakery é uma cativante história de compaixão",
-      "d": "&nbsp;&nbsp; Nintendo Blast",
-      "link": "https://www.nintendoblast.com.br/2026/10/the-witchs-bakery-analise-review.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-10-28T14:00:49.000Z",
+      "t": "GTA 6: Quanto espaço o jogo vai ocupar no PS5 e Xbox? Veja o que se sabe",
+      "d": "&nbsp;&nbsp; Exame",
+      "link": "https://exame.com/pop/gta-6-quanto-espaco-o-jogo-vai-ocupar-no-ps5-e-xbox-veja-o-que-se-sabe/",
+      "fonte": "Exame",
+      "data": "2026-10-28T14:03:45.000Z",
       "c": "Consoles",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-ZZ7jaanhFt9AzEoqEGFO0FjmHn61e216lTyNsRsS7feESkP0Nl5rUBHHUK7S-zrW3FlSLJlsVjM-I6a0BMhoAAE6IyNEBiQyvA4stQwuk8_2myOn6OBEgHk9iYlT4PfSGHguFCRdjp2CPjBdcNdPc3f7aZWERjNgAlI-bmtBb0hRbuGzdvB05kaA0fC/w1200-h630-p-k-no-nu/the-witchs-bakery-capa.webp",
-      "orig": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcVBDelF2VUhBaFdLV2d6TTJmYzk0eXVwbkRGMmEwN1FQSDI4MzZfemdCRU5ZYS1lVW1NZ1lfaE44d1AzV0tUNXluay0tUGs2NG9VY2hyVnlWUE9GeURSNVlhRXRnNnU0b0xxMDE5THo4TnppN0tWdzZ4WHRYV090RFFKczU?oc=5"
-    },
-    {
-      "t": "Gerente de Comunidade: ele não está lá para postar meme",
-      "d": "&nbsp;&nbsp; Olhar Digital",
-      "link": "https://olhardigital.com.br/2026/10/28/games-e-consoles/gerente-de-comunidade-gamer-o-que-faz-e-como-comecar-na-carreira/",
-      "fonte": "Olhar Digital",
-      "data": "2026-10-28T14:00:00.000Z",
-      "c": "Geral",
-      "img": "https://img.odcdn.com.br/wp-content/uploads/2026/10/CM-France-Travail.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMDVHWXJfaXZPdHFzbE01dkNnVTlCN2E3bWxIVGpkZTJ6UUF2azg2NERiZUxLVUNxX3F1RmRLaGVlaC1SaDVHdFd4TU9lNmJWLUhickJnUHo2VGo2NTNlZUd3bG1ORVBSOWFfdFNOOEtBYmNWMU5ldlZWaHBWZWxPdkVzU1ZZaHgtZXQ2ekhwVHRfd1kwbUFLRXZKUXVGOERtbHI1RHBQQVNWOUV1UndybnRMc2dTZm5lcHlHMlV3?oc=5"
-    },
-    {
-      "t": "Rayman Legends Retold terá traje de Astro Bot no PlayStation 5",
-      "d": "&nbsp;&nbsp; Terra",
-      "link": "https://www.terra.com.br/gameon/plataformas-e-consoles/rayman-legends-retold-tera-traje-de-astro-bot-no-playstation-5,53b17fa27bb4a95a255896c81cbc4eaet45pc8pk.html",
-      "fonte": "Terra",
-      "data": "2026-10-28T13:47:00.000Z",
-      "c": "Consoles",
-      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/28/astro-bot-rayman-skjzkx4brm7p.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUUxka2UzNlItWHdMalgzQ3RlQUpSc1lIQ3kyMmZPNGlsOUU5U3E2aW9vVGw5VXp6MWxEaDJGODNOeGo4Y0xOSzJNOXFESnVNQVJJVUdlb3pTS24xVUotcTNuWk5oU3YzRnRkZ0pFcjZQM2hJVVgxdkozMnJzR0hlX0xjWnRSVEtkQzRoMk5qYTBaMWtpUnJXMU9QVzRmZjBSU3lCaElFYzZzVEx0M0hsZE1ZWlk0S0ItUE9NUWkwSHN5X3ZRX3FfUE54el9TWC1Gb0tDUnRwVjJDaWpucmtITHRsUHg1dFh2Y0ZLQjBiUjRjeTdqVnc?oc=5"
+      "img": "https://classic.exame.com/wp-content/uploads/2026/08/GTA6.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQblpRUTZDZ0pSWi1TQ2IyNjd0RFJET1drdmRHWnpVeWZHWnFLUmJsNjQxZk5uODRyQ0cxbjRSRGJMdFl1aXMxMDRyZ1h0NWhtUnh5RThITlVZUTlqTzdMbzhXX3hHTWZtWTR1WXBTQUxDRGNCUXRkRmZWdk9acGhuNlZqN2ZLT04zNzY5NlhKcmpMNWVabXpNRg?oc=5"
     },
     {
       "t": "Jogos feitos por inteligência artificial são \"pouco lucrativos\", diz Masahiro Sakurai",
@@ -57,26 +85,6 @@
       "data": "2026-10-28T13:40:26.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/gallery/p/photo-mode/photo-mode-in-shadow-of-the-colossus_qc1f.jpg"
-    },
-    {
-      "t": "Monster Train 2 anuncia DLC The Punished para Switch e versão para Switch 2",
-      "d": "&nbsp;&nbsp; Universo Nintendo",
-      "link": "https://universonintendo.com/monster-train-2-anuncia-dlc-the-punished-para-switch-e-versao-para-switch-2/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-10-28T13:38:14.000Z",
-      "c": "Consoles",
-      "img": "https://universonintendo.com/wp-content/uploads/2025/02/Monster-Train-2-KEYART.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVE9VNHp0QUwzaVJqZ01MUEtUUl9HNDMxYndpQmQ1TXZzalhfLThwZzZpRXNMZDVLVDg5OUdVcU1FUnk3aWdteEx5YXdmMU92X3FzLUVPLWE2WGk3SkNtdC11T2RCQm1wLUlwNlpYcHJyWTdKRUxnVGNEMXY0TTJKak9Uam9WcEhYNFpXWVRhNHZpM3RxazV2Y25fU0FQX0Y2VG1mUTREUlo?oc=5"
-    },
-    {
-      "t": "Smalland II: Lost Realms tem lançamento adiado para 2027",
-      "d": "&nbsp;&nbsp; Universo Nintendo",
-      "link": "https://universonintendo.com/smalland-ii-lost-realms-tem-lancamento-adiado-para-2027/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-10-28T13:38:14.000Z",
-      "c": "Consoles",
-      "img": "https://universonintendo.com/wp-content/uploads/2026/06/Smalland-2-Lost-Realms-KEYARt.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUElFd0RVbkU4TVlLTVJYSTVBQ3dTOGFZVmpRMHR0UmJkcnJ6Znh6cFJRVTJfd2QxejZXM3Fhd3l0UllvMV9fY1VrTDZYSkZuSkFtUlFBZkRNTEY0SlY1MUhEQ3FHcGtWLUF0MV9Tc2lCT3Fnd3pvTE5HVHZLczUzRG1iUGI3Q0J6c3ZYZHVn?oc=5"
     },
     {
       "t": "Jogos de Switch 2 começam a rodar em emuladores para PC, MacOS e iPhone",
@@ -271,15 +279,6 @@
       "data": "2026-10-27T16:23:19.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2025/08/Cyberpunk-2077-1.jpg"
-    },
-    {
-      "t": "Switch 2 Lite deve ter novo CPU mais forte e econômico",
-      "d": "Segundo um rumor, o Switch 2 Lite pode usar um novo chip da Samsung com maior economia de energia",
-      "link": "https://flowgames.gg/switch-2-lite-deve-ter-novo-cpu-mais-forte-economico/",
-      "fonte": "Flow Games",
-      "data": "2026-10-27T15:55:54.000Z",
-      "c": "Consoles",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/04/l-kv-pic-1044x535.jpg"
     }
   ],
   "videos": [
@@ -455,7 +454,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4264,
+      "views": 4265,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -2466,19 +2465,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xhr.jpg",
       "hype": 38,
       "link": "https://www.igdb.com/games/infinitesimals"
-    },
-    {
-      "t": "Witchbrook",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocce4.jpg",
-      "hype": 71,
-      "link": "https://www.igdb.com/games/witchbrook"
     },
     {
       "t": "The Way of Wrath",
@@ -4726,6 +4712,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajga.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/moonbrella"
+    },
+    {
+      "t": "Ghost Sector",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jkb.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/ghost-sector"
     }
   ],
   "musicas": []
