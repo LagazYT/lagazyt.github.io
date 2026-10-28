@@ -1,55 +1,91 @@
 {
-  "atualizadoEm": "2026-10-28T21:09:45.995Z",
+  "atualizadoEm": "2026-10-28T21:40:02.817Z",
   "noticias": [
     {
-      "t": "PlayStation Plus: Sony revela quais jogos chegam em novembro",
-      "d": "&nbsp;&nbsp; O TEMPO",
-      "link": "https://www.otempo.com.br/tecnologia-e-games/2026/10/28/playstation-plus-sony-revela-quais-jogos-chegam-em-novembro",
-      "fonte": "O TEMPO",
-      "data": "2026-10-28T20:58:52.000Z",
+      "t": "Pocketpair adoraria lançar Palworld no Nintendo Switch 2, apesar da disputa judicial envolvendo Pokémon",
+      "d": "&nbsp;&nbsp; IGN Brasil",
+      "link": "https://br.ign.com/palworld/157138/pocketpair-adoraria-lancar-palworld-no-nintendo-switch-2-apesar-da-disputa-judicial-envolvendo-pokem",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-28T21:24:49.000Z",
       "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXdCZXI2UkN2UEFEbUdMcjFYQVBrQjJpN0lUWlcyTldfOGhOZTZfblJNdUtxLU9mcGxtZ2d4VjItTktmWjNmRXpwWlBQLTlWaXRoUVFZVEN2b3Zkelhua0Vza3hKT2tpZnIwVHJ4Sks2bVlYYUJlUFJiVXZGM3lhY3NmVTNlMFJ5SFhuclBDT3o0a0NVbm5aS0pMTU4zYTNhS3RRWVF2M1BXQ3pCTmFPdEo2dDd4Zw?oc=5"
+      "img": "https://sm.ign.com/t/ign_br/news/p/pocketpair/pocketpair-would-love-to-release-palworld-on-nintendo-switch_r9g4.1200.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOUZncVpfcC1FUE9Obl9rSHNXRWprbmJMSnZoZUxmTjdscVY1T0paTU5DMElDa3Y1WEhoRHUxY1JQc0p1SEVLbGJmWEo4Rk92VS1ESTBhdmRyWERSS0lzSWRFamp2Z09wSGJESG4xTC1qUzIzanBUUEhqTHotaWhjZWk0ZkpxZVluSkR3S0l4T1Bwc2xIZlMtLXlwZlRQejl1ZXExUm9LY2FxSl9GZmdpRGo3Zm1CeHdNOEVyR2Z4Vi1QU1Q1bzYwVEw3ZnhYMHVt?oc=5"
     },
     {
-      "t": "The Lord of the Rings Online: The Wolves of Mordor é lançado para PC",
-      "d": "&nbsp;&nbsp; Pizza Fria",
-      "link": "https://pizzafria.ig.com.br/plataformas/playstation/lotro-the-wolves-of-mordor-lancamento/",
-      "fonte": "Pizza Fria",
-      "data": "2026-10-28T20:53:35.000Z",
+      "t": "Valve está “pensando em como resolver” o problema de lixo de IA do Steam, mas não vai restringir acesso dos desenvolvedores",
+      "d": "“Estamos plenamente cientes da situação\" A equipe de negócios do Steam, da Valve, subiu ao palco no evento Steam Indie Connect, na Coreia, e respondeu a perguntas de um público composto por...",
+      "link": "https://br.ign.com/steam-deck/157141/valve-esta-pensando-em-como-resolver-o-problema-de-lixo-de-ia-do-steam-mas-nao-vai-restringir-acesso",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-28T21:22:30.000Z",
       "c": "PC",
-      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/The-Lord-of-the-Rings-Online-The-Wolves-of-Mordor.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMG4wVGpJRXdRdG45Mk5kOFQ4NWs0ZVlOVkF2b29jaTViSzZyclRDb1V1MmVqY01ZMDA1Szl4OGNEeXYtQUpLeE40bkZxOVcwaEthM0w0ZnJFQXZJTHJTQWc0UVVwb1pRQVFjUWNGVzV4aWVxYmNsMS1ISmJpOHAzckNrQVhNYXJsVG56b2N2TFVReGdI?oc=5"
+      "img": "https://sm.ign.com/ign_br/news/v/valve-thin/valve-thinking-about-how-to-solve-steams-ai-slop-problem-but_565a.jpg"
     },
     {
-      "t": "Reality Gamer Fest terá games e atrações tecnológicas no Recanto das Emas",
-      "d": "&nbsp;&nbsp; Jornal de Brasília",
-      "link": "https://jornaldebrasilia.com.br/brasilia/reality-gamer-fest-tera-games-e-atracoes-tecnologicas-no-recanto-das-emas/",
-      "fonte": "Jornal de Brasília",
-      "data": "2026-10-28T20:52:52.000Z",
-      "c": "Geral",
-      "img": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2026/10/28175242/28.10.-Foto-Divulgacao-Secti-DF-2-Reality-Gamer-Fest.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLThNS3gwUzdua3BHNXV2MkJLT24wTFkxRG1QV2NwcnpkNEVLZEZYVndGRFVnTHhfeWpxdWxrem5nX0JKVnRjY29TZkFQMkF6Q2ctbGRScVpTODVKdFAxS3Y0TW1uY04zREhrcWRBZDB1eGRhMUVac21vTU5UNnV0WlhhZVB1a0sxZmlnd0oxMWZUTC0xaUhoYXp5MUVZUVVIVFZrNHNqcGZiQ2V0VkRDbTlublFiQQ?oc=5"
-    },
-    {
-      "t": "Rhythm Doctor ganhará versões para Nintendo Switch 2 e Switch em dezembro",
-      "d": "&nbsp;&nbsp; Universo Nintendo",
-      "link": "https://universonintendo.com/rhythm-doctor-ganhara-versoes-para-nintendo-switch-2-e-switch-em-dezembro/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-10-28T20:46:34.000Z",
+      "t": "Crise? Primeira COO do XBOX teria sido desligada por violação de políticas",
+      "d": "&nbsp;&nbsp; Canaltech",
+      "link": "https://canaltech.com.br/games/crise-primeira-coo-do-xbox-teria-sido-desligada-por-violacao-de-politicas/",
+      "fonte": "Canaltech",
+      "data": "2026-10-28T21:18:00.000Z",
       "c": "Consoles",
-      "img": "https://universonintendo.com/wp-content/uploads/2026/10/Rhythm-Doctor-KEYART.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGxqMjJBRDNLbVlBOVNEcjR4ZlFlSHpJcnRVY1VsTkxnVTQzMTdDSEtjOTR2T0ZKZURweGtIbkhxbXgwV08zS1ZDTUNjbHowQzBHckx2cU1vN3JKUm5aR2FEejhfZkNOUTVXTzBuS0l0c09kQjh4ZHJ5RHhQVjR0TkNPT2NaR2ZYamQ5ekNOc2VVempMR2tFaVd0aVZSMTFBUVVNUnlB?oc=5"
+      "img": "https://tl.ctcdn.com.br/s4hNzcD71w7bVDirQL7TytAO0WU=/1200x675/smart/filters:format(webp):quality(85)/820262c3-4048-4546-a83d-2e4f2f3a528a.png",
+      "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdExHdFZRYUN1ZkRPU1JTR0lRT3Q5d2FXUzhQTEF4aGMzZ3FVUTA3d1U1Z21PbC1DYXBXbDQ5M0RsQVE2MF9oc2lhNG94MFpHZUs0MFNCMmxxWG5meWJtX01Qd2c4NnFURDVBUFExUHVHbGJOSmJmbzQ3NzNhRmVoOVhBUjd4RjhNekN6REQtcVFObW5DNkNHWWxqUkdsWC1FenRLeGp2Sk0?oc=5"
     },
     {
-      "t": "Riot Games divulga programação de loja pop-up imersiva na Liberdade",
-      "d": "&nbsp;&nbsp; Rolling Stone Brasil",
-      "link": "https://rollingstone.com.br/rs-gaming/riot-games-divulga-programacao-de-loja-pop-up-imersiva-na-liberdade/",
-      "fonte": "Rolling Stone Brasil",
-      "data": "2026-10-28T20:44:04.000Z",
+      "t": "Phantom Blade Zero já parece ser um sucesso antes mesmo de ser lançado, com uma estimativa de 1 milhão de cópias vendidas antes do lançamento",
+      "d": "É o maioral Phantom Blade Zero está a caminho de se tornar um grande sucesso, com estimativas indicando que o jogo de ação já vendeu mais de 1 milhão de cópias antes mesmo do lançamento. Em uma...",
+      "link": "https://br.ign.com/phantom-blade-zero/157136/phantom-blade-zero-ja-parece-ser-um-sucesso-antes-mesmo-de-ser-lancado-com-uma-estimativa-de-1-milha",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-28T21:17:16.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/news/p/phantom-bl/phantom-blade-zero-looks-like-a-hit-before-its-even-come-out_3qdr.jpg"
+    },
+    {
+      "t": "Phantom Blade Zero - Donnie Yen Behind the Scenes Photos",
+      "d": "",
+      "link": "https://br.ign.com/phantom-blade-zero/157137/phantom-blade-zero-donnie-yen-behind-the-scenes-photos",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-28T21:17:16.000Z",
       "c": "Geral",
-      "img": "https://rollingstone.com.br/wp-content/uploads/2026/10/riot-games-ativacao-loja-pop-up-Foto_-Divulgacao_Riot-Games-800x450.png",
-      "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmNydDVYb3pRWnJSNTFXdnplcXFITlRES0JjakNFOWx0NkFySWVlOGVvenFtTjg3RVVIbEh0a21yMkZOb2ozb1hWcGlTQVAzeUFFZkNxaWRmN0pDU0FaZ2dCM05MSUVVUVZva1NUdHRjVXlFb0MxXzlaUWNvdG8zOWpXOElmSDhmdWpvTHlWcjE1Y1p1RFZDbjUyb0tYWXUzcVFvblVSYjZRZw?oc=5"
+      "img": "https://sm.ign.com/ign_br/gallery/p/phantom-bl/phantom-blade-zero-donnie-yen-behind-the-scenes-photos_44xs.jpg"
+    },
+    {
+      "t": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (28)",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-28/",
+      "fonte": "TecMundo",
+      "data": "2026-10-28T21:15:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/W4C364IICZC7RPTRQVA3Y3DQ3E.jpg?quality=80&auth=adebd433e6a2c62bf2b56979ae3f6f6177091c48943b98d457e8a1fe406a8223&width=710"
+    },
+    {
+      "t": "Entre plataformas, inteligência artificial e direitos autorais: Highlights aborda os desafios jurídicos dos games",
+      "d": "&nbsp;&nbsp; OAB/RS",
+      "link": "https://www2.oabrs.org.br/noticia/entre-plataformas-inteligencia-artificial-e-direitos-autorais-highlights-aborda-os-desafios-juridicos-dos-games/66890",
+      "fonte": "OAB/RS",
+      "data": "2026-10-28T21:09:00.000Z",
+      "c": "Geral",
+      "img": "https://admsite.oabrs.org.br/images/202610281810450.png",
+      "orig": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb3h0U3AzRGl2T08xLVJqa3M2MWdnQTdyTVpzcmxtSWNobGtodWo0SnVITDktWDBuNXRfWXU3bUQ4ODQzMjhyWGo4SjdySDE2WmlVTjBmVFpQSkNhcnMxU0w4RWpYb2FtVXdTaEJBTHRxMTBSd09adGlZOUdabVhabXVadDJMNUFJanpLYlhQd1p6WkRQUzdFbjhscE5KOElZdk1ZSC05QUJiYkhsZHlONVdfR0xEWWY2aTJreU84VWpVdEsyaTRmMkVPdjRNYzdFLUIzTkZzWGFZNmVqZ1ZwQkdweGlKQQ?oc=5"
+    },
+    {
+      "t": "PlayStation 5 ganhará Prism Collection com acessórios transparentes; veja cores e preços",
+      "d": "&nbsp;&nbsp; Times Brasil | CNBC",
+      "link": "https://timesbrasil.com.br/empresas-e-negocios/playstation-5-ganhara-prism-collection-com-acessorios-transparentes-veja-cores-e-precos/",
+      "fonte": "Times Brasil | CNBC",
+      "data": "2026-10-28T21:08:00.000Z",
+      "c": "Consoles",
+      "img": "https://storage.googleapis.com/bucket.timesbrasil.com.br/sites/2026/10/7539f2c0-imagem_2026-10-28_150652882.webp",
+      "orig": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTTNvQmpiQkhSRHhGWUkwZGZ6QnBXLUd4b1dMWVNCWWU0eGpHSDkxTmtNb3NzM3BUaGRpWXloVHVOTzNoQWdpeDlWY0hWNHRkdVYyVkt5ekpyZFBMbWpWR3NDUzB2T2xPZDAtLVRmZ1dqRHZ1N3NnSDhpYTZLNExwT3BXV1IwNWFsMFFUZThQb3J3SEM5aU9CSkRDQm90WUsybFdmYnlwT0FPdEtQN1BkTWNaR1dvNW5JZWJqZDhMckVqSmVCZVN0VzhreXFzY3JD?oc=5"
+    },
+    {
+      "t": "Análise – Just Dance: Decades of Hits",
+      "d": "&nbsp;&nbsp; Universo Nintendo",
+      "link": "https://universonintendo.com/analise-just-dance-decades-of-hits/",
+      "fonte": "Universo Nintendo",
+      "data": "2026-10-28T21:01:35.000Z",
+      "c": "Consoles",
+      "img": "https://universonintendo.com/wp-content/uploads/2026/10/Just-Dance-Decades-of-Hits-REVIEW.png",
+      "orig": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GUkVYLVY2dVBJczFDaFpEYUxVd0lPeDZ2a1ZFOFpLd3Q0REJXeE9sZFpxOUhDbHRxaG5zc0Njbl9JSG9Qd3o4RkdxbXM3N2lrNG1vSWFybEJDMVdwZkdiSDd2M0l2R291cGVqX1ZzZmRNQQ?oc=5"
     },
     {
       "t": "PlayStation anuncia coleção Prism com controles DualSense transparentes para PS5",
@@ -79,15 +115,6 @@
       "img": "https://www.youtube.com/embed/skbq6geP8UI"
     },
     {
-      "t": "No Man's Sky Forsaken Screenshots",
-      "d": "",
-      "link": "https://br.ign.com/no-mans-sky/157133/no-mans-sky-forsaken-screenshots",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-28T20:07:44.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/gallery/n/no-mans-sk/no-mans-sky-forsaken-screenshots_21bn.jpg"
-    },
-    {
       "t": "No Man’s Sky recebe a nova atualização \"Forsaken\", com temática de terror, apenas um mês após \"Cosmos\"",
       "d": "Pelo amor de Deus",
       "link": "https://br.ign.com/no-mans-sky/157132/no-mans-sky-recebe-a-nova-atualizacao-forsaken-com-tematica-de-terror-apenas-um-mes-apos-cosmos",
@@ -95,6 +122,15 @@
       "data": "2026-10-28T20:07:44.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/news/n/no-mans-sk/no-mans-sky-gets-fresh-horror-themed-forsaken-update-just-a_4fcz.jpg"
+    },
+    {
+      "t": "No Man's Sky Forsaken Screenshots",
+      "d": "",
+      "link": "https://br.ign.com/no-mans-sky/157133/no-mans-sky-forsaken-screenshots",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-28T20:07:44.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/gallery/n/no-mans-sk/no-mans-sky-forsaken-screenshots_21bn.jpg"
     },
     {
       "t": "Capcom vai concluir história de Resident Evil em 10 anos, mas promete muitos jogos novos",
@@ -106,15 +142,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/BLWE4SKFZNJHVOKSAMP7MA4NFE.jpg?quality=80&auth=4b95ba5cfbd3a55e1eee6646ab6b4a080d454f615fc772eb8eac2529482be1b9&width=710"
     },
     {
-      "t": "Equipe de Alien: Isolation 2 confirma edição física, modo foto e novos detalhes de jogabilidade",
-      "d": "Tire uma selfie com o Xenomorfo",
-      "link": "https://br.ign.com/alien-isolation-sequel/157130/equipe-de-alien-isolation-2-confirma-edicao-fisica-modo-foto-e-novos-detalhes-de-jogabilidade",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-28T19:42:15.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/a/alien-isol/alien-isolation-2-team-confirms-physical-edition-photo-mode_gwvh.jpg"
-    },
-    {
       "t": "Alien: Isolation 2 Prologue Screenshots",
       "d": "",
       "link": "https://br.ign.com/alien-isolation-sequel/157131/alien-isolation-2-prologue-screenshots",
@@ -122,6 +149,15 @@
       "data": "2026-10-28T19:42:15.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/gallery/a/alien-isol/alien-isolation-2-prologue-screenshots_8g4j.jpg"
+    },
+    {
+      "t": "Equipe de Alien: Isolation 2 confirma edição física, modo foto e novos detalhes de jogabilidade",
+      "d": "Tire uma selfie com o Xenomorfo",
+      "link": "https://br.ign.com/alien-isolation-sequel/157130/equipe-de-alien-isolation-2-confirma-edicao-fisica-modo-foto-e-novos-detalhes-de-jogabilidade",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-28T19:42:15.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/a/alien-isol/alien-isolation-2-team-confirms-physical-edition-photo-mode_gwvh.jpg"
     },
     {
       "t": "Gamers Brawl é a nova plataforma que premia o jogador financeiramente de acordo com o desempenho em partidas online",
@@ -151,24 +187,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/SPWW5QAITVF4RFZ5IRWQOFOBW4.jpg?quality=80&auth=053398b84a2fc94ad6b38fe158e5d8b437a29d337868c4472dee9749ab46ac1d&width=710"
     },
     {
-      "t": "Membros Prime da Amazon ganham superdesconto no GTA 6 para PS5",
-      "d": "Pré-venda sai por R$ 350 com cupons exclusivos",
-      "link": "https://br.ign.com/descontos/157129/membros-prime-da-amazon-ganham-superdesconto-no-gta-6-para-ps5",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-28T18:13:59.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/news/g/gta-6-caus/gta-6-causes-17-spike-in-time-off-requests-on-games-release_xcwx.jpg"
-    },
-    {
-      "t": "Jogos do PS Plus de novembro de 2026 incluem remasters de franquia icônica e clássica dos games e mais",
-      "d": "Zumbis e tumbas",
-      "link": "https://br.ign.com/dead-island-2-next-gen/157127/jogos-do-ps-plus-de-novembro-de-2026-incluem-remasters-de-franquia-iconica-e-classica-dos-games-e-ma",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-28T17:29:36.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/tomb-raider-ivvi-remastered-k6ckh_7qyr.png"
-    },
-    {
       "t": "Jogos do PS Plus Essential de novembro são revelados pela Sony! Confira a lista completa",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/jogos-do-ps-plus-essential-de-novembro-sao-revelados-pela-sony-confira-a-lista-completa/",
@@ -176,15 +194,6 @@
       "data": "2026-10-28T17:21:00.000Z",
       "c": "Lançamentos",
       "img": "https://www.estadao.com.br/resizer/v2/2Z6QILIZMFHEVEMZE72VNRWTLQ.jpg?quality=80&auth=55e34394a0fe6ff514e81f9cf79116c84a590cc3984b5365bdaf2fa47d3a3363&width=710"
-    },
-    {
-      "t": "PlayStation anuncia nova coleção do DualSense e tampas do PS5 com design nostálgico",
-      "d": "A volta dos controles transparentes",
-      "link": "https://br.ign.com/ps5/157125/playstation-anuncia-nova-colecao-do-dualsense-e-tampas-do-ps5-com-design-nostalgico",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-28T16:49:42.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/unnamed-3_7ncv.jpg"
     },
     {
       "t": "Dead Island 2 e mais dois jogos chegam ao PS Plus em novembro",
@@ -221,15 +230,6 @@
       "data": "2026-10-28T16:08:28.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/08/GTAVI_12.jpg"
-    },
-    {
-      "t": "World of Warcraft: Midnight Cinematic Images and First Screenshots",
-      "d": "",
-      "link": "https://br.ign.com/world-of-warcraft-midnight/157120/world-of-warcraft-midnight-cinematic-images-and-first-screenshots",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-28T16:05:24.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/gallery/w/world-of-w/world-of-warcraft-midnight-cinematic-images-and-first-screen_vc31.jpg"
     },
     {
       "t": "GameSir anuncia novas versões do G7 Pro inspiradas em GTA 6",
@@ -474,7 +474,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3083,
+      "views": 3084,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
