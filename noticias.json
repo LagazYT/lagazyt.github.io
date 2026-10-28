@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T07:49:29.188Z",
+  "atualizadoEm": "2026-10-28T08:19:39.423Z",
   "noticias": [
     {
       "t": "The Outlast Trials no Nintendo Switch 2: Preço e Detalhes",
@@ -1303,6 +1303,16 @@
       "link": "https://www.igdb.com/games/afterpub"
     },
     {
+      "t": "Wretched",
+      "data": "2026-11-05",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod8pn.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/wretched"
+    },
+    {
       "t": "Tiny Knight and the Corrupted Crystal",
       "data": "2026-11-06",
       "plats": [
@@ -1808,6 +1818,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocyyd.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/night-train-simulator-blackout"
+    },
+    {
+      "t": "Pluck Em!",
+      "data": "2026-11-17",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod51r.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/pluck-em"
     },
     {
       "t": "Disney Dreamlight Valley: The Keepsake Sea",
@@ -4705,26 +4725,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajga.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/moonbrella"
-    },
-    {
-      "t": "Ghost Sector",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jkb.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/ghost-sector"
-    },
-    {
-      "t": "Wanted 3D: Dead or Alive",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jl8.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/wanted-3d-dead-or-alive"
     }
   ],
   "musicas": []
