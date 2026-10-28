@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-28T01:46:53.081Z",
+  "atualizadoEm": "2026-10-28T02:16:59.064Z",
   "noticias": [
     {
       "t": "Estreia fria de Modern Warfare 4 acende alerta na Microsoft: 32% menos jogadores no Xbox que Black Ops 7",
@@ -294,7 +294,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8123,
+      "views": 8122,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -398,7 +398,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3513,
+      "views": 3512,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -446,7 +446,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20179,
+      "views": 20177,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -2057,7 +2057,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod32s.jpg",
-      "hype": 2,
+      "hype": 3,
       "link": "https://www.igdb.com/games/night-machine"
     },
     {
@@ -2227,6 +2227,18 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocwb3.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/kings-haven"
+    },
+    {
+      "t": "A Game About Digging A Hole Together",
+      "data": "2026-12-04",
+      "plats": [
+        "Xbox",
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0sp.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/a-game-about-digging-a-hole-together"
     },
     {
       "t": "Mik",
@@ -4311,7 +4323,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zxt.jpg",
-      "hype": 4,
+      "hype": 5,
       "link": "https://www.igdb.com/games/nonolith"
     },
     {
@@ -4713,18 +4725,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9k1f.jpg",
       "hype": 4,
       "link": "https://www.igdb.com/games/raev-kingdom-on-the-distant-shores"
-    },
-    {
-      "t": "Dark Mass",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9k1k.jpg",
-      "hype": 24,
-      "link": "https://www.igdb.com/games/dark-mass"
     }
   ],
   "musicas": []
