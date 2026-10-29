@@ -1,6 +1,54 @@
 {
-  "atualizadoEm": "2026-10-29T15:19:13.592Z",
+  "atualizadoEm": "2026-10-29T15:49:21.364Z",
   "noticias": [
+    {
+      "t": "Hello Kitty Party Land chega ao Nintendo Switch com mais de 145 personagens",
+      "d": "&nbsp;&nbsp; Alternativa Nerd",
+      "link": "https://alternativanerd.com.br/games/hello-kitty-party-land-chega-ao-nintendo-switch-com-mais-de-145-personagens/",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-10-29T15:42:50.000Z",
+      "c": "Consoles",
+      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/06/AN_HELLO-KITTY-PARTY-LAND.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzctaXZrNFA5ZTBTcUgwY3FnQWM2aXl4ZW9rQ1NjMkN5RVNEMDNNUnpweW5iaFBVRkt5eTJESmtNMFRyT0l1OEtBR2pfbkhLOHFaQmwwajNadGQzbmsxUjlYV2M1VGFWd3pyUE1WN0dneTVKcm50UEpkclI2Q3ZYYVRqSjZnQU11Umx6Nkp6TmRTaEtCMERyTGJxMGZ6UHNFNWJ4Z2J1T1NtN2k3c0VLMzdFTQ?oc=5"
+    },
+    {
+      "t": "Elden Ring para PS5 fica abaixo dos R$ 200 em oferta relâmpago na Amazon",
+      "d": "O grande sucesso da FromSoftware está em oferta relâmpago na Amazon e pode ser comprado por menos de R$ 200 para PS5",
+      "link": "https://br.ign.com/descontos/157158/elden-ring-para-ps5-fica-abaixo-dos-r-200-em-oferta-relampago-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-29T15:33:21.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_vtze.jpg"
+    },
+    {
+      "t": "Epic Games Store Mobile libera jogo grátis inspirado em Mario Kart no Android e iOS",
+      "d": "&nbsp;&nbsp; TudoCelular.com",
+      "link": "https://www.tudocelular.com/jogos/noticias/n266091/epic-games-store-mobile-jogo-gratis-29102026.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-10-29T15:24:34.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkVSTlkxWXJSbXRncDlremQ0UWtHc3M2Y1BFZlpTdExmZzc3QXBBM1phdW5rUTBnbEcyMjZ4UVlYclh4OVJTcXFaWEhKWUFINUtlNzRPVGE5SDZrQ3dJUmh3Wk9OQWhNdzM1SDF6RURhTmRYRnZUOUdnTm1idnlWeFBmRmI5a0tQTzZ6bkVoX2NyUFoxdG8yb1ZpRnAyeDA0R1E?oc=5"
+    },
+    {
+      "t": "Desenvolvedora de Life Is Strange, Don't Nod, é duramente criticada por funcionários sindicalizados devido a práticas de gestão \"ilegais\", em meio a possíveis demissões",
+      "d": "Don&#x27;t Nod vive momentos complicados",
+      "link": "https://br.ign.com/life-is-strange/157154/desenvolvedora-de-life-is-strange-dont-nod-e-duramente-criticada-por-funcionarios-sindicalizados-dev",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-29T15:22:37.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/l/life-is-st/life-is-strange-developer-dont-nod-blasted-by-union-employee_yjax.jpg"
+    },
+    {
+      "t": "TRÊS NOVOS JOGGOS chegaram no Xbox Game Pass! – 29 de outubro",
+      "d": "&nbsp;&nbsp; Central Xbox",
+      "link": "https://centralxbox.com.br/2026/10/29/tres-novos-joggos-chegaram-no-xbox-game-pass-29-de-outubro/",
+      "fonte": "Central Xbox",
+      "data": "2026-10-29T15:19:39.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTFNnNVF2U194U08zWkM5eFlBQ1RyRDhkNk45SFhrdjZzcmhKWDIwTkRaRExlLUpMZ1Y4b1BObUU5LWVrMGVzLWNfT1ZqVENiOVV0ekY3M2oxYjBMSmhJRjFmQmNMWnhCLUt1N2RNSG9aMjUzUWFMcGpnMTYtZGpGdElyWnEwZnBsM3ZEUGFtWnZVZjlIakZLUjNQVXhQZw?oc=5"
+    },
     {
       "t": "The Wolf Among Us Remastered ganha trailer de lançamento",
       "d": "&nbsp;&nbsp; Cromossomo Nerd",
@@ -12,62 +60,14 @@
       "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjhxVGdPejVlWS1oTEg4czYzbW4wVjluSnI0bWRibUdVdjlnWjg5ODhsTmVSaHg4OC15QnZ1SzQ2dE1QVTFFS2pGSXE0TEw4SlNGc3hPNllGalVhX1QtYUdGNE50eXdfVGh0aGpIMlVsOTFEWkhiRW1DTTZXN0VSZ0Zfd2tJaE40NUgxakRxaGFpRnVIRXQyQg?oc=5"
     },
     {
-      "t": "Qual é o próximo jogo grátis da Epic Games Store? Saiba aqui!",
-      "d": "O Flow Games conta para você qual será a próxima jogatina gratuita da loja da Epic Games",
-      "link": "https://flowgames.gg/saiba-proximo-jogo-gratis-epic-games-store/",
-      "fonte": "Flow Games",
-      "data": "2026-10-29T15:05:51.000Z",
-      "c": "Ofertas",
-      "img": "https://www.youtube.com/embed/EDWeb7r26ao"
-    },
-    {
-      "t": "Chefona do XBOX se desculpa e tenta explicar falta de consoles nas lojas",
-      "d": "&nbsp;&nbsp; Canaltech",
-      "link": "https://canaltech.com.br/games/chefona-do-xbox-se-desculpa-e-tenta-explicar-falta-de-consoles-nas-lojas/",
-      "fonte": "Canaltech",
-      "data": "2026-10-29T15:03:13.000Z",
-      "c": "Consoles",
-      "img": "https://tl.ctcdn.com.br/5hnsqw4By9K-T2xm4quKy0Sue6o=/1200x675/smart/filters:format(webp):quality(85)/2020b511-9e0d-4158-a9f3-59b3cc20e39b.png",
-      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1lGMUFpVldJWnhUVUdpN0w0aFJUQldtSEZ4Ml93Sm1jWHNQV3I0ZWhQZXpIV3ZMWGdRVURRSnRCNmtENmZxYXZhdy1fc0dTNVhqdUY3d1FuckR0TWlnR3d5ZFVnLTN3OTFMNm1aRmdFc0FEUEd4YmZFa2dVNlh2dnhsTW1sZzZjbmNwX2Z6ZEtkdDhDR3laQTNPX3lCUTZHaFJXSk9Gcw?oc=5"
-    },
-    {
-      "t": "Dias para Jogar de Graça: Wuchang: Fallen Feathers, Dead by Daylight, Spirittea e mais",
-      "d": "&nbsp;&nbsp; XBOX Wire",
-      "link": "https://news.xbox.com/pt-br/2026/10/29/dias-para-jogar-de-graca-wuchang-fallen-feathers-dead-by-daylight-spirittea-e-mais/",
-      "fonte": "XBOX Wire",
-      "data": "2026-10-29T15:01:14.000Z",
-      "c": "Ofertas",
-      "img": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/10/FY26-Social-FPD_29.10.26_1920x1080-4159f392d01e2c1f89c5.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTS1MSVo1YktRVW5JYThlbUpzWFBQakZhV0VGVFh2dFRfbl80S05BZkMteUw1OE5FTjRqaGthMWZpMjhjUlpjUEpfQjZNZmJ4QjB4V2luZldfbko1ajRseGhwLUE1QVlXUTRQck5JN1BDbWc3SkFWTFRMc2FLbWh0Q3YwTzlmOWVCcFdHUVpPanM4QmlmMWRqMXZ2NkZleEpLaFlsank5U2FfWHQxRFE2WTZuZUg3eV8xSTJGY05Oaw?oc=5"
-    },
-    {
-      "t": "PlayStation anuncia a Prism Collection para o PS5",
-      "d": "&nbsp;&nbsp; Cromossomo Nerd",
-      "link": "https://cromossomonerd.com.br/games/playstation-revela-a-colecao-prism-para-o-ps5/",
-      "fonte": "Cromossomo Nerd",
-      "data": "2026-10-29T15:00:58.000Z",
-      "c": "Consoles",
-      "img": "https://cromossomonerd.com.br/wp-content/uploads/2026/10/ac29d4c169796a5dc11764931e634aaec32016d8.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORHZ1aVdMNDVjUzN1QUFrTk1jSFhFY2FubVlHM0ZOdFRfQ2hZM2pkWVRRdkswakFqdTRxWWFYZnJLZnRaZFN0cVNXMU5NNnFYNENvTGRXejdCNXR3SEdKRkxPVDVZbHVjRVJvSjJPSVdYWVdFNG9JX3ZCbGFvb2NUMUNFdVNLQnY4TFE?oc=5"
-    },
-    {
-      "t": "Epic Games libera jogão grátis de terror de sobrevivência",
-      "d": "Epic Games Store dá jogo grátis já em clima de dia das bruxas",
-      "link": "https://flowgames.gg/epic-games-store-jogo-gratis-terror-pc-29-10-2026/",
-      "fonte": "Flow Games",
-      "data": "2026-10-29T15:00:38.000Z",
-      "c": "Ofertas",
-      "img": "https://www.youtube.com/embed/kIQeitJFuzU"
-    },
-    {
-      "t": "Epic Games Store libera jogo grátis com visual cyberpunk por tempo limitado",
-      "d": "&nbsp;&nbsp; TudoCelular.com",
-      "link": "https://www.tudocelular.com/jogos/noticias/n266088/epic-games-store-jogo-gratis-29102026.html",
-      "fonte": "TudoCelular.com",
-      "data": "2026-10-29T15:00:26.000Z",
-      "c": "Ofertas",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNam5fcjUzeU1BdElHd3lhR3QzZEs4TXRBSzlaYUhQQU0wOW1NQWVzN0Q3NEZ2c0pvbUtUc09QUmozdUVONW9kenloZnY4TzdpbjI1OVJnQVFCaXp3NEZQMjBUaXhZcHV0bkNjZmkwZjYtV1l0MEkyUzZuVWFQNkk5LTBqSmlhUHZtQnBpMFBKaDFDdWtHaFlBaQ?oc=5"
+      "t": "Equipe da Rockstar Games se prepara para votação sindical \"histórica\" ​​coincidindo com o lançamento de GTA 6",
+      "d": "&nbsp;&nbsp; IGN Brasil",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157153/equipe-da-rockstar-games-se-prepara-para-votacao-sindical-historica-coincidindo-com-o-lancamento-de",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-29T15:15:51.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/t/ign_br/news/r/rockstar-g/rockstar-games-staff-set-for-historic-union-vote-at-the-same_b4mw.1200.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZm5lVDQ1WThyN2NCRFM1eHU2eHBzajFWdXhzTnlmeGoyR1IydVlfeTdjVEZJNDZQWkU4WmhsRGRORnpDQ3lPbEpxZWNBMDBBLVBDcUJGV2U4SW9QcDFoSXNrSlNRNGptU3FlQ0Z0NHhBaWllMk56N0MydmtTR2lLbHVWZkpENWtzaFdTbGRVTUluVGRNMHBSQlhSbDRkMVlsT1RXREw1SXlhN3pja19jNUwwaThiUUdMNnBxWXBIajIxTEU1SzBITzFwNjZSTVhES3lrMnowUHJSUUYwZkE?oc=5"
     },
     {
       "t": "Novo jogo para PC de graça hoje - resgate agora!",
@@ -98,15 +98,6 @@
       "img": "https://sm.ign.com/ign_br/news/g/gta-6s-map/gta-6s-map-will-open-up-relatively-early-and-let-you-explore_2mad.jpg"
     },
     {
-      "t": "Cronos The New Dawn: DLC Lazarus ganha data e novo trailer",
-      "d": "DLC promete jogabilidade mais intensa e agressiva da que foi apresentada em Cronos The New Dawn",
-      "link": "https://flowgames.gg/cronos-lazarus-ganha-data-para-dezembro-trailer/",
-      "fonte": "Flow Games",
-      "data": "2026-10-29T14:40:36.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.youtube.com/embed/z-AV1E9KRpM"
-    },
-    {
       "t": "Exclusivo do Nintendo Switch 2, The Duskbloods é adiado para 2027",
       "d": "FromSoftware afirma que adiamento é devido ao feedback em teste recente A FromSoftware anunciou o adiamento de The Duskbloods para 2027. O título, exclusivo do Nintendo Switch 2, tinha lançamento...",
       "link": "https://br.ign.com/the-duskbloods/157150/exclusivo-do-nintendo-switch-2-the-duskbloods-e-adiado-para-2027",
@@ -125,31 +116,14 @@
       "img": "https://sm.ign.com/ign_br/news/t/the-gta-6-/the-gta-6-original-score-has-a-release-date-and-a-brand-new_dzzr.jpg"
     },
     {
-      "t": "Steam: os 10 jogos mais vendidos da semana",
-      "d": "Nesta semana, a lista de jogos mais vendidos pela Steam mudou bastante tanto no Brasil quanto no resto do mundo. Confira!",
-      "link": "https://flowgames.gg/steam-os-10-jogos-mais-vendidos-da-semana/",
-      "fonte": "Flow Games",
-      "data": "2026-10-29T13:58:35.000Z",
+      "t": "Para o chefe da Epic, o Steam “freia o mercado de games há anos”",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/para-o-chefe-da-epic-o-steam-freia-o-mercado-de-games-ha-anos/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-29T13:35:00.000Z",
       "c": "PC",
-      "img": "https://flowgames.gg/wp-content/uploads/2024/05/download-2-1-1.webp"
-    },
-    {
-      "t": "GTA 6 terá um mapa muito, mas MUITO GRANDE!",
-      "d": "Rockstar Games promete caprichar no mapa de GTA 6",
-      "link": "https://flowgames.gg/gta-6-tamanho-do-mapa-revelado-rockstar-games/",
-      "fonte": "Flow Games",
-      "data": "2026-10-29T13:57:12.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/09/GTA-6-Jason-em-caiaque.jpg"
-    },
-    {
-      "t": "Exodus ganha vídeo de jogabilidade com 40 minutos de duração",
-      "d": "Após mudar o visual de seu protagonista, Exodus ganha um vídeo de jogabilidade com 40 minutos de duração",
-      "link": "https://flowgames.gg/exodus-ganha-video-jogabilidade-40-minutos-de-duracao/",
-      "fonte": "Flow Games",
-      "data": "2026-10-29T13:29:59.000Z",
-      "c": "Geral",
-      "img": "https://www.youtube.com/embed/U_csy-zJhtM"
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM3Z6M0t2ckFOSlNkZmlzamJybEtLeTZhVHliTU5tME9ZeGJQU3hKQ09yRlhLTl9SbkxYOVJCZ0FGLUVoWmMzOVhXS29lZTNlcUxBOVNYTDhURURZOFhwSm5SaEY1Znp1dEF4c2pQdDdzSGgxWE1EQXRhVl9GdWNkaWRtVmFpUVV4YVhId1o3LVZjdmZhSVZ6bDJRdmt0OU0?oc=5"
     },
     {
       "t": "Novo gameplay de GTA 6 exibido em South Park mostra Jason jogando cocô de cachorro em NPC",
@@ -161,15 +135,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/CU266UPVGNE4BFT2EOWO7FY254.jpg?quality=80&auth=b7a4b911ed99a59785075b313fd317709d132419796e9ef3319e63f0c3dd9fa4&width=710"
     },
     {
-      "t": "Phantom Blade Zero tem estreia gigantesca na Steam",
-      "d": "Até o momento, 680 mil jogadores estão jogando Phantom Blade Zero e o número só aumenta",
-      "link": "https://flowgames.gg/phantom-blade-zero-tem-estreia-gigantesca-na-steam/",
-      "fonte": "Flow Games",
-      "data": "2026-10-29T13:00:05.000Z",
-      "c": "PC",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/08/image-15-2.jpg"
-    },
-    {
       "t": "Astro de Outlander sugere participação em O Senhor dos Anéis: A Caçada por Gollum",
       "d": "\"Talvez eu tenha estado na Nova Zelândia recentemente\" O astro de Outlander , Sam Heughan, deu a entender fortemente que pode ter um papel no próximo filme O Senhor dos Anéis: A Caçada por Gollum...",
       "link": "https://br.ign.com/lord-of-the-rings-the-hunt-for-gollum/157147/astro-de-outlander-sugere-participacao-em-o-senhor-dos-aneis-a-cacada-por-gollum",
@@ -177,24 +142,6 @@
       "data": "2026-10-29T12:58:35.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/news/o/outlanders/outlanders-sam-heughan-hints-at-role-in-lord-of-the-rings-th_dd7n.jpg"
-    },
-    {
-      "t": "Witchbrook, o “Stardew Valley de Harry Potter”, ganha data",
-      "d": "Witchbrook é aguardado há muito tempo e mistura Stardew Valley com magia, venha ver a data de estreia",
-      "link": "https://flowgames.gg/witchbrook-stardew-valley-de-harry-potter-ganha-data/",
-      "fonte": "Flow Games",
-      "data": "2026-10-29T12:33:37.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.youtube.com/embed/upnkhFNuD_w"
-    },
-    {
-      "t": "A voz que você escuta ao olhar uma carta: Disney Lorcana e a dublagem brasileira",
-      "d": "Entenda como a dublagem brasileira faz personagens e músicas ganharem voz na memória dos jogadores de Disney Lorcana.",
-      "link": "https://flowgames.gg/disney-lorcana-dublagem-brasileira-vozes-cartas/",
-      "fonte": "Flow Games",
-      "data": "2026-10-29T12:29:18.000Z",
-      "c": "Geral",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrKvjGWiMoHHjKo4f_aEDZLyP27JDWB4R3KY24SZdF61JTflqZG0wOkw&s=10"
     },
     {
       "t": "20 segundos exclusivos de cocô de cachorro no GTA 6 aparecem de surpresa em novo episódio de South Park",
@@ -223,15 +170,6 @@
       "c": "PC",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDJ5UTBVQlRVenc5dXF4UTcxamR4U0FHaWFyNlRObjlSdUFRQTYyX2RvM0NRem0wblNLTWU1aEluZFRibFo4emQtaEZHM3BEdEJQX05RUE96SU0ydkJRcmtoeFlkVnBkSVg5d2NZOVVmQUdERGxxUGswaEJ0aGczOHE3Tm4zZTJjaTNZVmhVbV9yNS1lV2pRNFpoTzlKYjd0VkdjMVVrQi0?oc=5"
-    },
-    {
-      "t": "GTA 6 tem trecho de jogabilidade revelado em South Park",
-      "d": "Durante um episódio de South America, antigo South Park, um pequeno trecho de jogabilidade do GTA 6 foi revelado. Confira!",
-      "link": "https://flowgames.gg/gta-6-tem-trecho-de-jogabilidade-revelado-south-park/",
-      "fonte": "Flow Games",
-      "data": "2026-10-29T11:54:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f436.png"
     },
     {
       "t": "Prime Gaming: Amazon Luna recebe os últimos jogos grátis de outubro! Resgate agora (29)",
@@ -272,14 +210,77 @@
       "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2dtVUdOODRiSXZuMk8xcDFzMUhadndSODFBNTlNMGkta09uMkJGSU1jUDZPS0ZyTEdWdGRjU3NkVTJpb1ZZRF9EQ2Fzc2RuVkgwRnAtTktjSkdjRV8yODV2NE02RnFvbXJuR1lFeWlVM2tCZnExMlFaQXRGS1BfUGROVmxJSzNGRDFic0hGMDhRMGN4NklFcnlyazFOUnBHVklEMA?oc=5"
     },
     {
-      "t": "Jogos em oferta na Steam por menos de R$ 10; até 90% de desconto",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-em-oferta-na-steam-por-menos-de-r-10-ate-90-de-desconto/",
-      "fonte": "Adrenaline",
-      "data": "2026-10-28T23:42:00.000Z",
+      "t": "EA Sports FC 27 e mais jogos de Xbox com até 90% OFF; confira",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/ea-sports-fc-27-e-mais-jogos-de-xbox-com-ate-90-off-confira/",
+      "fonte": "TecMundo",
+      "data": "2026-10-28T23:00:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/I6XACTOMSNKFPHNLX5QVUJ6GJY.jpg?quality=80&auth=d7f18e360ada45f8affe995d9a4b1550955dc7734f406b5181b381b61337f9e1&width=710"
+    },
+    {
+      "t": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (28)",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/play-store-libera-5-jogos-gratis-por-tempo-limitado-resgate-agora-28/",
+      "fonte": "TecMundo",
+      "data": "2026-10-28T21:15:00.000Z",
       "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/W4C364IICZC7RPTRQVA3Y3DQ3E.jpg?quality=80&auth=adebd433e6a2c62bf2b56979ae3f6f6177091c48943b98d457e8a1fe406a8223&width=710"
+    },
+    {
+      "t": "PlayStation anuncia coleção Prism com controles DualSense transparentes para PS5",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/playstation-anuncia-colecao-prism-com-controles-dualsense-transparentes-para-ps5/",
+      "fonte": "TecMundo",
+      "data": "2026-10-28T20:31:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/67DOZGUAD5FSRPY7RW4RDX7T74.jpeg?quality=80&auth=7a0fb1e70371bec491655ca955fc0d381108dada07813746f7ff03695ee9504f&width=710"
+    },
+    {
+      "t": "Capcom vai concluir história de Resident Evil em 10 anos, mas promete muitos jogos novos",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/capcom-vai-concluir-historia-de-resident-evil-em-10-anos-mas-promete-muitos-jogos-novos/",
+      "fonte": "TecMundo",
+      "data": "2026-10-28T19:45:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/BLWE4SKFZNJHVOKSAMP7MA4NFE.jpg?quality=80&auth=4b95ba5cfbd3a55e1eee6646ab6b4a080d454f615fc772eb8eac2529482be1b9&width=710"
+    },
+    {
+      "t": "GameSir revela controles não oficiais inspirados em GTA 6; conheça os modelos",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gamesir-revela-controles-nao-oficiais-inspirados-em-gta-6-conheca-os-modelos/",
+      "fonte": "TecMundo",
+      "data": "2026-10-28T18:15:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.estadao.com.br/resizer/v2/SPWW5QAITVF4RFZ5IRWQOFOBW4.jpg?quality=80&auth=053398b84a2fc94ad6b38fe158e5d8b437a29d337868c4472dee9749ab46ac1d&width=710"
+    },
+    {
+      "t": "Jogos do PS Plus Essential de novembro são revelados pela Sony! Confira a lista completa",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/jogos-do-ps-plus-essential-de-novembro-sao-revelados-pela-sony-confira-a-lista-completa/",
+      "fonte": "TecMundo",
+      "data": "2026-10-28T17:21:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.estadao.com.br/resizer/v2/2Z6QILIZMFHEVEMZE72VNRWTLQ.jpg?quality=80&auth=55e34394a0fe6ff514e81f9cf79116c84a590cc3984b5365bdaf2fa47d3a3363&width=710"
+    },
+    {
+      "t": "GTA 6 pode exigir mais de 200 GB para instalação! Veja quanto espaço o jogo ocupa no SSD",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-tem-espaco-de-armazenamento-revelado-veja-quanto-espaco-o-jogo-ocupa-no-ssd/",
+      "fonte": "TecMundo",
+      "data": "2026-10-28T14:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/IXYJHPI2MFAANBBWXZP2HV37S4.jpg?quality=80&auth=6427105c078d66b4d5ac7982682756608eefb55dd408553ceb9f3f56902baeb4&width=710"
+    },
+    {
+      "t": "Faça login ou crie uma conta para salvar localizações",
+      "d": "Na ordem natural das coisas, tudo tem seu início, meio e fim. Na indústria gamer não é diferente, já que a evolução das tecnologias fez com que os consoles chegasssem até o nível atual de excelência.",
+      "link": "https://www.otempo.com.br/tecnologia-e-games/2025/6/17/nintendo-playstation-e-xbox-os-videogames-ja-caminham-para-a-nova-geracao",
+      "fonte": "Bing Notícias – Games",
+      "data": "2025-06-19T12:48:00.000Z",
+      "c": "Lançamentos",
       "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWDZrRjNNdHpjMEF3X2RFY2ZiWGVva0RGYnhjWS1OTmgxdmRvZjFyTFU1NWpFM0Q0RGx6MnRvd3BKdTdoQ1ZCTXVMeExQRWs4dkZJS3FsQ0tWTG5yenpxMWZmU3czOFlOZVgwM3dncmxFbHN3UDlBS0lMVzAzeGhoekQwaFpUdnlCNV9haTAzUTcxTWpvUlpJemxneEJwY0N2N043Zzkwc1lKSWM?oc=5"
+      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae36afc6bcc48eb8ca7bea99d77209f&url=https%3a%2f%2fwww.otempo.com.br%2ftecnologia-e-games%2f2025%2f6%2f17%2fnintendo-playstation-e-xbox-os-videogames-ja-caminham-para-a-nova-geracao&c=15220045915208673651&mkt=pt-br"
     }
   ],
   "videos": [
@@ -4522,16 +4523,6 @@
       "link": "https://www.igdb.com/games/melted-time"
     },
     {
-      "t": "The Duskbloods",
-      "data": "2026-12-31",
-      "plats": [
-        "Switch 2"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocqn8.jpg",
-      "hype": 59,
-      "link": "https://www.igdb.com/games/the-duskbloods"
-    },
-    {
       "t": "Drownlight",
       "data": "2026-12-31",
       "plats": [
@@ -4705,6 +4696,19 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ql4.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/the-spirit-engine-dx"
+    },
+    {
+      "t": "The Shadow Syndicate",
+      "data": "2026-12-31",
+      "plats": [
+        "Xbox",
+        "Switch 2",
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rbr.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/the-shadow-syndicate"
     }
   ],
   "musicas": []
