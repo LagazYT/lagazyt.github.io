@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-29T03:12:00.538Z",
+  "atualizadoEm": "2026-10-29T03:42:07.742Z",
   "noticias": [
     {
       "t": "Amazon lança novos Echo no Brasil; saiba o que já dá para reservar",
@@ -31,6 +31,16 @@
       "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2dtVUdOODRiSXZuMk8xcDFzMUhadndSODFBNTlNMGkta09uMkJGSU1jUDZPS0ZyTEdWdGRjU3NkVTJpb1ZZRF9EQ2Fzc2RuVkgwRnAtTktjSkdjRV8yODV2NE02RnFvbXJuR1lFeWlVM2tCZnExMlFaQXRGS1BfUGROVmxJSzNGRDFic0hGMDhRMGN4NklFcnlyazFOUnBHVklEMA?oc=5"
     },
     {
+      "t": "Xbox registra queda de receita, enquanto Microsoft cresce 19% no trimestre",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/microsoft/xbox-registra-queda-de-receita-enquanto-microsoft-cresce-19-no-trimestre/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-29T01:58:00.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUZBU3U4ZWlyeVYzVzVndHV0dFIxWFVNc2FPcnlUcWtXUjlyOWRDMHNwSUFhSVFzQ0RkN1MxMnJHeldiX3pUN0NkOGJ5ZThzSUNQcWtDZGh3bnNOeGZqZk94c0l4bkkyLUlOSWo2TWF5UGgyOHFpaFpmSEJManhYeHBZT2FSMm5lb0M0QmpwcXJGSktPd011NmZMWHVfcWl0N3BWMVI5MVRrQUY2M211SDVDaw?oc=5"
+    },
+    {
       "t": "Fortnite ganha cartões-presente que também compram jogos na Epic Games Store",
       "d": "&nbsp;&nbsp; Séries em Cena",
       "link": "https://seriesemcena.com.br/noticias/fortnite-ganha-cartoes-presente-que-tambem-compram-jogos-na-epic-games-store/",
@@ -59,16 +69,6 @@
       "c": "Geral",
       "img": "https://i0.wp.com/cebolaverde.com.br/wp-content/uploads/2026/10/Ativacao-Riot-Music-Liberdade.jpg?fit=1200%2C510&ssl=1",
       "orig": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT29rbkNlRzU3aFN3TkxHRHhPcDdKVG82dHpOOVdmR1lxNWFxaVJBRlNqYzhfTkpsM2NBYUVSNDFRdEIza3FRY2ZLRkpEYjJmazBJcDhKdU1icFdxUFFBRl81LWhPcVVNWjE2c2psWjVaZUh0ellzZmRMTDV0TkJyU3NKZ3hZd2xOeTVnQUpnRUotNy03WHBnRndyMDNkbkZUcGRFUmpYTHkzTjFpcEt0YmJCSlRhYmdGdUZz?oc=5"
-    },
-    {
-      "t": "Gennady chega ao Xbox One e Series X|S com ação roguelike frenética",
-      "d": "&nbsp;&nbsp; Xboxers",
-      "link": "https://xboxers.com.br/gennady-chega-ao-xbox-one-e-series-xs-com-acao-roguelike-frenetica/",
-      "fonte": "Xboxers",
-      "data": "2026-10-29T00:20:55.000Z",
-      "c": "Consoles",
-      "img": "https://i0.wp.com/xboxers.com.br/wp-content/uploads/2026/10/embed_1-2.png?fit=1200%2C675&ssl=1",
-      "orig": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVlSeDRwVzd3VHVhMGdISFFfWWZjOTgtZFQtSlRGTkFzb3dJRDdWT29rcXdVSkEzYThTNXdRQWlzVjVrSUlHeVhDeE1pa2l4dy1RZTZsQzFjSExHV28wSzRDTzZTVFF1cUY0TnNHNXZJVVJ0YUFJTDhPZDVMV2kwX1ZwM1lQMVhDczNPVEt4UkUyT3FD?oc=5"
     },
     {
       "t": "Jogos em oferta na Steam por menos de R$ 10; até 90% de desconto",
@@ -821,6 +821,7 @@
       "t": "Lost Host",
       "data": "2026-11-04",
       "plats": [
+        "Xbox",
         "PC",
         "PS5"
       ],
@@ -1578,7 +1579,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv1v.jpg",
-      "hype": 1118,
+      "hype": 1122,
       "link": "https://www.igdb.com/games/grand-theft-auto-vi"
     },
     {
@@ -2164,6 +2165,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocqe8.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/ninja-baseball-league-man-bases-loaded"
+    },
+    {
+      "t": "Ruff Day",
+      "data": "2026-12-10",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod8s8.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/ruff-day"
     },
     {
       "t": "Hunter From Hell",
@@ -4692,16 +4703,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rr1.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/project-virai-doomers-life-escape"
-    },
-    {
-      "t": "Exovia",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc18q.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/exovia"
     }
   ],
   "musicas": []
