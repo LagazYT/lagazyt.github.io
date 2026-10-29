@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-29T09:59:56.071Z",
+  "atualizadoEm": "2026-10-29T10:30:03.371Z",
   "noticias": [
     {
       "t": "Solo Leveling: ARISE OVERDRIVE ganha data PS5 e Xbox Series.",
@@ -1258,6 +1258,18 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod6wd.jpg",
       "hype": 5,
       "link": "https://www.igdb.com/games/shrek-2-remastered"
+    },
+    {
+      "t": "Raccoin: Chaos Max Edition",
+      "data": "2026-11-10",
+      "plats": [
+        "Xbox",
+        "Switch 2",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod927.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/raccoin-chaos-max-edition"
     },
     {
       "t": "Imperial Grace",
@@ -4690,19 +4702,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ql4.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/the-spirit-engine-dx"
-    },
-    {
-      "t": "The Shadow Syndicate",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rbr.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/the-shadow-syndicate"
     }
   ],
   "musicas": []
