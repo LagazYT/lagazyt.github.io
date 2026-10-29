@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-10-29T02:11:44.409Z",
+  "atualizadoEm": "2026-10-29T02:41:54.041Z",
   "noticias": [
+    {
+      "t": "Mobile Suit Gundam Battle Operation 3 é anunciado para PS5 e Steam",
+      "d": "&nbsp;&nbsp; Crunchyroll",
+      "link": "https://www.crunchyroll.com/pt-br/news/latest/2026/10/29/mobile-suit-gundam-battle-operation-3-anunciado-ps5-steam",
+      "fonte": "Crunchyroll",
+      "data": "2026-10-29T02:30:00.000Z",
+      "c": "PC",
+      "img": "https://www.crunchyroll.com/news/img/favicons/favicon-v2-96x96.png",
+      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdE42RHppYjZsdFl2T2dhMGpYNWpvR1drUDZDckwxZXZZc0RXVndiWjF0U1FVbE45SWdnbjk2aWtCV3dGZ0Vfa0NtWWExQzhjN3RmSFVFdDBVMFU0VEpvb2ZsbUlCV1dSc0JlTU5KbWUyOEJmTXQyY2pLNGNhUFlLMXBlakhSTFpiNDVuNU1POTdZdERvMzh1azhiRmhFcXh0LXo4eVo5bUs0cE9GVGozOEtYa1Q?oc=5"
+    },
+    {
+      "t": "AMD atualiza FSR Redstone e amplia suporte ao Vulkan em jogos de PC",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/amd/amd-atualiza-fsr-redstone-e-amplia-suporte-ao-vulkan-em-jogos-de-pc/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-29T02:12:00.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2dtVUdOODRiSXZuMk8xcDFzMUhadndSODFBNTlNMGkta09uMkJGSU1jUDZPS0ZyTEdWdGRjU3NkVTJpb1ZZRF9EQ2Fzc2RuVkgwRnAtTktjSkdjRV8yODV2NE02RnFvbXJuR1lFeWlVM2tCZnExMlFaQXRGS1BfUGROVmxJSzNGRDFic0hGMDhRMGN4NklFcnlyazFOUnBHVklEMA?oc=5"
+    },
     {
       "t": "SENSACIONAL! XBOX TRAZ GRANDE SURPRESA AOS JOGADORES E CONTROLE DO GTA VI!",
       "d": "&nbsp;&nbsp; Xboxers",
@@ -40,16 +60,6 @@
       "c": "Lançamentos",
       "img": "https://static.wixstatic.com/media/607f2d_be9fbc04b1b54b8e81f3ab5db9c84e51~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/607f2d_be9fbc04b1b54b8e81f3ab5db9c84e51~mv2.jpg",
       "orig": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOR3BUTkdTXy13eWhSUU8zRGUwWVctc3hzYUFPUURVV0tDeHBhN1FtbV82YnVuMmtVR1ZmbUE3cjZSX1l4d2VxT2VlLUhXNkZFVjZ3Zk5YSmNPN1BmTzZBNUxjRGM4SXNLZFplV2luWld1YVUwcVdHbWlKbXdBUjBMVGxybHhZbDZlWGpEX1dyMGp6V2VMblVTYmNQSFUwNmRxeGdxQTFNaVl3N3drVXVtbVpSTG42S2JDR05Lak1NNGRUb3BTSi1xRHJjejRVdnBmQ0lHRQ?oc=5"
-    },
-    {
-      "t": "Receitas de hardware da Xbox caem 14% com declínio no Game Pass",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://www.eurogamer.pt/receitas-de-hardware-da-xbox-caem-14-com-declinio-no-game-pass",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-10-28T23:48:19.000Z",
-      "c": "Consoles",
-      "img": "https://assetsio.gnwcdn.com/XBOX-Series-X25-Limited-Edition_2-1bfdd2858ad74a2180ff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2FLX3M3NHBHeTU4aUNfZGpGc0R0UmhGWE5tSDBWV2NNaDRRWTIyVXY2MnZ1WndKME9xcmU3S2ZQY05QV1F0bzFlQVZ5Y1RZR0pxc0xDR0FvTGZKX1dSUmVNQ0hadTY4Z0xoT0s2T3EtTUNjZlZZWWJZbHhPQ0tPMTVpdUxNdnJKZi1kcjEzVGc?oc=5"
     },
     {
       "t": "Jogos em oferta na Steam por menos de R$ 10; até 90% de desconto",
@@ -267,15 +277,6 @@
       "data": "2026-10-28T16:00:46.000Z",
       "c": "Lançamentos",
       "img": "https://flowgames.gg/wp-content/uploads/2026/10/Captura-de-Tela-2026-10-28-às-12.51.14.jpg"
-    },
-    {
-      "t": "Steam Next Fest: Valve está ciente do problema de “AI Slop”",
-      "d": "O Steam Next Fest traz muitas demos, mas diversos jogos são tranqueiras de IA (e a Valve sabe disso)",
-      "link": "https://flowgames.gg/steam-next-fest-valve-esta-ciente-do-problema-ai-slop/",
-      "fonte": "Flow Games",
-      "data": "2026-10-28T15:09:36.000Z",
-      "c": "PC",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/03/image-2024-01-08T111144.081-1.jpg"
     }
   ],
   "videos": [
@@ -379,7 +380,7 @@
       "id": "gZSUZuB5jJ0",
       "t": "PICTO INSANO MUITO ROUBADO TENHA MAIS TURNOS | EXPEDITION 33",
       "data": "2025-05-22T17:01:01Z",
-      "views": 2357,
+      "views": 2358,
       "img": "https://i.ytimg.com/vi/gZSUZuB5jJ0/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=gZSUZuB5jJ0"
     },
@@ -403,7 +404,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2910,
+      "views": 2911,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
@@ -427,7 +428,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6713,
+      "views": 6714,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -443,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20191,
+      "views": 20196,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
