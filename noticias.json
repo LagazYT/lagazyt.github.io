@@ -1,15 +1,55 @@
 {
-  "atualizadoEm": "2026-10-30T16:43:48.253Z",
+  "atualizadoEm": "2026-10-30T17:13:59.311Z",
   "noticias": [
     {
-      "t": "Attack on Titan 3 ganha trailer de gameplay no Nintendo Switch 2",
-      "d": "&nbsp;&nbsp; Nintendo Blast",
-      "link": "https://www.nintendoblast.com.br/2026/10/attack-on-titan-3-ganha-trailer-de-gameplay-no-nintendo-switch-2.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-10-30T16:30:05.000Z",
+      "t": "League of Legends lança Batalha das Bandas entre K/DA e HEARTSTEEL",
+      "d": "&nbsp;&nbsp; Alternativa Nerd",
+      "link": "https://alternativanerd.com.br/games/league-of-legends-lanca-batalha-das-bandas-entre-k-da-e-heartsteel/",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-10-30T17:08:20.000Z",
+      "c": "Lançamentos",
+      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/10/AN_KDA-de-volta-com-FIRESTARTER-e-show-no-Mundial-2026.webp",
+      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORTNKalVYS3duQVk5ZmZkTGRXbG5FcGFyNFZlbU9xd1N6Z0ZzanBqT0hhamRmdGFmX0JOVlNTWlFIb1BqNmlXa2ZxR2pZMm5SSGlwYnVkVlFBZE1ZdWJCZGlCejZkeHpwUll3SG9UTTVnNTQ4WkRDUV9YempjUU1LYVdMek5RZ3lQazVhUUtiY2NldXVFTDBzN1NKUm5rWGRFRlpaTFB3Yw?oc=5"
+    },
+    {
+      "t": "Gears of War: E-Day supostamente vendeu apenas 400 mil cópias no PC e Xbox",
+      "d": "&nbsp;&nbsp; Terra",
+      "link": "https://www.terra.com.br/gameon/plataformas-e-consoles/gears-of-war-e-day-supostamente-vendeu-apenas-400-mil-copias-no-pc-e-xbox,7e73fd059f2ce0fda2f4dfaaef5ebb7bfi87z8t1.html",
+      "fonte": "Terra",
+      "data": "2026-10-30T17:07:00.000Z",
+      "c": "PC",
+      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/30/ss_82631b6762963c60ad1ea684fac235686a10027b-1920x1080-r1akjr9831h0.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUmtJM2lyU1ZCZHhBNTNMOEhpakctbnc4QjVwZE40T3YyODVHeXlYS3pnejQ3bUkyamV2OWVxVHhuZ1puZUNDMXdLNEgxYW5fem1vbGZHeWc1NV85Njg1WjBNamIwNzNyeDl6aFk3c1hFMWtrYlNCU2o1bFZpMDA4RWUzVUZBaDJfRFF5TzdFWWhEdTFGU29hLS00NTM4TFJxT082RlZ3eDJqVkVqMDhNbWFYYzRJTDdybHBqOWlyeWtSVkdiRVlVc0VLZ3hxLTJsbHo2ZEdydm11RlBzcW5jUUtKQUQ0Um1BWmU1bjVVVFdka3p6NjNHeDRHMkR6cFdLQjJiTQ?oc=5"
+    },
+    {
+      "t": "Look Outside chega aos consoles com terror psicológico intenso",
+      "d": "&nbsp;&nbsp; Alternativa Nerd",
+      "link": "https://alternativanerd.com.br/games/look-outside-chega-aos-consoles-com-terror-psicologico-intenso/",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-10-30T17:03:10.000Z",
+      "c": "Lançamentos",
+      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2025/03/look-outside-ja-esta-disponivel.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkNjUHFqMzIwUThsaWREbGtHMGpFWWRid3NiUXpBelN4YXNPTWU1eTd3ZG5GRjlNLVNjWFBwT01QTFJIb2pUREVHYWhEVmFVbVlyNmJ0SHR2RUJkall4MXJBNzBGRjRncHFKSjNucG0xTkZNbmRzLXltc2FBd0d5WDhoSGFkX1N6NGlvd2MyMXZnZ3BONF82ZG55YTRmeFM4MUE?oc=5"
+    },
+    {
+      "t": "Look Outside: RPG de Horror da Devolver chega ao PS5 e Switch",
+      "d": "&nbsp;&nbsp; Última Ficha",
+      "link": "https://ultimaficha.com.br/2026/10/30/look-outside-lancamento-consoles-playstation-switch/",
+      "fonte": "Última Ficha",
+      "data": "2026-10-30T16:58:20.000Z",
       "c": "Consoles",
       "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM3ZqTDVnMWZ0S2tmNkwzUUdMU003aXpUQ1pWbE03SUZwUXBMZElwYmZVVzNVSkhySUladTNjQ1NjVHdWQ1NMM0xIdUczczU4ekhCR1VRQmV4OGN0RnhpdFlGcUQ4RUM2djZlb2Y5ZDgteHdWeXYySFBCSnQzZHlPMms5MnpXSEY3SmJ4VjZyV1c1cXlVbFJ6SUpvZW5lRURRZUNlTEIxYTJVakpBMUdF?oc=5"
+      "orig": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHJXWllRaWRlNFNEUHpHMzdXaDlrOHo4TU5xQXp4RlJUSUMxZnE2dGxQZWd1Znp0TFNFNUFKWlFMRFFEQms0UzQ0b2NsbUJJeTFMNC1oQ3lnbkpyN2ZMb2g0UEhGcmgxcl85NGJ1a3M3d2VqeWh0RjNjYlhhNk9VZ3M3ZDM1MW5GVGxCb2ZoTEtUTnpm?oc=5"
+    },
+    {
+      "t": "OD Knock ganha novo pôster misterioso",
+      "d": "&nbsp;&nbsp; Central Xbox",
+      "link": "https://centralxbox.com.br/2026/10/30/od-knock-ganha-novo-poster-misterioso/",
+      "fonte": "Central Xbox",
+      "data": "2026-10-30T16:47:18.000Z",
+      "c": "Consoles",
+      "img": "https://centralxbox.com.br/wp-content/uploads/2022/06/Kojima-Productiosn.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNmhNdHFjeXpZNnRIRW1wZVF6RDM4UTE3NUhKSDcwRUVTV0UzYTJ1cTBremljU3lkSDlkWDRyTHVwbFZHRUwxQmJCSVlQOHllTWhXQTdRZ2w3Mm1SVW9RX1RPWVJXZlhBb1BHNlRFYWxHeTdNSFNBNk5nTGQ0aWI0MEd3?oc=5"
     },
     {
       "t": "Steam: 5 jogos ótimos em desconto para você comprar agora",
@@ -21,36 +61,6 @@
       "img": "https://www.youtube.com/embed/n0R7BmfpD7k"
     },
     {
-      "t": "Crossfit do Acre tem 19 atletas na disputa da 4ª edição da Arena Games, no interior de Rondônia",
-      "d": "&nbsp;&nbsp; ge",
-      "link": "https://ge.globo.com/ac/noticia/2026/10/30/crossfit-do-acre-tem-19-atletas-na-disputa-da-4a-edicao-do-arena-games-no-interior-de-rondonia.ghtml",
-      "fonte": "ge",
-      "data": "2026-10-30T16:08:00.000Z",
-      "c": "Geral",
-      "img": "https://s2-ge.glbimg.com/Oc8YpKlHqojrho5iyCbID1k0TZY=/1300x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/F/o/yvv89KQOmalZmBjCd3cg/whatsapp-image-2026-10-29-at-09.27.22.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFlIMW1vbGNNV0E0aUhMWV9lSGVCXzlIU3g2NTZ0R2xpS1NlYm9fQXY4WHZEQ1FhMFBEclZMLTBnbF9Rd19WOVd1UVVwemRjVTIzTFpqcjVCS1NfU2RoRlJrWGdQNmdrZEVYQlotSHM0WnVJQmZnVmFEanJmMnUtNmdZTFlsWGcxSGZTRmUtNmlfbUNtNEhmR0ljZy03UlJnd05RRFpXeTBkbVMxdlh4bndrWDIydHJHNzJ3WTQ2em5XcU9ydEtNc1NBdXYxV1VpQmNSWDlicFZTM3fSAeoBQVVfeXFMT3ZoY1RWU19QRlJaQVJ6WENRUW53a1FtZTVoOUIyUUZLdWplaFlXVmNFaWRSWS1zdWY1alV0M2tBZ0pxaVBfbEdoOGo3aFJxRk15cl9ZMTY0N3NXR2NXa1d1blQ4RGFfUDQyd3phczY2MWw5TER5al85S1RhQnFTWkpESlhUa3JrTmlFRDk0cVc3T3NnMXRnX085cHdtRDNPQWZEbDY4RDBvV1pUVXZHaWZyTkZwMFJuZjhWWkk4RGZmdUpqSWZlWEItbXF5Y09wcUU0VjAteWw0dUd1MzBoSFR1bloxYmV1cThR?oc=5"
-    },
-    {
-      "t": "Jogada da Semana: Medo",
-      "d": "&nbsp;&nbsp; PlayStation.Blog BR",
-      "link": "https://blog.br.playstation.com/2026/10/30/jogada-da-semana-medo/",
-      "fonte": "PlayStation.Blog BR",
-      "data": "2026-10-30T15:59:59.000Z",
-      "c": "Consoles",
-      "img": "https://blog.br.playstation.com/tachyon/sites/4/2026/10/c9a94a217838920f876c87320d97fff67ebf7fd2.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XYjg1M3gxTXZTQWZEV0RjaFBLaHdQckg4Znh4MEJ6ZExtZTZMWDJHUTNxc1FqcWpZeVhOazg1V0RCTzVkZzBic1ZqUkNRU0RKbUhyeFlHMzI3YVZTcF9JMHNJQWlsakZzaGFJSlFiRDVWOG8?oc=5"
-    },
-    {
-      "t": "Shelterra the Skyworld chega ao Switch e Switch 2 em 5 de novembro",
-      "d": "&nbsp;&nbsp; Nintendo Blast",
-      "link": "https://www.nintendoblast.com.br/2026/10/shelterra-the-skyworld-chega-switch-switch2-5-novembro.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-10-30T15:54:59.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzU5Q3AxVGxDNzhfOTlGLVFMXy1SREF1UG5ZLWRId1Fuc05rbVNOVjhBbTkwaXA5RzVYMThXWTJreDkzR3I2UndJZ05TNDRvWGNYdzRuM0l5T2daRWE5QlJ4WmF0T0o5VnhPeFR1a3JaZXMyOUl5VlBWRUxoRDVUNG1Od1ZBdWtMTjh6OEo3Uzc3QXFqMVR5Sm9yUWVlZzNCR0E?oc=5"
-    },
-    {
       "t": "\"Valorizem os fãs\": elenco de GTA 5 dá conselhos aos atores de Jason e Lucia sobre o que é mais importante saber antes que o GTA 6 os lance à fama",
       "d": "\"Apreciação fingida — eles percebem\"",
       "link": "https://br.ign.com/grand-theft-auto-vi/157191/valorizem-os-fas-elenco-de-gta-5-da-conselhos-aos-atores-de-jason-e-lucia-sobre-o-que-e-mais-importa",
@@ -58,16 +68,6 @@
       "data": "2026-10-30T15:54:54.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/news/a/appreciate/appreciate-the-fans-gta-5-cast-tell-jason-and-lucias-actors_rrun.jpg"
-    },
-    {
-      "t": "Resonance of Fate ganha remaster aprimorado",
-      "d": "&nbsp;&nbsp; Crunchyroll",
-      "link": "https://www.crunchyroll.com/pt-br/news/latest/2026/10/30/resonance-of-fate-remaster-playstation-5-pc",
-      "fonte": "Crunchyroll",
-      "data": "2026-10-30T15:53:00.000Z",
-      "c": "Geral",
-      "img": "https://www.crunchyroll.com/news/img/favicons/favicon-v2-96x96.png",
-      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSXh5cFN3S1VxWXYwOTc1bEVkVHpCZEd2YWxZSFMwZnZOVi1hZnN5WWF3NWtlT1ZKMUJLMk0zSmFYYUhrbjV5VDlyYURJZkJIbGltM2xkTFhJbFZrb091S28zbjhoZk45MVR5UmZtMUtmSEdVSHZKQjJCY0ctQVh2b0NlYUJPZHQwc1pYSTZxU2p6ZEtpd0hQUTdQT3FfWTFuaFE?oc=5"
     },
     {
       "t": "Um meme famoso de GTA 4 agora é uma mecânica em GTA 6",
@@ -419,7 +419,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 4003,
+      "views": 4004,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
