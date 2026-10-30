@@ -1,14 +1,82 @@
 {
-  "atualizadoEm": "2026-10-30T18:14:17.877Z",
+  "atualizadoEm": "2026-10-30T18:44:26.246Z",
   "noticias": [
+    {
+      "t": "John Romero diz que jogo cancelado pelo Xbox ganhou nova publicadora e foi redesenhado para equipe menor",
+      "d": "&nbsp;&nbsp; R7 Entretenimento",
+      "link": "https://entretenimento.r7.com/nitro/games/outer-space/john-romero-diz-que-jogo-cancelado-pelo-xbox-ganhou-nova-publicadora-e-foi-redesenhado-para-equipe-menor-30102026/",
+      "fonte": "R7 Entretenimento",
+      "data": "2026-10-30T18:32:46.000Z",
+      "c": "Consoles",
+      "img": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/U5OKWKDWSRDMJOFOCSZJHKVVIM.jpeg?smart=true&auth=dd33a66891d266ecb1dc251c82c557d90e950dc72a86fb486d1c2b81c7768b9b&width=1200&height=630",
+      "orig": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVkJBbldNNkhlMVgtVU5qcFh0VWlobFFsSzhLQzhkZkxBamtRM21QVHBlaTdxdGQ1MEZERDFzcVRCUk53VFB3OThReUVVc1A5NlRIVnlrU1d4T2tvVS02ZnFtZmJrck9CSzlpMTJnMzF2ZU01VTI0RENYb1B5QUpCOEI2MXVSa2xuTjJNOWE5TGFILTRCVkwzUEVFcHpzbWpSRThrcnNndXkyMlhCeGkzN0F4dl95QmJ4NG0xSDRzY2xzeVcwZktBQmlPWXJ2QWw1Rjd3VUdIM2pHY2FwNWVqeE1EeklUMzFCY3d5TU9UTWhBbUktcTdiMmYxNVY?oc=5"
+    },
+    {
+      "t": "Crimson Desert recebe demo grátis no PlayStation e XBOX",
+      "d": "&nbsp;&nbsp; TudoCelular.com",
+      "link": "https://www.tudocelular.com/jogos/noticias/n266221/crimson-desert-teste-gratis-playstation-xbox.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-10-30T18:31:30.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGx0RVhJN3BWaDNWZG1VQWhvNVFyWmNYUVRNTWw0eVZqa2UxRFNNd3VVNHZ0eVA4ZDdfbnFzbF96WEFfR3VkazVMZUdMWjlRcHV1NzdSZ3B2cW9aUjA5MmJjYkctUExNbEdkOTVTMGIzSDhWbjhWd2NfMHg1bkhrRDdtdXJ3UVF0aFp5T1RXLU80MnV5Ymw5Rlo4THZKbHhHRGc?oc=5"
+    },
+    {
+      "t": "Zelda: Tears of the Kingdom ganha versão para PC com suporte a FSR e ultrawide",
+      "d": "&nbsp;&nbsp; Fast Company Brasil",
+      "link": "https://fastcompanybrasil.com/games/zelda-tears-of-the-kingdom-ganha-versao-pc-suporte-fsr-ultrawide/",
+      "fonte": "Fast Company Brasil",
+      "data": "2026-10-30T18:19:46.000Z",
+      "c": "PC",
+      "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/zelda-pc.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnJ5NllBNGNqLVB0MF9XdDUxMmI5bFRiSDFndEV2YldYWndYTm0xYzZLRU12Zm05T3lUUG9Rb19WYXYwdDRRN3c3MUFoaDc0aFJoZWxUeHZ3bmYwRmxxTkNGdmpHTDJ6bHJrYi1sd3M5b01YLTYxdGYtRXUzaW12ejJ4ckVNaExDbElobDlySjNTbkJvb3lqazd1YVRJLVFZUjhR?oc=5"
+    },
+    {
+      "t": "James Gunn afirma que “não vai demorar muito” para que o Batman do DCU seja escalado, e que ele terá idade próxima à do Super-Homem interpretado por David Corenswet",
+      "d": "“Quero levar todos em consideração” James Gunn revelou que a DC Studios está finalmente se preparando para escalar o Batman do Universo DC. Em um novo podcast sobre o filme Esquadrão Suicida , de...",
+      "link": "https://br.ign.com/batman-the-brave-and-the-bold-3/157200/james-gunn-afirma-que-nao-vai-demorar-muito-para-que-o-batman-do-dcu-seja-escalado-e-que-ele-tera-id",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-30T18:11:35.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/j/james-gunn/james-gunn-says-it-wont-be-too-long-before-dcu-batman-is-cas_3vqc.jpg"
+    },
+    {
+      "t": "James Gunn afirma que Arlequina acabará entrando para o Universo Cinematográfico da DC e que, se Margot Robbie quiser interpretá-la, ele “fará de tudo para explicar isso nesse mundo”",
+      "d": "“É a Margot quem tem que decidir se ‘Esquadrão Suicida’ faz parte do cânone ou não” James Gunn abordou a situação em relação à interpretada e muito querida Arlequina de Margot Robbie, e se ela faz...",
+      "link": "https://br.ign.com/esquadrao-suicida/157199/james-gunn-afirma-que-arlequina-acabara-entrando-para-o-universo-cinematografico-da-dc-e-que-se-marg",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-30T18:04:23.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/j/james-gunn/james-gunn-says-harley-quinn-will-join-the-dcu-eventually-an_dcz3.jpg"
+    },
+    {
+      "t": "The Suicide Squad: Who Lives, Who Dies",
+      "d": "",
+      "link": "https://br.ign.com/suicide-squad-2-1/103286/the-suicide-squad-who-lives-who-dies",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-30T18:04:23.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/gallery/t/the-suicid/the-suicide-squad-who-lives-who-dies_y5p6.jpg"
+    },
     {
       "t": "Novembro 2026: Os 10 Jogos Mais Aguardados do Mês",
       "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOXzZmbnd0WUFZcUJRQmtKRlE4YnJjTUdmY1VZdDI4Ym11Wk9GV0JtNDhkVHc1b3V3a2xITm94MWRKdlZYSjk0d0ExVEh0NkRuWDhfcjBNN1V4eHUwLW43aTEwajFVekdMV0NSdU14cHkzNVNiX21sOUhrbWFPTW1tRDdzNXhLS0Z2aF91VWVHcw?oc=5",
+      "link": "https://alternativanerd.com.br/games/novembro-2026-os-10-jogos-mais-aguardados-do-mes/",
       "fonte": "Alternativa Nerd",
       "data": "2026-10-30T18:03:35.000Z",
       "c": "Geral",
-      "img": ""
+      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/04/AN_GTA-6.webp",
+      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOXzZmbnd0WUFZcUJRQmtKRlE4YnJjTUdmY1VZdDI4Ym11Wk9GV0JtNDhkVHc1b3V3a2xITm94MWRKdlZYSjk0d0ExVEh0NkRuWDhfcjBNN1V4eHUwLW43aTEwajFVekdMV0NSdU14cHkzNVNiX21sOUhrbWFPTW1tRDdzNXhLS0Z2aF91VWVHcw?oc=5"
+    },
+    {
+      "t": "BioWare teria fechado pela EA preferir apostar em Star Wars",
+      "d": "&nbsp;&nbsp; Flow Games",
+      "link": "https://flowgames.gg/bioware-fechou-ea-prefere-apostar-em-star-wars/",
+      "fonte": "Flow Games",
+      "data": "2026-10-30T18:01:25.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/Star-Wars-Battlefront-2.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1bXNDUU9jemRWZ05sOHM1T295ekV0N1VWUmlvVTdZNW92UFc1eEFaaU5uWW5pdVRKbnZ0QXBIeDBlSGl0VVJTdGxVeXpYMFh5M21rbS0weGhPb19sbFZ2ZEE4SkZ6czNQek9PemNYTnc0VDZtMnpR?oc=5"
     },
     {
       "t": "CEO da OpenAI, Sam Altman acha que é “péssimo” você ter memória RAM no seu PC para jogos",
@@ -36,24 +104,6 @@
       "data": "2026-10-30T17:56:16.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/gallery/t/the-best-c/the-best-call-of-duty-multiplayer-games_yr61.jpg"
-    },
-    {
-      "t": "Gears of War: E-Day levanta dúvidas sobre o futuro das exclusividades Xbox",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb2E5VURTLV9QOFhFR05SUldYa1VOeF9HQlBybDkzZFU2TXg5ZlNDTEY1V2xOZXBHN0MtUXdWSm5pYUJCM2FjT2w5NzNkTjFJMENwcDJqMDJMREE1LThrazhGRTBVbEZhSHQzUlhIN3IwX3lXLVZwMEs1UHlLWHV6cGZETVhmdlpHeHFoUURaelNURWw4aU4zaDJsWVJUOGM?oc=5",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-10-30T17:54:21.000Z",
-      "c": "Consoles",
-      "img": ""
-    },
-    {
-      "t": "Zverev vence oito games seguidos e passa com tranquilidade por Fery",
-      "d": "&nbsp;&nbsp; TenisBrasil",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1JmVEpobDRySmNpeWg2M09LN1YxTzRCbkhhaTE5Uy1RY1B3N3JqNkVqTFRDeDN4TmtpeHdhcmctQXU5U29IRVBSNURaU3lGeGpYZFoyal9BUzNCUUZqenBBNzJKVzA5XzRwc25QRHpUOXo4WmR4VVpGSnkzY25IZVhXdWxZTlE4eWhnbTBFS1BpVTNKSTlFVnhFNlgwOE5TQXliRl93?oc=5",
-      "fonte": "TenisBrasil",
-      "data": "2026-10-30T17:54:00.000Z",
-      "c": "Geral",
-      "img": ""
     },
     {
       "t": "Crimson Desert: como acessar DLC Charting the Unknown?",
@@ -90,24 +140,6 @@
       "data": "2026-10-30T17:48:25.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/10/Star-Wars-Battlefront-2.jpg"
-    },
-    {
-      "t": "Steam Deck OLED ($549) Beats Legion Go S & Xbox Ally [2026]",
-      "d": "&nbsp;&nbsp; shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEF0alZzLW1PdGRBVlZxaUs0My1EdDMwT1FkWEp2SVhOYjJ3dl9hYlJ2a01NQ1NDeThhZTFGRVV4Ml9lZlpsNXZhcXZMSTQ2bmplUmtHMjlLXzlWWWJTVDdOZGdpVDd1Ny1YUVV3aDRWYzJ0ZEtCaEF2UE1XcUJQaUNNX1lhX19mNGZ6akZ3?oc=5",
-      "fonte": "shattered.io",
-      "data": "2026-10-30T17:22:46.000Z",
-      "c": "PC",
-      "img": ""
-    },
-    {
-      "t": "Queen’s Domain é lançado para PC, PS5, Xbox Series e Switch 2",
-      "d": "&nbsp;&nbsp; Pizza Fria",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UUGJYaEM2aXZPTml3WF82ZGs2Y1hxbFhEUGlTbG5ZbS1aRWxXVDBKOTh5eXJib3I5YnlrcEVNLURsdGtOWWlfSWFoTHlKbkpZLTMzaFNrNkY5T2FkSGpldmdBYzVIQ1hCUGc?oc=5",
-      "fonte": "Pizza Fria",
-      "data": "2026-10-30T17:19:11.000Z",
-      "c": "PC",
-      "img": ""
     },
     {
       "t": "Steam: 5 jogos ótimos em desconto para você comprar agora",
@@ -155,24 +187,6 @@
       "img": "https://sm.ign.com/ign_br/news/p/phantom-bl/phantom-blade-zero-day-one-update-brings-performance-improve_f581.jpg"
     },
     {
-      "t": "Mercado Livre faz queima de monitores gamers com até 50% OFF",
-      "d": "Uma ótima oportunidade para dar aquele upgrade no setup gamer sem gastar tanto!",
-      "link": "https://br.ign.com/descontos/157186/mercado-livre-faz-queima-de-monitores-gamers-com-ate-50-off",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-30T15:05:20.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/shutterstock-2600671161_g1f3.jpg"
-    },
-    {
-      "t": "A Capcom não vai abandonar Resident Evil, mas a história principal pode ser concluída nos próximos 10 anos, segundo um produtor",
-      "d": "Fitas de tinta infinitas?",
-      "link": "https://br.ign.com/resident-evil-requiem/157183/a-capcom-nao-vai-abandonar-resident-evil-mas-a-historia-principal-pode-ser-concluida-nos-proximos-10",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-30T14:34:44.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/c/capcom-isn/capcom-isnt-scrapping-resident-evil-but-mainline-story-could_rttt.jpg"
-    },
-    {
       "t": "Epic Games Store traz jogo de corrida grátis no Android",
       "d": "A Epic Games Store liberou um jogo de corrida bem divertido de graça para os aparelhos com Android no Brasil. Confira qual é!",
       "link": "https://flowgames.gg/epic-games-store-traz-jogo-de-corrida-gratis-android/",
@@ -216,15 +230,6 @@
       "data": "2026-10-30T12:54:00.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/05/109616-1.jpg"
-    },
-    {
-      "t": "Eiji Aonuma revela que membros da equipe por trás do remake de The Legend of Zelda: Ocarina of Time nunca jogaram o game original — e isso é fantástico",
-      "d": "Produtor defende que os membros mais jovens da equipe foram cruciais para adaptar alguns elementos no remake Eiji Aonuma, produtor da série Zelda na Nintendo, afirmou que alguns dos membros mais...",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157181/eiji-aonuma-revela-que-membros-da-equipe-por-tras-do-remake-de-the-legend-of-zelda-ocarina-of-time-n",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-30T12:38:35.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/image/4/40-changes/40-changes-we-noticed-in-the-zelda-ocarina-of-time-remake-ga_m62u.jpg"
     },
     {
       "t": "Steam libera jogo com ótimas avaliações de graça por 24 horas! Resgate agora (30)",
@@ -390,7 +395,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3521,
+      "views": 3520,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -438,7 +443,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20237,
+      "views": 20238,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -470,7 +475,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3088,
+      "views": 3089,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -2024,6 +2029,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0c0.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/unharvest"
+    },
+    {
+      "t": "Cozy Island Cleaner",
+      "data": "2026-12-07",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7nq.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/cozy-island-cleaner"
     },
     {
       "t": "The Glued",
@@ -4687,16 +4702,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ssl.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/the-blue-cut-hook"
-    },
-    {
-      "t": "Vikings Dynasty",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9snq.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/vikings-dynasty"
     }
   ],
   "musicas": []
