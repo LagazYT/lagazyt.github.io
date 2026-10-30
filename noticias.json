@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-10-30T18:44:26.246Z",
+  "atualizadoEm": "2026-10-30T19:14:36.079Z",
   "noticias": [
+    {
+      "t": "Vitória sedia torneios de games na Prisma Arena",
+      "d": "&nbsp;&nbsp; ES Brasil",
+      "link": "https://esbrasil.com.br/torneios-de-games-vitoria-prisma-arena/",
+      "fonte": "ES Brasil",
+      "data": "2026-10-30T19:08:17.000Z",
+      "c": "Geral",
+      "img": "https://cdn.esbrasil.com.br/wp-content/uploads/2026/10/vitoria-torneios-games-prisma-arena-160819.webp",
+      "orig": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sNmw2RlRjcHJmdm85cDN6a1RoTDNiNUtHNmQzdlk5NXpTeWhseEN1ckxqOE1CS2lGWi1lSm5yM19kSXRGdmR4UU5jMXZmMHlvRkxfLVpid2wwOExENVoyZ25LSkdLd3dSQWFnbjAyUkU?oc=5"
+    },
+    {
+      "t": "Maricá Games 2026 tem 10 dias de atrações grátis",
+      "d": "&nbsp;&nbsp; Jornal O Fluminense",
+      "link": "https://ofluminense.com.br/marica-games-2026-esports-kpop-cosplay-gratuito/",
+      "fonte": "Jornal O Fluminense",
+      "data": "2026-10-30T18:54:00.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHNRRzBfVDZxT1l5VUVZZG1ub3RBYVloN2hHRFNxbXBtdllhb3ZRMmhrZEZxUWZXeDMzYXZLMzlvVmc0R2hySFV0QU1UaHo1LTI3Q3Q1QUZfNWdwZkVTNFp1ZDZDeU81TW1wNXdQVkE1Sm1PS2dnTDZUWHFJM3ZrVw?oc=5"
+    },
     {
       "t": "John Romero diz que jogo cancelado pelo Xbox ganhou nova publicadora e foi redesenhado para equipe menor",
       "d": "&nbsp;&nbsp; R7 Entretenimento",
@@ -57,26 +77,6 @@
       "data": "2026-10-30T18:04:23.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/gallery/t/the-suicid/the-suicide-squad-who-lives-who-dies_y5p6.jpg"
-    },
-    {
-      "t": "Novembro 2026: Os 10 Jogos Mais Aguardados do Mês",
-      "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://alternativanerd.com.br/games/novembro-2026-os-10-jogos-mais-aguardados-do-mes/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-10-30T18:03:35.000Z",
-      "c": "Geral",
-      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/04/AN_GTA-6.webp",
-      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOXzZmbnd0WUFZcUJRQmtKRlE4YnJjTUdmY1VZdDI4Ym11Wk9GV0JtNDhkVHc1b3V3a2xITm94MWRKdlZYSjk0d0ExVEh0NkRuWDhfcjBNN1V4eHUwLW43aTEwajFVekdMV0NSdU14cHkzNVNiX21sOUhrbWFPTW1tRDdzNXhLS0Z2aF91VWVHcw?oc=5"
-    },
-    {
-      "t": "BioWare teria fechado pela EA preferir apostar em Star Wars",
-      "d": "&nbsp;&nbsp; Flow Games",
-      "link": "https://flowgames.gg/bioware-fechou-ea-prefere-apostar-em-star-wars/",
-      "fonte": "Flow Games",
-      "data": "2026-10-30T18:01:25.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/10/Star-Wars-Battlefront-2.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1bXNDUU9jemRWZ05sOHM1T295ekV0N1VWUmlvVTdZNW92UFc1eEFaaU5uWW5pdVRKbnZ0QXBIeDBlSGl0VVJTdGxVeXpYMFh5M21rbS0weGhPb19sbFZ2ZEE4SkZ6czNQek9PemNYTnc0VDZtMnpR?oc=5"
     },
     {
       "t": "CEO da OpenAI, Sam Altman acha que é “péssimo” você ter memória RAM no seu PC para jogos",
@@ -250,6 +250,16 @@
       "img": "https://www.estadao.com.br/resizer/v2/CBNAMX7Q6NMARDU7EX27X3KDHY.jpg?quality=80&auth=39a5414e0414230a9684578f58a68a6043ce42cdef3cc80c5bc2a45cc355bb26&width=710"
     },
     {
+      "t": "Preço das GPUs dispara 35% em três meses; RTX 5090 já custa US$ 9.400 nos EUA",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/nvidia/preco-das-gpus-dispara-35-em-tres-meses-rtx-5090-aumenta/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-30T02:37:00.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbzR1SXZWdlMxd2VQc3dtNWlhaGdyZ2xsU0RDeUhyNjgzLTF4aFJwMG5pV1hRaWE2eU1jd2lzOE42VUhCbWdfMUE4SGx5elRTekR6TXR3SWI5M2lfLUQ1TkZrNE5YZU9EamZOUENON1VqeGpZcUlmQ3NxanBvMGpGOFhVYVZoNXZIbXRkb3hQejY3ZnZRSmJ1Mnh3?oc=5"
+    },
+    {
       "t": "Pragmata e mais games de PS5 e PS4 com até 90% OFF",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/pragmata-e-mais-games-de-ps5-e-ps4-com-ate-90-off/",
@@ -267,15 +277,6 @@
       "c": "Lançamentos",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQjB2VTdJLVVja1pOMVo1OG5EUkxldnFKVktKdXNPVFJnZzRFWXdDM2RINXBfZFc1NzEteEk3ZjBYVk1pcUFBTnRVTDBxbjRhdXpWanBDdkphZEdkVDFCdVlOZ0JPWGNHZDdSUEFOZUUtenJ4a1hCd0ZLb1dxWkw5Q2VsbTh4TDJEblpFVHVpaEF1QQ?oc=5"
-    },
-    {
-      "t": "Patrick Stewart: confira 9 jogos que o ator britânico participou",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/patrick-stewart-confira-9-jogos-que-o-ator-britanico-participou/",
-      "fonte": "TecMundo",
-      "data": "2026-10-29T20:48:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/S4WYDMXADFD35A4Z7V2HJRMDQM.jpg?quality=80&auth=b4da656a022fa7b2b068ef6f83a7806d6eb6114e9d907d33c2258a2219f6121e&width=1150"
     }
   ],
   "videos": [
