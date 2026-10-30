@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T07:34:33.288Z",
+  "atualizadoEm": "2026-10-30T08:04:42.149Z",
   "noticias": [
     {
       "t": "NÃO ESQUEÇA NESTA SEXTA: Epic Games Store solta o jogo Sorry We're Closed de graça",
@@ -4398,7 +4398,9 @@
       "t": "Moonbrella",
       "data": "2026-12-31",
       "plats": [
-        "PC"
+        "Xbox",
+        "PC",
+        "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coajga.jpg",
       "hype": 1,
