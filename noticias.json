@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-29T23:31:26.829Z",
+  "atualizadoEm": "2026-10-30T00:01:40.402Z",
   "noticias": [
     {
       "t": "Rockstar Games e Justice anunciam o álbum Grand Theft Auto VI: Original Score",
@@ -490,89 +490,6 @@
     }
   ],
   "lancamentos": [
-    {
-      "t": "Queen's Domain",
-      "data": "2026-10-30",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coay8v.jpg",
-      "hype": 14,
-      "link": "https://www.igdb.com/games/queens-domain"
-    },
-    {
-      "t": "Rogue Jungle",
-      "data": "2026-10-30",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8tix.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/rogue-jungle"
-    },
-    {
-      "t": "Solar Voltage",
-      "data": "2026-10-30",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8lar.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/solar-voltage"
-    },
-    {
-      "t": "Bobo and the Chest of Nightmares",
-      "data": "2026-10-30",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocjh6.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/bobo-and-the-chest-of-nightmares"
-    },
-    {
-      "t": "Rat Game",
-      "data": "2026-10-30",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7hq.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/rat-game"
-    },
-    {
-      "t": "Silberheim Evolving Card Game",
-      "data": "2026-10-30",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocx3d.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/silberheim-evolving-card-game"
-    },
-    {
-      "t": "Zenden",
-      "data": "2026-10-30",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod29u.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/zenden"
-    },
-    {
-      "t": "The Graves Vigil",
-      "data": "2026-10-30",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod10w.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/the-graves-vigil"
-    },
     {
       "t": "Baptiste",
       "data": "2026-10-31",
@@ -4701,6 +4618,89 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9qie.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/questing"
+    },
+    {
+      "t": "The Spirit Engine DX",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ql4.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/the-spirit-engine-dx"
+    },
+    {
+      "t": "The Shadow Syndicate",
+      "data": "2026-12-31",
+      "plats": [
+        "Xbox",
+        "Switch 2",
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rbr.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/the-shadow-syndicate"
+    },
+    {
+      "t": "Project; Virai: Doomer's Life Escape",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rr1.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/project-virai-doomers-life-escape"
+    },
+    {
+      "t": "Exovia",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc18q.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/exovia"
+    },
+    {
+      "t": "World of Dogs",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9skg.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/world-of-dogs"
+    },
+    {
+      "t": "The Blue Cut Hook",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ssl.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/the-blue-cut-hook"
+    },
+    {
+      "t": "Vikings Dynasty",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9snq.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/vikings-dynasty"
+    },
+    {
+      "t": "Bloodstone Rising",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9u7b.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/bloodstone-rising"
     }
   ],
   "musicas": []
