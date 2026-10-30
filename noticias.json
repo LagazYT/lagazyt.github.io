@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-10-30T03:02:52.920Z",
+  "atualizadoEm": "2026-10-30T03:33:00.145Z",
   "noticias": [
     {
       "t": "Monitor gamer de 300 Hz e 0,3 ms ganha 40% de desconto com cupom exclusivo para membros Prime",
@@ -151,16 +151,6 @@
       "img": "https://sm.ign.com/ign_br/news/s/sir-patric/sir-patrick-stewart-dead-at-86_8vuz.jpg"
     },
     {
-      "t": "Steam recebe jogos gratuitos para resgate por tempo limitado",
-      "d": "&nbsp;&nbsp; Gameplayscassi",
-      "link": "https://gameplayscassi.com.br/videos/steam-recebe-jogos-gratuitos-para-resgate-por-tempo-limitado/135056/",
-      "fonte": "Gameplayscassi",
-      "data": "2026-10-29T19:50:28.000Z",
-      "c": "Ofertas",
-      "img": "https://gameplayscassi.com.br/wp-content/uploads/2026/10/maxresdefault-18.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUm5TaENaQVBrcE1SSFBoUVRHTmJNSmxKM1JvR3dvNTI2Njl6el9tUEFfZ1FuN0tmSk9WR3o3NHpIVTUzUDJ0MGtWUm9vTFQ0Y3JBbHlYS3EtNWp3X3hldko5dFlDbnFMYWltRXZMUEgtY3NSTlhQbERKRF9EcW9UWTJUaE1mRkducEZUZTQzdHRfY0xheHpkMkUwaF9BankzdkV3MVB2bC0?oc=5"
-    },
-    {
       "t": "Steam libera jogo grátis para fãs de quebra-cabeça geométrico",
       "d": "&nbsp;&nbsp; TudoCelular.com",
       "link": "https://www.tudocelular.com/jogos/noticias/n266123/steam-jogo-gratis-29102026.html",
@@ -279,6 +269,15 @@
       "data": "2026-10-29T14:40:36.000Z",
       "c": "Lançamentos",
       "img": "https://www.youtube.com/embed/z-AV1E9KRpM"
+    },
+    {
+      "t": "Steam: os 10 jogos mais vendidos da semana",
+      "d": "Nesta semana, a lista de jogos mais vendidos pela Steam mudou bastante tanto no Brasil quanto no resto do mundo. Confira!",
+      "link": "https://flowgames.gg/steam-os-10-jogos-mais-vendidos-da-semana/",
+      "fonte": "Flow Games",
+      "data": "2026-10-29T13:58:35.000Z",
+      "c": "PC",
+      "img": "https://flowgames.gg/wp-content/uploads/2024/05/download-2-1-1.webp"
     }
   ],
   "videos": [
@@ -446,7 +445,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20223,
+      "views": 20227,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
