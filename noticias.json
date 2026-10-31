@@ -1,6 +1,55 @@
 {
-  "atualizadoEm": "2026-10-31T17:54:38.736Z",
+  "atualizadoEm": "2026-10-31T18:24:46.772Z",
   "noticias": [
+    {
+      "t": "Xbox Game Pass recebe Final Fantasy VII Remake e mais jogos esta semana! Veja os lançamentos (31)",
+      "d": "&nbsp;&nbsp; Estadão",
+      "link": "https://www.estadao.com.br/em-alta/tecmundo/voxel/xbox-game-pass-recebe-final-fantasy-vii-remake-e-mais-jogos-esta-semana-veja-os-lancamentos-31/",
+      "fonte": "Estadão",
+      "data": "2026-10-31T18:23:54.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/AZNCN74E5NAZVEWIYACHFMOGAY.jpg?quality=80&auth=bbae1ecf88ec4709adf51f6f35821aef9c866aaf1bb1f8c94acf91fd67320941&width=1200&height=630&smart=true",
+      "orig": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQblBsSDlYd0c2UlRLdEpiUlUxUkpWaDdqZGVFZUhvUXhqY1VBcm41S0JuQ0poNkZIU3VWZ08ydlRsRDg5ZnFzRHd0S29GRnNBTEctS0tGTGVwVHRVeE43MkZuVUNaMTVOQVNXeDRVN1Z0bW11R25VRFpPM2xSbHo0Y0ltUXpqbkVDUldtVjl6UlB3WEpVX1BERUpoTU9JYnJwajNEc2I4RkgzMzVTMEQ5Y0Y1Mmk2dktncVVnSjhtWVJSWE9Ma1lld3laeTlsa19sZXNnWkVVRHN1X3ZuVXc?oc=5"
+    },
+    {
+      "t": "Veja os lançamentos da PlayStation Store entre 1º e 7 de novembro de 2026",
+      "d": "&nbsp;&nbsp; Game Overdrive",
+      "link": "https://gameoverdrive.com.br/ps-store-lancamentos-1-a-7-novembro-2026/",
+      "fonte": "Game Overdrive",
+      "data": "2026-10-31T18:10:12.000Z",
+      "c": "Consoles",
+      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/10/3343383600d18558af22419d4025ce21d3d1c2a6924a0e51-1600x900.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pWkFlN0U4dkJtMlVEVzJhZklqNUFEbU5KMzZORHNNWkVYY0JmclJvSy1ndm5WemwwWEdhNWNSZkRjYkNrQl9JNUd1bjV4VlNQWW9qaEJBdmVtcVJQaDcxOFZDc0N2ZE45ZDdjNWZSelpoVW9iWUJrMWdB?oc=5"
+    },
+    {
+      "t": "Pikmin recebe Nintendo Direct para o Pikmin Day",
+      "d": "&nbsp;&nbsp; Nintendo Blast",
+      "link": "https://www.nintendoblast.com.br/2026/10/pikmin-recebe-nintendo-direct-para-o-pikmin-day.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-10-31T18:07:08.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0xKNW56by1iSDVrOGtNZ2VTdGR0M0lsTl8yZnlqeEtnMVN2aGtVNlpQbGw3bFRfQ1NNLWNnaXpiWmJfVUFXR0tMQ1hTOGpSMWtWN2dZY3htQ29BLWczWHA4YkItZXZiQWRWa25yUi0yd3Q1dWViNzM2UGtNbW8wM2RxRlAxMkpWdlFwQUFsXzU0cEJTcmhlNw?oc=5"
+    },
+    {
+      "t": "Especial Halloween: veja 6 filmes de terror para se borrar de medo",
+      "d": "Veja indicações de filmes para curtir na noite de Halloween",
+      "link": "https://flowgames.gg/halloween-6-filmes-de-terror-para-se-borrar-de-medo/",
+      "fonte": "Flow Games",
+      "data": "2026-10-31T18:00:40.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/3rz8a6mY1Lo"
+    },
+    {
+      "t": "Festival geek em Goiânia terá cosplay, K-pop, games e R$ 15 mil em prêmios",
+      "d": "&nbsp;&nbsp; Curta Mais - Goiânia",
+      "link": "https://curtamais.com.br/goiania/festival-geek-em-goiania/",
+      "fonte": "Curta Mais - Goiânia",
+      "data": "2026-10-31T17:56:31.000Z",
+      "c": "Geral",
+      "img": "https://curtamais.com.br/goiania/wp-content/uploads/sites/2/2026/10/creditos-acervo-ages-10-1793449959.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcFlqdHJ6VXIwMWdoMklOMkRNaGhvOWFmdDBSS01xMHpVQ1ZLbTFFS3U1S25CdXFpSGRTM21RU3VPT0g0NlBaUlA3N1UzSDZFWnVQeW9OSVhCT3NnYXNPcDJiQm9XRFR1Vmc?oc=5"
+    },
     {
       "t": "Japão | Weekly Famitsu No. 1969 – Top 10 jogos mais aguardados pelos leitores",
       "d": "&nbsp;&nbsp; Universo Nintendo",
@@ -19,46 +68,6 @@
       "data": "2026-10-31T17:00:33.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/a1_9rqb.jpg"
-    },
-    {
-      "t": "10 melhores edições limitadas do PlayStation já lançadas",
-      "d": "&nbsp;&nbsp; Canaltech",
-      "link": "https://canaltech.com.br/games/playstation-melhores-edicoes-limitadas/",
-      "fonte": "Canaltech",
-      "data": "2026-10-31T17:00:02.000Z",
-      "c": "Consoles",
-      "img": "https://tl.ctcdn.com.br/4_esVNaE4mU6LAhA9kvBeyYQPbg=/1200x675/smart/filters:format(webp):quality(85)/4d46b7c1-20ac-46f0-8d8d-eeab68f01c94.png",
-      "orig": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zUDZCTDM1OXBjSTZaUkczdEpjbHBpLThlLXVnN3ptZjRYUGxld2FPczY1Ul9LaFk5N08za0ZvWFZwX1k1bjgyTjRyUDdpV190ajZ3Uk9rbjVyWVNIV3ZRcXlhM0dVY1hWa0RDRzZQYkVuLVM5eGkxczRR?oc=5"
-    },
-    {
-      "t": "Mbappé será “apagado” de videogames em versão para a China",
-      "d": "&nbsp;&nbsp; Clube FM Brasil",
-      "link": "https://clube.fm/noticias/mbappe-sera-apagado-de-videogames-em-versao-para-a-china",
-      "fonte": "Clube FM Brasil",
-      "data": "2026-10-31T17:00:00.000Z",
-      "c": "Geral",
-      "img": "https://clube.fm/api/media/file/HT4j9T-XEAAIbl5.webp",
-      "orig": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSF8zaVVOb0hOZEJrQUtCQVJjbGdCd3dDQnVER2tvek54a2JsekxwSTdja2Y3a2dfbjFEX2dhbk5sblZHazJydkVMSG80eUNmdS1mTlNsbDdYc0ZvWjQ2NjNqV0Q4ZDZtOW1kV1VNN05QVk1VakFFMW5yWVc4a0cteVVhWGpsODI0aEE?oc=5"
-    },
-    {
-      "t": "Conan Exiles Enhanced e Aloft estão chegando ao PlayStation 5",
-      "d": "&nbsp;&nbsp; Os Garotos de Liverpool",
-      "link": "https://www.osgarotosdeliverpool.com.br/2026/10/conan-exiles-enhanced-e-aloft-estao.html",
-      "fonte": "Os Garotos de Liverpool",
-      "data": "2026-10-31T17:00:00.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdENqLTI4TFMtc3ZnOHU2ck5takk3WWlBWEhoOUNtbEVLa1hyUHJmTUxDZFE1ZlVqY09PWUZLNjJHcE1TcHZtOEYxaFdvZzc0VXpnaUlBSzBDOTYzdmxDOTVLWThITFpYTlJPdDNRUnBIWFhrU1JEQ1NleEdSSzd1X1F2U190akYybmVlY01qQXU3QQ?oc=5"
-    },
-    {
-      "t": "10 Horror Games Worth Playing on Switch 2",
-      "d": "&nbsp;&nbsp; IMDb",
-      "link": "https://www.imdb.com/pt/news/ni66089020/?ref_",
-      "fonte": "IMDb",
-      "data": "2026-10-31T16:53:44.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mUllycXUwVWEwV2pXSi15SEVZYXVUYnBtVm02aU1WVWYxOGJCSmJ2TElkU3hLRTYxcTRjRWg4WVRMVm05YWdsem9NLWFHMnVacHQ5V0dZQXRYNlRGOHN0Zm9WODdTVEZ3Ql9N?oc=5"
     },
     {
       "t": "The Last of Us, Resident Evil e mais: 5 jogos do PS Plus e Game Pass para aproveitar o Halloween",
@@ -267,15 +276,6 @@
       "data": "2026-10-30T16:18:40.000Z",
       "c": "Ofertas",
       "img": "https://www.youtube.com/embed/n0R7BmfpD7k"
-    },
-    {
-      "t": "Jogo do X-Men deve ter diversos personagens jogáveis",
-      "d": "De acordo com vaga de emprego da Insomniac, jogo do X-Men deve ter diversos heróis jogáveis",
-      "link": "https://flowgames.gg/jogo-do-x-men-deve-ter-diversos-personagens-jogaveis/",
-      "fonte": "Flow Games",
-      "data": "2026-10-30T15:30:53.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/10/image-90.jpg"
     }
   ],
   "videos": [
@@ -483,7 +483,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3589,
+      "views": 3588,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -885,7 +885,7 @@
         "Switch 2"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv5r.jpg",
-      "hype": 79,
+      "hype": 80,
       "link": "https://www.igdb.com/games/the-legend-of-zelda-ocarina-of-time--1"
     },
     {
@@ -956,7 +956,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbi7.jpg",
-      "hype": 12,
+      "hype": 13,
       "link": "https://www.igdb.com/games/casualties-unknown"
     },
     {
