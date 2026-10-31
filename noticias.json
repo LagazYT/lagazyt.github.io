@@ -1,6 +1,24 @@
 {
-  "atualizadoEm": "2026-10-31T16:24:09.345Z",
+  "atualizadoEm": "2026-10-31T16:54:19.072Z",
   "noticias": [
+    {
+      "t": "The Last of Us, Resident Evil e mais: 5 jogos do PS Plus e Game Pass para aproveitar o Halloween",
+      "d": "Gostosuras ou travessuras?",
+      "link": "https://br.ign.com/the-last-of-us-part-ii-remastered/157215/the-last-of-us-resident-evil-e-mais-5-jogos-do-ps-plus-e-game-pass-para-aproveitar-o-halloween",
+      "fonte": "IGN Brasil",
+      "data": "2026-10-31T16:33:27.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/the-last-ii_fbdg.jpg"
+    },
+    {
+      "t": "GTA San Andreas e Need for Speed Most Wanted viram um jogo só em novo mod! Confira o resultado",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-san-andreas-e-need-for-speed-most-wanted-viram-um-jogo-so-em-novo-mod-confira-o-resultado/",
+      "fonte": "TecMundo",
+      "data": "2026-10-31T16:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/WG43QLBNNBB7BC6WU25HA7BFUA.jpg?quality=80&auth=7b33d862efb2c7d700918877093b2111578261422064ee536202c673f39c166e&width=710"
+    },
     {
       "t": "Pikmin: Nintendo anuncia feriado oficial e novidades no Switch 2",
       "d": "&nbsp;&nbsp; Última Ficha",
@@ -235,15 +253,6 @@
       "img": "https://sm.ign.com/ign_br/news/j/james-gunn/james-gunn-says-it-wont-be-too-long-before-dcu-batman-is-cas_3vqc.jpg"
     },
     {
-      "t": "James Gunn afirma que Arlequina acabará entrando para o Universo Cinematográfico da DC e que, se Margot Robbie quiser interpretá-la, ele “fará de tudo para explicar isso nesse mundo”",
-      "d": "“É a Margot quem tem que decidir se ‘Esquadrão Suicida’ faz parte do cânone ou não” James Gunn abordou a situação em relação à interpretada e muito querida Arlequina de Margot Robbie, e se ela faz...",
-      "link": "https://br.ign.com/esquadrao-suicida/157199/james-gunn-afirma-que-arlequina-acabara-entrando-para-o-universo-cinematografico-da-dc-e-que-se-marg",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-30T18:04:23.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/j/james-gunn/james-gunn-says-harley-quinn-will-join-the-dcu-eventually-an_dcz3.jpg"
-    },
-    {
       "t": "Crimson Desert: como acessar DLC Charting the Unknown?",
       "d": "Confirmado: para acessar o DLC Charting the Unknown de Crimson Desert é necessário terminar a campanha",
       "link": "https://flowgames.gg/crimson-desert-como-acessar-dlc-charting-the-unknown/",
@@ -269,15 +278,6 @@
       "data": "2026-10-30T17:48:25.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/10/Star-Wars-Battlefront-2.jpg"
-    },
-    {
-      "t": "Steam: 5 jogos ótimos em desconto para você comprar agora",
-      "d": "O Flow Games preparou uma lista com 5 jogos excelentes que estão em oferta na Steam. Veja quais são!",
-      "link": "https://flowgames.gg/steam-5-jogos-otimos-em-desconto-voce-comprar-agora/",
-      "fonte": "Flow Games",
-      "data": "2026-10-30T16:18:40.000Z",
-      "c": "Ofertas",
-      "img": "https://www.youtube.com/embed/n0R7BmfpD7k"
     }
   ],
   "videos": [
@@ -485,32 +485,12 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3588,
+      "views": 3589,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
   ],
   "lancamentos": [
-    {
-      "t": "Light of Atlantis",
-      "data": "2026-11-01",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafqo.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/light-of-atlantis"
-    },
-    {
-      "t": "Pozionista",
-      "data": "2026-11-01",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8kem.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/pozionista"
-    },
     {
       "t": "Demon Bluff",
       "data": "2026-11-01",
@@ -520,16 +500,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxv9.jpg",
       "hype": 8,
       "link": "https://www.igdb.com/games/demon-bluff"
-    },
-    {
-      "t": "Trifolium: The Adventures of Gary Pretzelneck",
-      "data": "2026-11-01",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coak15.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/trifolium-the-adventures-of-gary-pretzelneck"
     },
     {
       "t": "Alchemortis",
@@ -1560,6 +1530,16 @@
       "link": "https://www.igdb.com/games/lord-of-undead"
     },
     {
+      "t": "Light of Atlantis",
+      "data": "2026-11-24",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafqo.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/light-of-atlantis"
+    },
+    {
       "t": "Gothic 3 Classic",
       "data": "2026-11-24",
       "plats": [
@@ -1946,6 +1926,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6oq.jpg",
       "hype": 58,
       "link": "https://www.igdb.com/games/acts-of-blood"
+    },
+    {
+      "t": "Trifolium: The Adventures of Gary Pretzelneck",
+      "data": "2026-12-04",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coak15.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/trifolium-the-adventures-of-gary-pretzelneck"
     },
     {
       "t": "King's Haven",
@@ -4699,6 +4689,17 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8mw.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/bunny-rampage-history-of-revenge"
+    },
+    {
+      "t": "Shape Sender Deluxe",
+      "data": "2026-12-31",
+      "plats": [
+        "PC",
+        "Switch"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y7c.jpg",
+      "hype": 4,
+      "link": "https://www.igdb.com/games/shape-sender-deluxe"
     }
   ],
   "musicas": []
