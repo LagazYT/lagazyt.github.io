@@ -1,14 +1,25 @@
 {
-  "atualizadoEm": "2026-11-01T21:54:24.123Z",
+  "atualizadoEm": "2026-11-01T22:24:35.357Z",
   "noticias": [
     {
       "t": "Criador de Doom retoma jogo cancelado pela Xbox após encontrar nova publisher",
       "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43QmJ5cjl1dU9ZZjY3ZS1iOE9xa25BTDlnMElVa3lnRFpMTTdqT1JZSkd5YS1aR2tuRnpLcVhuSEN0OTcyRG9mek44MWQzcmJaTHRUM0gtQlg4Q0k0eHBYdFllcnRPc05wSXBTeXIwY3JEckIwczB6SG9oTQ?oc=5",
+      "link": "https://www.adrenaline.com.br/games/criador-doom-john-romero-novo-jogo/",
       "fonte": "Adrenaline",
       "data": "2026-11-01T21:09:00.000Z",
       "c": "Consoles",
-      "img": ""
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43QmJ5cjl1dU9ZZjY3ZS1iOE9xa25BTDlnMElVa3lnRFpMTTdqT1JZSkd5YS1aR2tuRnpLcVhuSEN0OTcyRG9mek44MWQzcmJaTHRUM0gtQlg4Q0k0eHBYdFllcnRPc05wSXBTeXIwY3JEckIwczB6SG9oTQ?oc=5"
+    },
+    {
+      "t": "Cronograma para as próximas manutenções da Nintendo – Nintendo eShop",
+      "d": "&nbsp;&nbsp; Universo Nintendo",
+      "link": "https://universonintendo.com/cronograma-para-as-proximas-manutencoes-da-nintendo-nintendo-eshop/",
+      "fonte": "Universo Nintendo",
+      "data": "2026-11-01T20:59:50.000Z",
+      "c": "Consoles",
+      "img": "https://universonintendo.com/wp-content/uploads/2025/04/Manutencao-Ntdo.png",
+      "orig": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEFlUlMtaHFNT3RHRkZlN3piYjRBa0ZFVWlXN3JHWXN3MDU1cVFoWFYyQ3A0WVFvWDhYaFA2NkZrSVRIdVgwTEVMVUxuNUd4ZG1kVkxoZDU1dmxSTDFVUEwyRV9pRlBkV0t1UFNiY3l6N1o3bXFvTTMyUUdmMnFNa2hJVDVXclFZYW1NRFpqejdaOS00ancyOGlKTU8?oc=5"
     },
     {
       "t": "Dois jogos terão seus servidores desativados no Xbox e outras plataformas em breve",
@@ -19,6 +30,16 @@
       "c": "Consoles",
       "img": "https://centralxbox.com.br/wp-content/uploads/2023/02/unnamed-2.jpg",
       "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVVI4VG41OGJnU1lvdldwVTlqeW9jWVpxNXY1WGpIbjluNF84NDlFRGdIWE9NcHAyRmdIX05LclpEX0tkZEVxbGlyWDRWbHA5SnY3eUJ6cXVLLXNjU3pMQUw2NWpIT2FQaHk4a1BnR2dhV1ZWa3dyRHRpQlFRZVJoUGtFSTZpdURvTzNHVVdUb1dUQ0J5TE9wTERZenFCMDJqczZENXBFUHJmX0V4R1ozMnMtcTd5SFBjZUdVNTZB?oc=5"
+    },
+    {
+      "t": "ENIX Revela Lineup de Peso com THQ Nordic e 505 Games: A Expo Gratuita que Você Joga!",
+      "d": "&nbsp;&nbsp; Gamerscore Brasil",
+      "link": "https://www.gamerscore.com.br/enix-revela-lineup-de-peso-com-thq-nordic-e-505-games-a-expo-gratuita-que-voce-joga/",
+      "fonte": "Gamerscore Brasil",
+      "data": "2026-11-01T20:01:08.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.gamerscore.com.br/wp-content/uploads/2025/11/Endix-.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdlBpZWt1eXR6UE5TZ3lfUjJMX19CdlBhY2xlS2NMZ1RBcGphZHFnNGZZY1h5Q3BTVU5uVWswaFdqbk4wWnJRWlFDemJ0Mk8tZmNtZlVMdGVaVFZCd2hMSmwtV2ZzVlBiSEx1Z0tnT2JHSWdLNV9MRWl2Rm02dThwdDVZaUFnb3VUS2NJQnJFNGxfQUU0aTVSMjJHX1B2elVaY1h0YTM2SjRpam1qMGV2bF9iSVU?oc=5"
     },
     {
       "t": "GTA Vice City ganha o MELHOR mod de gráficos e mecânicas",
@@ -38,25 +59,6 @@
       "c": "Consoles",
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWdr3Gixf5AJBCja6uYae88T01xgFIk3bgoRJAdrl8pmmeygHbem7RDMZAci2k_9fo0mjR4ERO_PmXdL7D7SvZeQ2sVpevq-UboB_EvI0b8eYUCUgVpr7KmgsgDXj_eDqcfFe_RXRlSBOAXne7s0xMiKo2oS289XHxc9j9dp5Ajc-DMu8M6kxuqknaZESL/w1200-h630-p-k-no-nu/photo-output.jpeg",
       "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMHAxWm5GS0EwbUZjdVM0RVRpSUNfRXZ3QzMwRWN0OFY4NTV3dmlIcFhZVkRTWi0tWFdXRnJNYXc4c0I4emlZREdYWS0xUDFybkVsNEF6RkhqUEJsb002SzlSMzRNRlVpWkwzRzJvQmROaGRsUm9yZDFiZjdyekE5SXJWZlJyc2dHSmYxU0YwSTRDWW5yeVJicXo2VjZGS1pl?oc=5"
-    },
-    {
-      "t": "Confira o calendário de lançamentos de games para o mês de novembro de 2026",
-      "d": "&nbsp;&nbsp; GameBlast",
-      "link": "https://www.gameblast.com.br/2026/10/lancamentos-calendario-jogos-novembro.html",
-      "fonte": "GameBlast",
-      "data": "2026-11-01T19:02:26.000Z",
-      "c": "Lançamentos",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvgIJwWvFG5cAnC0010NAXCNolOoWA9W3SidvSSlxWOEvqmWdjfXHWcLFbS5V8PB-Hz1sXU0uAR4kNobOTqy8E9_Aj1b580WTiXLqdqGr2t-4Qh1Z9WkYLX0ShbWoFaGu5m0_KpdsvTHR9HjiCoaOdBBK3NOtnGPL7q3-yZfHfKHnOeYxeQ4sBtEohWNZr/w1200-h630-p-k-no-nu/Capa-novembro-jogos-2026.png",
-      "orig": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUF0bFgta2tWU19VbW9pTjlpRlFuajB2MWZER3B6UjhqNHY3Q0dwenVRYUk1TE1icGpfWjkya3NPZ2VNRmJhamJldFdfS252ZlI0RGZxeGd0M0kyMmY3QmxkVENNQWFCYVdmRUhzMHFnRDhGYmp4ZmEyTjlVYmo3UU83TmdFQQ?oc=5"
-    },
-    {
-      "t": "Sony quer ampliar preços inteligentes na PlayStation Store",
-      "d": "&nbsp;&nbsp; Game Overdrive",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFUzc3ZWgtZTBXNGpiVml6TWFKZFZ0U2pMLWFBVjFVSWFlNUNCSE43cEduQTQ2alM2WnRrM3RqNVVHR1pzWmJUVGVDMWRQdlZfY0lOVURlX2hSSGtNQ3dKSllLdVVua2d4cjg2SWZmZXpfNDBTaWR3UE9CU2Q?oc=5",
-      "fonte": "Game Overdrive",
-      "data": "2026-11-01T18:36:23.000Z",
-      "c": "Consoles",
-      "img": ""
     },
     {
       "t": "Os filmes que estreiam nos cinemas do Brasil em novembro",
@@ -290,7 +292,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8155,
+      "views": 8157,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -394,7 +396,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3531,
+      "views": 3532,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -474,7 +476,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3093,
+      "views": 3096,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -482,7 +484,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3600,
+      "views": 3602,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -1318,16 +1320,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocl4a.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/satelital"
-    },
-    {
-      "t": "10 Million Pixels",
-      "data": "2026-11-13",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7ys.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/10-million-pixels"
     },
     {
       "t": "Dice Hoarder",
@@ -4704,6 +4696,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vo9.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/infinite-alliance"
+    },
+    {
+      "t": "Grinville",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobx02.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/grinville"
     }
   ],
   "musicas": []
