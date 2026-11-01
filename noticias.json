@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-01T04:28:07.221Z",
+  "atualizadoEm": "2026-11-01T04:58:17.166Z",
   "noticias": [
+    {
+      "t": "Gears of War: E-Day tropeça nas vendas e acende alerta vermelho sobre exclusividades do Xbox",
+      "d": "&nbsp;&nbsp; radiogeekbr.com.br",
+      "link": "https://radiogeekbr.com.br/gears-of-war-e-day-alerta-exclusividade-xbox/",
+      "fonte": "radiogeekbr.com.br",
+      "data": "2026-11-01T04:10:49.000Z",
+      "c": "Consoles",
+      "img": "https://radiogeekbr.com.br/wp-content/uploads/2026/10/radiogeekbr-1793500854.png",
+      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NSXZJNGRTTmx2U1h0alRheWFzSnl0MWM0bzY2WkR5cUI2VER6NXdSNVM2b2ZtdXdaenpENDNjeHo4Sk8wRG9hMklUSjE2TFp6TDJzZDZvNm9FUG92Tk9oQmdOanMwMGVfTUFOTUFTazF3SEFDbUUxcHRwQWI?oc=5"
+    },
     {
       "t": "Datamining aponta detalhes sobre o app Nintendo GameCube – Nintendo Classics",
       "d": "&nbsp;&nbsp; Universo Nintendo",
@@ -43,13 +53,12 @@
     },
     {
       "t": "Headset CloudX Stinger Core para Xbox está com o menor preço da web na Amazon",
-      "d": "&nbsp;&nbsp; IGN Brasil",
+      "d": "Headset gamer tem drivers de 40 mm, microfone ajustável e conexão direta ao controle",
       "link": "https://br.ign.com/descontos/157219/headset-cloudx-stinger-core-para-xbox-esta-com-o-menor-preco-da-web-na-amazon",
       "fonte": "IGN Brasil",
-      "data": "2026-11-01T00:24:15.000Z",
+      "data": "2026-11-01T00:22:41.000Z",
       "c": "Consoles",
-      "img": "https://sm.ign.com/t/ign_br/screenshot/default/hyperx-cloudx-stinger-core-capa-corrigida-1280x720_2fjw.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGdpd1JvR2NiMlFKdmdmLVp6WHBTNHFDb19kVFQzeVQxZDktNWxCU004VWhocll5U1BqMmthSXUyWG5ickNxb2s5V0dKMmZqaC03bHdmdGxwT3dlTXZ6eGR5RkNiNGk2Q3V3d2xERnpGTjFRLVB1cFB5blMzODh5Zi1PUzR6WFFEUkpoUjVCaDlOaGVLX21GX0FKRlJ1cDFxTzFER0M0QVdENFJUUTdOeWgwQQ?oc=5"
+      "img": "https://sm.ign.com/ign_br/screenshot/default/hyperx-cloudx-stinger-core-capa-corrigida-1280x720_2fjw.jpg"
     },
     {
       "t": "7 melhores jogos de Pokémon fora dos consoles portáteis",
@@ -269,15 +278,6 @@
       "data": "2026-10-30T22:30:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/DKZGALGPCJNGNA6H7VLDYFCTNY.jpg?quality=80&auth=c3193361f1e526d00f273d07a05b5e23ff40647304386b9cfe1d4e42db18e09c&width=710"
-    },
-    {
-      "t": "Todos os lançamentos de jogos de novembro de 2026",
-      "d": "Veja a lista com todos os lançamentos de games em novembro de 2026",
-      "link": "https://flowgames.gg/lancamentos-de-novembro-de-2026-lista-de-jogos/",
-      "fonte": "Flow Games",
-      "data": "2026-10-30T20:45:52.000Z",
-      "c": "Lançamentos",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/10/gta-6-novo-wallpaper.jpg"
     }
   ],
   "videos": [
@@ -421,7 +421,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 4004,
+      "views": 4006,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -445,7 +445,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20261,
+      "views": 20264,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -453,7 +453,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4277,
+      "views": 4278,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -485,7 +485,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3592,
+      "views": 3593,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
