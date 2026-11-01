@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T21:24:13.641Z",
+  "atualizadoEm": "2026-11-01T21:54:24.123Z",
   "noticias": [
     {
       "t": "Criador de Doom retoma jogo cancelado pela Xbox após encontrar nova publisher",
@@ -150,16 +150,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/a4258a95b0a26c5d-orig-3_sy9c.png"
     },
     {
-      "t": "Jogos da KONAMI em oferta na Nuuvem com até 80% de desconto",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-da-konami-em-oferta-na-nuuvem-com-ate-80-de-desconto/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-01T12:00:00.000Z",
-      "c": "Ofertas",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnNJbWRiRFF2cXVtcUs1VFg0RGVIdWhXcGM2cW9ic3JIWlJyRkdQbVAyWWVsTmhIczZYMGc1Nm1zckhDdmZUMG9iQ1ZBQkJNY180Z1NUVHVYZXpFOGRpTUxhc2RhdklTQmtPLXVaMWprVmgzNHVxTTUya1lFTmo3T3g4UGltZkNmNW94X3A4Q0FVamw4R2prWmI1THMxVnpQTjVWY0twZw?oc=5"
-    },
-    {
       "t": "De 8.322.051.050 pessoas no mundo, apenas 1 consegue jogar este jogo gratuito do Steam a cada minuto, e ele tem uma avaliação positiva de 96%",
       "d": "O grande trunfo dos videogames como forma de entretenimento é a experimentação",
       "link": "https://br.ign.com/steam/157222/de-8322051050-pessoas-no-mundo-apenas-1-consegue-jogar-este-jogo-gratuito-do-steam-a-cada-minuto-e-e",
@@ -276,6 +266,15 @@
       "data": "2026-10-31T18:00:40.000Z",
       "c": "Geral",
       "img": "https://www.youtube.com/embed/3rz8a6mY1Lo"
+    },
+    {
+      "t": "GTA San Andreas e Need for Speed Most Wanted viram um jogo só em novo mod! Confira o resultado",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-san-andreas-e-need-for-speed-most-wanted-viram-um-jogo-so-em-novo-mod-confira-o-resultado/",
+      "fonte": "TecMundo",
+      "data": "2026-10-31T16:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/WG43QLBNNBB7BC6WU25HA7BFUA.jpg?quality=80&auth=7b33d862efb2c7d700918877093b2111578261422064ee536202c673f39c166e&width=710"
     }
   ],
   "videos": [
