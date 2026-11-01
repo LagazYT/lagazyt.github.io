@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T05:58:33.262Z",
+  "atualizadoEm": "2026-11-01T06:28:40.840Z",
   "noticias": [
     {
       "t": "Gears of War: E-Day tropeça nas vendas e acende alerta vermelho sobre exclusividades do Xbox",
@@ -22,6 +22,16 @@
       "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTZNR0hxUVp1bVJEUHhLd3dfOEJYeHJnaWJEdDhpTTNrQlRiM04wMVduWl9femhKNVdRZWl5U211VEpDdHZlSDA4RE5ONGpiN0g1dVZEWDVudXVQQnhPLXJQWWR5Mms1cUhVOG1Kc21sdC1VeTV4YVVYa1J5aFo1ZWdjbTFwbTNaN2k2VFNLUGdWTENVOWdJM1NGU2laOTJULVluakRsYw?oc=5"
     },
     {
+      "t": "Perfil: Conde Drácula, o capataz dos monstros",
+      "d": "&nbsp;&nbsp; Nintendo Blast",
+      "link": "https://www.nintendoblast.com.br/2026/10/perfil-dracula-castlevania.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-11-01T02:12:23.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2MTQ1XzBmNlQ1N1VyZExQdzQzYkg1cl83MUx3d0JZc2REcVNGODVzZTRwNmhzZmttUlNRRnBZVnNURi04ZEV5akF0djBkVm1oMW0zSEd5clJPc0VxbTh1dWFMeEs1WGdCeVIwODdsa29JTU9Hc2wtUXBQeVM?oc=5"
+    },
+    {
       "t": "Elementos de Ícone baseados em Pikmin são disponibilizados",
       "d": "&nbsp;&nbsp; Universo Nintendo",
       "link": "https://universonintendo.com/elementos-de-icone-baseados-em-pikmin-sao-disponibilizados/",
@@ -40,16 +50,6 @@
       "c": "Ofertas",
       "img": "https://ovicio.com.br/wp-content/uploads/2026/03/20260306-ovicio-playstation-games.jpg",
       "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMTQxZTc1YTNJZHhkTTFsVHAzNnI5RXlVdnI0THZLTDB1V2hkUGNOUFVtVzlyY1pQcGZiei02bTAyVzRta0dsZzBKMTZ5c2NuUXR5RUlXY0dnYkRKakRTclhEbjhtemhrNGQ5TWFGazgxbUJVY08waDZsOHFMZVNMSVlrMlB0ZFN4MVBOelVtS1dCaE5LLXJsS3Nn0gGfAUFVX3lxTE9fZDZKMk8yYVpQUWJSYVdheEFzNXdUTnJvZXFQaXhBc1VEZktwUEtWVGZpNnRrQVVCT2hGTEpVQ3ItVHhTaVJKVm51QWZ0ektvTGg5T3RMU2VoeERPbTVpN1FHZTdxNjBZc0IwdXBYcFBVWFNaNTMxdXhIRUQwVVBIRzRFR0tUaFpqZDNSYlZMVDE1YjB0NjZwUmM3emZKUQ?oc=5"
-    },
-    {
-      "t": "Quais os principais lançamentos de games em novembro de 2026?",
-      "d": "&nbsp;&nbsp; O Vício",
-      "link": "https://ovicio.com.br/quais-os-principais-lancamentos-de-games-em-novembro-de-2026/",
-      "fonte": "O Vício",
-      "data": "2026-11-01T00:33:20.000Z",
-      "c": "Lançamentos",
-      "img": "https://ovicio.com.br/wp-content/uploads/2026/08/20260831-ovicio-gta-game.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaDNpdm1VaUl0dmJKSVctdmdOb002RFB2a205b1NITUtoLXhrbHB5dkJfcV8wblBnZGJVaFptRFhodmhiaVl4QVNFT1QxNEhoel9KaDR4MXN2Z1FDV2szWGUxdVRtTUZGQXpTNkpScERjNXEzeF9qWGNfSHk0OFo3UTNKYjVrOUpkWnh3?oc=5"
     },
     {
       "t": "Headset CloudX Stinger Core para Xbox está com o menor preço da web na Amazon",
@@ -261,14 +261,14 @@
       "img": "https://www.estadao.com.br/resizer/v2/5WX3B6RY4JACNIPLMHTSNVH7SM.jpg?quality=80&auth=5fcc32f512232452c173fbd2326551f7e293c14c00622ddd189faa7c445f9bef&width=710"
     },
     {
-      "t": "Steam recebe mais um jogo gratuito para resgate por tempo limitado",
-      "d": "&nbsp;&nbsp; Gameplayscassi",
-      "link": "https://gameplayscassi.com.br/videos/steam-recebe-mais-um-jogo-gratuito-para-resgate-por-tempo-limitado/135182/",
-      "fonte": "Gameplayscassi",
-      "data": "2026-10-30T23:24:11.000Z",
+      "t": "Jogos em oferta na Steam por menos de R$ 20; até 90% de desconto",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-em-oferta-na-steam-por-menos-de-r-20-ate-90-de-desconto/",
+      "fonte": "Adrenaline",
+      "data": "2026-10-30T23:00:00.000Z",
       "c": "Ofertas",
-      "img": "https://gameplayscassi.com.br/wp-content/uploads/2026/10/maxresdefault-19.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlZkbjJQSUttT1UyVE55TlRJWFdwcmY5VnR5a3JfZll5ajJEbGphSklXMGM5TmlQRkcyUHdubFdOamZtOUZvU2liQy1QUUlHMjNKUmdXRElKdzVNMDVyQk1FZEtJaTVXV29wbFo0RDJXRlFEVEtEeU5DaWh4VFlkcE5qZk8wR3FjenJFSVJnUlVzdWRBVldXVjhkRmlaSC1MN0FvN2tKSkpIdER1b2VFYQ?oc=5"
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdHNYT2VwSFVQQm5uUHRsR2ZkYkY5T3F1bXM3VjRHckRVRlN0N1pvTUNSTnRyZWdCTFFDMkp3S0ExU2hlTXRFTTVSQU9fVVktX1NIcGNDcFpJZmFiLS1BUDFfR2Vqd19ycTJ1SXNyeDZGUDNWU194UW9rVnR0MFhMeUFtQlpYSi1FMFFwOUhmRW1BQVVtbHdpRElHaGJHd3AzTTNUdFE1MVNPN3M?oc=5"
     },
     {
       "t": "Resident Evil Requiem e mais jogos para Switch com até 90% OFF na eShop",
@@ -397,7 +397,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3526,
+      "views": 3524,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -453,7 +453,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4279,
+      "views": 4278,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -485,7 +485,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3595,
+      "views": 3593,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
