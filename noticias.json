@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-01T05:28:24.770Z",
+  "atualizadoEm": "2026-11-01T05:58:33.262Z",
   "noticias": [
     {
       "t": "Gears of War: E-Day tropeça nas vendas e acende alerta vermelho sobre exclusividades do Xbox",
@@ -397,7 +397,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3524,
+      "views": 3526,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -453,7 +453,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4278,
+      "views": 4279,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -485,7 +485,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3593,
+      "views": 3595,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -723,6 +723,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxj2.jpg",
       "hype": 10,
       "link": "https://www.igdb.com/games/world-of-warcraft-forever"
+    },
+    {
+      "t": "Rip It! Card Collector",
+      "data": "2026-11-04",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocyyt.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/rip-it-card-collector"
     },
     {
       "t": "Airframe Ultra",
@@ -2411,16 +2421,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4bv1.jpg",
       "hype": 42,
       "link": "https://www.igdb.com/games/showa-american-story"
-    },
-    {
-      "t": "Mars Tactics",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co937l.jpg",
-      "hype": 4,
-      "link": "https://www.igdb.com/games/mars-tactics"
     },
     {
       "t": "Ardenfall",
