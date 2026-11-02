@@ -1,6 +1,45 @@
 {
-  "atualizadoEm": "2026-11-02T10:29:17.372Z",
+  "atualizadoEm": "2026-11-02T11:25:41.587Z",
   "noticias": [
+    {
+      "t": "Tenebris Somnia: Pixel Art e Filmes de Terror se Encontram no Xbox e PC Sem Usar IA",
+      "d": "&nbsp;&nbsp; Gamerscore Brasil",
+      "link": "https://www.gamerscore.com.br/tenebris-somnia-pixel-art-e-filmes-de-terror-se-encontram-no-xbox-e-pc-sem-usar-ia/",
+      "fonte": "Gamerscore Brasil",
+      "data": "2026-11-02T11:01:55.000Z",
+      "c": "PC",
+      "img": "https://www.gamerscore.com.br/wp-content/uploads/2026/09/Tenebris-Somnia.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1daLTBOM1E3eENMVHd2SVJGV0lXY2tTNTlCWTcyTTJOOXdZenNWbGo2Ui1YeFowc0tURDlXaFFQTTYxUzQ5SnZiYm1MUUw2eGE1Q2tBTjgyUDVoOElMQUlEUmd4X3c0ajFBX3dFZEZfSzJSZFNtcE5BYm43aEJxZjN2Wmg1c3kyUmJSUzhRX1h0SDEwRUk4eE5KSzFOQWlueHhlVEU0MzJYdE9xY00xQTBlcw?oc=5"
+    },
+    {
+      "t": "O Senhor dos Anéis: Por que o poderoso Balrog está escondido sob Moria? Por trás disso está a maior guerra da história da Terra-média",
+      "d": "Nas profundezas da cidade anã de Khazad-dûm habita um Balrog de poder inimaginável. Mas o que na Terra-média poderia ser forte o suficiente para aterrorizar até mesmo esse demônio? Os Balrogs da...",
+      "link": "https://br.ign.com/o-senhor-dos-aneis/157227/o-senhor-dos-aneis-por-que-o-poderoso-balrog-esta-escondido-sob-moria-por-tras-disso-esta-a-maior-gu",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-02T11:00:35.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/der-herr-der-ringe-balrog-moria-krieg-des-zorns-6446029_xkzp.png"
+    },
+    {
+      "t": "A lógica dos videogames pode ser uma grande aliada para engajar os alunos",
+      "d": "&nbsp;&nbsp; O Liberal",
+      "link": "https://liberal.com.br/mais/bem-estar/a-logica-dos-videogames-pode-ser-uma-grande-aliada-para-engajar-os-alunos",
+      "fonte": "O Liberal",
+      "data": "2026-11-02T11:00:00.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEk1dTNJZVBDSEZONFBGYzNxYUxIVmpEQ183aXRBVmxFVExMYW5WbjhKUll2bmUzd1ZCQWotVTVONGxUY3VhaWpGVkh3Smw4bFJMbWNfTjdKeUN3eUZMeldXdG1kbVVwYkJUeEphdVpnXzdCMWs2NXpiTEE2NnZEcFdnTVFWQzVhdkpRcFZQeVJJVWxmMFREalpNWVJRV1h3Tk1CUEZ1RjZGLVVfQzBNUQ?oc=5"
+    },
+    {
+      "t": "Metroidvania ‘Primal Planet’ Chega ao PS5 e Xbox com Co-op de Dinossauro para Abraçar",
+      "d": "&nbsp;&nbsp; Gamerscore Brasil",
+      "link": "https://www.gamerscore.com.br/metroidvania-primal-planet-chega-ao-ps5-e-xbox-com-co-op-de-dinossauro-para-abracar/",
+      "fonte": "Gamerscore Brasil",
+      "data": "2026-11-02T10:31:07.000Z",
+      "c": "Consoles",
+      "img": "https://www.gamerscore.com.br/wp-content/uploads/2026/10/Primal-Planet.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdzdzWFY1bWxYNlpKZ0J2UjZiM25oMUdLM3JGZDdqekFmNmFiZjV4djl0MnFZWE5FWm1YYXU5eHM1YXJqSmFkaHFobTVsMnlaZ3JidFNMX2MzRWs1RGtfUW1VeTJTeTdkelBNd1NoSkZvSm5HY2kxX1djSW16YXhYbFdDQXpISlQ4RTZLQWI4QlRwZ3R5YXRuekVUUXk5a1V2dENOWHFmUEtwUUF1a181MHRvazY?oc=5"
+    },
     {
       "t": "De acordo com a psicologia, os millennials que ainda jogam videogame desenvolvem habilidades especiais — e essas habilidades podem trazer benefícios na terceira idade",
       "d": "&nbsp;&nbsp; IGN Brasil",
@@ -22,36 +61,6 @@
       "orig": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWmZoYkk0enczUVZYY2xBMFdkTXA0WEhFM3lKTUVveHZGazFodHUtRlZrM3ZlMjZrTjZ4d0M1MUlMdFUtOXZUUHJ4V0VZakhTcUFZM1E3Nnp2N3N6MXBmSkVBaGRoN0lEMGdRdzZJdGZhSWRfX0ZveWVPUEZqMTVrR0ZYUnNiNFk1ZDlNa3JKZ0ZObUtaU1FWaTJ1b3hyMUJUaDdmRVN3bHVldHdORkVMN19yTEJ2MHZqRGI0WURjcGw0dWlvZXkybGpqMWRETHFlQjJveQ?oc=5"
     },
     {
-      "t": "ChatGPT é processado após morte de mulher",
-      "d": "&nbsp;&nbsp; Folha PE",
-      "link": "https://www.folhape.com.br/colunistas/tecnologia-e-games/chatgpt-e-processado-apos-morte-de-mulher/60778/",
-      "fonte": "Folha PE",
-      "data": "2026-11-02T10:00:00.000Z",
-      "c": "Geral",
-      "img": "https://cdn.folhape.com.br/img/c/800/600/dn_arquivo/2026/11/whatsapp-image-2026-11-01-at-120851.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVJVM1FlSmVKQjNET3ZGdnpHRjN1c01Zb2xVZ0ZIQm1Ca1A3RkJBckdYOUh4cVJJYzB4QnVzSHZZQ0ZvVG9oQjc3WGhPclJsNnZaZGJQUUN0RzFKTVZhRFQ2MkY1bkJnTl85bmRUVktWbTZ5MktuTFQ4MG96OURjTk12OGh6N1YzNHJGMkp2VE9wYnVYQTNFVG9vUVFhUE9FZVBUQWFkSG8?oc=5"
-    },
-    {
-      "t": "Xbox já usa IA para criar jogos, diz Diretor",
-      "d": "&nbsp;&nbsp; MaisTecnologia",
-      "link": "https://www.maistecnologia.com/xbox-ja-usa-ia-para-criar-jogos-diz-diretor/",
-      "fonte": "MaisTecnologia",
-      "data": "2026-11-02T09:45:51.000Z",
-      "c": "Consoles",
-      "img": "https://www.maistecnologia.com/wp-content/uploads/2026/10/xbox-ja-usa-ia-para-criar-jogos-diz-gestor-maistecnologia.com.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb1l5TnpoQkUxc0JGeE5YZk96a2lmSnV3OTVnZXdnbGZVejNmbjhjMDJWaWJKOGdvLVpDQTJwQnZSbXoxRmFoTDlYc2lXOENpQ2NJREd1dGVZcldFSWE1TW9VWFJOcHI0d0hTWVA2anZGSlBZemFVVmZIaFZYREpVMw?oc=5"
-    },
-    {
-      "t": "Review | My Lovey-Dovey Demon",
-      "d": "&nbsp;&nbsp; NintendoBoy",
-      "link": "https://nintendoboy.com.br/2026/11/review-my-lovey-dovey-demon/",
-      "fonte": "NintendoBoy",
-      "data": "2026-11-02T09:28:45.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zdm1PVE1hc05BOXQ5Tk9FbDNVSmQyMnZaRFZoY0gxNlBvRm1EcjdocHY0X2JNN0E5RG55MVkyLXZRS01pZUdWMDR4M3pWMFA4VkxEbERpWWNuVnBzTVR2S1h5d0QyVFh6bkp1bFE1eWo?oc=5"
-    },
-    {
       "t": "A psicologia afirma que as pessoas que falam alto e, às vezes, gritam, não são agressivas; na verdade, elas sentem as emoções com mais intensidade do que as demais",
       "d": "Levantar a voz costuma ser associado à raiva ou à agressividade; a ciência, no entanto, vem estudando há anos como as emoções influenciam nossa maneira de falar de uma forma menos óbvia Com...",
       "link": "https://br.ign.com/tech/157201/a-psicologia-afirma-que-as-pessoas-que-falam-alto-e-as-vezes-gritam-nao-sao-agressivas-na-verdade-el",
@@ -59,6 +68,26 @@
       "data": "2026-11-02T09:00:35.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/1200-800_qwf4.jpg"
+    },
+    {
+      "t": "Amazon Prime oferece mais dois jogos para PC: tens até 2 de dezembro para os obter",
+      "d": "&nbsp;&nbsp; 4gnews",
+      "link": "https://4gnews.pt/amazon-prime-oferece-mais-dois-jogos-para-pc-tens-ate-2-de-dezembro-para-os-obter/",
+      "fonte": "4gnews",
+      "data": "2026-11-02T09:00:01.000Z",
+      "c": "PC",
+      "img": "https://cdn.4gnews.pt/imagens/amazon-prime-oferece-mais-dois-jogos-para-pc-tens-ate-2-de-dezembro-para-os-obter-og.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0R2UFUxSW1POGwyQ3o1Rl9oaFZDSzNBcGpHdnhrTE1oMUdJOFpRRUwwX005anExa04tdk54MEF5elhPeE1sZkNINWdER0hudlBsbTlYbk1EWTRxZmR3RXZOQVk2d09nNnBTNDJXcllHclNRQ1NjNXZtak1MbGZ6U3F4dXlDZVdnaWVudjU2ejJhU3hXNkN0SWdQWFBtck94UGc?oc=5"
+    },
+    {
+      "t": "A New Beginning para PC de graça hoje - resgate agora!",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/pc-games/a-new-beginning-para-pc-de-graca-hoje-resgate-agora/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-02T01:59:00.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRnBrRFhJODJPdHd2SHpsOFV0NjFMbTVBRGNvNkhDVklvbDlVM2d5U0l5WTNBdDFERzNFbWZWMVdPdjlKU2FsZ2RFVDBnbnVzcWloSWNhVkhtWl9sWXF3ZlBfUlJkNS1SVTk2dWtnYmlSZDdlQzJHZ2VrSjNVNlUxVFh4eTZuLWZOTUhrSVB6UzJkTXRzemlvN29HX2JyQQ?oc=5"
     },
     {
       "t": "The Legend of Zelda Ocarina of Time, WoW Forever e mais! Veja os lançamentos de games da semana",
@@ -86,6 +115,16 @@
       "data": "2026-11-01T20:00:18.000Z",
       "c": "Geral",
       "img": "https://www.youtube.com/embed/j_CgYBQM1N0"
+    },
+    {
+      "t": "Jogos de terror no Xbox Game Pass: 5 títulos assustadores para jogar no Halloween no console e PC",
+      "d": "&nbsp;&nbsp; Mix Vale",
+      "link": "https://www.mixvale.com.br/2026/11/01/jogos-de-terror-no-xbox-game-pass-5-titulos-assustadores-para-jogar-no-halloween-no-console-e-pc/",
+      "fonte": "Mix Vale",
+      "data": "2026-11-01T18:52:04.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZzdIVkJzVEpKMXNIdjFZeVJRUzJ3S1VhSFBveW01Nm5jQjhiaC15cE9sS2NrbmdCb19GNjAwNWZ6T05sTTl2bTIycXRDQThKbzR2OVBQTGQ5OW1RSENvd2F1Q19qblVoRkRvV0lMQ0RndVBoTUtmLWU0MHZjRkgxVWZXcEpzYkdXZHB5QjFjVEhsdFZVUndqZDFocVJXSE9OaHFaak5aOXRTbjlMNFR5SGlRenpybHdZM0pzTE82Rlo4enV5TW5ScVJ2emgtME1m?oc=5"
     },
     {
       "t": "Os filmes que estreiam nos cinemas do Brasil em novembro",
@@ -234,15 +273,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/7PTJVOTMO5INDO45CZPEOZGIQQ.jpg?quality=80&auth=db8ae37c9de405a042960d6363675d8276cbce68e139ee60bdb419ebd136fae6&width=710"
     },
     {
-      "t": "Amazon atualiza o Echo Dot: som mais forte, hub integrado e novo acabamento",
-      "d": "Chip AZ3, quarto microfone e sensores Omnisense chegam ao novo Echo Dot. Veja o que mudou em relação à geração anterior e confira o preço de R$ 819 na Amazon! Novo Echo Dot disponível para pré-venda!",
-      "link": "https://br.ign.com/descontos/157217/amazon-atualiza-o-echo-dot-som-mais-forte-hub-integrado-e-novo-acabamento",
-      "fonte": "IGN Brasil",
-      "data": "2026-10-31T22:15:30.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/ign-25_j6xv.jpg"
-    },
-    {
       "t": "Review: Tales of Eternia Remastered diverte, mas poderia ousar mais",
       "d": "O Tales of Eternia Remastered traz belos gráficos e diverte bastante, mas poderia contar com mais melhorias de vida",
       "link": "https://flowgames.gg/review-tales-of-eternia-remastered-diverte-ousar-mais/",
@@ -250,33 +280,6 @@
       "data": "2026-10-31T21:00:11.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/06/Tales-of-Eternia-Remastered.jpg"
-    },
-    {
-      "t": "Dead Space Remake tem maior problema corrigido… por fã",
-      "d": "Se você jogou Dead Space Remake no PC deve ter notado: stutterings aos montes, algo que foi corrigido agora",
-      "link": "https://flowgames.gg/dead-space-remake-tem-maior-problema-corrigido-por-fa/",
-      "fonte": "Flow Games",
-      "data": "2026-10-31T20:00:00.000Z",
-      "c": "PC",
-      "img": "https://flowgames.gg/wp-content/uploads/2023/10/image-2023-10-17T111416.375.jpg"
-    },
-    {
-      "t": "Xbox Game Pass recebe Final Fantasy VII Remake e mais jogos esta semana! Veja os lançamentos (31)",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-final-fantasy-vii-remake-e-mais-jogos-esta-semana-veja-os-lancamentos-31/",
-      "fonte": "TecMundo",
-      "data": "2026-10-31T18:15:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/AZNCN74E5NAZVEWIYACHFMOGAY.jpg?quality=80&auth=bbae1ecf88ec4709adf51f6f35821aef9c866aaf1bb1f8c94acf91fd67320941&width=710"
-    },
-    {
-      "t": "Especial Halloween: veja 6 filmes de terror para se borrar de medo",
-      "d": "Veja indicações de filmes para curtir na noite de Halloween",
-      "link": "https://flowgames.gg/halloween-6-filmes-de-terror-para-se-borrar-de-medo/",
-      "fonte": "Flow Games",
-      "data": "2026-10-31T18:00:40.000Z",
-      "c": "Geral",
-      "img": "https://www.youtube.com/embed/3rz8a6mY1Lo"
     }
   ],
   "videos": [
