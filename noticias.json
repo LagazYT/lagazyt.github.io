@@ -1,25 +1,73 @@
 {
-  "atualizadoEm": "2026-11-02T11:55:51.522Z",
+  "atualizadoEm": "2026-11-02T12:26:00.547Z",
   "noticias": [
     {
-      "t": "Todos os jogos do Xbox Game Pass de outubro de 2026! Confira lista de lançamentos",
-      "d": "&nbsp;&nbsp; Jornal dos Jogos | Substack",
-      "link": "https://newsletter.jornaldosjogos.com.br/p/xbox-game-pass-jogos-de-novembro",
-      "fonte": "Jornal dos Jogos | Substack",
-      "data": "2026-11-02T11:36:58.000Z",
+      "t": "Adeus: estes 14 jogos sairão do Xbox Game Pass na metade do mês – 15 de novembro",
+      "d": "&nbsp;&nbsp; Central Xbox",
+      "link": "https://centralxbox.com.br/2026/11/02/adeus-estes-14-jogos-sairao-do-xbox-game-pass-na-metade-do-mes-15-de-novembro/",
+      "fonte": "Central Xbox",
+      "data": "2026-11-02T12:18:28.000Z",
       "c": "Consoles",
-      "img": "https://substackcdn.com/image/fetch/$s_!Pb2p!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fa06e65-8987-40ff-ad5c-d9c66cf55650_2560x1440.png",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ1BZSUlrWFpPRTl1OW9mUGc5UUI2Q1lPWXh4MmJxOENqQnhUcmV4TlMyY1BGXzF3bzhCN0JHdHpFVncyNE1MWTZfWURjajl5SUN2ZHhIMWl3ZnliNkJWblQ0OTVYYUx6V3NSTmVRMFkybHRHWXRyQ1FFMkYtVUw0Vg?oc=5"
+      "img": "https://centralxbox.com.br/wp-content/uploads/2024/09/Game-Pass.webp",
+      "orig": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1FGSTRhRjNHd1VfVXBWZnhfeTNxbkhVR0t6dkRWekJHMFB3QXN5ZGxTY1ZESG15MzZLUGhLSEM0NF94eXV0aldkYU03WEw2VjZ6bVRLRFhwVTFKRUw0dFdDYks2VXZ1b2Q2R3BndWtwSGZQRFpNZkpFbFJYaHpXZVlLZmtmZEFZZzdwUmE4OE9uZFNkQlpGWFJUTkhQTUhNaXZQM2tNOTFPZS1RcExyMkYtY2c3S28?oc=5"
     },
     {
-      "t": "Metaphor: ReFantazio: RPG da Atlus chega ao Nintendo Switch 2",
+      "t": "Atores de GTA 6 podem não ficar ricos mesmo com o jogo vendendo bilhões; entenda o motivo",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/atores-de-gta-6-podem-nao-ficar-ricos-mesmo-com-o-jogo-vendendo-bilhoes-entenda-o-motivo/",
+      "fonte": "TecMundo",
+      "data": "2026-11-02T12:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/CFHCAQ6RUFB3LGPYIWEFBXAYA4.jpg?quality=80&auth=dae5c425722f6561f8019848040f5b284311c74b3106ce465528ee902660400c&width=710"
+    },
+    {
+      "t": "GTA 6 e Zelda chegam em novembro e criam o “Barbenheimer” dos videogames",
+      "d": "&nbsp;&nbsp; ncnews.com.br",
+      "link": "https://ncnews.com.br/2026/11/02/gta-6-zelda-lancamentos-novembro/",
+      "fonte": "ncnews.com.br",
+      "data": "2026-11-02T12:09:23.000Z",
+      "c": "Lançamentos",
+      "img": "https://ncnews.com.br/app/uploads/2026/11/21d17919819cffebda2817f9b0110116c28568e0b6fa30a9778f1679271be809.webp",
+      "orig": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IZTd6clpyWUsyaXMtLWFSaC1aQTBUVG11cmJyWExrMDZ2Uk5qYnFacXBaV0FzaGxYbHBXUzRkYldhQ1lQbmtTMTlodmdOczhZY0F5SXB5TWVMVnAzd05yVlAzUjBlbHRSRk9lUF81VnF2Mkd1?oc=5"
+    },
+    {
+      "t": "Vai curtir o feriado em casa? 7 jogos gratuitos para aproveitar o tempo livre",
+      "d": "&nbsp;&nbsp; Fast Company Brasil",
+      "link": "https://fastcompanybrasil.com/games/vai-curtir-feriado-casa-7-jogos-gratuitos-para-aproveitar-tempo-livre/",
+      "fonte": "Fast Company Brasil",
+      "data": "2026-11-02T12:01:05.000Z",
+      "c": "Ofertas",
+      "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/10/jogos-feriado.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkZSSlNScUVtQzRNMnA1eERWdzFVNFdGOHF0SzVvYnpkQUZfMFlvSEV6M3U5UkNrNnMxWWVxd3NTLW54aUx5MEFvQkthclFnd0dnSHNvYVdxVEFwUTQyRjI4MHlabC1acmlidlYxMk9oV0xGQVlCeEZvT1M4X1JVYndsRjdwak0yMFhWd3BvU29zTDhVWFNtc1NNd2pFOUtvYXRXUUdhdjAtdw?oc=5"
+    },
+    {
+      "t": "“É One Piece!”: documento egípcio de 3.300 anos sugere a existência de gigantes, e os fãs de One Piece pensam imediatamente no anime",
+      "d": "Não é apenas o tamanho dessas pessoas gigantes no texto antigo que lembra aos fãs de One Piece a obra de Oda Não é apenas o tamanho dessas pessoas gigantes no texto antigo que lembra aos fãs de...",
+      "link": "https://br.ign.com/one-piece-2/157228/e-one-piece-documento-egipcio-de-3300-anos-sugere-a-existencia-de-gigantes-e-os-fas-de-one-piece-pen",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-02T12:00:34.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/onepiece-woogey-6400058_ddcy.png"
+    },
+    {
+      "t": "SONIC PICO PARK: o jogo cooperativo para até oito jogadores chega ao Nintendo Switch",
       "d": "&nbsp;&nbsp; Sortir à Paris",
-      "link": "https://www.sortiraparis.com/pt/o-que-fazer-em-paris/jogos-gaming/articles/356824-metaphor-refantazio-o-rpg-da-atlus-chega-ao-nintendo-switch-2",
+      "link": "https://www.sortiraparis.com/pt/o-que-fazer-em-paris/jogos-gaming/articles/356844-sonic-pico-park-o-jogo-cooperativo-para-ate-oito-jogadores-chega-ao-nintendo-switch",
       "fonte": "Sortir à Paris",
-      "data": "2026-11-02T11:15:30.000Z",
+      "data": "2026-11-02T11:37:55.000Z",
       "c": "Consoles",
-      "img": "https://cdn.sortiraparis.com/images/80/66131/1333248-metaphor-refantazio-le-rpg-d-atlus-debarque-sur-nintendo-switch-2.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeXJWX1dwZndKOGtMVWtvdnloWm5ZSUYyeG0xdVFSbmR3elRCb0FpZmlLazlULWM4a0xDQWxES3lta3JLRkMwZEtFcXQ5S3JTR0MtMzZ0OE1NdmtEUG8wRnc0VldPQUNfc0l5WnFQOWVUUjlmQkwzUXN2UFY1bURtQ2ZYX1NoYnpzSEJXTFcydVI0VFh1UjJVNDAwNFpxX29fQ3lxdGR4X0M3dUFOaks4RHFvZjRqYXVQQTRiV3NIQWFDSHJ2MGpQLVFNaVlFNHk2UTdFd0FReDg0X0E?oc=5"
+      "img": "https://cdn.sortiraparis.com/images/80/66131/1333264-sonic-pico-park-le-jeu-cooperatif-jusqu-a-huit-joueurs-sort-sur-nintendo-switch.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbHBFZVYwUVcycFRLWnIwaVhzTHk4c2s3Z2FUWVhHTDNEU2VQYmRWQmRoelVKSEJqNDFtNGNOVU5pUzRET25pZnhoQXdKaldvOWowUHBnRy1JNkFiZGljYnRGa0ZpempmYkRqdTgxWGt0SDVBM3BfMjk0aWU5dXlLWHpKa3FSN1BrS0NuQWlQRWhEYkVsOXo1REh6c2QxRDNvTVZyd0hVX2J5cU1DWVNwSU44eFFEUGVwM0FqZGZLX0ZhaExkaVh5SVljRmpLU1BrNVo5Tno2aS1sT0xiT0R6UEd3UXFjQ1ZPbDh6Q2w3UUg1WWU4WkIxdA?oc=5"
+    },
+    {
+      "t": "Jogos que saem do Xbox Game Pass em novembro de 2026",
+      "d": "&nbsp;&nbsp; games.gg",
+      "link": "https://games.gg/pt-BR/news/jogos-que-saem-do-xbox-game-pass-em-novembro-de-2026/",
+      "fonte": "games.gg",
+      "data": "2026-11-02T11:23:17.000Z",
+      "c": "Consoles",
+      "img": "https://assets.games.gg/Xbox_Game_Pass_afa78194d4.png",
+      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcFlDSGpOS3hucFZKcVgwZFlQeVRYeHRCMzQxX3BNSUtwclNYOUZzci1kVDk2ZXdRYVVHNGtPQkJQTVBWdFRnYjJBbTUtRVhNN2k0RHpHLVVmUml6dDBJdG03R0lwR2t4Y2VFQng2cTNlSW1ELU9YVUtfcTFyam1ES1EzUDB0UGFG?oc=5"
     },
     {
       "t": "O Senhor dos Anéis: Por que o poderoso Balrog está escondido sob Moria? Por trás disso está a maior guerra da história da Terra-média",
@@ -31,34 +79,13 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/der-herr-der-ringe-balrog-moria-krieg-des-zorns-6446029_xkzp.png"
     },
     {
-      "t": "A lógica dos videogames pode ser uma grande aliada para engajar os alunos",
-      "d": "&nbsp;&nbsp; O Liberal",
-      "link": "https://liberal.com.br/mais/bem-estar/a-logica-dos-videogames-pode-ser-uma-grande-aliada-para-engajar-os-alunos",
-      "fonte": "O Liberal",
-      "data": "2026-11-02T11:00:00.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEk1dTNJZVBDSEZONFBGYzNxYUxIVmpEQ183aXRBVmxFVExMYW5WbjhKUll2bmUzd1ZCQWotVTVONGxUY3VhaWpGVkh3Smw4bFJMbWNfTjdKeUN3eUZMeldXdG1kbVVwYkJUeEphdVpnXzdCMWs2NXpiTEE2NnZEcFdnTVFWQzVhdkpRcFZQeVJJVWxmMFREalpNWVJRV1h3Tk1CUEZ1RjZGLVVfQzBNUQ?oc=5"
-    },
-    {
-      "t": "Metroidvania ‘Primal Planet’ Chega ao PS5 e Xbox com Co-op de Dinossauro para Abraçar",
-      "d": "&nbsp;&nbsp; Gamerscore Brasil",
-      "link": "https://www.gamerscore.com.br/metroidvania-primal-planet-chega-ao-ps5-e-xbox-com-co-op-de-dinossauro-para-abracar/",
-      "fonte": "Gamerscore Brasil",
-      "data": "2026-11-02T10:31:07.000Z",
-      "c": "Consoles",
-      "img": "https://www.gamerscore.com.br/wp-content/uploads/2026/10/Primal-Planet.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdzdzWFY1bWxYNlpKZ0J2UjZiM25oMUdLM3JGZDdqekFmNmFiZjV4djl0MnFZWE5FWm1YYXU5eHM1YXJqSmFkaHFobTVsMnlaZ3JidFNMX2MzRWs1RGtfUW1VeTJTeTdkelBNd1NoSkZvSm5HY2kxX1djSW16YXhYbFdDQXpISlQ4RTZLQWI4QlRwZ3R5YXRuekVUUXk5a1V2dENOWHFmUEtwUUF1a181MHRvazY?oc=5"
-    },
-    {
       "t": "De acordo com a psicologia, os millennials que ainda jogam videogame desenvolvem habilidades especiais — e essas habilidades podem trazer benefícios na terceira idade",
-      "d": "&nbsp;&nbsp; IGN Brasil",
+      "d": "Lá se vai a ideia de que os videogames são uma perda de tempo: estudos sugerem que, por meio deles, também desenvolvemos uma importante reserva de energia na idade adulta “Você não está velho...",
       "link": "https://br.ign.com/games/157202/de-acordo-com-a-psicologia-os-millennials-que-ainda-jogam-videogame-desenvolvem-habilidades-especiai",
       "fonte": "IGN Brasil",
-      "data": "2026-11-02T10:04:15.000Z",
+      "data": "2026-11-02T10:00:36.000Z",
       "c": "Geral",
-      "img": "https://sm.ign.com/t/ign_br/screenshot/default/koop-zocken-ps4-controller-bild-pixabayusersjeshoots-com-264_2faf.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXNjZ0lIaFhzdjM0UU9NUTlROUxMZ1RwZEVFUUtUSHlXLVoxTUpfV0xiZVZEdF82OUZWYlhrc05uSGxVZkc2RUR4TVllcHM4Tjl3Yl84R09HOGRXOUE4NUQxdGtpTkoxOWFVWU5MSUs1Wk9DekJzSmZJZGh5ZzBaVGVuX05qdXZDTEhOY1hsSU5mVVJfLWlsWlFid0Vvc09tR19JbmtTc01LbURCY25JcS04VGE3bzQxTkl3NWFMQmJhMEM0bDZXb2JuRXY?oc=5"
+      "img": "https://sm.ign.com/ign_br/screenshot/default/koop-zocken-ps4-controller-bild-pixabayusersjeshoots-com-264_2faf.jpg"
     },
     {
       "t": "A psicologia afirma que as pessoas que falam alto e, às vezes, gritam, não são agressivas; na verdade, elas sentem as emoções com mais intensidade do que as demais",
@@ -115,6 +142,16 @@
       "data": "2026-11-01T20:00:18.000Z",
       "c": "Geral",
       "img": "https://www.youtube.com/embed/j_CgYBQM1N0"
+    },
+    {
+      "t": "Jogos de terror no Xbox Game Pass: 5 títulos assustadores para jogar no Halloween no console e PC",
+      "d": "&nbsp;&nbsp; Mix Vale",
+      "link": "https://www.mixvale.com.br/2026/11/01/jogos-de-terror-no-xbox-game-pass-5-titulos-assustadores-para-jogar-no-halloween-no-console-e-pc/",
+      "fonte": "Mix Vale",
+      "data": "2026-11-01T18:52:04.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZzdIVkJzVEpKMXNIdjFZeVJRUzJ3S1VhSFBveW01Nm5jQjhiaC15cE9sS2NrbmdCb19GNjAwNWZ6T05sTTl2bTIycXRDQThKbzR2OVBQTGQ5OW1RSENvd2F1Q19qblVoRkRvV0lMQ0RndVBoTUtmLWU0MHZjRkgxVWZXcEpzYkdXZHB5QjFjVEhsdFZVUndqZDFocVJXSE9OaHFaak5aOXRTbjlMNFR5SGlRenpybHdZM0pzTE82Rlo4enV5TW5ScVJ2emgtME1m?oc=5"
     },
     {
       "t": "Os filmes que estreiam nos cinemas do Brasil em novembro",
@@ -208,16 +245,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/a4258a95b0a26c5d-orig-3_sy9c.png"
     },
     {
-      "t": "Jogos da KONAMI em oferta na Nuuvem com até 80% de desconto",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-da-konami-em-oferta-na-nuuvem-com-ate-80-de-desconto/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-01T12:00:00.000Z",
-      "c": "Ofertas",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnNJbWRiRFF2cXVtcUs1VFg0RGVIdWhXcGM2cW9ic3JIWlJyRkdQbVAyWWVsTmhIczZYMGc1Nm1zckhDdmZUMG9iQ1ZBQkJNY180Z1NUVHVYZXpFOGRpTUxhc2RhdklTQmtPLXVaMWprVmgzNHVxTTUya1lFTmo3T3g4UGltZkNmNW94X3A4Q0FVamw4R2prWmI1THMxVnpQTjVWY0twZw?oc=5"
-    },
-    {
       "t": "De 8.322.051.050 pessoas no mundo, apenas 1 consegue jogar este jogo gratuito do Steam a cada minuto, e ele tem uma avaliação positiva de 96%",
       "d": "O grande trunfo dos videogames como forma de entretenimento é a experimentação",
       "link": "https://br.ign.com/steam/157222/de-8322051050-pessoas-no-mundo-apenas-1-consegue-jogar-este-jogo-gratuito-do-steam-a-cada-minuto-e-e",
@@ -245,15 +272,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/blob_hj3c.png"
     },
     {
-      "t": "Headset CloudX Stinger Core para Xbox está com o menor preço da web na Amazon",
-      "d": "Headset gamer tem drivers de 40 mm, microfone ajustável e conexão direta ao controle",
-      "link": "https://br.ign.com/descontos/157219/headset-cloudx-stinger-core-para-xbox-esta-com-o-menor-preco-da-web-na-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-01T00:22:41.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/hyperx-cloudx-stinger-core-capa-corrigida-1280x720_2fjw.jpg"
-    },
-    {
       "t": "7 melhores jogos de Pokémon fora dos consoles portáteis",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/7-jogos-de-pokemon-fora-dos-portateis-que-vale-conhecer/",
@@ -261,24 +279,6 @@
       "data": "2026-10-31T23:15:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/7PTJVOTMO5INDO45CZPEOZGIQQ.jpg?quality=80&auth=db8ae37c9de405a042960d6363675d8276cbce68e139ee60bdb419ebd136fae6&width=710"
-    },
-    {
-      "t": "Review: Tales of Eternia Remastered diverte, mas poderia ousar mais",
-      "d": "O Tales of Eternia Remastered traz belos gráficos e diverte bastante, mas poderia contar com mais melhorias de vida",
-      "link": "https://flowgames.gg/review-tales-of-eternia-remastered-diverte-ousar-mais/",
-      "fonte": "Flow Games",
-      "data": "2026-10-31T21:00:11.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/06/Tales-of-Eternia-Remastered.jpg"
-    },
-    {
-      "t": "Dead Space Remake tem maior problema corrigido… por fã",
-      "d": "Se você jogou Dead Space Remake no PC deve ter notado: stutterings aos montes, algo que foi corrigido agora",
-      "link": "https://flowgames.gg/dead-space-remake-tem-maior-problema-corrigido-por-fa/",
-      "fonte": "Flow Games",
-      "data": "2026-10-31T20:00:00.000Z",
-      "c": "PC",
-      "img": "https://flowgames.gg/wp-content/uploads/2023/10/image-2023-10-17T111416.375.jpg"
     }
   ],
   "videos": [
