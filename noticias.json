@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T22:38:53.121Z",
+  "atualizadoEm": "2026-11-03T23:09:00.858Z",
   "noticias": [
     {
       "t": "Games Box Scharlau reúne atletas em competição",
@@ -10,6 +10,15 @@
       "c": "Geral",
       "img": "https://midia.gruposinos.com.br/_midias/jpg/2026/11/03/box__1_-22954174.jpg",
       "orig": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2VKU3NqUEZvSHViN1R1UWNaUlJVM1B2T3kyRUpnY3BKNnhtUnpoak9kN21MaHZ1bDBaNV84RHpnQ0tad0VlUjI1VXgyOWpvdlp6c2RlUDZSdEFXRWg5VFZidndmekdHSXRYSnAwbjhWQU5hajFJTk91ZFM5NWJxX1RWS2RiZWs?oc=5"
+    },
+    {
+      "t": "Castlevania: Belmont’s Curse e mais jogos da Steam com até 95% OFF na Nuuvem; confira",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/castlevania-belmonts-curse-e-mais-jogos-da-steam-com-ate-95-off-na-nuuvem-confira/",
+      "fonte": "TecMundo",
+      "data": "2026-11-03T22:30:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/AA3RWYCBHRFRZNLYCMM34IJYPA.png?quality=80&auth=07e74e952addfbec749ac3b1c51bd54b65d145b42f7886da83c711e0649cbcfb&width=710"
     },
     {
       "t": "GTA 6 | Compra antecipada não garante download automático; saiba como preparar seu console",
@@ -96,16 +105,6 @@
       "c": "PC",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEMwNHFWZzlTblluSGY2aUZBX1JqWEhwU2hxUEdLYXgzUmprS2MtNEtvS3FBaFdqbEdKU0FpUkFnRWl0YlZ6eEhEd19BVjZTTkpTaDdCZEVLTHRWdEJxX3I3bzYzb1p0dVhOWkZ4WFRHMTBocDAtYjZDMVVzWHN2NlhBX0hGelRYZW40TnI3TWo3Y09Nc0dhV2xOLWRuZkpBaDF1SjZZdVp3Vldt?oc=5"
-    },
-    {
-      "t": "XBOX Game Pass revela os jogos da primeira leva de novembro",
-      "d": "&nbsp;&nbsp; Manual dos Games",
-      "link": "https://manualdosgames.com/xbox-game-pass-revela-jogos-novembro-26/",
-      "fonte": "Manual dos Games",
-      "data": "2026-11-03T20:17:28.000Z",
-      "c": "Consoles",
-      "img": "https://manualdosgames.com/wp-content/uploads/2025/10/Quer-assinar-o-Xbox-Game-Pass-pelo-valor-antigo.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QODlOdVFpZm44VHotaWNQSElqLXUwVVZodTRIaEQ0QVZUZTA0SGlxbEdJR09NSVNOaDMxVGVMam5DWTVlZ2htZS1VZENuaU81SU1zRDB1M1I3NW9IREJpM21BYzhhSjF4Xzl4em5RbURFUVVHV2c?oc=5"
     },
     {
       "t": "Lançamento em oferta! Bundle GTA VI + PS5 Slim Digital Pacote Astro Bot e Gran Turismo 7 surge na Black da Amazon",
@@ -294,7 +293,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8180,
+      "views": 8182,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -398,7 +397,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3533,
+      "views": 3535,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
