@@ -1,35 +1,82 @@
 {
-  "atualizadoEm": "2026-11-03T19:36:39.165Z",
+  "atualizadoEm": "2026-11-03T20:07:05.857Z",
   "noticias": [
     {
-      "t": "Marvel’s Guardians of the Galaxy: vídeo compara gráficos do Switch 2 com o PS5",
-      "d": "&nbsp;&nbsp; Nintendo Blast",
-      "link": "https://www.nintendoblast.com.br/2026/11/marvels-guardians-of-the-galaxy-video-compara-graficos-switch2-ps5.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-11-03T19:34:02.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR3pZdFFDd1U2Q00tODh1YjRGQ1NrLTJ5Tzk4QW1ad1FWM0pKclg2ZHQ4czZuSGRjQkJFeTRSclJyVXlUNmQ3TUJvZTFEV0swckFRYU9kQXViUW9tTGhKMFd2RVQzcG83Y0wyMTVMc3VNZnZGaVFOc3pvaTRxQm1hVTZ3NTJXYVVEbjFmU2tqNGdjMm5Icjg0SlRaMDdPcjMwRXlBRzNwTUhSNzBkTE0yOEN3?oc=5"
+      "t": "Vendas de Control Resonant superam expectativas da Remedy",
+      "d": "Control Resonant se torna o maior lançamento da Remedy",
+      "link": "https://flowgames.gg/vendas-control-resonant-superam-expectativas-remedy/",
+      "fonte": "Flow Games",
+      "data": "2026-11-03T20:01:24.000Z",
+      "c": "Lançamentos",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/08/ss_75b1cde9947eea89eed52cf8f6471683f2e666a9.1920x1080.jpg"
     },
     {
-      "t": "Nintendo abre o jogo e revela quem fez o remake de Ocarina of Time",
+      "t": "Hyperspace Neptunia: Unlimited confirma lançamento ocidental para consoles Nintendo",
+      "d": "&nbsp;&nbsp; Universo Nintendo",
+      "link": "https://universonintendo.com/hyperspace-neptunia-unlimited-confirma-lancamento-ocidental-para-consoles-nintendo/",
+      "fonte": "Universo Nintendo",
+      "data": "2026-11-03T19:59:03.000Z",
+      "c": "Consoles",
+      "img": "https://universonintendo.com/wp-content/uploads/2026/11/Hyperspace-Neptunia-Unlimited-ALT.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzhJblFHSi01MjJ5VTZBTmxVTUxHT1JyeTRWWExicDFEeEFPcVBXWEdYa2sxb0I3cDViVVJfTTVNZG9xUFB6N3kzQUhfM1MyaVFxV0V4VndkWFp2a1dLX2JIZG1PbUI1Y1Ztb0otdVBHWVRPZ3ZqSVo3OGJIUUJMNzZqVm1wLTRBbFlPWXdxM0k4QlVrVnFQNHMzaGxKVGp4bW1xTmV3MUp1WlctYXBVVFhB?oc=5"
+    },
+    {
+      "t": "Black Friday da PlayStation Store começa nesta quarta-feira (4) com descontos de até 75%",
+      "d": "&nbsp;&nbsp; www.jwave.com.br",
+      "link": "https://www.jwave.com.br/2026/11/black-friday-da-playstation-store-comeca-nesta-quarta-feira-4-com-descontos-de-ate-75/",
+      "fonte": "www.jwave.com.br",
+      "data": "2026-11-03T19:57:38.000Z",
+      "c": "Ofertas",
+      "img": "https://www.jwave.com.br/wp-content/uploads/2026/11/898a7beee722142bc02cda1d4cbf8de1a4b289a6-scaled-1.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYU9TdUpMVVBmd1A5XzB0U0Q1b2JwQzRhNnpiaHBiMXdQa0dudDRlSnZTZE4tTmFXU0ZYVFkzME5lNGVzSkxJWmNpOEw4V2R3dGxELU9DODBpSnZ4d1hKYjVVQTd1Q2lfbVVscjBrZWNBSy1NTnZqcW9fV2RMN3dxcmoyeXpkX1BwSXBScUtocTRoRHNuWmpZZDQ2QjcyZWxtd2xmbDNRcWZJOVFBVlJjRnRveVFtbkg3dllR?oc=5"
+    },
+    {
+      "t": "PlayStation Store celebra 20 anos com promoção especial e jogos que marcaram gerações",
+      "d": "&nbsp;&nbsp; jwave.com.br",
+      "link": "https://www.jwave.com.br/2026/11/playstation-store-celebra-20-anos-com-promocao-especial-e-jogos-que-marcaram-geracoes/",
+      "fonte": "jwave.com.br",
+      "data": "2026-11-03T19:48:54.000Z",
+      "c": "Ofertas",
+      "img": "https://www.jwave.com.br/wp-content/uploads/2026/11/d547f4bbcacd512a1acbb5e273a5939025f53a56-scaled-1.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2RldzZGS0tLOXg5eUplblNIWHVTdklRdkdJSTU5c0dTcnp4NE9oNENJRzdmZEVHVzRBV05qdXY2YUdLcTA2bW9SalVsYVRDc2ZsbEYtRWdDcmt5dkJpemticThwa0Ita05ONkZ5QTdJbVZnOXp1QVlVdFRNZkNIYThPckFSSzQ5ZUgzd1JRd1A0WjVaTVdNSTRBc0VVa2FtUWpSclhTMmliNEVrdXZpa2huOVpwSVZGODJJ?oc=5"
+    },
+    {
+      "t": "Sony copia XBOX e oferece até US$ 400 para recomprar PlayStation 5 usados",
       "d": "&nbsp;&nbsp; Canaltech",
-      "link": "https://canaltech.com.br/games/nintendo-abre-o-jogo-e-revela-quem-fez-o-remake-de-ocarina-of-time/",
+      "link": "https://canaltech.com.br/games/sony-copia-xbox-e-oferece-ate-us-400-para-recomprar-playstation-5-usados/",
       "fonte": "Canaltech",
-      "data": "2026-11-03T19:32:00.000Z",
+      "data": "2026-11-03T19:48:00.000Z",
       "c": "Consoles",
-      "img": "https://tl.ctcdn.com.br/SHVf5cox589FX9_nBSpaB3qwNw0=/1200x675/smart/filters:format(webp):quality(85)/4fec14ff-2524-4780-b592-7cd2c8c766d8.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV1RPb3Bpek9BS2RCd1B5dFRyNHlPTDcwandKcG1zRl9JNHJkQmFqeGdiUlpCNlRIWE1lQU5pRzZBcG0wZlVkZjNabUxaM2JRSU9HRVpTVzJkNkE3WEZ6M3JvQXpwQWVxUjI5anQxX2RDVDl6UWo3Mmg3bl8xcjRaWGk2cW9VVEN2VWFsbVdaam5HMElwNUM2bHRYQjRTUDg?oc=5"
+      "img": "https://tl.ctcdn.com.br/9PbQC_MsQQUiRzy_cYwKdUsgy3w=/1200x675/smart/filters:format(webp):quality(85)/8fe3e9ce-6aad-4df9-b125-3985a2e8d891.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUlZdmFyeHowRFRhM3NUdHhjNVdNdjVhNkVFNTEwVTI1ZWUxM0N5VXRNVnBaajgxNHF3R2dxMl9yYlBQblYzbUNka04xYS1KWUQ2N1djYVlydllvUWl5MGRCZ0p4TGF1RUNtbWNWMkUydTR6aWN0a2Vndk0xMFFjaWxFTjJjdjJ0Y0ZnaGdDR0VfQUVGVVVjU25ZOEpsNDFZQUxvblBBYw?oc=5"
     },
     {
-      "t": "Xbox Game Pass vai perder 14 jogos nesse mês de novembro; veja a lista",
-      "d": "&nbsp;&nbsp; Oficina da Net",
-      "link": "https://www.oficinadanet.com.br/games/73850-xbox-game-pass-perder-14-jogos-novembro",
-      "fonte": "Oficina da Net",
-      "data": "2026-11-03T19:29:00.000Z",
+      "t": "Xbox Game Pass anuncia primeira leva de jogos de novembro",
+      "d": "&nbsp;&nbsp; Pichau Arena",
+      "link": "https://www.pichauarena.com.br/games/xbox-game-pass-leva-jogos-novembro/",
+      "fonte": "Pichau Arena",
+      "data": "2026-11-03T19:41:31.000Z",
       "c": "Consoles",
-      "img": "https://www.oficinadanet.com.br/imagens/post/73850/xbox-game-pass-vai-perder-14-jogos-nesse-mes-de-novembro-veja-a-lista.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVlJlSzRwclkxMlZZT1ZGTG5nWV9OR1hSRjBDUVFSdk1nckdKMVphVU9XMEcxMjlLSlFyckZwSEtkMXh3bW1oNG5HYWdwNVhaYjhCTHpHbkJORFYxdWhKck82bi1JdnJkdzIxZ3k5Qk0zSTU3YjNucmdCSmplYldzOUNGR2tpUkt6RnJB?oc=5"
+      "img": "https://www.pichauarena.com.br/wp-content/uploads/2026/11/vammpire.webp",
+      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hNzBVMjU2MDdiN0M4QXFNNmlKV0ZjOVZGWnhTMkVGNGQwbFJtSkk5RXlXR0k1cjB4S2NmZFd3d2lBOUZJb3I4QVY5ckc2NUJJS0NvdC1PQlJLVDB4bzdlSmdkVGxQRTl4Zzg4ZzlYTGRfek81bFM4NFBRNGI?oc=5"
+    },
+    {
+      "t": "Zach Cregger afirma que ainda quer “ter uma participação” nas futuras sequências de Resident Evil",
+      "d": "“Não consigo deixar de ter uma ideia de para onde essa franquia — vou chamá-la de franquia — poderia ir”",
+      "link": "https://br.ign.com/resident-evil-2026/157284/zach-cregger-afirma-que-ainda-quer-ter-uma-participacao-nas-futuras-sequencias-de-resident-evil",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-03T19:40:18.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/z/zach-cregg/zach-cregger-says-he-still-wants-to-have-a-hand-in-future-re_k3k6.jpg"
+    },
+    {
+      "t": "\"Uma obra-prima, está no mesmo nível dos melhores faroestes da história\": Pérez-Reverte escolhe seu faroeste favorito de Clint Eastwood",
+      "d": "Conceituado novelista e jornalista espanhol é grande fã do estilo Velho Oeste Dentre os títulos de Clint Eastwood, Arturo Pérez-Reverte é apaixonado em um clássico do faroeste lançado em 1992.",
+      "link": "https://br.ign.com/cinema-tv/157275/uma-obra-prima-esta-no-mesmo-nivel-dos-melhores-faroestes-da-historia-perez-reverte-escolhe-seu-faro",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-03T19:31:46.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/1200-800_ba9g.jpg"
     },
     {
       "t": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (03)",
@@ -51,24 +98,13 @@
       "orig": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeHVIS3dVZnJ0cjQySjBzMk1JRy11YWVub3J0dzBzd3dORHRVODJ4Q0J3cDRUUFJSTFF3YmhEa0RJVmhxa0QwNGRsUjdXMFFCVm9odndnejVxRzRrbVE3dWRxdmU4dS1oR1lYQVlobVQ4WkUxeDhlbFM0WGVDYUlKZS1aT3h1bzNNTnE1SjdIamtSTWVxajN1RXRsN2V5eWJJcGJtV01XNnFfRTJ6ZVFWcE5UTFNRcXEzSVlfSUJfVDBKa1lza09mOFZUNFB2dw?oc=5"
     },
     {
-      "t": "Quanto custa o GTA 6 no Brasil? Veja os valores de cada edição",
-      "d": "&nbsp;&nbsp; Quero Bolsa",
-      "link": "https://querobolsa.com.br/revista/quanto-custa-gta-6-no-brasil",
-      "fonte": "Quero Bolsa",
-      "data": "2026-11-03T19:08:31.000Z",
-      "c": "Geral",
-      "img": "https://wordpress-cms-revista-prod-assets.quero.space/uploads/2026/11/quanto-custa-GTA-VI.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VZWV6d3ZDdjliZXZ3ZkFYVXgxc2VYbWlKa29UVG40MWV1Z1Q0dFcwd1dPUVhhcWdLV3BBMHMyTUZwVlItZ0tMVHp6R0lPWHZLVzRjN20yNkl6UnpIcU03TEhZVlZNdXZXM0xCSTNjZw?oc=5"
-    },
-    {
       "t": "Petit Planet confirma data de lançamento e anuncia versão para Nintendo Switch 2 em 2027",
-      "d": "&nbsp;&nbsp; IGN Brasil",
+      "d": "O primeiro aconchegante jogo de simulação de vida planetária da HoYoverse revela uma série de vizinhos, principais sistemas de jogabilidade e diversos eventos de lançamento com recompensas",
       "link": "https://br.ign.com/petit-planet/157277/petit-planet-confirma-data-de-lancamento-e-anuncia-versao-para-nintendo-switch-2-em-2027",
       "fonte": "IGN Brasil",
-      "data": "2026-11-03T19:06:11.000Z",
+      "data": "2026-11-03T19:03:18.000Z",
       "c": "Consoles",
-      "img": "https://sm.ign.com/t/ign_br/screenshot/default/blob_6fep.1200.png",
-      "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3A5a0xGRnJSTjlUY0Z3amJuZkExd0p2aVdWZTZhRzJsUExvNkZuSDEzVGRTMFI5b1RFUURjU1hXRkpjVko3WlRLcjNsNk5VNVIzS3p3Qm8xbTJrYklLVzJ3anpmRnEtOWJBdDhuMVd3cTIzT2xDMHM5cEdOcUQzbjA3VjdKaXdrdGVRaVlRaW5mNmRkV0p3LWNhNTUySXhacGRJdjg2c3p0Q1RVMkxNNk9YbDJLRl8wYUVmcGdpazA1RXdSRHc?oc=5"
+      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_6fep.png"
     },
     {
       "t": "The Elder Scrolls 6: Sentinel pode ter revelado seu nome oficial, mas a Bethesda diz que ainda vai \"levar um tempo até estarmos prontos para compartilhar mais\"",
@@ -162,24 +198,6 @@
       "img": "https://sm.ign.com/ign_br/gallery/d/dead-by-da/dead-by-daylight-10th-anniversary-broadcast-visual-overhaul_hpv4.jpg"
     },
     {
-      "t": "“Ao colaborar com um novo criador, normalmente analisamos minuciosamente seu conteúdo anterior\": desenvolvedora de Dead by Daylight pede desculpas e retira itens gratuitos da conta do streamer TheBurntPeanut",
-      "d": "O estúdio está “tomando as medidas cabíveis internamente”",
-      "link": "https://br.ign.com/dead-by-daylight/157268/ao-colaborar-com-um-novo-criador-normalmente-analisamos-minuciosamente-seu-conteudo-anterior-desenvo",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-03T17:37:28.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/news/d/dead-by-da/dead-by-daylight-developer-apologizes-again-removes-free-ite_nm3p.jpg"
-    },
-    {
-      "t": "DualSense Cinza Camuflado despenca de preço em oferta de Black Friday da Amazon",
-      "d": "Controle sem fio da Sony combina design camuflado em tons de cinza com recursos do DualSense, como resposta tátil e gatilhos adaptáveis",
-      "link": "https://br.ign.com/descontos/157263/dualsense-cinza-camuflado-despenca-de-preco-em-oferta-de-black-friday-da-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-03T17:10:27.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_rwjf.jpg"
-    },
-    {
       "t": "Blox Fruits: veja a lista de códigos no Roblox e saiba como resgatar",
       "d": "Atualizados periodicamente, códigos de Blox Fruits em Roblox rendem bônus de experiência e outros recursos",
       "link": "https://flowgames.gg/blox-fruits-lista-codigos-roblox-como-resgatar/",
@@ -260,24 +278,6 @@
       "data": "2026-11-03T14:46:05.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/10/GTA6Screen5-1024x576-1.jpg"
-    },
-    {
-      "t": "Anime Fighters Simulator: veja a lista de códigos e saiba como resgatar",
-      "d": "Pacote atualizado de códigos de Anime Fighters Simulator em Roblox rendem uma infinidade de recompensas",
-      "link": "https://flowgames.gg/anime-fighters-simulator-veja-resgate-lista-codigos/",
-      "fonte": "Flow Games",
-      "data": "2026-11-03T14:41:47.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2023/08/image-2023-08-11T142113.318.jpg"
-    },
-    {
-      "t": "Os filmes mais pirateados da semana via torrent (26/10 a 01/11)",
-      "d": "Veja quais são os 10 filmes que mais foram pirateados durante a última semana via torrent",
-      "link": "https://flowgames.gg/filmes-mais-pirateados-semana-via-torrent-26-10-01-11/",
-      "fonte": "Flow Games",
-      "data": "2026-11-03T14:36:08.000Z",
-      "c": "Geral",
-      "img": "https://www.youtube.com/embed/bwt2-nyEP0A"
     }
   ],
   "videos": [
