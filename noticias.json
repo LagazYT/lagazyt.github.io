@@ -1,55 +1,100 @@
 {
-  "atualizadoEm": "2026-11-03T13:33:08.775Z",
+  "atualizadoEm": "2026-11-03T14:03:17.351Z",
   "noticias": [
+    {
+      "t": "Review | Godzilla: Destroy All Monsters Melee Remastered",
+      "d": "&nbsp;&nbsp; NintendoBoy",
+      "link": "https://nintendoboy.com.br/2026/11/review-godzilla-destroy-all-monsters-melee-remastered/",
+      "fonte": "NintendoBoy",
+      "data": "2026-11-03T13:59:56.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMVRMRnBPMGMzSENLYmlpcXF3WXg3UEkyN1kyeDRtY0R1dVRSQU9rSUNkWXY4M3VOb3VIaVNyNFRNZkhEaEF5aXYtZ04xNldRaGVycHdSQnNzdFpLZXloNEJ2RnlXRmUtR3MxLXhLa3hELWJCVWlxV1JLZmVjbGFEOHR1bDdDdjhFR2VKX3hpeXBFZm8?oc=5"
+    },
+    {
+      "t": "Mega Man: Dual Override tem Cook Man revelado em novo trailer",
+      "d": "&nbsp;&nbsp; Nintendo Blast",
+      "link": "https://www.nintendoblast.com.br/2026/11/mega-man-dual-override-tem-cook-man-revelado-novo-trailer.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-11-03T13:55:08.000Z",
+      "c": "Consoles",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1blXAiOUks9ykgRC3tUEM-VR97jvKD00rTHf2CImngL39usBB12M0rFOwkUKaBmgvZtQf3511UjOc-dBk0tC9ntTtLKfapieis9_PghhzTDi_u5sAX94Elvu-KrWUTuyPaKaNkGOLB_mkfVp_NEmmRrc4vQ4uPgBEbC1qabal3KnPspZ7CtbJgC9iijCt/w1200-h630-p-k-no-nu/Mega-Man-Dual-Override-Cook-Man-scaled.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaExxSGg0bnp6ZWcxS2d1V1ZYdF9wVjJaY2RVemtFYWtfWldhaFN4bU9heWdiT1lPWFY4dklKUDhrQzRKcVhXei1yRUZoMkpxX3JpYXJrZE4yRnd0dUtHemdaTW95OEpYNVRjeThjTHo2R3M2QXFiUUs0bUthY2dKU2h6R3NCaVBmN0hUOWhQdmtTZUxuUUN5YkxzNjVRYlBicDBuN3pR?oc=5"
+    },
+    {
+      "t": "É por isso que a Nintendo decidiu fazer mais um remake de The Legend of Zelda: Ocarina of Time",
+      "d": "&nbsp;&nbsp; IGN Brasil",
+      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157240/e-por-isso-que-a-nintendo-decidiu-fazer-mais-um-remake-de-the-legend-of-zelda-ocarina-of-time",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-03T13:52:35.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/t/ign_br/news/n/nintendo-e/nintendo-explains-why-it-chose-to-do-another-the-legend-of-z_dfc5.1200.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX284REFIU05idjEtQUI1R0VTbGtUcjhORVozb21JWjJVQTlKZVRqd0ZoclFPTXk4ZktIdjV3M0tGZUZ3NHlISTJrUmU3dm5UcG92UE5neEs3SXFVQWktS0RCYkV1V05kR0h1WV82WHJXY0doMmNaZ1phSlpWTmpDQ0RYT0N0T1UtcFB2czdIWG9GTHh4NWdCbk96LUpDMVNfTUZfd3RqSURGcGplSzVqT2hCUEpaaUFRWElaSHI0OTVYb1dwYXllSC1VVko3SkozYlpuVUx5SldsQ21MREpST3pIV05xWkZTWmZkd3NLTlZFdw?oc=5"
+    },
+    {
+      "t": "Que horas The Legend of Zelda: Ocarina of Time Remake será lançado no Brasil?",
+      "d": "&nbsp;&nbsp; Canaltech",
+      "link": "https://canaltech.com.br/games/que-horas-the-legend-of-zelda-ocarina-of-time-remake-sera-lancado-no-brasil/",
+      "fonte": "Canaltech",
+      "data": "2026-11-03T13:52:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://tl.ctcdn.com.br/zl-6DLI04Jrl9tZKOOXMYPTjxpg=/1200x675/smart/filters:format(webp):quality(85)/d9d16828-fd89-4442-bb1a-a0d2f8b807d5.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOG9ybjBnRWxodXhmaUlNRmZ5RldfWm5EWEJmM3pCQkt2MjFDTVkzWUx5OThrLW1oMTFtTnQwUDktOHZxM3QyT19KZzhyNGdJNzBadXNhcURGQTZmZkFoRGNMeF9yMDVQUWNnTWlYVWJkb1oyQS1ENzFNRDRiZmdVMlRzcUNQZ3BKTTY2a0dVaXdHWHBad1B2YXJzQmFoNC1tY3hNNjA0Tnk3WkU?oc=5"
+    },
+    {
+      "t": "Uma parcela assustadora de jogadores revelou que abriria mão de seus pets em troca de jogar GTA 6 mais cedo",
+      "d": "Sim, estamos julgando Uma pesquisa com 1.300 jogadores estadunidenses revela tendências preocupantes em relação a GTA 6 — mais especificamente, a disposição deles de abandonar seus animais de...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157245/uma-parcela-assustadora-de-jogadores-revelou-que-abriria-mao-de-seus-pets-em-troca-de-jogar-gta-6-ma",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-03T13:42:51.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/news/a/a-concerni/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to_ur2c.jpg"
+    },
+    {
+      "t": "Que horas Zelda Ocarina of Time Remake será liberado no Brasil?",
+      "d": "Ansioso por Ocarina of Time Remake? Veja o horário que o jogo chega ao Brasil",
+      "link": "https://flowgames.gg/que-horas-zelda-ocarina-of-time-remake-chega-brasil/",
+      "fonte": "Flow Games",
+      "data": "2026-11-03T13:42:18.000Z",
+      "c": "Lançamentos",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/The-Legend-of-Zelda-Ocarina-of-Time-Remake-Imagem-3.jpg"
+    },
+    {
+      "t": "Vaza possível gameplay do remake de Persona 1",
+      "d": "Leaker posta vídeo do que ele afirma ser o misterioso Persona Be Your True Mind",
+      "link": "https://flowgames.gg/persona-1-remake-veja-possivel-trailer-do-jogo/",
+      "fonte": "Flow Games",
+      "data": "2026-11-03T13:40:51.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/persona-1-remake.jpg"
+    },
     {
       "t": "Promoção da TIM traz PS5 com GTA 6 incluso por menos de R$ 2,4 mil; confira as condições",
       "d": "&nbsp;&nbsp; Estadão",
       "link": "https://www.estadao.com.br/tecmundo/voxel/promocao-da-tim-traz-ps5-com-gta-6-incluso-por-menos-de-r-24-mil-confira-as-condicoes/",
       "fonte": "Estadão",
-      "data": "2026-11-03T13:30:31.000Z",
+      "data": "2026-11-03T13:40:29.000Z",
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/D3NRHQWCINAQ5APJI2QCIE6L7Y.jpg?quality=80&auth=5b585905bedd8418597cfcab2260a69d1e90943432327ac5ca088a32cbf4c604&width=1200&height=630&smart=true",
       "orig": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZW0xWEs4VkUtWlFLUC03OUpPUEl6YXVISDQzakRKRm8zbWUwOXRILTdrdVZuMG5nVHZMc3VfVkJGU0xSdUJhV0Z0bElBMmM0alMwSC1BMUFYM0s4U1lNUkJjcjVlZHU4X2hXYjhpQkx1UlhLd0RLbnRuQXZXc2JDNlZRb2xqckV4RnozVlNqOXRyVWdyUHRNbU9pWEZQOS1aSDNTOXc2bEM0UEI2YWZQbWNuS1Z3Mkg5MmV5cW9CTFhPT1pfZHhV0gHMAUFVX3lxTE45bmc5Yk1Wc21SSTdURWVwNzhYRGdBb0Z3XzI1VHRWQWpiWUVIaWMtUWdOcXo4b2F6Sy1STXJfY3FwWTU5SHpXME5JX1A1RlNNSGhxWmRGNWRvRzd2OWdEZWRlazRiMldFMXRFdnpNUjJPcGF0UXF6OUt2cUFIb2ZuWXg1ZjJiQWNOVkJxZmhfVkdHclAwQlQ1VTVsVTZlTjNCZFRyb0ZQSURCSVpCOWNNZjY2UTdBZ3ZKbV9ZNVNqNFNsLXJwNC03bXl2TA?oc=5"
     },
     {
-      "t": "Produtores comentam mudanças nas batalhas contra chefes e nas masmorras do remake de Zelda: Ocarina of Time",
-      "d": "&nbsp;&nbsp; Universo Nintendo",
-      "link": "https://universonintendo.com/produtores-comentam-mudancas-nas-batalhas-contra-chefes-e-nas-masmorras-do-remake-de-zelda-ocarina-of-time/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-11-03T13:29:02.000Z",
-      "c": "Consoles",
-      "img": "https://universonintendo.com/wp-content/uploads/2026/11/Zelda-Ocarina-of-Time-ALT-2.png",
-      "orig": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQUE5cl9Qc01pTGh5MXE1eHlIZzdZcjlncjJzUzg5MHBnU3BZNzhxNW9weGItQ0hzZDcyQXF0dl82ZlhJNmlCenIwdnRnX2xmUHpXemV1Zm80TjQyVnRfZkVMbHpOSDg3ejZQdk1yWF83clJFbUFuSGU2Z3JLVUtBN2N3bnE5ckE3WnJiNjJrSXRnN2ZFUHRGT2FSQkpPMEFWbTJKeWhjcmZGLWlRUTB6QUZrZm55aGhKT3ZqellRRW40WFpWbG5WY1dsdzQ3d2pmWlE?oc=5"
-    },
-    {
-      "t": "Zelda: Ocarina of Time – Desenvolvedores comentam sobre a modernização dos controles no remake",
-      "d": "&nbsp;&nbsp; Universo Nintendo",
-      "link": "https://universonintendo.com/zelda-ocarina-of-time-desenvolvedores-comentam-sobre-a-modernizacao-dos-controles-no-remake/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-11-03T13:23:57.000Z",
-      "c": "Consoles",
-      "img": "https://universonintendo.com/wp-content/uploads/2026/10/The-Legend-of-Zelda-Ocarina-of-Time-ALT-1.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbURtS00zUW5fZldCTENNWnRhRU9hbE0xT1BLUDdad25RY3NUdHQ1TG9MbVdmV2lDOGkxenhQZnV6dk44aVpxX0FLcGRCSVk4LTNrOEdZNWxsN3pUbENOZThzUlNiSjFKMEd2cWs1SUpkNThrZTM5MFVxa25GTFVsYm9TaGtDbG9KVG91TmpkWGFqUkUzWFRuZHltcmpNTktjbWhaTGRjdzhLMjI0aFBwM0JpaUNWQk5fb3lTNUF3?oc=5"
-    },
-    {
-      "t": "PIT OF GOBLIN é lançado para PS5, Xbox e PC com versão 1.0",
-      "d": "&nbsp;&nbsp; Pizza Fria",
-      "link": "https://pizzafria.ig.com.br/news/pit-of-goblin-lancamento-ps5-xbox/",
-      "fonte": "Pizza Fria",
-      "data": "2026-11-03T13:23:52.000Z",
-      "c": "PC",
-      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/09/PIT-OF-GOBLIN.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VWXhaUnNSYVpWSWF5YnZKbVhya2RHdjBQVjk1TjNSRjhKTDh0emVXTk43MEcyUnZPZ2ZubEJlbE1VSDNJSUtPSzFNbmtuSGlpR0R6bzFTTmpmLVFFQUZJSC13V1pQY0ZvSnMxVDcwbC1Od2JZWWc?oc=5"
-    },
-    {
-      "t": "PlayStation 5 tem 5% de desconto; tênis Olympikus Corre 4 sai a R$ 379,99",
-      "d": "&nbsp;&nbsp; UOL",
-      "link": "https://www.uol.com.br/flash/?c",
-      "fonte": "UOL",
-      "data": "2026-11-03T13:21:26.000Z",
+      "t": "Black Friday da Amazon: 007 First Light para PS5 fica abaixo de R$ 230",
+      "d": "Edição exclusiva da loja inclui embalagem diferenciada e traje adicional para James Bond",
+      "link": "https://br.ign.com/descontos/157244/black-friday-da-amazon-007-first-light-para-ps5-fica-abaixo-de-r-230",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-03T13:38:13.000Z",
       "c": "Ofertas",
-      "img": "https://conteudo.imguol.com.br/c/_layout/v3/jupiter/share.png",
-      "orig": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aODB2aF9ZUXRTaUNsdlBFY0lDbE1YV29KZjVib2dLWERfSzhDeHpINFBlcGJHZHM0SmE3NzNvSjRnTzdVSi1rem5SS1VjTzVlTy1QSUtWWndaekxHWHl1ZV9SM2Rmelk?oc=5"
+      "img": "https://sm.ign.com/ign_br/news/0/007-first-/007-first-light-is-getting-free-dlc-later-this-week_rkkg.jpg"
+    },
+    {
+      "t": "Novo easter egg do Google transporta usuários diretamente a 1998 ao pesquisarem The Legend of Zelda: Ocarina of Time",
+      "d": "*música do Link abrindo um baú* O Google acaba de ganhar um easter egg de The Legend of Zelda: Ocarina of Time que transporta você de volta à versão de 1998 do mecanismo de busca — incluindo links...",
+      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157243/novo-easter-egg-do-google-transporta-usuarios-diretamente-a-1998-ao-pesquisarem-the-legend-of-zelda",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-03T13:35:32.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/g/google-has/google-has-a-cool-the-legend-of-zelda-ocarina-of-time-easter_1r73.jpg"
     },
     {
       "t": "Lançamentos de jogos da semana para Xbox Series, PS5, Switch e PC (02 a 06/11)",
@@ -173,15 +218,6 @@
       "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0R2UFUxSW1POGwyQ3o1Rl9oaFZDSzNBcGpHdnhrTE1oMUdJOFpRRUwwX005anExa04tdk54MEF5elhPeE1sZkNINWdER0hudlBsbTlYbk1EWTRxZmR3RXZOQVk2d09nNnBTNDJXcllHclNRQ1NjNXZtak1MbGZ6U3F4dXlDZVdnaWVudjU2ejJhU3hXNkN0SWdQWFBtck94UGc?oc=5"
     },
     {
-      "t": "Para futuros Mestres Pokémon: coleção com oito gerações está em oferta na Amazon",
-      "d": "Dois volumes ilustrados exploram os jogos, a Pokédex e os animes que marcaram a franquia",
-      "link": "https://br.ign.com/descontos/157230/para-futuros-mestres-pokemon-colecao-com-oito-geracoes-esta-em-oferta-na-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-02T17:00:16.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/historia-pokemon-produto-1280x720_xvyc.jpg"
-    },
-    {
       "t": "Estúdio do criador de Yakuza fecha as portas antes de lançar seu primeiro jogo, Gang of Dragon",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/estudio-do-criador-de-yakuza-fecha-as-portas-antes-de-lancar-seu-primeiro-jogo-gang-of-dragon/",
@@ -228,24 +264,6 @@
       "img": "https://www.youtube.com/embed/8v8eDMh1o3g"
     },
     {
-      "t": "É o fim de uma era: após 22 anos, lendário sucesso do anime está chegando ao fim",
-      "d": "A popular série shonen, que já está em seu 22º ano, chegou ao fim Em 2004, começou a ser exibida uma adaptação para anime do mangá Bleach, de Tite Kubo. A famosa obra do mangaká foi considerada um...",
-      "link": "https://br.ign.com/bleach/157229/e-o-fim-de-uma-era-apos-22-anos-lendario-sucesso-do-anime-esta-chegando-ao-fim",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-02T13:00:36.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/530702668_cv85.png"
-    },
-    {
-      "t": "Autor de Bleach quebra o silêncio sobre influência da obra em Demon Slayer e Jujutsu Kaisen",
-      "d": "Mangaká aborda legado do lendário Shonen da Jump e explica como o ciclo de inspiração entre gerações mantém a indústria de animes viva Com a reta final da adaptação em anime de Bleach:...",
-      "link": "https://br.ign.com/bleach/157164/autor-de-bleach-quebra-o-silencio-sobre-influencia-da-obra-em-demon-slayer-e-jujutsu-kaisen",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-02T13:00:34.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/b1_a11u.jpg"
-    },
-    {
       "t": "Atores de GTA 6 podem não ficar ricos mesmo com o jogo vendendo bilhões; entenda o motivo",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/atores-de-gta-6-podem-nao-ficar-ricos-mesmo-com-o-jogo-vendendo-bilhoes-entenda-o-motivo/",
@@ -255,15 +273,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/CFHCAQ6RUFB3LGPYIWEFBXAYA4.jpg?quality=80&auth=dae5c425722f6561f8019848040f5b284311c74b3106ce465528ee902660400c&width=710"
     },
     {
-      "t": "“É One Piece!”: documento egípcio de 3.300 anos sugere a existência de gigantes, e os fãs de One Piece pensam imediatamente no anime",
-      "d": "Não é apenas o tamanho dessas pessoas gigantes no texto antigo que lembra aos fãs de One Piece a obra de Oda Não é apenas o tamanho dessas pessoas gigantes no texto antigo que lembra aos fãs de...",
-      "link": "https://br.ign.com/one-piece-2/157228/e-one-piece-documento-egipcio-de-3300-anos-sugere-a-existencia-de-gigantes-e-os-fas-de-one-piece-pen",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-02T12:00:34.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/onepiece-woogey-6400058_ddcy.png"
-    },
-    {
       "t": "The Legend of Zelda Ocarina of Time, WoW Forever e mais! Veja os lançamentos de games da semana",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/the-legend-of-zelda-ocarina-of-time-wow-forever-e-mais-veja-os-lancamentos-de-games-da-semana/",
@@ -271,15 +280,6 @@
       "data": "2026-11-01T22:30:00.000Z",
       "c": "Lançamentos",
       "img": "https://www.estadao.com.br/resizer/v2/TTBOUKIQBNAHNJR5725M6I5JPY.jpg?quality=80&auth=599eea8bd1b9ab58d2559abb60b0dfefbdc534443105132067a9be37de22134d&width=710"
-    },
-    {
-      "t": "Todos os principais jogos e spin-offs de Ace Combat",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/ace-combat-conheca-todos-os-jogos-e-a-ordem-da-franquia/",
-      "fonte": "TecMundo",
-      "data": "2026-11-01T22:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/EADCPNBBCBGSJEADKF3NEUDZVI.jpg?quality=80&auth=0b21f2140cae63149cfaadd5cbb2dbec5064544d1242cd06959079e04f370647&width=710"
     }
   ],
   "videos": [
