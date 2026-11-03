@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T06:30:40.746Z",
+  "atualizadoEm": "2026-11-03T07:00:48.692Z",
   "noticias": [
     {
       "t": "Embaixadores Cosplay do Metrópoles Games disputarão competição em Goiânia",
@@ -134,16 +134,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/zelda-twilight-princess-remastered.jpg"
     },
     {
-      "t": "Amazon Prime oferece mais dois jogos para PC: tens até 2 de dezembro para resgatar",
-      "d": "&nbsp;&nbsp; 4gnews",
-      "link": "https://4gnews.pt/amazon-prime-oferece-mais-dois-jogos-para-pc-tens-ate-2-de-dezembro-para-os-obter/",
-      "fonte": "4gnews",
-      "data": "2026-11-02T17:08:17.000Z",
-      "c": "PC",
-      "img": "https://cdn.4gnews.pt/imagens/amazon-prime-oferece-mais-dois-jogos-para-pc-tens-ate-2-de-dezembro-para-os-obter-og.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0R2UFUxSW1POGwyQ3o1Rl9oaFZDSzNBcGpHdnhrTE1oMUdJOFpRRUwwX005anExa04tdk54MEF5elhPeE1sZkNINWdER0hudlBsbTlYbk1EWTRxZmR3RXZOQVk2d09nNnBTNDJXcllHclNRQ1NjNXZtak1MbGZ6U3F4dXlDZVdnaWVudjU2ejJhU3hXNkN0SWdQWFBtck94UGc?oc=5"
-    },
-    {
       "t": "Para futuros Mestres Pokémon: coleção com oito gerações está em oferta na Amazon",
       "d": "Dois volumes ilustrados exploram os jogos, a Pokédex e os animes que marcaram a franquia",
       "link": "https://br.ign.com/descontos/157230/para-futuros-mestres-pokemon-colecao-com-oito-geracoes-esta-em-oferta-na-amazon",
@@ -217,6 +207,16 @@
       "data": "2026-11-02T14:00:38.000Z",
       "c": "Lançamentos",
       "img": "https://www.youtube.com/embed/8v8eDMh1o3g"
+    },
+    {
+      "t": "Jogos de PC em oferta especial por menos de R$ 5 com Tomb Raider e mais",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-especial-por-menos-de-r-5-com-tomb-raider-e-mais/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-02T14:00:00.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONEpnclVzbHNyalFobmlqMGtOaVp0Ynl3R1VVeVVVTG9adzEzMXdTbjJhVDFfNWJBQWpaWGxrQkZNaEIydHJyMVYyWG5SRDNGNVl0Y2VpWWxZWTBUNFFZQ1dVZnVrWlFIX09sdHdfaDJqZTlvc1VMaFc0NXUxd2VtQS0tY2RabTlfcldTTUhMT1ZGeWltVFk2emwyRHA1Ml8tR3VvclpyVTF0dDg4RWhFQWdYcC1JVzQ?oc=5"
     },
     {
       "t": "É o fim de uma era: após 22 anos, lendário sucesso do anime está chegando ao fim",
@@ -447,7 +447,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20285,
+      "views": 20287,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -455,7 +455,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4281,
+      "views": 4282,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -4049,16 +4049,6 @@
       "link": "https://www.igdb.com/games/nightmare-circus--1"
     },
     {
-      "t": "Project TurboBlast",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coak0j.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/project-turboblast"
-    },
-    {
       "t": "The Dropouts",
       "data": "2026-12-31",
       "plats": [
@@ -4453,16 +4443,6 @@
       "link": "https://www.igdb.com/games/the-shadow-syndicate"
     },
     {
-      "t": "Project; Virai: Doomer's Life Escape",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rr1.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/project-virai-doomers-life-escape"
-    },
-    {
       "t": "Exovia",
       "data": "2026-12-31",
       "plats": [
@@ -4703,6 +4683,26 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbs6.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/deadly-deals"
+    },
+    {
+      "t": "Always with You",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabv1.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/always-with-you"
+    },
+    {
+      "t": "The Symbiant II",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9z8f.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/the-symbiant-ii"
     }
   ],
   "musicas": []
