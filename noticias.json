@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-03T04:30:12.585Z",
+  "atualizadoEm": "2026-11-03T05:00:19.098Z",
   "noticias": [
     {
       "t": "Petit Planet chega em dezembro e confirma versão para Nintendo Switch 2 em 2027",
@@ -455,7 +455,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4280,
+      "views": 4281,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -1789,7 +1789,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6oq.jpg",
-      "hype": 57,
+      "hype": 58,
       "link": "https://www.igdb.com/games/acts-of-blood"
     },
     {
@@ -2323,7 +2323,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co933j.jpg",
-      "hype": 5,
+      "hype": 6,
       "link": "https://www.igdb.com/games/fragile-existence"
     },
     {
@@ -4643,16 +4643,6 @@
       "link": "https://www.igdb.com/games/mudang-two-hearts"
     },
     {
-      "t": "In Silico",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xx6.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/in-silico"
-    },
-    {
       "t": "Arcane Eats",
       "data": "2026-12-31",
       "plats": [
@@ -4703,6 +4693,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9y01.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/fay-keeper"
+    },
+    {
+      "t": "Deadly Deals",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbs6.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/deadly-deals"
     }
   ],
   "musicas": []
