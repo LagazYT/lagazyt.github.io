@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-11-04T02:11:47.545Z",
+  "atualizadoEm": "2026-11-04T02:41:55.026Z",
   "noticias": [
+    {
+      "t": "Como migrar um site WordPress para a Hostinger: veja o passo a passo",
+      "d": "Veja como fazer uma migração assistida, os plugins necessários e os cuidados que se deve ter para testar o site e configurar domínio e e-mail",
+      "link": "https://br.ign.com/tech/157295/como-migrar-um-site-wordpress-para-a-hostinger-veja-o-passo-a-passo",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-04T02:08:14.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/00-migracao-wordpress-capa-1280x720_w641.jpg"
+    },
     {
       "t": "Pikmin 4 Nintendo Switch 2 Edition chega em breve",
       "d": "&nbsp;&nbsp; Notebookcheck.info",
@@ -61,6 +70,16 @@
       "orig": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHUwN1FXZEdaYVRtVUdpbHhNRlJwN3BGUVZsbGU4ZV9pVU91UmtocEwyWUVCcC05TktkZm9OdjJnUlR5TGlEWFMyUDMzdGxxdndXUlRQMjZwcXY4SFd2eFViWTVJanNzcmFuWFBqVXJfTm14dUxpTlFIOWduZENvSjRJRHB6bmtGV2ViUUVn?oc=5"
     },
     {
+      "t": "Emulador Eglantine chega a 60 FPS em Mario Kart World",
+      "d": "&nbsp;&nbsp; SpaceMoney",
+      "link": "https://www.spacemoney.com.br/entretenimento/eglantine-emulador-switch-2-60-fps/",
+      "fonte": "SpaceMoney",
+      "data": "2026-11-03T23:44:42.000Z",
+      "c": "PC",
+      "img": "https://www.spacemoney.com.br/wp-content/uploads/2026/11/pexels-photo-13089175-1.webp",
+      "orig": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaHk0R1VUVjAyMFdYNHNoOS1qSVVWLVJVX09ZVVZqOEh6VVFpTVlNRWJJQjF5RFQ1SkdBQUI5ZkZNOC1TYk9jSHdYbDhrUTMtYWxfMVpnWWFDbXF0UUtqOWZDRFYtcHV1Yy0tWWZ3ZjZ1ei13SXFOVl90cUdtZ2Y1ekRpTThIS1E?oc=5"
+    },
+    {
       "t": "Ubisoft apresenta proposta para comprar a Arkane Lyon à Xbox",
       "d": "&nbsp;&nbsp; Eurogamer.pt",
       "link": "https://www.eurogamer.pt/ubisoft-apresenta-proposta-para-comprar-a-arkane-lyon-a-xbox",
@@ -78,6 +97,16 @@
       "data": "2026-11-03T23:15:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/VLKAFWQAEJCFRGDKXAKGWMFXIM.jpg?quality=80&auth=3c083d946063b085236796cc5c7976cf511b0c704e78a5802af37763d3093931&width=710"
+    },
+    {
+      "t": "Xbox Game Pass: jogos de novembro de 2026",
+      "d": "&nbsp;&nbsp; Portal E7",
+      "link": "https://www.portale7.com.br/2026/11/xbox-game-pass-jogos-de-novembro-de-2026.html",
+      "fonte": "Portal E7",
+      "data": "2026-11-03T22:37:08.000Z",
+      "c": "Consoles",
+      "img": "https://www.portale7.com.br/wp-content/uploads/2026/04/20260413-xbox-game-pass.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmRuVktJSVVnYzIzVnJTcjdVSG5OSjMwclpIcm1QOVVieXNPME1ubF9GRnByTU1mSURLenlGbzBkYnE2b1hHVVhwZ0t4MWhUZzZid3lXSV9vU3QzVTRjcE1wUS1zaVFSQkxmQ0R5cE1EcE92a3lGQjVNeUY5WUhyMFZ2dGlHeHlS?oc=5"
     },
     {
       "t": "Castlevania: Belmont’s Curse e mais jogos da Steam com até 95% OFF na Nuuvem; confira",
@@ -123,16 +152,6 @@
       "data": "2026-11-03T20:35:32.000Z",
       "c": "Lançamentos",
       "img": "https://sm.ign.com/ign_br/news/p/police-moc/police-mock-car-chase-criminal-for-getting-arrested-right-be_age9.jpg"
-    },
-    {
-      "t": "Phantom Blade Zero é o mais vendido na Steam em seu lançamento",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/pc-games/phantom-blade-zero-e-o-mais-vendido-na-steam-em-seu-lancamento/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-03T20:23:00.000Z",
-      "c": "PC",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEMwNHFWZzlTblluSGY2aUZBX1JqWEhwU2hxUEdLYXgzUmprS2MtNEtvS3FBaFdqbEdKU0FpUkFnRWl0YlZ6eEhEd19BVjZTTkpTaDdCZEVLTHRWdEJxX3I3bzYzb1p0dVhOWkZ4WFRHMTBocDAtYjZDMVVzWHN2NlhBX0hGelRYZW40TnI3TWo3Y09Nc0dhV2xOLWRuZkpBaDF1SjZZdVp3Vldt?oc=5"
     },
     {
       "t": "Lançamento em oferta! Bundle GTA VI + PS5 Slim Digital Pacote Astro Bot e Gran Turismo 7 surge na Black da Amazon",
@@ -189,16 +208,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/EXSRTU6ILRB67MNVLORRXZI5XA.jpg?quality=80&auth=a6887c3c128756fa5d7d4bfb1a2eb9cf64f9318a6840fb7d8e984c8c5a6d6069&width=710"
     },
     {
-      "t": "Jogos de PC em oferta no Esquenta Black Friday Nuuvem; até 95% de desconto + cupom limitado",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-no-esquenta-black-friday-nuuvem-ate-95-de-desconto-cupom-limitado/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-03T19:11:00.000Z",
-      "c": "Ofertas",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeHVIS3dVZnJ0cjQySjBzMk1JRy11YWVub3J0dzBzd3dORHRVODJ4Q0J3cDRUUFJSTFF3YmhEa0RJVmhxa0QwNGRsUjdXMFFCVm9odndnejVxRzRrbVE3dWRxdmU4dS1oR1lYQVlobVQ4WkUxeDhlbFM0WGVDYUlKZS1aT3h1bzNNTnE1SjdIamtSTWVxajN1RXRsN2V5eWJJcGJtV01XNnFfRTJ6ZVFWcE5UTFNRcXEzSVlfSUJfVDBKa1lza09mOFZUNFB2dw?oc=5"
-    },
-    {
       "t": "Petit Planet confirma data de lançamento e anuncia versão para Nintendo Switch 2 em 2027",
       "d": "O primeiro aconchegante jogo de simulação de vida planetária da HoYoverse revela uma série de vizinhos, principais sistemas de jogabilidade e diversos eventos de lançamento com recompensas",
       "link": "https://br.ign.com/petit-planet/157277/petit-planet-confirma-data-de-lancamento-e-anuncia-versao-para-nintendo-switch-2-em-2027",
@@ -233,15 +242,6 @@
       "data": "2026-11-03T18:30:30.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/image_mucu.jpg"
-    },
-    {
-      "t": "O que é Sentinel? Conheça a história por trás do título oficial de The Elder Scrolls 6",
-      "d": "O jogo é provavelmente o ápice de uma enorme tapeçaria de história imaginária que remonta a Daggerfall e envolve profundamente todos os protagonistas de The Elder Scrolls que vieram depois",
-      "link": "https://br.ign.com/the-elder-scrolls-vi/157266/o-que-e-sentinel-conheca-a-historia-por-tras-do-titulo-oficial-de-the-elder-scrolls-6",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-03T18:25:31.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/feature/w/what-does-/what-does-sentinel-mean-are-giant-robots-involved-the-elder_gb89.jpg"
     },
     {
       "t": "Microsoft anuncia Xbox Series X em forma de jacaré para lançamento de GTA 6",
