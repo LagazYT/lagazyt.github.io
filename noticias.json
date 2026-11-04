@@ -1,6 +1,25 @@
 {
-  "atualizadoEm": "2026-11-04T00:41:16.785Z",
+  "atualizadoEm": "2026-11-04T01:11:28.798Z",
   "noticias": [
+    {
+      "t": "Nvidia pode lançar RTX 5080 de 24 GB até janeiro de 2027",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/nvidia-pode-lancar-rtx-5080-de-24-gb-ate-janeiro-de-2027/",
+      "fonte": "TecMundo",
+      "data": "2026-11-04T01:00:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/RTLHVY5S35NKHICE3U5F7HFM2Y.jpg?quality=80&auth=b8f611cd872fbacca2fca0c21c33b43238c8ee3bc7754fc79a712255a476556e&width=710"
+    },
+    {
+      "t": "Cyberpunk 2077 e The Witcher 3 brilham no Steam Deck em outubro",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/pc-games/cyberpunk-2077-e-the-witcher-3-brilham-no-steam-deck-em-outubro/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-04T00:51:02.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDZlVlNQYTR3eXBqOVQ5dXViM3EyTVNsc1BjQnhtZTBtaGhLcmJVZ3RtbkpzbXhuT0dSSFkzeWo0VDRHU0ZzdkNXQUZVUG9wM3hJZ1UzOFZ0dVJyWW0xYUFSajdscmdrOGhYMGlqdWFaTUhIeUQ3X0RoLTFXYUpIcmV2R3ZEOS1VTEhUVjQ3V2FrMmZYeXVwdGdwc0ZON2RPRUxwTHgtUnJ3aWJuYnc?oc=5"
+    },
     {
       "t": "Inteligência artificial transforma a criação de games e desafia criatividade da indústria",
       "d": "&nbsp;&nbsp; A Tribuna",
@@ -98,6 +117,15 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/novo-projeto-9_dn39.jpg"
     },
     {
+      "t": "Disney Lorcana cooperativo: como jogar realmente em equipe",
+      "d": "Veja como jogar Disney Lorcana cooperativo, dividir decisões entre o grupo e evitar que uma única pessoa controle todos os decks da mesa.",
+      "link": "https://flowgames.gg/disney-lorcana-cooperativo-como-jogar-em-equipe/",
+      "fonte": "Flow Games",
+      "data": "2026-11-03T21:06:43.000Z",
+      "c": "Geral",
+      "img": "https://preview.redd.it/not-to-be-sad-but-is-the-illumineers-quest-deep-trouble-fun-v0-y97ov3s8au4d1.png?width=640&crop=smart&auto=webp&s=b9f8cfd8a31f83771d51081f2b1b14920d7e4a53"
+    },
+    {
       "t": "Polícia zomba de criminoso envolvido em perseguição de carro por ter sido preso antes do lançamento de GTA 6",
       "d": "“Guarde isso para as ruas de Vice City”",
       "link": "https://br.ign.com/grand-theft-auto-vi/157289/policia-zomba-de-criminoso-envolvido-em-perseguicao-de-carro-por-ter-sido-preso-antes-do-lancamento",
@@ -117,16 +145,6 @@
       "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcEMwNHFWZzlTblluSGY2aUZBX1JqWEhwU2hxUEdLYXgzUmprS2MtNEtvS3FBaFdqbEdKU0FpUkFnRWl0YlZ6eEhEd19BVjZTTkpTaDdCZEVLTHRWdEJxX3I3bzYzb1p0dVhOWkZ4WFRHMTBocDAtYjZDMVVzWHN2NlhBX0hGelRYZW40TnI3TWo3Y09Nc0dhV2xOLWRuZkpBaDF1SjZZdVp3Vldt?oc=5"
     },
     {
-      "t": "XBOX Game Pass revela os jogos da primeira leva de novembro",
-      "d": "&nbsp;&nbsp; Manual dos Games",
-      "link": "https://manualdosgames.com/xbox-game-pass-revela-jogos-novembro-26/",
-      "fonte": "Manual dos Games",
-      "data": "2026-11-03T20:17:28.000Z",
-      "c": "Consoles",
-      "img": "https://manualdosgames.com/wp-content/uploads/2025/10/Quer-assinar-o-Xbox-Game-Pass-pelo-valor-antigo.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QODlOdVFpZm44VHotaWNQSElqLXUwVVZodTRIaEQ0QVZUZTA0SGlxbEdJR09NSVNOaDMxVGVMam5DWTVlZ2htZS1VZENuaU81SU1zRDB1M1I3NW9IREJpM21BYzhhSjF4Xzl4em5RbURFUVVHV2c?oc=5"
-    },
-    {
       "t": "Lançamento em oferta! Bundle GTA VI + PS5 Slim Digital Pacote Astro Bot e Gran Turismo 7 surge na Black da Amazon",
       "d": "O console já sai pronto para GTA VI, que estreia em 19 de novembro. Veja o que cada jogo entrega, confira as especificações do PS5 e clique para garantir o seu em oferta na Black da Amazon! GTA VI...",
       "link": "https://br.ign.com/descontos/157285/lancamento-em-oferta-bundle-gta-vi-ps5-slim-digital-pacote-astro-bot-e-gran-turismo-7-surge-na-black",
@@ -134,6 +152,24 @@
       "data": "2026-11-03T20:13:05.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/thumb-ignpsd_cdtc.png"
+    },
+    {
+      "t": "Em clima de GTA 6, Rockstar atualiza o seu launcher de PC",
+      "d": "Launcher da Rockstar Games já está se preparando para GTA 6",
+      "link": "https://flowgames.gg/gta-6-launcher-de-pc-atualizado-hoje-dia-03-11-26/",
+      "fonte": "Flow Games",
+      "data": "2026-11-03T20:07:53.000Z",
+      "c": "PC",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/GTA6Screen13-1024x576-1.jpg"
+    },
+    {
+      "t": "Vendas de Control Resonant superam expectativas da Remedy",
+      "d": "Control Resonant se torna o maior lançamento da Remedy",
+      "link": "https://flowgames.gg/vendas-control-resonant-superam-expectativas-remedy/",
+      "fonte": "Flow Games",
+      "data": "2026-11-03T20:01:24.000Z",
+      "c": "Lançamentos",
+      "img": ""
     },
     {
       "t": "Zach Cregger afirma que ainda quer “ter uma participação” nas futuras sequências de Resident Evil",
@@ -181,6 +217,15 @@
       "img": "https://sm.ign.com/ign_br/news/t/the-elder-/the-elder-scrolls-6-sentinel-name-logo-officially-revealed-a_8hjz.jpg"
     },
     {
+      "t": "Game Pass tem Warhammer Survivors e mais 11 jogos em novembro",
+      "d": "Confira as novidades que entram no Game Pass este mês",
+      "link": "https://flowgames.gg/game-pass-recebe-mais-12-jogos-em-novembro/",
+      "fonte": "Flow Games",
+      "data": "2026-11-03T18:50:03.000Z",
+      "c": "Geral",
+      "img": ""
+    },
+    {
       "t": "Fã de LEGO encontra 7 conjuntos da década de 1950 avaliados em milhares de dólares na antiga casa dos pais",
       "d": "Ele também achou peças extras e alguns folhetos Além de tentar contato com a própria LEGO, o sortudo pedirá avaliação de casas de leilões.",
       "link": "https://br.ign.com/lego/157271/fa-de-lego-encontra-7-conjuntos-da-decada-de-1950-avaliados-em-milhares-de-dolares-na-antiga-casa-do",
@@ -208,6 +253,15 @@
       "img": "https://www.estadao.com.br/resizer/v2/WSNA4EITGVAZPGFDDOEHC43Z7I.jpg?quality=80&auth=4343604c3cbbf463fd894ec0859979128b140efa9f229f549b61abe283da0ac6&width=710"
     },
     {
+      "t": "Blox Fruits: veja a lista de códigos no Roblox e saiba como resgatar",
+      "d": "Atualizados periodicamente, códigos de Blox Fruits em Roblox rendem bônus de experiência e outros recursos",
+      "link": "https://flowgames.gg/blox-fruits-lista-codigos-roblox-como-resgatar/",
+      "fonte": "Flow Games",
+      "data": "2026-11-03T16:10:53.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2023/05/lWQFvGRnNgvNaC8hzick5-transformed.jpg"
+    },
+    {
       "t": "Bethesda lança novo teaser de Elder Scrolls VI Sentinel e confirma nome do jogo",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/bethesda-lanca-novo-teaser-de-elder-scrolls-vi-sentinel-e-confirma-nome-do-jogo/",
@@ -217,72 +271,13 @@
       "img": "https://www.estadao.com.br/resizer/v2/U7TVNZD6CFARFPOH4QPU6P37TY.jpg?quality=80&auth=71cbc5c3de01811bbb822b6ffa814f7f04c6309f4854db02b03e20619be34126&width=710"
     },
     {
-      "t": "Por que Legend of Zelda: Ocarina of Time é um dos melhores jogos de todos os tempos? Entenda",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/por-que-legend-of-zelda-ocarina-of-time-e-um-dos-melhores-jogos-de-todos-os-tempos-entenda/",
-      "fonte": "TecMundo",
-      "data": "2026-11-02T20:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/7YMY2I5CMVF7TE7T35DZKH66JQ.webp?quality=80&auth=84d5fdfe4806a6f4e0cb166298360a560c3a785f8eb1be46a1848c6fc8c8405a&width=710"
-    },
-    {
-      "t": "Estúdio do criador de Yakuza fecha as portas antes de lançar seu primeiro jogo, Gang of Dragon",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/estudio-do-criador-de-yakuza-fecha-as-portas-antes-de-lancar-seu-primeiro-jogo-gang-of-dragon/",
-      "fonte": "TecMundo",
-      "data": "2026-11-02T16:14:00.000Z",
+      "t": "GTA 6: Rockstar antecipa pre-load e revela tamanho do jogo",
+      "d": "A Rockstar Games resolveu fazer a boa e anunciou quando liberará o pre-load, além de ter confirmado o tamanho do GTA 6. Veja!",
+      "link": "https://flowgames.gg/gta-6-rockstar-antecipa-pre-load-revela-tamanho-jogo/",
+      "fonte": "Flow Games",
+      "data": "2026-11-03T15:38:40.000Z",
       "c": "Lançamentos",
-      "img": "https://www.estadao.com.br/resizer/v2/V76D7VUNJZPBRGPDEYYXNFJC2Y.jpg?quality=80&auth=62be14a2b7be849cb4d5a15da96980b9ff22705385b635685b3f6104adf3a6fb&width=710"
-    },
-    {
-      "t": "Ofertas do dia: veja quatro videogames disponíveis na Amazon e compare os modelos",
-      "d": "Seleção reúne consoles da Sony, Microsoft e Nintendo, com opções digitais, leitor de discos e modelos portáteis; veja as características e diferenças antes de comprar ...",
-      "link": "https://costanorte.com.br/ofertas/ofertas-do-dia-veja-quatro-videogames-disponiveis-na-amazon-e-compare-os-modelos.html",
-      "fonte": "Bing Notícias – Games",
-      "data": "2026-10-30T12:48:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.bing.com/th?id=ONUT.SKTOKsWT95KsVs4mSRRokQ&pid=News",
-      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7f275e0c46b99c4f6618540d920a&url=https%3a%2f%2fcostanorte.com.br%2fofertas%2fofertas-do-dia-veja-quatro-videogames-disponiveis-na-amazon-e-compare-os-modelos.html&c=8270780679237545047&mkt=pt-br"
-    },
-    {
-      "t": "Faça login ou crie uma conta para salvar localizações",
-      "d": "Na ordem natural das coisas, tudo tem seu início, meio e fim. Na indústria gamer não é diferente, já que a evolução das tecnologias fez com que os consoles chegasssem até o nível atual de excelência.",
-      "link": "https://www.otempo.com.br/tecnologia-e-games/2025/6/17/nintendo-playstation-e-xbox-os-videogames-ja-caminham-para-a-nova-geracao",
-      "fonte": "Bing Notícias – Games",
-      "data": "2025-06-19T12:48:00.000Z",
-      "c": "Lançamentos",
-      "img": "",
-      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7f275e0c46b99c4f6618540d920a&url=https%3a%2f%2fwww.otempo.com.br%2ftecnologia-e-games%2f2025%2f6%2f17%2fnintendo-playstation-e-xbox-os-videogames-ja-caminham-para-a-nova-geracao&c=15220045915208673651&mkt=pt-br"
-    },
-    {
-      "t": "Onde não colocar o videogame? 5 lugares proibidos para seu PS5 ou Xbox",
-      "d": "Os videogames avançaram bastante nas últimas décadas, e consoles atuais, como o PlayStation 5 (PS5), Xbox Series X e Xbox Series S, são muito mais parecidos com PCs que seus antecessores,...",
-      "link": "https://www.techtudo.com.br/listas/2024/08/onde-nao-colocar-o-videogame-5-lugares-proibidos-para-seu-ps5-ou-xbox-edjogos.ghtml",
-      "fonte": "Bing Notícias – Games",
-      "data": "2024-08-30T21:31:00.000Z",
-      "c": "Consoles",
-      "img": "https://s2-techtudo.glbimg.com/llTVjGLpWLQJEbekXkatfGuph1A=/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/V/e/bPVpZAS5SsOsLL5a3ItA/marca-dagua-1-.png",
-      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7f275e0c46b99c4f6618540d920a&url=https%3a%2f%2fwww.techtudo.com.br%2flistas%2f2024%2f08%2fonde-nao-colocar-o-videogame-5-lugares-proibidos-para-seu-ps5-ou-xbox-edjogos.ghtml&c=3161323358606410479&mkt=pt-br"
-    },
-    {
-      "t": "Microsoft quer levar Xbox Game Pass ao PlayStation 5 e Nintendo Switch",
-      "d": "A Microsoft deseja levar o Xbox Game Pass para mais plataformas, entre elas consoles como PlayStation 5 (PS5), PS4 e Nintendo Switch, segundo o chefe financeiro da divisão Xbox, Tim Stuart....",
-      "link": "https://www.techtudo.com.br/noticias/2023/11/microsoft-quer-levar-xbox-game-pass-ao-playstation-5-e-nintendo-switch-edjogos.ghtml",
-      "fonte": "Bing Notícias – Games",
-      "data": "2023-11-30T09:56:00.000Z",
-      "c": "Consoles",
-      "img": "https://s2-techtudo.glbimg.com/1uGfTUIv8fsQD6hLhHuxJSHoSjc=/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/q/Q/JE6GyhSxKqrCrL72fPxw/xbox-live-gold-game-pass-core-series-x-s-one-microsoft.jpg",
-      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7f275e0c46b99c4f6618540d920a&url=https%3a%2f%2fwww.techtudo.com.br%2fnoticias%2f2023%2f11%2fmicrosoft-quer-levar-xbox-game-pass-ao-playstation-5-e-nintendo-switch-edjogos.ghtml&c=1392914101852315879&mkt=pt-br"
-    },
-    {
-      "t": "Como usar controles do Playstation ou Xbox no Nintendo Switch",
-      "d": "Nativamente, o Nintendo Switch é compatível com modelos de controle vendidos pela própria empresa do Mario, além de algumas versões similares ao Pro Controller produzidos por marcas parceiras....",
-      "link": "https://canaltech.com.br/games/como-usar-controles-do-playstation-ou-xbox-no-nintendo-switch-210939/",
-      "fonte": "Bing Notícias – Games",
-      "data": "2022-03-09T02:30:00.000Z",
-      "c": "Consoles",
-      "img": "https://t.ctcdn.com.br/yAnqUgswI0z3igHCuHdl9RCzmzE=/1200x675/smart/i568996.png",
-      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7f275e0c46b99c4f6618540d920a&url=https%3a%2f%2fcanaltech.com.br%2fgames%2fcomo-usar-controles-do-playstation-ou-xbox-no-nintendo-switch-210939%2f&c=13351561858063204176&mkt=pt-br"
+      "img": ""
     }
   ],
   "videos": [
@@ -659,7 +654,7 @@
       "plats": [
         "PC"
       ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod22k.jpg",
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/codan6.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/trap-testers"
     },
@@ -754,15 +749,16 @@
       "link": "https://www.igdb.com/games/yuhas-nightmares"
     },
     {
-      "t": "Nocturnal II",
+      "t": "Nocturnal 2",
       "data": "2026-11-10",
       "plats": [
+        "Switch 2",
         "PC",
         "Switch"
       ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9vk5.jpg",
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/codama.jpg",
       "hype": 10,
-      "link": "https://www.igdb.com/games/nocturnal-ii"
+      "link": "https://www.igdb.com/games/nocturnal-2"
     },
     {
       "t": "Tanuki: Pon's Summer",
@@ -1361,6 +1357,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa7pa.jpg",
       "hype": 6,
       "link": "https://www.igdb.com/games/gothic-3-classic"
+    },
+    {
+      "t": "Ezalm: Magic's Memory",
+      "data": "2026-11-24",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1at.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/ezalm-magics-memory"
     },
     {
       "t": "Azur Promilia",
@@ -4700,16 +4706,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6ce.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/dungeons-and-desserts--1"
-    },
-    {
-      "t": "Red Rust Pioneers",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ztb.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/red-rust-pioneers"
     }
   ],
   "musicas": []
