@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-04T00:40:17.457Z",
+  "atualizadoEm": "2026-11-04T00:41:16.785Z",
   "noticias": [
     {
       "t": "Inteligência artificial transforma a criação de games e desafia criatividade da indústria",
@@ -242,7 +242,7 @@
       "data": "2026-10-30T12:48:00.000Z",
       "c": "Ofertas",
       "img": "https://www.bing.com/th?id=ONUT.SKTOKsWT95KsVs4mSRRokQ&pid=News",
-      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7ee94431495cb5f3279741912146&url=https%3a%2f%2fcostanorte.com.br%2fofertas%2fofertas-do-dia-veja-quatro-videogames-disponiveis-na-amazon-e-compare-os-modelos.html&c=8270780679237545047&mkt=pt-br"
+      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7f275e0c46b99c4f6618540d920a&url=https%3a%2f%2fcostanorte.com.br%2fofertas%2fofertas-do-dia-veja-quatro-videogames-disponiveis-na-amazon-e-compare-os-modelos.html&c=8270780679237545047&mkt=pt-br"
     },
     {
       "t": "Faça login ou crie uma conta para salvar localizações",
@@ -252,17 +252,7 @@
       "data": "2025-06-19T12:48:00.000Z",
       "c": "Lançamentos",
       "img": "",
-      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7ee94431495cb5f3279741912146&url=https%3a%2f%2fwww.otempo.com.br%2ftecnologia-e-games%2f2025%2f6%2f17%2fnintendo-playstation-e-xbox-os-videogames-ja-caminham-para-a-nova-geracao&c=15220045915208673651&mkt=pt-br"
-    },
-    {
-      "t": "Xbox, Nintendo, PlayStation e mais: o guia completo dos videogames disponíveis no Brasil",
-      "d": "Desempenho: processador AMD Zen 2 de 8 núcleos, 16 GB de RAM GDDR6 e armazenamento SSD de 1 TB; Gráficos: placa gráfica AMD Radeon RDNA 2 com 12 teraflops de desempenho; Jogos: compatibilidade com ...",
-      "link": "https://www.otempo.com.br/tecnologia-e-games/2025/4/12/xbox-nintendo-playstation-e-mais-o-guia-completo-dos-videogames-disponiveis-no-brasil",
-      "fonte": "Bing Notícias – Games",
-      "data": "2025-04-12T03:59:00.000Z",
-      "c": "PC",
-      "img": "",
-      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7ee94431495cb5f3279741912146&url=https%3a%2f%2fwww.otempo.com.br%2ftecnologia-e-games%2f2025%2f4%2f12%2fxbox-nintendo-playstation-e-mais-o-guia-completo-dos-videogames-disponiveis-no-brasil&c=11441271739756480957&mkt=pt-br"
+      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7f275e0c46b99c4f6618540d920a&url=https%3a%2f%2fwww.otempo.com.br%2ftecnologia-e-games%2f2025%2f6%2f17%2fnintendo-playstation-e-xbox-os-videogames-ja-caminham-para-a-nova-geracao&c=15220045915208673651&mkt=pt-br"
     },
     {
       "t": "Onde não colocar o videogame? 5 lugares proibidos para seu PS5 ou Xbox",
@@ -272,7 +262,7 @@
       "data": "2024-08-30T21:31:00.000Z",
       "c": "Consoles",
       "img": "https://s2-techtudo.glbimg.com/llTVjGLpWLQJEbekXkatfGuph1A=/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/V/e/bPVpZAS5SsOsLL5a3ItA/marca-dagua-1-.png",
-      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7ee94431495cb5f3279741912146&url=https%3a%2f%2fwww.techtudo.com.br%2flistas%2f2024%2f08%2fonde-nao-colocar-o-videogame-5-lugares-proibidos-para-seu-ps5-ou-xbox-edjogos.ghtml&c=3161323358606410479&mkt=pt-br"
+      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7f275e0c46b99c4f6618540d920a&url=https%3a%2f%2fwww.techtudo.com.br%2flistas%2f2024%2f08%2fonde-nao-colocar-o-videogame-5-lugares-proibidos-para-seu-ps5-ou-xbox-edjogos.ghtml&c=3161323358606410479&mkt=pt-br"
     },
     {
       "t": "Microsoft quer levar Xbox Game Pass ao PlayStation 5 e Nintendo Switch",
@@ -282,7 +272,17 @@
       "data": "2023-11-30T09:56:00.000Z",
       "c": "Consoles",
       "img": "https://s2-techtudo.glbimg.com/1uGfTUIv8fsQD6hLhHuxJSHoSjc=/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/q/Q/JE6GyhSxKqrCrL72fPxw/xbox-live-gold-game-pass-core-series-x-s-one-microsoft.jpg",
-      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7ee94431495cb5f3279741912146&url=https%3a%2f%2fwww.techtudo.com.br%2fnoticias%2f2023%2f11%2fmicrosoft-quer-levar-xbox-game-pass-ao-playstation-5-e-nintendo-switch-edjogos.ghtml&c=1392914101852315879&mkt=pt-br"
+      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7f275e0c46b99c4f6618540d920a&url=https%3a%2f%2fwww.techtudo.com.br%2fnoticias%2f2023%2f11%2fmicrosoft-quer-levar-xbox-game-pass-ao-playstation-5-e-nintendo-switch-edjogos.ghtml&c=1392914101852315879&mkt=pt-br"
+    },
+    {
+      "t": "Como usar controles do Playstation ou Xbox no Nintendo Switch",
+      "d": "Nativamente, o Nintendo Switch é compatível com modelos de controle vendidos pela própria empresa do Mario, além de algumas versões similares ao Pro Controller produzidos por marcas parceiras....",
+      "link": "https://canaltech.com.br/games/como-usar-controles-do-playstation-ou-xbox-no-nintendo-switch-210939/",
+      "fonte": "Bing Notícias – Games",
+      "data": "2022-03-09T02:30:00.000Z",
+      "c": "Consoles",
+      "img": "https://t.ctcdn.com.br/yAnqUgswI0z3igHCuHdl9RCzmzE=/1200x675/smart/i568996.png",
+      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea7f275e0c46b99c4f6618540d920a&url=https%3a%2f%2fcanaltech.com.br%2fgames%2fcomo-usar-controles-do-playstation-ou-xbox-no-nintendo-switch-210939%2f&c=13351561858063204176&mkt=pt-br"
     }
   ],
   "videos": [
@@ -434,7 +434,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6718,
+      "views": 6719,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -482,7 +482,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3101,
+      "views": 3102,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -490,7 +490,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3611,
+      "views": 3612,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
