@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-04T08:04:26.285Z",
+  "atualizadoEm": "2026-11-04T08:34:36.526Z",
   "noticias": [
+    {
+      "t": "Ubisoft faz ofensiva inédita e tenta resgatar a francesa Arkane Lyon das mãos da Xbox",
+      "d": "&nbsp;&nbsp; radiogeekbr.com.br",
+      "link": "https://radiogeekbr.com.br/ubisoft-oferece-compra-arkane-lyon-microsoft/",
+      "fonte": "radiogeekbr.com.br",
+      "data": "2026-11-04T07:11:21.000Z",
+      "c": "Consoles",
+      "img": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1793778961.png",
+      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQWFF4OTE5NnJmd09lWXpveHJKUGdEZ2xERHI0enF4QzRyUzJBRGk4SzJ1OHJqTGFsQWV2a2hhVE1MY1FHbkNzbnVmbmZVbER1OWw1SjdQOU5UU3NvVjQycVRmd0xxbnJBeXhOR0ROcTVobDQ1Y1dtYnVzRV8?oc=5"
+    },
     {
       "t": "Ex-produtores de Metal Slug ressuscitam RPG “perdido” e colocam Nintendo Switch no centro da nostalgia turbo",
       "d": "&nbsp;&nbsp; radiogeekbr.com.br",
@@ -77,16 +87,6 @@
       "c": "PC",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDZlVlNQYTR3eXBqOVQ5dXViM3EyTVNsc1BjQnhtZTBtaGhLcmJVZ3RtbkpzbXhuT0dSSFkzeWo0VDRHU0ZzdkNXQUZVUG9wM3hJZ1UzOFZ0dVJyWW0xYUFSajdscmdrOGhYMGlqdWFaTUhIeUQ3X0RoLTFXYUpIcmV2R3ZEOS1VTEhUVjQ3V2FrMmZYeXVwdGdwc0ZON2RPRUxwTHgtUnJ3aWJuYnc?oc=5"
-    },
-    {
-      "t": "Inteligência artificial transforma a criação de games e desafia criatividade da indústria",
-      "d": "&nbsp;&nbsp; A Tribuna",
-      "link": "https://www.atribuna.com.br/galeria/comportamento/inteligencia-artificial-transforma-a-criac-o-de-games-e-desafia-criatividade-da-industria-1.535475",
-      "fonte": "A Tribuna",
-      "data": "2026-11-04T00:20:00.000Z",
-      "c": "Geral",
-      "img": "https://www.atribuna.com.br/image/policy:1.535478:1793658110/image.jpg?f=3x2",
-      "orig": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOem80ZHRSYTF3REs3blQtWFJDZ1kwa1ZRc0E4NG9OV1duOGpjeGdfazVzYVBwWS1tdGlZSUpDckpzZm5GZWUwMDVrUXQ4S2k4alBQaEZRS2NyNC1VeGJvZVdJQjVQNXo1OHc1aDlEdzhiSzZOVlUxN0lBMmd3cWcwUzNjaklaaVM2UUgyNjhYTFpvTkE4N2tKZzVNY0lwZFYyU3BuRFVNMnI4VVFUQUpmUmlGWERSaExxc3pNN1R1THlKQ0UwV2J2TkFfM1NOeXRVVU9XeW5SdlhHWk1WcWVFX3JR?oc=5"
     },
     {
       "t": "Eglantine: Emulador de Nintendo Switch 2 evolui no PC e consegue rodar Mario Kart World a 60 FPS",
@@ -1220,6 +1220,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2ol.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/dungeonbound"
+    },
+    {
+      "t": "Dawn of Defense",
+      "data": "2026-11-17",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtpi.jpg",
+      "hype": 5,
+      "link": "https://www.igdb.com/games/dawn-of-defense"
     },
     {
       "t": "Milki Delivery",
@@ -3635,16 +3645,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8koo.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/dungeons-and-furries"
-    },
-    {
-      "t": "Dawn of Defense",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobtpi.jpg",
-      "hype": 5,
-      "link": "https://www.igdb.com/games/dawn-of-defense"
     },
     {
       "t": "Footsy",
