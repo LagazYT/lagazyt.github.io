@@ -1,15 +1,82 @@
 {
-  "atualizadoEm": "2026-11-05T14:31:46.454Z",
+  "atualizadoEm": "2026-11-05T15:02:09.520Z",
   "noticias": [
     {
-      "t": "Meg's Monster será lançado para PlayStation 5 em 1º de março de 2027",
-      "d": "&nbsp;&nbsp; GameBlast",
-      "link": "https://www.gameblast.com.br/2026/11/megs-monster-sera-lancado-para.html",
-      "fonte": "GameBlast",
-      "data": "2026-11-05T14:27:36.000Z",
+      "t": "Xbox prepara \"novidade misteriosa\" para 2027",
+      "d": "&nbsp;&nbsp; Central Xbox",
+      "link": "https://centralxbox.com.br/2026/11/05/xbox-prepara-novidade-misteriosa-para-2027/",
+      "fonte": "Central Xbox",
+      "data": "2026-11-05T14:59:50.000Z",
       "c": "Consoles",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMYkJFl1wtf9t2s8nJd1wBwuHBaLvcXm9t26PwtFKaOr1uVjk1GrS9-r4VLhOuuDFo0kWAA6ClkZmZ0ItPVfMZWuUQYrnsA7jIi7tzOVRfG7zRcJygvnjEswvoJ3sgBuBawXT8ltpI5U81iz1kd7NtgLWiFfv3WS1FRE9_dxTsMNLmQAPDxj1JcMdfMZM/w1200-h630-p-k-no-nu/gameblast-megs-monster-ps5.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wZkctVXdEZ2pxME9ObGJoanFXYjR5cE1XUDlZSzFlTlIyYUZybDhGX253NklrR2ZBLU1lSTdjX0UzZ2REcHBxMy1pTG1vWGpTbUZCYW1rYjZJd2FGVXNrZXhCXzNlb29vSU1DRXZCZ2QtR2RHNlNsMVhJZ1c?oc=5"
+      "img": "https://centralxbox.com.br/wp-content/uploads/2026/03/xbox.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkg2Rl92ZTdDMkxMMW4yTi13Vk1GSUwyRGs3X21lQ00yekFVV2hzcVBYRVFBRkowSHVxek9yS05USDNhUzhESWstbEw2aFh3bWxCOUZwa2dvUDd1cTJ6cHk3MWtYSE01WHEwdHhQMmdpSWxFZlNHdjRDcWJDcWpKTUpwU0NBazhJ?oc=5"
+    },
+    {
+      "t": "Zelda Ocarina of Time Remake já funciona em emuladores no PC",
+      "d": "Em menos de 24 horas, o Zelda Ocarina of Time Remake já começou a ser rodado em emuladores do Switch 2 para PCs",
+      "link": "https://flowgames.gg/zelda-ocarina-of-time-remake-funciona-emuladores-pc/",
+      "fonte": "Flow Games",
+      "data": "2026-11-05T14:59:08.000Z",
+      "c": "PC",
+      "img": "https://www.youtube.com/embed/LNHkd-ohv9w"
+    },
+    {
+      "t": "Não há planos para novo aumento de preço do Switch 2, diz presidente da Nintendo; companhia também está tranquila com o estoque de memória – NintendoBoy",
+      "d": "&nbsp;&nbsp; NintendoBoy",
+      "link": "https://nintendoboy.com.br/2026/11/nao-ha-planos-para-novo-aumento-de-preco-do-switch-2-diz-presidente-da-nintendo-companhia-tambem-esta-tranquila-com-o-estoque-de-memoria/",
+      "fonte": "NintendoBoy",
+      "data": "2026-11-05T14:55:47.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaktwQ0wyc0w0RlRXN1NycEF4YWw2cFlfTzA5RnhEZ3F4T01uRFJSZUhGcUQ4dHE3Wmg5OVRDYVJwV1VOT254OVdDRktwUnlwY2FKdERkQkNxYVM3WVo4b0c5U3M5a2FrNDR3V01meFpZbEJleWJ2bVVXVVFDeFRjRWdnbGx0M3RtcDlLSzB4eERQa1pqVHNKVnF3WHNnVnhSUEZHOEhFYjZ5Q3JzcWx3YlZDcmN2VTdwcldyY0NuNTZfVl8zMjlZYTFGVlI5VHdHR3pIYVlQZXNSdzVCc1dkdDd1QWV1bWZFOTRleGg3dWgwLThmSG1UdlFLTmdFcWVzV3c?oc=5"
+    },
+    {
+      "t": "Luana Silva chega ao ISA Games de surfe movida por confiança, saúde mental e sonho Olímpico",
+      "d": "&nbsp;&nbsp; Olympics",
+      "link": "https://www.olympics.com/pt/noticias/luana-silva-isa-games-surfe-confianca-saude-mental-sonho-olimpico",
+      "fonte": "Olympics",
+      "data": "2026-11-05T14:53:00.000Z",
+      "c": "Lançamentos",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdlNsQnBOaWRManpRdUF4MFNhVjk4SUZtMnk0OHY1SjZHeXFWV0pjNUF5TWJGa0htM1c2ejM2TzR2TnNUTmhuRXNrdGpXa01sZy1YQVczbzNZUXhxekxHTW9zU1lhdzRaZTV6eUFxdHRZQ0VJMGZFU2NiZFR4eHhYenlSNk82WkNPbldvd2RPYkRFdlpObld0RXRBX3hnbkpXQWdybg?oc=5"
+    },
+    {
+      "t": "Nintendo descarta novos aumentos de preço no Switch 2",
+      "d": "&nbsp;&nbsp; Terra",
+      "link": "https://www.terra.com.br/gameon/plataformas-e-consoles/nintendo-descarta-novos-aumentos-de-preco-no-switch-2,aaa69ae584fc9d20e8d7932c8b1fd278ud6ye53x.html",
+      "fonte": "Terra",
+      "data": "2026-11-05T14:48:00.000Z",
+      "c": "Consoles",
+      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/05/switch2-202-to2bf3a0p36t.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObjlDNGx2T3FzUEd2ZGd0TDA1ZUg4M0FXaUNjTnNKYktsampPU240ZUZLTTRIaVJmWTdJdUtpNTJ3dFM1VHkxclpXcW1Xbjd1aDNsYXI4VjJwNUoyaHZBV2JTMkZoMUFrZEVDUWtEczljRFJ4WW1lY29EU2lPTFlQTWdYbUtrU2o3NzZYc0FnNHRfckdLeEpFdU5NWlljMmdmUE1ONmJGd0xEYmlGbEgzN29WS2swTEdTMG1JSGdpY2FfU3ZvbDdBVGdCTUszRmtxdWRNMVhLT0c2S0V3NWl6YnZLR0JrS3p2Nnc?oc=5"
+    },
+    {
+      "t": "Nintendo Switch 2 ultrapassa 26 milhões de unidades; confira os números do relatório fiscal",
+      "d": "&nbsp;&nbsp; Insider Gaming",
+      "link": "https://insider-gaming.com/br/nintendo-switch-2-vendas-relatorio-financeiro-q2/",
+      "fonte": "Insider Gaming",
+      "data": "2026-11-05T14:40:48.000Z",
+      "c": "Consoles",
+      "img": "https://insider-gaming.com/br/wp-content/uploads/sites/2/2026/11/nintendo-switch-2-vendas.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTVFTSVNwOWhqcnJRaWdDTUdvYjVRdU9qYzNFZktkUmsxWFI2WDVlcFVJMEdjYmI4aG1UcDJvNmN3WTBYcXZrVVhpaEQ5NDhONDZZVnM3NGV1aHdlTWR4bmpEZTJ1Y1g5OGtaaC1OUXMtVXpDdzJ0blZDVm1SQ3dua1JMUjVJZw?oc=5"
+    },
+    {
+      "t": "Segundo DLC de Pokémon Pokopia chega em 9 de dezembro",
+      "d": "Pacote de expansão adicionará novos acessórios e Pokémon O segundo DLC de Pokémon Pokopia já tem data de lançamento para 9 de dezembro. Intitulado \"Dazzling Decorations\", a segunda parte do pacote...",
+      "link": "https://br.ign.com/pokemon-pokopia/157357/segundo-dlc-de-pokemon-pokopia-chega-em-9-de-dezembro",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-05T14:32:04.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/pp_bbkc.jpg"
+    },
+    {
+      "t": "Zenless Zone Zero: confira a lista atualizada de códigos!",
+      "d": "Listona do portal Flow Games traz para você um montão de códigos de Zenless Zone Zero para resgatar grátis",
+      "link": "https://flowgames.gg/zenless-zone-zero-lista-codigos-atualizada-2025/",
+      "fonte": "Flow Games",
+      "data": "2026-11-05T14:24:30.000Z",
+      "c": "Ofertas",
+      "img": "https://flowgames.gg/wp-content/uploads/2023/08/zenless-zone-zero_obqWbPP-1.jpg"
     },
     {
       "t": "GOG fará seu primeiro showcase nesta quinta (5) com muitas novidades",
@@ -30,44 +97,22 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/08/download.jpg"
     },
     {
+      "t": "Emprestado de Breath of the Wild e Tears of the Kingdom, agora ficou mais complicado receber poderes das Grandes Fadas no remake de The Legend of Zelda: Ocarina of Time",
+      "d": "Uma singela oferenda de dinheiro O remake de The Legend of Zelda: Ocarina of Time deixou mais complicado conseguir as bênçãos das Grandes Fadas , que podem aumentar a magia de Link e dar outros...",
+      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157355/emprestado-de-breath-of-the-wild-e-tears-of-the-kingdom-agora-ficou-mais-complicado-receber-poderes",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-05T14:22:37.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/gf_f2tj.jpg"
+    },
+    {
       "t": "3 em 1! Resident Evil Generation Pack para Nintendo Switch 2 entra na Black Friday da Amazon",
-      "d": "&nbsp;&nbsp; IGN Brasil",
+      "d": "Pacote reúne Resident Evil Requiem e as edições Gold de Resident Evil 7 e Village, com campanhas extras e outros conteúdos adicionais",
       "link": "https://br.ign.com/descontos/157356/3-em-1-resident-evil-generation-pack-para-nintendo-switch-2-entra-na-black-friday-da-amazon",
       "fonte": "IGN Brasil",
-      "data": "2026-11-05T14:19:49.000Z",
+      "data": "2026-11-05T14:15:34.000Z",
       "c": "Ofertas",
-      "img": "https://sm.ign.com/t/ign_br/screenshot/default/re-widget_xv5t.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmtCWU9KVF9PWHlPZHBiMy1jRU0ySmZ1NHZDdFNidUI1bzBaZ2NHV2E0dlFvVHlsT05aRXduZkM5NXFCM1Jxa0phNGpkTTRkWnN3Y0lESldtUEQzSjBZc0cxWE00NEpuUXBXRkJYZkdRenRRdzYtNnItaFAtUWdCUEZiM3hJUzhWRW5rdTBrYWczS0tITFI3VmNjYk1EYllDcFgybUtDOVJob3BfODRTdWJYcmtldm1tTHV2YjRwdWU4RDBSNFE?oc=5"
-    },
-    {
-      "t": "Wolverine tem 2,4 milhões de cópias vendidas em 2 meses, ficando atrás de Marvel’s Spider-Man",
-      "d": "&nbsp;&nbsp; Estadão",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/wolverine-tem-24-milhoes-de-copias-vendidas-em-2-meses-ficando-atras-de-marvels-spider-man/",
-      "fonte": "Estadão",
-      "data": "2026-11-05T14:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/7FDYG6IW3ZEW7I2KA75DROAFGE.jpg?quality=80&auth=be2226c30218668b6fccc2f9ed9557ae83e04d89ab5682e60149b85360e3429d&width=1200&height=630&focal=741,500",
-      "orig": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGw5RENPWFh2ckNmaUxNZE00MFVqUkxGNnFNNllreGh3X0hKckZscTdfOXVtaHB0aUVZMjhmM0s1U2Z0NUJEd2hEX05zVHkzZ29aS1hlRWx2NjZfa0dkTTl1a000ZHQ1bVdkam9sZTBKNEtiblpJRUNiS0ExUm5LOHVtUDZjWHFpYVM1ZEg4aTlsWW5taTdBWjVKbERzeTY2LWRGeWwwczZGTzhzWWhNM25FY2YySV9vVzU2OW5YZ1ZPd2VLU24yZXhOZVdhQdIB0wFBVV95cUxNakJVNVJwTTRROGFOcXN1SWtBdzlkaUJEY1VCNWt4d1dMZHE0QkNhQUdzXzhYRGZyc3NLZmVFUFVWSHFiQVh0RWVvUTRWQzZGdkpuT1N0ZU1nUEQxejhFQ1JJV1BWelVZM3ZuYXJtRWdxZEVvUjNaa2xDOHJjdktKQ3VBcVBraFdOVFBJTzkweXZtZ3g1eWk2a0VqZUpOOWhhR2ZBdi15TXYwUFlOY3o3UWZwZWtxbHoyQmRwQmFKblNTZGt1T05WZ0MtZEdEV24wX3ln?oc=5"
-    },
-    {
-      "t": "SONIC PICO PARK | Review",
-      "d": "&nbsp;&nbsp; Alternativa Nerd",
-      "link": "https://alternativanerd.com.br/games/sonic-pico-park-review/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-11-05T14:07:35.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wbkJOS1pxYWhtUXZpZTBIcnVSenVnMnJUa3dQV0pYWDJpUk5MRm4tZTRjU1ZoSWdMX3owcHptczRqRERmeHpCQVMwYVJZdkxpeUp1LXJtenh5VEh4Q0UzUFpFdl9FcDV3MW1sTQ?oc=5"
-    },
-    {
-      "t": "PlayStation 6 está progredindo como esperado, diz CFO da Sony",
-      "d": "&nbsp;&nbsp; Omelete",
-      "link": "https://www.omelete.com.br/games/playstation-6-esta-progredindo-como-esperado-diz-cfo-da-sony",
-      "fonte": "Omelete",
-      "data": "2026-11-05T14:05:00.000Z",
-      "c": "Consoles",
-      "img": "https://cdn.ome.lt/ua5_GOeBXSgB1ElTztIEsXez5H0=/1200x630/smart/filters:format(webp)/extras/conteudos/imagem_2026-11-05_110001939.png",
-      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbm1iRjR2dlctb01BT0VzbFpYWi1YclE1T3lMT0drTFR1Q3hfNmZlajBxOXFjVjRQMXFTbXpiTjBNaFpkdXBrNF9Ed0IwZ2FyOWNkS2l0cWFCRmRNQVV2OE5qWVljRmZuTTIwdUNkRmFpY0hNLXVraFNfQ05ZcjVJME5EYmNZNE9zcEhTdDlRb0xGVWJXc3BLVg?oc=5"
+      "img": "https://sm.ign.com/ign_br/screenshot/default/re-widget_xv5t.jpg"
     },
     {
       "t": "Disponível para Nintendo Switch 2, este jogo de 10 anos atrás é quase três vezes maior do que GTA 6",
@@ -116,6 +161,15 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/galaxy-buds4-capa-uso-1280x720_gdr8.jpg"
     },
     {
+      "t": "Honkai Star Rail: lista ATUALIZADA códigos com itens grátis (novembro 2026)",
+      "d": "Códigos mensais de Honkai Star Rail rendem itens e recursos gratuitos; resgate antes que eles expirem",
+      "link": "https://flowgames.gg/honkai-star-rail-lista-codigos-resgate-itens-gratis/",
+      "fonte": "Flow Games",
+      "data": "2026-11-05T13:33:15.000Z",
+      "c": "Ofertas",
+      "img": "https://flowgames.gg/wp-content/uploads/2023/05/image-2023-05-15T154215.049.jpg"
+    },
+    {
       "t": "Jogadores relatam estranho bug ao iniciar o remake de The Legend of Zelda: Ocarina of Time pela primeira vez",
       "d": "Problema pode aparecer ao iniciar o game em um novo Switch 2 sem qualquer outro jogo Alguns jogadores vêm relatando um peculiar bug que pode dificultar jogar o remake de Ocarina of Time no...",
       "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157354/jogadores-relatam-estranho-bug-ao-iniciar-o-remake-de-the-legend-of-zelda-ocarina-of-time-pela-prime",
@@ -161,15 +215,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/oot_8bpr.jpg"
     },
     {
-      "t": "Remake de Ocarina of Time: Conheça todas as vozes brasileiras por trás do game",
-      "d": "Pela primeira vez na franquia, The Legend of Zelda recebe dublagem em português do Brasil O remake de The Legend of Zelda: Ocarina of Time está entre nós. Chegando aos sistemas Nintendo Switch 2...",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157348/remake-de-ocarina-of-time-conheca-todas-as-vozes-brasileiras-por-tras-do-game",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-05T12:39:59.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/photo/default/the-legend-of-zelda-40th-anniversary-direct-9-8-2026-01-03-0_avcq.jpg"
-    },
-    {
       "t": "Família também se escolhe nas histórias da Disney",
       "d": "Entenda como pertencimento e família escolhida aparecem nas histórias da Disney e se transformam em cartas e mecânicas de Disney Lorcana.",
       "link": "https://flowgames.gg/familia-tambem-se-escolhe-pertencimento-disney-lorcana/",
@@ -186,15 +231,6 @@
       "data": "2026-11-05T12:30:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/GZ2QE5COVBKXNKOW6FKT6JGAVM.jpg?quality=80&auth=015c53008ec6d4523f14711d3f0b694cb1f577f6181b50fce7813a797cb466fa&width=710"
-    },
-    {
-      "t": "Leonardo DiCaprio e Joaquin Phoenix receberam oferta para interpretar Coringa em O Cavaleiro das Trevas, mas recusaram",
-      "d": "Parece que Nolan e Papsidera estavam tentando, de forma intencional, ir contra o estereótipo",
-      "link": "https://br.ign.com/batman-o-cavaleiro-das-trevas/157344/leonardo-dicaprio-e-joaquin-phoenix-receberam-oferta-para-interpretar-coringa-em-o-cavaleiro-das-tre",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-05T12:01:38.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/news/l/leonardo-d/leonardo-dicaprio-and-joaquin-phoenix-were-offered-the-role_edjr.jpg"
     },
     {
       "t": "O que comprar na Black Friday: TVs para games",
@@ -241,43 +277,6 @@
       "data": "2026-11-04T20:15:00.000Z",
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/J5MCEJDFQ5FEFPOTSSPYBRZR7I.jpg?quality=80&auth=b2f92d6fcc371ea4095edc1ccd7338b2ccdb2365d1aaa6117e28e54e9aa66f6f&width=710"
-    },
-    {
-      "t": "Black Friday da PS Store: veja 13 jogos com 70% de desconto ou mais",
-      "d": "Nova oferta da PS Store traz descontos tentadores para vários jogos; confira",
-      "link": "https://flowgames.gg/black-friday-ps-store-13-jogos-descontos-imperdiveis/",
-      "fonte": "Flow Games",
-      "data": "2026-11-04T20:04:18.000Z",
-      "c": "Ofertas",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/HWNMWwQWkAA33s9.jpeg"
-    },
-    {
-      "t": "ROG Xbox Ally X20 chega ao Brasil com direito a acessórios",
-      "d": "A ASUS acaba de lançar a edição limitada do ROG Xbox Ally X20 para comemorar o aniversário de 20 anos da marca. Veja os detalhes!",
-      "link": "https://flowgames.gg/rog-xbox-ally-x20-chega-ao-brasil-direito-acessorios/",
-      "fonte": "Flow Games",
-      "data": "2026-11-04T19:06:13.000Z",
-      "c": "Consoles",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/ROG-Xbox-Ally-X20-2.jpg"
-    },
-    {
-      "t": "Free Fire: lista de codiguins em novembro de 2026 e como resgatar de graça",
-      "d": "Sempre atualizado aqui no portal do Flow Games, pegue agora mesmo o seu codiguin do Free Fire grátis",
-      "link": "https://flowgames.gg/free-fire-codiguins-lista-atualizada-resgatar-gratis/",
-      "fonte": "Flow Games",
-      "data": "2026-11-04T18:00:38.000Z",
-      "c": "Ofertas",
-      "img": "https://flowgames.gg/wp-content/uploads/2024/08/free-fire-codiguins-gratis-resgate.jpg"
-    },
-    {
-      "t": "Este é o computador gaming de 700€ que vais querer já em Portugal!",
-      "d": "&nbsp;&nbsp; 4gnews",
-      "link": "https://4gnews.pt/este-e-o-computador-gaming-de-700-que-vais-querer-ja-em-portugal/",
-      "fonte": "4gnews",
-      "data": "2026-11-04T18:00:01.000Z",
-      "c": "Geral",
-      "img": "https://cdn.4gnews.pt/imagens/este-e-o-computador-gaming-mais-barato-que-vais-querer-ja-em-portugal-og.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmtETS1ybEFTZG5QT2JrYnVUQ282aWhEQTdQcGYtVUgtQlZwSWxndG1OR3Z2cmw1VVB2Q1djcVk0eVlmYjVFZ1JqMC1LTlJESzhSWjZyRkNzMGN2MG5ZTnhGdVZKMzBVVFZlaV9JNkFpbEdnTGJ5OUR6bE5kWFI4TUhSUVBYeWJIcmtZ?oc=5"
     }
   ],
   "videos": [
@@ -293,7 +292,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8188,
+      "views": 8187,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -325,7 +324,7 @@
       "id": "eC8zHzW_tcc",
       "t": "KANABO LENDÁRIO PILAR VENENOSO COM O DANO INSANO | ASSASSINS CREED SHADOWS",
       "data": "2025-06-18T14:01:06Z",
-      "views": 165,
+      "views": 164,
       "img": "https://i.ytimg.com/vi/eC8zHzW_tcc/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=eC8zHzW_tcc"
     },
@@ -445,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20317,
+      "views": 20316,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
