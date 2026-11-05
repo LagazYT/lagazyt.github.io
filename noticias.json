@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-05T03:42:57.602Z",
+  "atualizadoEm": "2026-11-05T04:13:06.661Z",
   "noticias": [
     {
       "t": "Controle Xbox Nano adota um recurso do controle Stadia do Google, já descontinuado",
@@ -3839,19 +3839,6 @@
       "link": "https://www.igdb.com/games/the-patient-can-you-escape"
     },
     {
-      "t": "Golf With Your Friends 2",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobyw1.jpg",
-      "hype": 6,
-      "link": "https://www.igdb.com/games/golf-with-your-friends-2"
-    },
-    {
       "t": "Star Life",
       "data": "2026-12-31",
       "plats": [
@@ -4700,6 +4687,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0un.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/raiders-rise"
+    },
+    {
+      "t": "Mirealle",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobo3y.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/mirealle"
     }
   ],
   "musicas": []
