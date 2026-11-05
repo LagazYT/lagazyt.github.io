@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-11-05T01:11:47.857Z",
+  "atualizadoEm": "2026-11-05T01:41:59.878Z",
   "noticias": [
+    {
+      "t": "Xbox confirma que FSR 4.1 já está disponível para todos os desenvolvedores a partir de hoje (04)",
+      "d": "&nbsp;&nbsp; Central Xbox",
+      "link": "https://centralxbox.com.br/2026/11/04/xbox-confirma-que-fsr-4-1-ja-esta-disponivel-para-todos-os-desenvolvedores-a-partir-de-hoje-04/",
+      "fonte": "Central Xbox",
+      "data": "2026-11-05T01:15:33.000Z",
+      "c": "PC",
+      "img": "https://centralxbox.com.br/wp-content/uploads/2026/10/HVFaezuWMAAc4AD.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRWg4Ykd2a0dGYXA2cm5xczFCcGYzQjZJWDQzRHRzNkVCMzd5am9WS1dRaWg1S25WOUswdDZURnNVZ1FkRzdxTHluWHhKV2VSRWhtSTcwTGxvY3A0NThZZkVkLU5DYlZ2ZGZQQXhXM21ldEZGMXpNb3dCbk1raU9GdGJreFBzTjluWGg0dzQycEQyXzh1OWo4dnowZUZrNTRzNTlfTzZyQjhWMzVna3VMeHBOMUpJWTNFMkxVaDdhM1RaRmctUXUyMnI0M2I5UQ?oc=5"
+    },
+    {
+      "t": "Pikmin 4 recebe atualização 2.0.0 com suporte à edição para Nintendo Switch 2",
+      "d": "&nbsp;&nbsp; Project N",
+      "link": "https://projectn.com.br/pikmin-4-recebe-atualizacao-2-0-0-com-suporte-a-edicao-para-nintendo-switch-2/",
+      "fonte": "Project N",
+      "data": "2026-11-05T00:59:33.000Z",
+      "c": "Consoles",
+      "img": "https://projectn.com.br/wp-content/uploads/2023/09/Pikmin-4-2.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVVFX0ZnZ080aEJycnFEdTh0dDc1NGZwNWdzdDdTeUhOa09DSkFEZ3poVTZzX0otYWtwcmhuSDliMm1USjlzcHNHTjFpZldfV3B4QTFIc3F0aUVzU0F2M0MxS1lhaFo5SXhkXzA4enVnN2ZXQndPTkRreHN3YXhBMS1mUlNmZE10RjQ1TW5FcU1pdU83YWpZNElTT0RSZDh0TUg4Uw?oc=5"
+    },
     {
       "t": "CRÍTICA | ‘Nintendo Switch Sports Resort’ – Diversão em família garantida na nova geração",
       "d": "&nbsp;&nbsp; Feededigno",
@@ -38,26 +58,6 @@
       "data": "2026-11-04T23:15:00.000Z",
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/376CRQEFFVHZ5FOIM7FGQTBVH4.jpg?quality=80&auth=7941a01c08942710a55ddce5c51bce71d1e835a4347f0bde3391d46f3e42006e&width=710"
-    },
-    {
-      "t": "Xbox | Funcionários da Arkane Lyon acusam a Microsoft de sabotar o estúdio",
-      "d": "&nbsp;&nbsp; Omelete",
-      "link": "https://www.omelete.com.br/games/xbox-funcionarios-arkane-lyon-acusam-microsoft-sabotar-estudio",
-      "fonte": "Omelete",
-      "data": "2026-11-04T23:13:00.000Z",
-      "c": "Consoles",
-      "img": "https://cdn.ome.lt/sBL0W3SvWmGkPcPNna4qO0KKHjU=/1200x630/smart/filters:format(webp)/extras/conteudos/Marvels-Blade-trailer-1.webp",
-      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUwwcEUwdjhLQkF3RG84RU9NVDhJd3VNTVg4QTQ4bml4MDdQajFueU1CODRCOFhrS1hDQWUzbmhYNDZJdmV0aEE5ZnBVcklaS2VGSE5heEEwczZVdm4walE0M3NPOXB1MGZNeFZZbzhGa183WXJXVVJIbHpCWVlfZnlNS3Nra19OdTl6cEw4bWFZUVlrRkd0X2lYaw?oc=5"
-    },
-    {
-      "t": "REC'n'Play 2026 reúne Caco Barcelos, Déia de Freitas e Fabrício Carpinejar na próxima semana",
-      "d": "&nbsp;&nbsp; Folha PE",
-      "link": "https://www.folhape.com.br/colunistas/tecnologia-e-games/recnplay-2026-reune-caco-barcelos-deia-de-freitas-e-fabricio-carpinejar-na-proxima-semana/60829/",
-      "fonte": "Folha PE",
-      "data": "2026-11-04T22:46:00.000Z",
-      "c": "Geral",
-      "img": "https://cdn.folhape.com.br/img/c/800/600/dn_arquivo/2026/09/divulgacao-recnplay.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLXgxeEN1VFBkZ1RaWXBTTmItZ25qZ2J0NVRlc3IyLW9PTm9lWVdVazZqTU5QdTgwNzVZVnNzQUxYaWxobS13dG8tZFIyQWNrdGFHeW9rcnFUTU1IellBVnkxTWpXY0dZZThzZzhvN0c2OWFaTlJmUExmeEdMdnpjNHpPMDJoMzEwaG5MQ3AxcUxVQkRpblpVX1FWOVBoWmV5Wl9RVDlqT21sem9PMlU3TlFQMlVrUkM1UThwa2hjR25rdkMxcEZ2VzFVRHpXa0xaZkpFM25sT0NlUTB5UGRWc2I1ZnBhQ3Yy?oc=5"
     },
     {
       "t": "Em ato de desespero, Microsoft pede que jogadores de Xbox revendam seus consoles, e o motivo é curioso",
@@ -396,7 +396,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3536,
+      "views": 3535,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -404,7 +404,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2925,
+      "views": 2924,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
@@ -428,7 +428,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6721,
+      "views": 6720,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -444,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20311,
+      "views": 20308,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -476,7 +476,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3106,
+      "views": 3105,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -484,7 +484,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3617,
+      "views": 3616,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
