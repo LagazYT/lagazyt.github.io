@@ -1,6 +1,36 @@
 {
-  "atualizadoEm": "2026-11-06T10:30:36.503Z",
+  "atualizadoEm": "2026-11-06T11:00:44.080Z",
   "noticias": [
+    {
+      "t": "MS Geek 2026 reúne games, cosplay e K-pop de graça em Campo Grande no dia 21",
+      "d": "&nbsp;&nbsp; A Crítica de Campo Grande",
+      "link": "https://acritica.net/cultura/ms-geek-2026-campo-grande-21-novembro-games-cosplay/",
+      "fonte": "A Crítica de Campo Grande",
+      "data": "2026-11-06T10:46:12.000Z",
+      "c": "Ofertas",
+      "img": "https://uploads.acritica.net/2026/11/ms-geek-2026-campo-grande-21-novembro-games-cosplay.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmpUTzltRnl4aDVBU3Z0Y3VtWlpmREFudmlYd05kSnhSOXFJYkg2QUh4djEzbmxVVmlZUkVhSDhGYjhFekZXalU3bVhDOFlCSVNqQkZUOGhYMGViTldyNnBmU2FVV2FGblZFOG5NcmY2MWU4ZUp5c2d3VlNnSkh4M2ZKR01pNThP?oc=5"
+    },
+    {
+      "t": "Review | Call of Duty: Modern Warfare 4",
+      "d": "&nbsp;&nbsp; NintendoBoy",
+      "link": "https://nintendoboy.com.br/2026/11/review-call-of-duty-modern-warfare-4/",
+      "fonte": "NintendoBoy",
+      "data": "2026-11-06T10:17:12.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdUlmQWloSTd3X05BRDlETkFQa0NPVUJ5YXVNODU5ZW9zaEhlUzlORHVZclhwU042djZKclQ5U3JOTExQaDN2WktNVW1hWVBiRTNDSDlFTjAtWmY2ZFNraWxyMTFQZjJzX0VKN3RIY3FOYlhZS3U1Um03V0s?oc=5"
+    },
+    {
+      "t": "007 First Light ganha versão grátis no PC e consoles! Veja como jogar",
+      "d": "&nbsp;&nbsp; Estadão",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/007-first-light-ganha-versao-gratis-no-pc-e-consoles-veja-como-jogar/",
+      "fonte": "Estadão",
+      "data": "2026-11-06T10:15:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/7OPSNQXIFNM4VPSUYZK6T5QRO4.jpg?quality=80&auth=c532ad8f1d193b14161418c76dc788c92dcc07c1db99a3bf98fe8e852c809d8d&width=1200&height=630&focal=779,578",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzFtSk5HZ3BZUU1jTU5HUDRwbWhDaFRHZU0yYmcteGVuUHllNVFTQWc3bkZpblFmU3U2R3dLQTdxQ3E0cGhVdWRycnJYTDN2MWNkQUlHRVZFVWtHZGZ5T2RuZlZpdzlReGYwTkhLbkNOSjA5ZEYyQTlXOUVCbGtyQTAtTkZyM3JLaEJlemhvTmFCR2tCWHJqemZ5SEpoMVZGUGNmVjhXWUR6NzRVQzhHRNIBtgFBVV95cUxQNDJ5VFYyQW1iMkN1UUhpMUlDVmZseUZWaU5YUndVekhZaW9GOElzYTkySzU5VUVHY0E1YUpaNXZjcmxmNWNxMVd3M1k1OG5aZU0xYXBSYm9jX3JOTWoyZm1uRGxQX2Q4MG9HNWU0NVAtOXFzYTUtcTltWUUwWlEwTWFjZ3l6VEFFVDU2ZVRYd2JCYWw2UUczdXFXdkxOLXVFZHJhQ01nTjJqUDcwak1HUWJOWHZyQQ?oc=5"
+    },
     {
       "t": "Nintendo lista Final Fantasy VII Revelation e mais jogos de terceiros para o Switch 2",
       "d": "&nbsp;&nbsp; Project N",
@@ -12,44 +42,14 @@
       "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSno2QWd1NVZvb2N0TUJ4R2s4MUNuY2FSd2k2N3N0SzExa0doT1BFVl9CZTJBZW1sYTN0dFo5VHA3WGw5WXdKMWF0VjdOcGpOeGZsTDE2aVNBY28zOFV4Q2p3SGItVEJrSXB5dnRFQVVnYlE1M0lSY3lVTFhUdDMtRThTa2dWUlE4TmkyaGpueFF3cnRsZ04w?oc=5"
     },
     {
-      "t": "Epic Games libera Flotsam de graça para PC; jogo permite construir cidade sobre o oceano",
-      "d": "&nbsp;&nbsp; Portal G",
-      "link": "https://portalg.com.br/flotsam-gratis-epic-games-como-resgatar/",
-      "fonte": "Portal G",
-      "data": "2026-11-06T09:34:12.000Z",
-      "c": "Ofertas",
-      "img": "https://portalg.com.br/wp-content/uploads/2026/06/portalg.webp",
-      "orig": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41bkxLMlU0azlVRlpNYnJlSWdXV1NuQWV3dUVBdWdZb09IZjZPaktoY0NfaHhna3FwTEpOU0twQ0x3U0xiZjdvY2ZPT2I3R1Jtd3pETzk4T09PTjhzUG9CN24yT0RHbVQyZGpxd1AzQ1E?oc=5"
-    },
-    {
-      "t": "Hasbro Games Junior Collection é lançado para consoles e PC",
-      "d": "&nbsp;&nbsp; Pizza Fria",
-      "link": "https://pizzafria.ig.com.br/news/hasbro-games-junior-collection-lancamento/",
-      "fonte": "Pizza Fria",
-      "data": "2026-11-06T09:00:00.000Z",
-      "c": "PC",
-      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/Hasbro-Games-Junior-Collection.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNejV2Y1dKY1AyY0VfaV9fa3BWeFMwMDZrQUk4OWd3Y2VOSjB0dDRSY3ExNzRGV3dqMUcxVjBUSjItZjd1aFk5TXl5ZEM3M1h4cmxnOXMxR1hlZDNrRTJPemtjQVFkcUNGT01xdFEzTEdkdWNwajZtSDJjVnpQdWR6Yg?oc=5"
-    },
-    {
-      "t": "Por que a Nintendo está apostando em um remake de um jogo de quase 30 anos?",
-      "d": "&nbsp;&nbsp; CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/por-que-a-nintendo-esta-apostando-em-um-remake-de-um-jogo-de-quase-30-anos/",
-      "fonte": "CNN Brasil",
-      "data": "2026-11-06T07:10:38.000Z",
+      "t": "A Nintendo Switch 2 poderá receber mais remakes",
+      "d": "&nbsp;&nbsp; Eurogamer.pt",
+      "link": "https://www.eurogamer.pt/a-nintendo-switch-2-podera-receber-mais-remakes",
+      "fonte": "Eurogamer.pt",
+      "data": "2026-11-06T09:50:00.000Z",
       "c": "Consoles",
-      "img": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/logotipo-nintendo-toquio-japao.webp?w=800&h=529&crop=1",
-      "orig": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZy1Kc29JS2VjZnhUVnluQUIzN3MzcHRXVGI4U2tyZks0OEcwR2pjajg3NldmV0JJVmNma2FjSWdEal9rXzU0bERtbVJza1kwUEtvS01aa0RJNXRlNjc4eDFIeV9UVjdqdTRFeDhyX1F2dlpxcFd3SGg3WWhEUzc5WVdjX0ZyUzM0WjBSbE1QeHNkRGlPU0gtZFRBeFMwZHJTeXUzT1MwQzF6djlORmlhejR3OWdia3pNSXI3dTE2M2xldDZvVG9aNm9R?oc=5"
-    },
-    {
-      "t": "Controle especial do Microsoft Flight Simulator para Xbox está 'pronto para voar', vendas começam nos EUA",
-      "d": "&nbsp;&nbsp; Notebookcheck.info",
-      "link": "https://www.notebookcheck.info/Controle-especial-do-Microsoft-Flight-Simulator-para-Xbox-esta-pronto-para-voar-vendas-comecam-nos-EUA.1443832.0.html",
-      "fonte": "Notebookcheck.info",
-      "data": "2026-11-06T05:44:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/Honeycomb-XPC.png",
-      "orig": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTF95WTNOTWRrU1hMcEI4RlJ4eVpwejZ1VU1LbUVoZjZMWjZjSC1kbnhxR0tPNnN5LXpCZFh4R2dSb0NDRlpKZFBQRU5LQTV3RkVQQkRNR1F0RFlVaE1CeGEweHlJdVdfQ0xQMXA3OVJlYTFWRFlFNnlpRmJUbzVKVGMtWjRmdlAwOEthMDJXWUFiVFhmaHRwbHB5M2pQSmJxOUJRdk9HNXNOUkc3djE4VzJVWVZwbU5kOUpmdXNha28yaDRXdTVkaEYweE1XQTljdUpVS21rYWdPUkt5S2RZc1F3?oc=5"
+      "img": "https://assetsio.gnwcdn.com/majoras-mask.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0MEhYYWZVM3F2R2UzVEFZQnlFSUNyZU02VUZkSk1XQlJvVzd2N0U5X1QtMWc4MmxPVlhmajhtcUZrdG50WjUxYldvbnZ2ZG5VTklVa0tSdXUwV296ZDQ0eTEwZHkxeU82ZmQySFhEYUU0WEcxU3FFYm45WjU?oc=5"
     },
     {
       "t": "Jogos com DLSS: veja 200 títulos compatíveis no PC",
