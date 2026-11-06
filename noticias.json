@@ -1,6 +1,63 @@
 {
-  "atualizadoEm": "2026-11-06T11:30:51.982Z",
+  "atualizadoEm": "2026-11-06T12:01:02.857Z",
   "noticias": [
+    {
+      "t": "'Magnoo dos games': jovens são presos por assassinato de desenvolvedor de jogos",
+      "d": "&nbsp;&nbsp; R7",
+      "link": "https://record.r7.com/balanco-geral-manha/video/magnoo-dos-games-jovens-sao-presos-por-assassinato-de-desenvolvedor-de-jogos-06112026/",
+      "fonte": "R7",
+      "data": "2026-11-06T11:50:36.000Z",
+      "c": "Geral",
+      "img": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/https%3A%2F%2Fd22yf0mxeu0gma.cloudfront.net%2F11-06-2026%2Ft_1c317169c3ac4503bf5d466760418984_name_file_960x540_1600_v4_.jpg?smart=true&auth=c091192cf8ef9e2ff5d2235f1bdcb57ef576acc25fa633e391baddc4db7ce913&width=1200&height=630",
+      "orig": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTVNIUWNRaXlVUm0zaFp6b2NwdWw4RkpXbGpyTFFMTEVMSW8xNVdfSTlWb21HWE9JTU1Nc3hZbHJUbFQxQkIyelhheHJjZXl2QWR1VHc1ZGo2X014TGxnZUMxbjRFMUZlaDdRWGdrUjlRZTFmbVhTNGFhLUJqbTctVFZhdTRkd2dkYWZqcVBfMi1DbGhSalVaeEpQNjlrdXpDdnMwaldieGk1aW45TzY3SFd6b3k4Z3NSVndGdXFOTkxmQXEzMnVJVDlrZkU2Nnc?oc=5"
+    },
+    {
+      "t": "Piloto desenha incrível mural de GTA 6 com trajetória de seu voo",
+      "d": "Usando sistemas de visualização de trajetória de voo, é possível acompanhar toda a sua jornada e ver a obra de arte ganhar vida",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157390/piloto-desenha-incrivel-mural-de-gta-6-com-trajetoria-de-seu-voo",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-06T11:46:39.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/p/pilot-draw/pilot-draws-incredible-gta-6-mural-with-his-flight-path_21uv.jpg"
+    },
+    {
+      "t": "Nova coleção! Expansão Reinado Delta surge disponível em pré-venda na loja oficial de Pokémon TCG na Amazon",
+      "d": "Mega Rayquaza ex lidera a expansão que chega em 6 de novembro, com Estádios Lendários e novos Pokémon ex. Reserve boosters, blisters, box e Treinador Avançado na loja oficial e comece a abrir as...",
+      "link": "https://br.ign.com/descontos/157366/nova-colecao-expansao-reinado-delta-surge-disponivel-em-pre-venda-na-loja-oficial-de-pokemon-tcg-na",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-06T11:42:28.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/ign-45_jzpk.png"
+    },
+    {
+      "t": "Onde comprar GTA 6? Veja preços, plataformas e como garantir o jogo na pré-venda",
+      "d": "&nbsp;&nbsp; Quero Bolsa",
+      "link": "https://querobolsa.com.br/revista/onde-comprar-gta-6",
+      "fonte": "Quero Bolsa",
+      "data": "2026-11-06T11:32:28.000Z",
+      "c": "Geral",
+      "img": "https://wordpress-cms-revista-prod-assets.quero.space/uploads/2026/11/gta-6-causes-17-spike-in-time-off-requests-on-games-release_xcwx.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00UFBQNXBORUd5d0QtdzdkTm8wV3pDOEdfM21iRjhuU2ZVM3dRR0huTk1lU0JKdkFhWGVzOTlmSUd0aFVsREF4R28xdnV6eHhVSnRXaTZnTExoWFEwYm1teWJR?oc=5"
+    },
+    {
+      "t": "Desenvolvedora de Nier: Automata trabalha em correção para patch que, acidentalmente, aumentou tamanho do jogo para 366 GB no PC",
+      "d": "“Pedimos sinceras desculpas pelo transtorno”",
+      "link": "https://br.ign.com/nier-automata/157391/desenvolvedora-de-nier-automata-trabalha-em-correcao-para-patch-que-acidentalmente-aumentou-tamanho",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-06T11:27:42.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/news/n/nier-autom/nier-automata-dev-working-on-fix-for-patch-that-accidentally_pgyc.jpg"
+    },
+    {
+      "t": "Anima: Song from the Abyss chega ao Xbox Series X|S",
+      "d": "&nbsp;&nbsp; Xboxers",
+      "link": "https://xboxers.com.br/anima-song-from-the-abyss-chega-ao-xbox-series-xs/",
+      "fonte": "Xboxers",
+      "data": "2026-11-06T11:27:38.000Z",
+      "c": "Consoles",
+      "img": "https://i0.wp.com/xboxers.com.br/wp-content/uploads/2026/11/embed_1-1.jpg?fit=1120%2C630&ssl=1",
+      "orig": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsVnZnUHNXcVBpMWV6SzhBdUt2eGpvWWNLV1lGQjNwdmRubmdKNERyWjhvSy1rdmRPUmRZMnhpTWhJamZuTmNaWi1pWFBQTzlPV2t2Wjk4c1phU1FZcmlvUWJUWS1NWUZ1QWVYX1ZEaDYtMXduLU5OelVYQTlZUQ?oc=5"
+    },
     {
       "t": "Gamin PLUS chega ao Brasil com clube de benefícios que troca moedas por jogos, periféricos e mais",
       "d": "Com mensalidade de lançamento de R$ 25, o novo clube da Engage XP aposta em G-Coins que não expiram, quests, cupons e uma comunidade no Discord",
@@ -29,36 +86,6 @@
       "c": "Consoles",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdUlmQWloSTd3X05BRDlETkFQa0NPVUJ5YXVNODU5ZW9zaEhlUzlORHVZclhwU042djZKclQ5U3JOTExQaDN2WktNVW1hWVBiRTNDSDlFTjAtWmY2ZFNraWxyMTFQZjJzX0VKN3RIY3FOYlhZS3U1Um03V0s?oc=5"
-    },
-    {
-      "t": "007 First Light ganha versão grátis no PC e consoles! Veja como jogar",
-      "d": "&nbsp;&nbsp; Estadão",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/007-first-light-ganha-versao-gratis-no-pc-e-consoles-veja-como-jogar/",
-      "fonte": "Estadão",
-      "data": "2026-11-06T10:15:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/7OPSNQXIFNM4VPSUYZK6T5QRO4.jpg?quality=80&auth=c532ad8f1d193b14161418c76dc788c92dcc07c1db99a3bf98fe8e852c809d8d&width=1200&height=630&focal=779,578",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzFtSk5HZ3BZUU1jTU5HUDRwbWhDaFRHZU0yYmcteGVuUHllNVFTQWc3bkZpblFmU3U2R3dLQTdxQ3E0cGhVdWRycnJYTDN2MWNkQUlHRVZFVWtHZGZ5T2RuZlZpdzlReGYwTkhLbkNOSjA5ZEYyQTlXOUVCbGtyQTAtTkZyM3JLaEJlemhvTmFCR2tCWHJqemZ5SEpoMVZGUGNmVjhXWUR6NzRVQzhHRNIBtgFBVV95cUxQNDJ5VFYyQW1iMkN1UUhpMUlDVmZseUZWaU5YUndVekhZaW9GOElzYTkySzU5VUVHY0E1YUpaNXZjcmxmNWNxMVd3M1k1OG5aZU0xYXBSYm9jX3JOTWoyZm1uRGxQX2Q4MG9HNWU0NVAtOXFzYTUtcTltWUUwWlEwTWFjZ3l6VEFFVDU2ZVRYd2JCYWw2UUczdXFXdkxOLXVFZHJhQ01nTjJqUDcwak1HUWJOWHZyQQ?oc=5"
-    },
-    {
-      "t": "Nintendo lista Final Fantasy VII Revelation e mais jogos de terceiros para o Switch 2",
-      "d": "&nbsp;&nbsp; Project N",
-      "link": "https://projectn.com.br/nintendo-jogos-terceiros-switch-2-2027-final-fantasy-vii-revelation/",
-      "fonte": "Project N",
-      "data": "2026-11-06T09:59:59.000Z",
-      "c": "Consoles",
-      "img": "https://projectn.com.br/wp-content/uploads/2026/10/Final-Fantasy-VII-Revelation-Switch-2-destaque.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSno2QWd1NVZvb2N0TUJ4R2s4MUNuY2FSd2k2N3N0SzExa0doT1BFVl9CZTJBZW1sYTN0dFo5VHA3WGw5WXdKMWF0VjdOcGpOeGZsTDE2aVNBY28zOFV4Q2p3SGItVEJrSXB5dnRFQVVnYlE1M0lSY3lVTFhUdDMtRThTa2dWUlE4TmkyaGpueFF3cnRsZ04w?oc=5"
-    },
-    {
-      "t": "A Nintendo Switch 2 poderá receber mais remakes",
-      "d": "&nbsp;&nbsp; Eurogamer.pt",
-      "link": "https://www.eurogamer.pt/a-nintendo-switch-2-podera-receber-mais-remakes",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-11-06T09:50:00.000Z",
-      "c": "Consoles",
-      "img": "https://assetsio.gnwcdn.com/majoras-mask.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0MEhYYWZVM3F2R2UzVEFZQnlFSUNyZU02VUZkSk1XQlJvVzd2N0U5X1QtMWc4MmxPVlhmajhtcUZrdG50WjUxYldvbnZ2ZG5VTklVa0tSdXUwV296ZDQ0eTEwZHkxeU82ZmQySFhEYUU0WEcxU3FFYm45WjU?oc=5"
     },
     {
       "t": "Jogos com DLSS: veja 200 títulos compatíveis no PC",
@@ -253,33 +280,6 @@
       "data": "2026-11-05T17:28:44.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/impressora-3d_g6pz.jpg"
-    },
-    {
-      "t": "GTA 6 terá método para impedir que jogadores terminem o game muito rapidamente",
-      "d": "Jogue com calma e desfrute sem pressa! Com lançamento previsto para 19 de novembro de 2026, a Rockstar não quer que você zere Grand Theft Auto VI em poucos dias.",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157332/gta-6-tera-metodo-para-impedir-que-jogadores-terminem-o-game-muito-rapidamente",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-05T17:00:35.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/image_z2bz.png"
-    },
-    {
-      "t": "Adam Driver afirma que não vai mais interpretar Kylo Ren, mas que retornaria sob uma condição",
-      "d": "No entanto, a Disney não está interessada",
-      "link": "https://br.ign.com/star-wars-episode-ix/157339/adam-driver-afirma-que-nao-vai-mais-interpretar-kylo-ren-mas-que-retornaria-sob-uma-condicao",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-05T16:30:42.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/a/adam-drive/adam-driver-says-hes-done-playing-kylo-ren-but-would-return_sk37.jpg"
-    },
-    {
-      "t": "Key Moments in The Rise of Kylo Ren #3",
-      "d": "",
-      "link": "https://br.ign.com/gallery/157340/key-moments-in-the-rise-of-kylo-ren-3",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-05T16:30:42.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/gallery/k/key-moment/key-moments-in-the-rise-of-kylo-ren-3_q6vj.jpg"
     }
   ],
   "videos": [
