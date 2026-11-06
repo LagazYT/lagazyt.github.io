@@ -1,6 +1,54 @@
 {
-  "atualizadoEm": "2026-11-06T17:33:30.281Z",
+  "atualizadoEm": "2026-11-06T18:03:37.941Z",
   "noticias": [
+    {
+      "t": "Rockstar Games divulga 39 imagens inéditas de ‘GTA 6’; veja",
+      "d": "&nbsp;&nbsp; Rolling Stone Brasil",
+      "link": "https://rollingstone.com.br/rs-gaming/rockstar-games-divulga-39-imagens-ineditas-de-gta-6-veja/",
+      "fonte": "Rolling Stone Brasil",
+      "data": "2026-11-06T18:00:24.000Z",
+      "c": "Geral",
+      "img": "https://rollingstone.com.br/wp-content/uploads/2026/06/GTA-6-rockstar-rolling-stone.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS05CY1dxS1lxNWxTVnJSQ3lYN0t5SHBvTHBtc3dLd1pUdzNaNlFHMV96dDkzeDBjSkFNLVZnRHhScVpTWHdrNE8zTVhaVlI0cVgydUJnVHZRQjU0M0sybVhjR0tkODhKVmxEbkp1S3I4MEtZZWh1ekxQRTFnQ04zWHlVMXlZZk9kZWMwNlhIZXFKclphdERaOXZkWQ?oc=5"
+    },
+    {
+      "t": "Para renovar o setup: controle DualSense cinza camuflado está em oferta na Amazon",
+      "d": "Modelo para PS5 combina visual personalizado, resposta tátil e gatilhos adaptáveis",
+      "link": "https://br.ign.com/descontos/157419/para-renovar-o-setup-controle-dualsense-cinza-camuflado-esta-em-oferta-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-06T17:50:51.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/dual-sense_2j8y.jpg"
+    },
+    {
+      "t": "Atualização torna Nier Automata um jogo de quase 400 GB no PC",
+      "d": "Estranho update faz Nier Automata passar a exigir uma instalão colossal",
+      "link": "https://flowgames.gg/nier-automata-agora-pede-quase-400-gb-no-pc/",
+      "fonte": "Flow Games",
+      "data": "2026-11-06T17:40:50.000Z",
+      "c": "PC",
+      "img": "https://flowgames.gg/wp-content/uploads/2022/12/90-アニメ『NieRAutomata-Ver1.1a』Promotion-File-009-00-00-52.jpg"
+    },
+    {
+      "t": "Xbox Cloud Gaming ou Game Pass: qual vale assinar?",
+      "d": "&nbsp;&nbsp; Game Overdrive",
+      "link": "https://gameoverdrive.com.br/xbox-cloud-gaming-horas-ou-game-pass/",
+      "fonte": "Game Overdrive",
+      "data": "2026-11-06T17:32:28.000Z",
+      "c": "Consoles",
+      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/xbox-cloud-gaming-ou-game-pass-2-1600x900.webp",
+      "orig": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MLUNQbnpwQ1R0REMyd29xRlFDQ0hHM0RLMk11Yjh3QmZ5MjBHRHJLZllGS1JROFZheU4zVDE4RjNORWgzdTJ3T0U4SVBuMEh1NU1xSWtVVzhjb0xTSS1zV0NsaEpVZkVnU3JTZHdoVXNNa1Vq?oc=5"
+    },
+    {
+      "t": "Nintendo descarta novo aumento de preço do Switch 2 após queda nos lucros",
+      "d": "&nbsp;&nbsp; O Vício",
+      "link": "https://ovicio.com.br/nintendo-descarta-novo-aumento-de-preco-do-switch-2-apos-queda-nos-lucros/",
+      "fonte": "O Vício",
+      "data": "2026-11-06T17:21:36.000Z",
+      "c": "Consoles",
+      "img": "https://ovicio.com.br/wp-content/uploads/2026/08/20260807-ovicio-switch2.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUktbW5YUHRWTUViaFgxNlduUEUtNldnYlU0QkE1LTVOdnJPX041eGpuUXdXS3o2d01HUlZIRkRzZFU5MWRoZkNHZ3ItRXRUX3hfLW5HMjlrX21SUVlTRE1Wc2dIcVNseHZCVldtZF9LR0tpTllVN0hXdGRyczNYT1hqbVBTR1ctVTdZTTFZUElYT1JNZXk0REhVSVTSAaIBQVVfeXFMTXAzY2RKZVplUW00TkUycU9WU0ZINXFFUlBodnMxN1J1M1lKWFR3M25udmNnQ0FaSGVlNkJLMlNZcWhRNUw1U3BVd1lubVVHWkZ3YkViZi1GREdId3AtbExQOVAwQ2tpclQ0U1NPb2FXcnhTNmxldWYyNEJYWWdsVWtNb05qdEt6Ynk4SWNCa1NUV0dXWGhIYjlNVkFmWGhEdWVB?oc=5"
+    },
     {
       "t": "5 jogos brasileiros que mostram a criatividade da indústria nacional",
       "d": "&nbsp;&nbsp; Fast Company Brasil",
@@ -19,16 +67,6 @@
       "data": "2026-11-06T17:15:00.000Z",
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/KKZKEHHIJJHZVHTROYDWMV6SWI.jpg?quality=80&auth=a309016757b6d01f792630a0f7008773bee4440648b85d70cd7fd7702198d012&width=710"
-    },
-    {
-      "t": "Gamer Hut inicia vendas da edição com capa padrão de Zelda: Ocarina of Time para Nintendo Switch 2 com quatro Cartões de Coleção oficiais",
-      "d": "&nbsp;&nbsp; Arkade",
-      "link": "https://arkade.com.br/gamer-hut-inicia-vendas-da-edicao-com-capa-padrao-de-zelda-ocarina-of-time-para-nintendo-switch-2-com-quatro-cartoes-de-colecao-oficiais/",
-      "fonte": "Arkade",
-      "data": "2026-11-06T17:15:00.000Z",
-      "c": "Consoles",
-      "img": "https://arkade.com.br/wp-content/uploads/2026/11/Embalagens-colecionaveis-Zelda-lado-a-lado-1.webp",
-      "orig": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaHhvQ1NIT05acThRYVlmU0lxVU1UZHZIdnBUQ050NWlkWHd0T3hISUVfTHJtbVo3ejJ3VTlBVldkd29sNjdaQlVjTldyY3hPQnJZa0RPbmRHa1B0bTJ5MDhaUEt4VXNFUE1WdmVxYm51V1FtMElpT0VGWkxid3VJb29tUHNJWVJNNnRTQ21aU1JwUmhEczRkZ250QzhEWHFhYm1TVWk3b2ZKeFM0dW1FVkdOV0JXX2UtN29SZ1hnRWJFUGNRS0IwZ2xXYTRoakxqYWZMd1BaNURXZ0RMakJoZ2VhbzhDaVZyak9VS0M4YUw?oc=5"
     },
     {
       "t": "Assinantes da PlayStation Plus ganham pacote de benefícios com streaming grátis e descontos exclusivos",
@@ -57,26 +95,6 @@
       "data": "2026-11-06T17:00:35.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/blob_bmne.jpg"
-    },
-    {
-      "t": "Black Friday da PlayStation Store começa mais cedo com descontos de até 75%",
-      "d": "&nbsp;&nbsp; Os Garotos de Liverpool",
-      "link": "https://www.osgarotosdeliverpool.com.br/2026/11/black-friday-da-playstation-store.html",
-      "fonte": "Os Garotos de Liverpool",
-      "data": "2026-11-06T17:00:00.000Z",
-      "c": "Ofertas",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0FJUVREbFFKdWhaZENadFh5M3ZDSEgwN3FFWGEydkpGWjU2djBFS21WNXY0SWcybUZUdnQzSVQyVjhOWUEzQlVFY0tkc1VUUExCVjAxcV9nbnZfYjJNRXYxNUlCS3otVEVFQ3RIQm1EXzIwbjFNVEVqWnYtRlpHTUZsOWRFSFlUMVZ0OTlGYw?oc=5"
-    },
-    {
-      "t": "20 anos de Gears",
-      "d": "&nbsp;&nbsp; XBOX Wire",
-      "link": "https://news.xbox.com/pt-br/2026/11/06/20-anos-de-gears/",
-      "fonte": "XBOX Wire",
-      "data": "2026-11-06T16:55:08.000Z",
-      "c": "Consoles",
-      "img": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/GoW_EDAY_20th_Lancer-027826f9d544349f4546-b49f85cdf64f282f0d3d.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JOFZTWWJ2b2xyLVdJM3M4ZGJvWnJkcERWWVFXQVJ2ZXg1QWVjZnBveUw1NHBZeWFJVDI3SnhaUFNubHJ6NXkwN29WQlhsMTZNRGFEWEZGOVNJOVJtdE13X0tjNHdyd00?oc=5"
     },
     {
       "t": "Camisas do time Miami Heat de GTA 6 são reveladas",
@@ -261,24 +279,6 @@
       "data": "2026-11-06T13:08:35.000Z",
       "c": "Lançamentos",
       "img": "https://sm.ign.com/ign_br/screenshot/default/ss-68ffe4125cf76539f9193a4fadfa9c7361ea52f91920x1080_5y37.jpg"
-    },
-    {
-      "t": "The Legend of Zelda: Ocarina of Time Remake Launch Photos",
-      "d": "",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157398/the-legend-of-zelda-ocarina-of-time-remake-launch-photos",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-06T13:05:54.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/gallery/t/the-legend/the-legend-of-zelda-ocarina-of-time-remake-launch-photos_gz9k.jpg"
-    },
-    {
-      "t": "Like a Dragon Infinite Wealth: Aprenda a fazer o sanduíche de atum do jogo na vida real",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/like-a-dragon-infinite-wealth-aprenda-a-fazer-o-sanduiche-de-atum-do-jogo-na-vida-real/",
-      "fonte": "TecMundo",
-      "data": "2026-11-06T12:45:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/DHV2XKZCYFBENNIIMBSFYNTBEM.jpg?quality=80&auth=825e92ab18965e86dbda3b68f438de5ae7f6b1c9a31d04fd72638365ed4607a5&width=710"
     }
   ],
   "videos": [
