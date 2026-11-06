@@ -1,15 +1,55 @@
 {
-  "atualizadoEm": "2026-11-06T18:03:37.941Z",
+  "atualizadoEm": "2026-11-06T18:33:48.277Z",
   "noticias": [
     {
-      "t": "Rockstar Games divulga 39 imagens inéditas de ‘GTA 6’; veja",
-      "d": "&nbsp;&nbsp; Rolling Stone Brasil",
-      "link": "https://rollingstone.com.br/rs-gaming/rockstar-games-divulga-39-imagens-ineditas-de-gta-6-veja/",
-      "fonte": "Rolling Stone Brasil",
-      "data": "2026-11-06T18:00:24.000Z",
+      "t": "Xbox Series X e S recebem FSR 4.1 e podem ganhar gráficos melhores com inteligência artificial",
+      "d": "&nbsp;&nbsp; Proddigital POP",
+      "link": "https://pop.proddigital.com.br/noticias/noticias-de-games/xbox-series-x-e-s-recebem-fsr-4-1-e-podem-ganhar-graficos-melhores-com-inteligencia-artificial",
+      "fonte": "Proddigital POP",
+      "data": "2026-11-06T18:19:25.000Z",
+      "c": "PC",
+      "img": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2026/11/xbox-series-x-e-s-recebem-fsr-41-e-podem-ganhar-graficos-melhores-com-inteligencia-artificial.png",
+      "orig": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRmt3Q1gzX2ZESmt6RnpjSFMwblRGZFFpbnJMa09xNmZobmFieDlUNGhQaFVrb21kUm9zNVlGT3piTTNCRFNVTzlEWWFHTnBKV3plbmFGcW4wWlVDMjBobEVObkJickgzckNoT3REbXJCS0czdGUtU0RrN3ZURVVOb3pjT0laVlpSODRuUlJPNTNEaTVpMDZaOHAzNTlhVGw1bGwtdkVJTU5LTmdsNElkSGNIN2tmVUJsNkZFTndkMGJPSjdCSG05MzJyakhEUW51S3pVUFNPWXZDTmExT0V4ZnVZY29HMW8?oc=5"
+    },
+    {
+      "t": "Miami Heat e GTA 6 ganham coleção exclusiva na NBA",
+      "d": "&nbsp;&nbsp; Alternativa Nerd",
+      "link": "https://alternativanerd.com.br/games/miami-heat-e-gta-6-ganham-colecao-exclusiva-na-nba/",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-11-06T18:10:32.000Z",
       "c": "Geral",
-      "img": "https://rollingstone.com.br/wp-content/uploads/2026/06/GTA-6-rockstar-rolling-stone.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS05CY1dxS1lxNWxTVnJSQ3lYN0t5SHBvTHBtc3dLd1pUdzNaNlFHMV96dDkzeDBjSkFNLVZnRHhScVpTWHdrNE8zTVhaVlI0cVgydUJnVHZRQjU0M0sybVhjR0tkODhKVmxEbkp1S3I4MEtZZWh1ekxQRTFnQ04zWHlVMXlZZk9kZWMwNlhIZXFKclphdERaOXZkWQ?oc=5"
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcFVFLVJ4MFR6b1ZsVGxMbGwyR012MWlwR1hMYkRKNm5xdHhoNGxPMldQTTBBS1d4Nm1mTlgzbUJrQl96UEF6eU9VOURrWlZORmlzTHRQNVV4Mnk5U2UxcUJOUElDdi1GWlpxaFh5Z0xMMEgtdmV2bEhFT1JqQ3YwYkhwRGs0aEVnMEMyVUNKZ3dlZw?oc=5"
+    },
+    {
+      "t": "TIM lança oferta de PlayStation 5 com GTA VI para Black Friday",
+      "d": "&nbsp;&nbsp; ANSA Brasil",
+      "link": "https://ansabrasil.com.br/brasil/noticias/ciencia_e_tecnologia/2026/11/06/tim-lanca-oferta-de-playstation-5-com-gta-vi-para-black-friday_bb4f60bf-a5c1-4f28-adcf-b6f308b9dd26.html",
+      "fonte": "ANSA Brasil",
+      "data": "2026-11-06T18:10:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.ansa.it/webimages/img_1280x720/2025/4/14/ae5b2f7e6360667d1100bf11f9cb43f6.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNmNDWlRjZTlEeHNvYUtoaVkydzFLLS1ZemNnTmlSOXlRVnlGUENTU19xYi1veGlxandxQWpLbWtDRHJmQ0ZXUUVqN044XzBlRzRxaGZYLXFVcFJieVdmYWJ1QmFYRFJKNzFiRDlTeVNybGpmejBmUWN6OU5CeFEwdWVuWjhmdTZVSlltSnZUMG9MQkdBcm5CNjhFaG14UVcyeEJRVXA0RUx3eGpvWmJnM0s4Q09ya0RkS214b0oxTC04SEg3eVM5M2E4dVJCSmxnX2xWQmdjVFhMTFBEekt3RkU3MGo5XzFsT0pJWV8xUUx6VzJlWC1DVHllRm5sQ2E2TnhNRy12YXFlUdIBjwJBVV95cUxNYVRjY3NIdGpyYjZvSEtldjd3b0RpTEtLSnhZWXU1dlJjMjF3VXgyMUhkVVFENkRuM0N4MW80Y0t5dG1SR2QwNHhnZlRzYnI3MU9qQTh5UGhuQXZqMFNmVnFYaHBsbmpaTkY4NEE5TjFFdF8zbUhkd2RfOGZWNjRmSE5xNHhuNVQtdWZodTRQaFd6eU1qYkthMTBldEg4QkNkUEZqOUs4R0NVUlY0TGwxQmlpX2o1RWVRdjUtZThlczN4bnJQb2l4WkJoNzVhR3poS0RkN0c3N2kxa0RNQXR4UkZSY2g3NWdJVTFtelRHQlprYXI2WUFDNnByNWZIdUNzLXBuQUI1Qkh4eFRRYjFz?oc=5"
+    },
+    {
+      "t": "MS Geek 2026 une cultura pop, entretenimento e debate sobre o mercado de games em Mato Grosso do Sul",
+      "d": "&nbsp;&nbsp; Campo Grande Notícias",
+      "link": "https://www.campograndenoticias.com.br/ms-geek-2026-une-cultura-pop-entretenimento-e-debate-sobre-o-mercado-de-games-em-mato-grosso-do-sul/",
+      "fonte": "Campo Grande Notícias",
+      "data": "2026-11-06T18:05:02.000Z",
+      "c": "Geral",
+      "img": "https://i2.wp.com/campograndenoticias.com.br/wp-content/uploads/2026/11/MS-Geek-2026-1.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRG1ENXZLblozN3BBbUdrUHNwc0ktRGRDbE9mVUhKR0hnNUI1WS05NGJDNXJxUHgxdlFpNXhqTkVHQnh5OG1ObTNpUjJtb0FmX3dkdGZnbGdGTmNJV3dZX3U3RmFzLWZzdUFZVjNrcFF4WWk5cFlnc1BQR0d2d3NLUWdvNEFBcGllNmxoWl9SQzVwZzU2aEkzbXF0cUxFVlFQNm1MM3FSdndWQTVZbGtfMnNBLUFXRmdwamNpS19Wb2g3ZWNYZV9lRHlRVUJ0U242NDBsUUFR?oc=5"
+    },
+    {
+      "t": "Streamer Cup de Fatal Fury reúne estrelas dos games",
+      "d": "&nbsp;&nbsp; Alternativa Nerd",
+      "link": "https://alternativanerd.com.br/games/streamer-cup-de-fatal-fury-reune-estrelas-dos-games/",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-11-06T18:05:00.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORTNOb2R4UGs4RWVtRHh4MkV5MXdabkRVSUxTaFFfbUVNVlRTVzJBNE4wVFhucE9rM2pmSUlEWW5tODgySEQyTjF3WnM0RjNMbFVwNm5kUlB6RGpfdHY5cXhfdEF5T3hQdVh2aUMwcDlYaEJzQTVUODlUdFNKTFQtWmhyaDljZXN0U2JqVGc0SFphaGM?oc=5"
     },
     {
       "t": "Para renovar o setup: controle DualSense cinza camuflado está em oferta na Amazon",
@@ -30,34 +70,14 @@
       "img": "https://flowgames.gg/wp-content/uploads/2022/12/90-アニメ『NieRAutomata-Ver1.1a』Promotion-File-009-00-00-52.jpg"
     },
     {
-      "t": "Xbox Cloud Gaming ou Game Pass: qual vale assinar?",
-      "d": "&nbsp;&nbsp; Game Overdrive",
-      "link": "https://gameoverdrive.com.br/xbox-cloud-gaming-horas-ou-game-pass/",
-      "fonte": "Game Overdrive",
-      "data": "2026-11-06T17:32:28.000Z",
-      "c": "Consoles",
-      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/xbox-cloud-gaming-ou-game-pass-2-1600x900.webp",
-      "orig": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MLUNQbnpwQ1R0REMyd29xRlFDQ0hHM0RLMk11Yjh3QmZ5MjBHRHJLZllGS1JROFZheU4zVDE4RjNORWgzdTJ3T0U4SVBuMEh1NU1xSWtVVzhjb0xTSS1zV0NsaEpVZkVnU3JTZHdoVXNNa1Vq?oc=5"
-    },
-    {
-      "t": "Nintendo descarta novo aumento de preço do Switch 2 após queda nos lucros",
-      "d": "&nbsp;&nbsp; O Vício",
-      "link": "https://ovicio.com.br/nintendo-descarta-novo-aumento-de-preco-do-switch-2-apos-queda-nos-lucros/",
-      "fonte": "O Vício",
-      "data": "2026-11-06T17:21:36.000Z",
-      "c": "Consoles",
-      "img": "https://ovicio.com.br/wp-content/uploads/2026/08/20260807-ovicio-switch2.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUktbW5YUHRWTUViaFgxNlduUEUtNldnYlU0QkE1LTVOdnJPX041eGpuUXdXS3o2d01HUlZIRkRzZFU5MWRoZkNHZ3ItRXRUX3hfLW5HMjlrX21SUVlTRE1Wc2dIcVNseHZCVldtZF9LR0tpTllVN0hXdGRyczNYT1hqbVBTR1ctVTdZTTFZUElYT1JNZXk0REhVSVTSAaIBQVVfeXFMTXAzY2RKZVplUW00TkUycU9WU0ZINXFFUlBodnMxN1J1M1lKWFR3M25udmNnQ0FaSGVlNkJLMlNZcWhRNUw1U3BVd1lubVVHWkZ3YkViZi1GREdId3AtbExQOVAwQ2tpclQ0U1NPb2FXcnhTNmxldWYyNEJYWWdsVWtNb05qdEt6Ynk4SWNCa1NUV0dXWGhIYjlNVkFmWGhEdWVB?oc=5"
-    },
-    {
-      "t": "5 jogos brasileiros que mostram a criatividade da indústria nacional",
-      "d": "&nbsp;&nbsp; Fast Company Brasil",
-      "link": "https://fastcompanybrasil.com/games/5-jogos-brasileiros-mostram-criatividade-industria-nacional/",
-      "fonte": "Fast Company Brasil",
-      "data": "2026-11-06T17:15:18.000Z",
-      "c": "Geral",
-      "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/jogos-brasileiros.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRnBGV3FEb1NUZ2JvcGpxTFdnMXpEUFp1cXpyY0Zvek5uZVJhU0lrNjc5dVUyTmQ4OXFuendrSThwMlJYZTZHQmlTWUFpSVVFMC1kc0FVX0RISXlXS29nMnpfUi1URjcyRW1HNnZmNHl6R0ZsallHdVVzSnJqTm5jU3ZmN2luSVVPcFNMZTZ1T2FHUF9fa2YxM2VXTkc?oc=5"
+      "t": "Fãs de GTA VI sugerem setup de PS5 no PC para Nvidia DLSS 5",
+      "d": "&nbsp;&nbsp; games.gg",
+      "link": "https://games.gg/pt-BR/news/f%C3%A3s-de-gta-vi-sugerem-setup-de-ps5-no-pc-para-nvidia-dlss-5/",
+      "fonte": "games.gg",
+      "data": "2026-11-06T17:31:42.000Z",
+      "c": "PC",
+      "img": "https://assets.games.gg/gta_vi_fans_propose_ps5_to_pc_video_setup_for_nvid_og_a202f0cb6b_04c252dc48.webp",
+      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPazNjS1g5R2lOMnlyZnprMGlzSkxGZFROVEF1ZUNqU3JyYklhRDhuR0ZLUG8tOEM1dUJRalF5REZJVHFSUDVHZ1psMjNJc0FqZWZwNU5jRFdjTmsxQWdhaEE3MHhjU0RpM2QxR29ISmxXSkxLdWRnT3NHNkVEOVhNYWhGc0hOMklFUWl3Q2NMbHcyX3hPV0JkQQ?oc=5"
     },
     {
       "t": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (06)",
@@ -67,16 +87,6 @@
       "data": "2026-11-06T17:15:00.000Z",
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/KKZKEHHIJJHZVHTROYDWMV6SWI.jpg?quality=80&auth=a309016757b6d01f792630a0f7008773bee4440648b85d70cd7fd7702198d012&width=710"
-    },
-    {
-      "t": "Assinantes da PlayStation Plus ganham pacote de benefícios com streaming grátis e descontos exclusivos",
-      "d": "&nbsp;&nbsp; NSC Total",
-      "link": "https://www.nsctotal.com.br/esportes/assinantes-da-playstation-plus-ganham-pacote-de-beneficios-com-streaming-gratis-e-descontos-exclusivos",
-      "fonte": "NSC Total",
-      "data": "2026-11-06T17:03:46.000Z",
-      "c": "Ofertas",
-      "img": "https://img.nsctotal.com.br/wp-content/uploads/2026/10/Jogadores-de-PS5-e-PS4-tem-24-horas-para-nao-perder-oito-jogos-que-estao-saindo-do-PlayStation-Plus.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSXR2a2ZpLTl5Y1dZTVhzbGpNTG4yRUZTWENfc2FHeXppZUJWYWEwVTYzNWJ4S0F6bzlKRzhWaE1VQW44dXhTQVZqbVpfZzJlTF94ejhvYmhEMzltUmptNTZPLTcweGU4NHNaWTh3YzZnN3g0bld5bFdkbnlLOW85dV9iTE5OQndnV21oTlpwNDluaWZ2ZnZGY0x2Uml4VUw4ZkpreTlnUVZUWmY5SHZzQlZyYk1HRm5KTEswcTh6REpWcXlEZUs5VjJqSXZhMTFCVXZ0Sm5n?oc=5"
     },
     {
       "t": "Livro que inspirou House of the Dragon ganha 40% de desconto na Amazon e no Mercado Livre",
@@ -233,16 +243,6 @@
       "data": "2026-11-06T14:03:56.000Z",
       "c": "PC",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/Road-Rash-jogo-da-EA-2.jpg"
-    },
-    {
-      "t": "NVIDIA lança jogo gratuito no Steam para homenagear placa de vídeo de 20 anos, mas recomenda uma RTX 5080",
-      "d": "&nbsp;&nbsp; Hardware.com.br",
-      "link": "https://www.hardware.com.br/tecnologia/nvidia-lanca-jogo-gratuito-no-steam/",
-      "fonte": "Hardware.com.br",
-      "data": "2026-11-06T13:47:52.000Z",
-      "c": "Ofertas",
-      "img": "https://www.hardware.com.br/wp-content/uploads/2026/11/NVIDIA-lanca-jogo-gratuito-no-Steam-para-homenagear-placa-de-video-de-20-anos-mas-recomenda-uma-RTX-5080.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ1FPRWU4cWNxUTFpN1JDXzNrcVRaZFJmclJnWHZDU3RLUndVckZEV0hsUTFDMmhsbGxlMUZnUUNrazd2MG4zbm1QOGlPbWNlMkhQMUdMTTJxQjRZUEhkbFk0RmZsRUhLRXdOMUFBN2kteENLRnVRRFVyZkZXQ3JRQg?oc=5"
     },
     {
       "t": "Oferta de Black Friday: Galaxy S26 5G de 256 GB aparece com 39% de desconto na Amazon",
