@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-11-06T11:00:44.080Z",
+  "atualizadoEm": "2026-11-06T11:30:51.982Z",
   "noticias": [
+    {
+      "t": "Gamin PLUS chega ao Brasil com clube de benefícios que troca moedas por jogos, periféricos e mais",
+      "d": "Com mensalidade de lançamento de R$ 25, o novo clube da Engage XP aposta em G-Coins que não expiram, quests, cupons e uma comunidade no Discord",
+      "link": "https://br.ign.com/games/157380/gamin-plus-chega-ao-brasil-com-clube-de-beneficios-que-troca-moedas-por-jogos-perifericos-e-mais",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-06T11:00:42.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem-1-horizontal_3swa.png"
+    },
     {
       "t": "MS Geek 2026 reúne games, cosplay e K-pop de graça em Campo Grande no dia 21",
       "d": "&nbsp;&nbsp; A Crítica de Campo Grande",
@@ -60,6 +69,16 @@
       "c": "PC",
       "img": "https://cenariomt.com.br/wp-content/uploads/2026/11/2026-11-05_jogos_com_dlss_veja_200_titulos_compativeis_no_pc.webp",
       "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHNNZW5wM2pJM3A0R28wNGl6MEJUNS1qVlppU0pRdmpTeUJfbmhNWDVta3BYSzBQemxQWmFvQ2NuZ214aFN5TGVlQ3AzdmN6NktudDQyZjYySHZnUjQ0SEdJRjFXbmdvMDhDZjhSSjlORTktZmZGM2MxNUwyeVFVZHRPMFhTaEkyZVhfWnZwTQ?oc=5"
+    },
+    {
+      "t": "Jogos de PC em oferta limitada com até 94% de desconto",
+      "d": "&nbsp;&nbsp; Adrenaline",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-limitada-com-ate-94-de-desconto-3/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-06T00:51:00.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOXzB3cER5WUdiaUszalFRbWloNC1fUkx1UzdrYk5CdkFIMnVmUFpmZUx2X1dMUGJGeWlIX3JtQUxiOTV1Vy1WeFQyZmNyYU40c3paM3RwVFJGMHpEbXJ4NzFZMkJEM3RnT3ljWXRManljcmNteW4yczJCdENZTUlDODVyV2pGSHhnLTVXSDF3ZllmNk4zb09tSm5Gd0ppamhlaFpv?oc=5"
     },
     {
       "t": "EA traz 25 jogos clássicos para o PC em edições especiais via Steam",
@@ -153,16 +172,6 @@
       "data": "2026-11-05T20:40:38.000Z",
       "c": "Consoles",
       "img": "https://flowgames.gg/wp-content/uploads/2026/09/image-20-2.jpg"
-    },
-    {
-      "t": "Update de Nier: Automata aumenta tamanho do jogo para 366 GB no PC",
-      "d": "&nbsp;&nbsp; Adrenaline",
-      "link": "https://www.adrenaline.com.br/games/update-de-nier-automata-aumenta-tamanho-do-jogo-para-366-gb-no-pc/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-05T20:28:00.000Z",
-      "c": "PC",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYU9jNzB4RkcwSHdJRGVnRDdIbjVtajVTLUM5NzRpVUJIbFNGbEhvRTBGMGZDVUktWGtnY2MtVjAtaThvSlZyU2ZJXzBUWGpPOEJvaVAyWXhiNG5pUGxSSWo4aDJVYmRlc0VLTEx2Z2wzaHJfdEZiTHhxTHQ1ZEZtVS1JZkUzSG9Wc0RWRUdmM3N5SGRJUFl5Sy1BbWh1R2ZMcW5KUg?oc=5"
     },
     {
       "t": "Major Osaka de Rainbow Six Siege começa e conta com 5 representantes brasileiros",
@@ -271,15 +280,6 @@
       "data": "2026-11-05T16:30:42.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/gallery/k/key-moment/key-moments-in-the-rise-of-kylo-ren-3_q6vj.jpg"
-    },
-    {
-      "t": "Nintendo Switch 2 já vendeu mais de 26 milhões de consoles!",
-      "d": "O Nintendo Switch 2 segue com vendas mais rápidas que o PS5 e Switch 1",
-      "link": "https://flowgames.gg/nintendo-switch-2-supera-vendas-26-milhoes-consoles/",
-      "fonte": "Flow Games",
-      "data": "2026-11-05T16:23:43.000Z",
-      "c": "Consoles",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/05/Nintendo-Switch-2-Game-Share.jpg"
     }
   ],
   "videos": [
