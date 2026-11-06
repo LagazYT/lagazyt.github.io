@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-06T02:15:02.888Z",
+  "atualizadoEm": "2026-11-06T02:45:11.012Z",
   "noticias": [
     {
       "t": "Jogos com DLSS: veja 200 títulos compatíveis no PC",
@@ -16,7 +16,7 @@
       "d": "&nbsp;&nbsp; Drops de Jogos",
       "link": "https://dropsdejogos.uai.com.br/noticias/epic-games-store-solta-os-jogos-flotsam-e-idle-champions-of-the-forgotten-realms-de-graca/",
       "fonte": "Drops de Jogos",
-      "data": "2026-11-06T01:30:00.000Z",
+      "data": "2026-11-06T01:34:28.000Z",
       "c": "Ofertas",
       "img": "https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2026/11/epic-scaled.jpg",
       "orig": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQmJIamdHdE5QMHRqRXh4b21vUHBWVHhUM0tpNVpuUnlmd2tMTFVqNDlKNlNoYS1Tdkg5Y2stT1pzXzVhckUzNTNHcXlqMnBhNGYyeFlTTTJFeWlJeF9ZeUlNX09VNzF2bzJwQ2pNWXBxejNHbm9vTWhxY3B6aDBIRGJyMlZkWHdqU0V6LVU2STMyVTF4Y1YtWW1GWml4NzZ4bjdYdWhucUd0RGF1NGV3aFpDUWNzQ2Z6WndmcFhBRmlNWVJoZHBrRkpSbw?oc=5"
@@ -2318,16 +2318,6 @@
       "link": "https://www.igdb.com/games/bloody-hell-hotel"
     },
     {
-      "t": "34Everlast",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coadno.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/34everlast"
-    },
-    {
       "t": "Kvlt",
       "data": "2026-12-31",
       "plats": [
@@ -3229,16 +3219,6 @@
       "link": "https://www.igdb.com/games/polda-8"
     },
     {
-      "t": "Deperson",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8kui.jpg",
-      "hype": 7,
-      "link": "https://www.igdb.com/games/deperson"
-    },
-    {
       "t": "Confined: Leaving OKB-134",
       "data": "2026-12-31",
       "plats": [
@@ -3587,18 +3567,6 @@
       "link": "https://www.igdb.com/games/aetherian-chronicles"
     },
     {
-      "t": "Agni: Village of Calamity",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co95mt.jpg",
-      "hype": 20,
-      "link": "https://www.igdb.com/games/agni-village-of-calamity"
-    },
-    {
       "t": "Dragon's Brew",
       "data": "2026-12-31",
       "plats": [
@@ -3831,16 +3799,6 @@
       "link": "https://www.igdb.com/games/deprision"
     },
     {
-      "t": "The Patient: Can You Escape?",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacts.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/the-patient-can-you-escape"
-    },
-    {
       "t": "Star Life",
       "data": "2026-12-31",
       "plats": [
@@ -3914,18 +3872,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9cjw.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/pico-drift"
-    },
-    {
-      "t": "Liminal Point",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "PC",
-        "PS5"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9d3n.jpg",
-      "hype": 23,
-      "link": "https://www.igdb.com/games/liminal-point"
     },
     {
       "t": "Biofactory",
@@ -4164,16 +4110,6 @@
       "link": "https://www.igdb.com/games/ikuma-the-frozen-compass"
     },
     {
-      "t": "Rain98",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ns6.jpg",
-      "hype": 5,
-      "link": "https://www.igdb.com/games/rain98"
-    },
-    {
       "t": "Insectile",
       "data": "2026-12-31",
       "plats": [
@@ -4267,16 +4203,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc18q.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/exovia"
-    },
-    {
-      "t": "World of Dogs",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9skg.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/world-of-dogs"
     },
     {
       "t": "The Blue Cut Hook",
@@ -4591,16 +4517,6 @@
       "link": "https://www.igdb.com/games/ancient-shadows-awakening"
     },
     {
-      "t": "Erulean Angel: Fantasy Commander",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa1fw.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/erulean-angel-fantasy-commander"
-    },
-    {
       "t": "Shardbreakers",
       "data": "2026-12-31",
       "plats": [
@@ -4699,6 +4615,86 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa2pt.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/airboost-airship-knight"
+    },
+    {
+      "t": "Cathedral: Crow's Curse",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa2ud.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/cathedral-crows-curse"
+    },
+    {
+      "t": "Stories of Somnia",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc4qj.jpg",
+      "hype": 5,
+      "link": "https://www.igdb.com/games/stories-of-somnia"
+    },
+    {
+      "t": "SuperWeird",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa3oe.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/superweird"
+    },
+    {
+      "t": "Illusive Domain",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coayhx.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/illusive-domain"
+    },
+    {
+      "t": "The Retrospection of Tomorrow",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coai0f.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/the-retrospection-of-tomorrow"
+    },
+    {
+      "t": "Cat-a-strophic",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4lb.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/cat-a-strophic"
+    },
+    {
+      "t": "Among Space",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4mc.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/among-space"
+    },
+    {
+      "t": "DungeonBox",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabi5.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/dungeonbox"
     }
   ],
   "musicas": []
