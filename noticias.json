@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-07T18:24:51.810Z",
+  "atualizadoEm": "2026-11-07T18:55:00.023Z",
   "noticias": [
+    {
+      "t": "Como montar um PC para rodar Phantom Blade Zero em FHD?",
+      "d": "&nbsp;&nbsp; Estadão",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-montar-um-pc-para-rodar-phantom-blade-zero-em-fhd/",
+      "fonte": "Estadão",
+      "data": "2026-11-07T18:15:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/WGS4ZZMY3FC37BWDCLA7ITR624.jpg?quality=80&auth=202334abc383ad8b64a7eea2f1c39ffed70f8f6623681901a600d073cbcca032&width=1200&height=630&smart=true",
+      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0ppN2NfbkZqdzNGMkhsd1dYNWRaeVRzRzRRZUIwQmJGVUF3MmZHcUtzMFhEZ042Rml2TE9aU0hRSF83QWxOV1ZjZ3JuR1hYYjlsNHJxeE9mcnRDVmR1YmNBeHVERXdCbEZRMEtvVi1hMDlta1h1NGxSSHRsaHdCUWVfUWNaUFdwb09vX2hmQVgzemdwQW5QbDJNUFFVUdIBowFBVV95cUxQaXFxbkFrR0REMDVlS1RzSHI5NlZJWVhBV2tONkFBMkZtUzlnRFpMRThBZHZyZF9GTG4yX1V5LTF0N1RHZzFuOWlraWQ4ZUJ5Xy1wcWNyV3YwMURJS3JQSnZUV2xpQklaLUdOMTdFTGwxTDY3d1ZKLVlndWJyeHhKU0E1U0ZLNW8xcFZnMVY4TWVxdW9iWkxuQVE3ZGR4d2lfckhz?oc=5"
+    },
     {
       "t": "Gran Turismo 3 ganha port impressionante para Dreamcast",
       "d": "Por incrível que pareça, uma equipe de devs conseguiu levar Gran Turismo 3 para dentro do Dreamcast",
@@ -260,16 +270,6 @@
       "data": "2026-11-06T19:36:37.000Z",
       "c": "Consoles",
       "img": "https://www.youtube.com/embed/DaymDziTqKs"
-    },
-    {
-      "t": "Game Pass recebe quatro novidades no início de novembro",
-      "d": "&nbsp;&nbsp; Critical Hits",
-      "link": "https://criticalhits.com.br/games/game-pass-recebe-quatro-novidades-no-inicio-de-novembro/",
-      "fonte": "Critical Hits",
-      "data": "2026-11-06T19:31:04.000Z",
-      "c": "Geral",
-      "img": "https://criticalhits.com.br/wp-content/uploads/2026/11/game-pass-recebe-quatro-novidades-no-inicio-de-novembro-featured.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR191WHBBdHBhSFhjMnVOaFhTNzd5TllETVdiZG8zamkyUm1OalVOblVVb1hwYlVLRXBiN2h4VjdqVUQ5X2JvcVY5bllOX2lIRHM3YTBmazJpUWptTnFPRjY1VTNqOHktQk9FWUFuUjREVlBUcmpCY0d5azE2eTB1aTQtZTNEOC16VjNoaDU5WlMwMGtC?oc=5"
     },
     {
       "t": "Plataforma Itch.io adiciona recurso que permite filtrar jogos feitos por IA generativa",
