@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T19:25:08.484Z",
+  "atualizadoEm": "2026-11-07T19:55:16.212Z",
   "noticias": [
     {
       "t": "The Legend of Zelda: Ocarina of Time | Guia de como conseguir a Espada Biggoron no remake",
@@ -900,6 +900,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod88f.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/king-dies-rich"
+    },
+    {
+      "t": "Toll Idle",
+      "data": "2026-11-12",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod9hk.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/toll-idle"
     },
     {
       "t": "Derelikt",
@@ -4675,16 +4685,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabi5.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/dungeonbox"
-    },
-    {
-      "t": "Ugomeku Note",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqei.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/ugomeku-note"
     }
   ],
   "musicas": []
