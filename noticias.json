@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-07T21:25:40.960Z",
+  "atualizadoEm": "2026-11-07T21:55:48.943Z",
   "noticias": [
     {
       "t": "Nintendo pode fazer mais remakes após Zelda? Veja 7 possibilidades",
@@ -484,7 +484,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3632,
+      "views": 3633,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -921,6 +921,17 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa07m.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/derelikt"
+    },
+    {
+      "t": "Overhours",
+      "data": "2026-11-13",
+      "plats": [
+        "Xbox",
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9lu2.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/overhours"
     },
     {
       "t": "Sloppy Forgeries",
@@ -2664,17 +2675,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6m2g.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/dread-pilots"
-    },
-    {
-      "t": "Overhours",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9lu2.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/overhours"
     },
     {
       "t": "Dreadwinter",
