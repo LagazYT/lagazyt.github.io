@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="color-scheme" content="dark">
 <meta name="theme-color" content="#000000">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
 <title>Lagaz: notícias de games, lançamentos e vídeos</title>
 <meta name="description" content="Notícias de games, calendário de lançamentos para PC, PlayStation, Xbox e Nintendo, e os vídeos do canal Lagaz.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -54,6 +55,10 @@ button{font:inherit;color:inherit}
 .yt:hover{filter:brightness(1.12)}
 .yt svg{width:18px;height:18px}
 
+.logo-topo{display:flex;align-items:center;gap:12px;padding-right:22px;margin-right:4px;border-right:1px solid var(--line);color:var(--tx)}
+.logo-topo svg:first-child{display:none;width:38px;height:38px}
+.logo-topo .nome-logo{height:30px;width:auto}
+.marca svg{width:46px;height:46px}
 /* blocos com cantos de HUD */
 .bloco{position:relative;background:linear-gradient(180deg,var(--p2),var(--p1));border:1px solid var(--line);border-radius:6px;padding:20px}
 .bloco::before,.bloco::after{content:"";position:absolute;width:14px;height:14px;pointer-events:none;border-color:var(--bl);border-style:solid;opacity:.85}
@@ -75,12 +80,16 @@ button{font:inherit;color:inherit}
 .selo{display:inline-flex;align-items:center;gap:8px;font-size:.78rem;font-weight:600;color:var(--tx);background:rgba(0,0,0,.6);border:1px solid rgba(255,255,255,.12);padding:5px 10px;border-radius:4px;backdrop-filter:blur(8px);margin-bottom:14px}
 .selo i{width:7px;height:7px;border-radius:50%;background:var(--rd);box-shadow:0 0 10px var(--rd)}
 .destaque h2{font:800 clamp(1.4rem,2.6vw,2.2rem)/1.08 var(--disp);letter-spacing:-.025em;max-width:26ch;text-wrap:balance}
-.destaque-meta{display:flex;align-items:center;gap:16px;margin-top:18px;color:var(--mu2);font-size:.88rem}
+.destaque-meta{flex-wrap:wrap;display:flex;align-items:center;gap:16px;margin-top:18px;color:var(--mu2);font-size:.88rem}
 .btn-play{display:inline-flex;align-items:center;gap:10px;height:44px;padding:0 18px 0 6px;border-radius:6px;background:var(--tx);color:#000;font-weight:700;font-size:.92rem}
 .btn-play i{display:grid;place-items:center;width:34px;height:34px;border-radius:4px;background:var(--rd)}
 .btn-play i::after{content:"";border-left:11px solid #fff;border-top:7px solid transparent;border-bottom:7px solid transparent;margin-left:3px}
 .destaque:hover .btn-play{box-shadow:0 0 0 3px rgba(121,176,255,.45)}
 
+.destaque-resumo{color:#c9d2ea;font-size:1rem;max-width:62ch;margin-top:12px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.btn-ler{white-space:nowrap;flex:none;display:inline-flex;align-items:center;gap:8px;height:42px;padding:0 18px;border-radius:6px;background:var(--bl);color:#fff;font-weight:700;font-size:.92rem;box-shadow:0 8px 24px -10px rgba(45,125,255,.9)}
+.btn-ler::after{content:"";width:8px;height:8px;border-top:2px solid #fff;border-right:2px solid #fff;transform:rotate(45deg)}
+.destaque:hover .btn-ler{box-shadow:0 0 0 3px rgba(121,176,255,.45)}
 .contagem{grid-column:span 4;display:flex;flex-direction:column;gap:14px;overflow:hidden}
 .contagem .jogo{display:flex;gap:14px;align-items:center}
 .contagem .jogo img,.contagem .jogo .sem{width:54px;height:72px;object-fit:cover;border-radius:4px;background:var(--p3);flex:none}
@@ -239,6 +248,8 @@ footer{margin:56px 0 0;padding-top:20px;border-top:1px solid var(--line);color:v
   .main{padding:0 16px 40px}
   .topo{height:auto;padding:16px 0;flex-wrap:wrap;gap:12px}
   .relogio{display:none}
+  .logo-topo{border-right:0;padding-right:0}.logo-topo svg:first-child{display:block}.logo-topo .nome-logo{height:24px}.logo-topo svg:first-child{width:32px;height:32px}
+  .tela-nome{display:none}
   .yt{margin-left:auto;height:36px;padding:0 12px}
   .yt span{display:none}
   .contagem,.numeros{grid-column:span 12}
@@ -259,9 +270,7 @@ footer{margin:56px 0 0;padding-top:20px;border-top:1px solid var(--line);color:v
 <body>
 
 <nav class="rail" aria-label="Seções do site">
-  <a class="marca" href="#inicio" aria-label="Lagaz, início">
-    <svg viewBox="0 0 44 44" aria-hidden="true"><path d="M8 4h28l4 4v28l-4 4H8l-4-4V8z" fill="#0b1220" stroke="#2d7dff" stroke-width="1.5"/><path d="M15 12v20h14" fill="none" stroke="#eef3ff" stroke-width="4" stroke-linecap="square"/><rect x="26" y="12" width="5" height="5" fill="#ff2742"/></svg>
-  </a>
+  <a class="marca" href="#inicio" aria-label="Lagaz, início"><svg viewBox="0 0 120 120" aria-hidden="true"><defs><linearGradient id="o1r" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#1d4ed8"/><stop offset="1" stop-color="#79b0ff"/></linearGradient><radialGradient id="o2r" cx=".5" cy=".5" r=".5"><stop offset=".6" stop-color="#0b1220"/><stop offset="1" stop-color="#101a33"/></radialGradient></defs><circle cx="60" cy="60" r="56" fill="url(#o2r)"/><path d="M60 12a48 48 0 1 0 45 31" fill="none" stroke="url(#o1r)" stroke-width="9" stroke-linecap="round"/><circle cx="101" cy="32" r="14" fill="#ff2742" opacity=".22"/><circle cx="101" cy="32" r="8.5" fill="#ff2742"/><path d="M47 36v48h30" fill="none" stroke="#eef3ff" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
   <div role="tablist" aria-orientation="vertical" aria-label="Telas" id="abas" style="display:contents">
     <button type="button" role="tab" id="aba-inicio" aria-controls="inicio" aria-selected="true">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="3" width="8" height="10" rx="1"/><rect x="13" y="3" width="8" height="6" rx="1"/><rect x="13" y="11" width="8" height="10" rx="1"/><rect x="3" y="15" width="8" height="6" rx="1"/></svg>Início</button>
@@ -276,7 +285,8 @@ footer{margin:56px 0 0;padding-top:20px;border-top:1px solid var(--line);color:v
 
 <div class="main">
   <header class="topo">
-    <div>
+    <a class="logo-topo" href="#inicio" aria-label="Lagaz, início"><svg viewBox="0 0 120 120" aria-hidden="true"><defs><linearGradient id="o1t" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#1d4ed8"/><stop offset="1" stop-color="#79b0ff"/></linearGradient><radialGradient id="o2t" cx=".5" cy=".5" r=".5"><stop offset=".6" stop-color="#0b1220"/><stop offset="1" stop-color="#101a33"/></radialGradient></defs><circle cx="60" cy="60" r="56" fill="url(#o2t)"/><path d="M60 12a48 48 0 1 0 45 31" fill="none" stroke="url(#o1t)" stroke-width="9" stroke-linecap="round"/><circle cx="101" cy="32" r="14" fill="#ff2742" opacity=".22"/><circle cx="101" cy="32" r="8.5" fill="#ff2742"/><path d="M47 36v48h30" fill="none" stroke="#eef3ff" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/></svg><svg class="nome-logo" viewBox="-4 -77.9 270.0 104.0" role="img" aria-label="Lagaz"><path d="M5.41 -0.00L18.70 -0.00L18.70 -73.91L5.41 -73.91L5.41 -0.00Z M25.00 -27.50C25.00 -10.80 36.70 1.30 52.91 1.30C60.70 1.30 66.00 -1.20 71.30 -7.20L71.30 -0.00L83.50 -0.00L83.50 -55.41L71.30 -55.41L71.30 -48.00C66.70 -54.09 61.20 -56.70 53.20 -56.70C36.80 -56.70 25.00 -44.41 25.00 -27.50ZM38.41 -27.20C38.41 -37.30 45.09 -44.50 54.59 -44.50C64.09 -44.50 70.91 -37.41 70.91 -27.30C70.91 -18.09 64.91 -10.91 54.80 -10.91C45.09 -10.91 38.41 -17.50 38.41 -27.20Z M90.00 -28.09C90.00 -11.00 101.41 1.30 117.20 1.30C125.00 1.30 130.20 -1.20 135.41 -7.30C134.91 4.59 129.80 10.41 119.91 10.41C113.70 10.41 109.91 8.80 106.00 4.50L90.91 4.50C95.41 15.59 105.80 22.09 119.41 22.09C136.59 22.09 148.09 13.30 148.09 -10.50L148.09 -55.41L135.41 -55.41L135.41 -48.41C131.30 -54.00 125.30 -56.70 117.30 -56.70C101.59 -56.70 90.00 -44.50 90.00 -28.09ZM103.41 -27.50C103.41 -37.70 109.50 -44.50 118.80 -44.50C128.30 -44.50 134.80 -37.59 134.80 -27.50C134.80 -17.50 128.50 -10.91 119.00 -10.91C109.50 -10.91 103.41 -17.41 103.41 -27.50Z M154.00 -27.50C154.00 -10.80 165.70 1.30 181.91 1.30C189.70 1.30 195.00 -1.20 200.30 -7.20L200.30 -0.00L212.50 -0.00L212.50 -55.41L200.30 -55.41L200.30 -48.00C195.70 -54.09 190.20 -56.70 182.20 -56.70C165.80 -56.70 154.00 -44.41 154.00 -27.50ZM167.41 -27.20C167.41 -37.30 174.09 -44.50 183.59 -44.50C193.09 -44.50 199.91 -37.41 199.91 -27.30C199.91 -18.09 193.91 -10.91 183.80 -10.91C174.09 -10.91 167.41 -17.50 167.41 -27.20Z M218.00 -0.00L260.20 -0.00L260.20 -11.91L233.91 -11.91L258.30 -43.50L258.30 -55.41L220.80 -55.41L220.80 -43.50L242.41 -43.50L218.00 -11.91L218.00 -0.00Z" fill="currentColor"/></svg></a>
+    <div class="tela-nome">
       <h1 id="titulo-tela">Início</h1>
       <p class="sub" id="sub-tela">Notícias, lançamentos e o canal Lagaz</p>
     </div>
@@ -287,12 +297,13 @@ footer{margin:56px 0 0;padding-top:20px;border-top:1px solid var(--line);color:v
   <!-- ===== INÍCIO ===== -->
   <section id="inicio" role="tabpanel" aria-labelledby="aba-inicio">
     <div class="inicio">
-      <a class="bloco destaque" id="destaque" href="https://www.youtube.com/@lagazoficial" target="_blank" rel="noopener">
+      <a class="bloco destaque" id="destaque" href="#noticias" target="_blank" rel="noopener">
         <div class="destaque-img" id="destaque-img"></div><div class="veu"></div>
         <div class="destaque-txt">
-          <span class="selo"><i></i>Mais visto do canal</span>
-          <h2 id="destaque-titulo">Vídeos do canal Lagaz</h2>
-          <div class="destaque-meta"><span class="btn-play"><i></i>Assistir</span><span class="num" id="destaque-views"></span></div>
+          <span class="selo"><i></i><span id="destaque-cat">Destaque</span></span>
+          <h2 id="destaque-titulo">Carregando a notícia em destaque…</h2>
+          <p class="destaque-resumo" id="destaque-resumo"></p>
+          <div class="destaque-meta"><span class="btn-ler">Ler matéria</span><span class="num" id="destaque-fonte"></span></div>
         </div>
       </a>
 
@@ -433,24 +444,40 @@ function linhaFio(n){
     '<span><span class="cat">'+esc(n.c)+'<em>'+esc(n.fonte||"")+'</em></span><h3>'+esc(n.t)+'</h3></span></a>';
 }
 function desenhaInicio(){
-  document.getElementById("fio-inicio").innerHTML=NOTICIAS.slice(0,5).map(linhaFio).join("")||'<p class="vazio">As notícias aparecem aqui assim que o robô buscar.</p>';
+  var nd=noticiaDestaque();document.getElementById("fio-inicio").innerHTML=NOTICIAS.filter(function(x){return x!==nd}).slice(0,5).map(linhaFio).join("")||'<p class="vazio">As notícias aparecem aqui assim que o robô buscar.</p>';
   var hoje=hojeISO();
   document.getElementById("n-noticias").textContent=NOTICIAS.filter(function(n){return new Date(n.data).toLocaleDateString("en-CA",{timeZone:TZ})===hoje}).length;
   var lim=new Date(Date.now()+7*864e5).toISOString().slice(0,10);
   document.getElementById("n-semana").textContent=LANC.filter(function(g){return g.data>=hoje&&g.data<=lim}).length;
   document.getElementById("n-videos").textContent=VIDEOS.length;
-  // destaque: vídeo mais visto
-  if(VIDEOS.length){
-    var top=VIDEOS.slice().sort(function(a,b){return(b.views||0)-(a.views||0)})[0];
-    var a=document.getElementById("destaque");a.href=seguro(top.link)?top.link:LINK_CANAL;
-    document.getElementById("destaque-titulo").textContent=top.t;
-    document.getElementById("destaque-views").textContent=top.views?top.views.toLocaleString("pt-BR")+" visualizações":"";
-    var bg=document.getElementById("destaque-img");
-    if(/^https:\/\/i\.ytimg\.com\//.test(top.img)){bg.style.backgroundImage='url("'+top.img+'")';
-      var hd=new Image();hd.onload=function(){if(hd.naturalWidth>200)bg.style.backgroundImage='url("'+hd.src+'")'};hd.src="https://i.ytimg.com/vi/"+encodeURIComponent(top.id)+"/maxresdefault.jpg"}
-  }
+  // destaque: notícia mais relevante do momento
+  var n=noticiaDestaque();
+  if(n){
+    var a=document.getElementById("destaque");a.href=seguro(n.link)||/^http:\/\//.test(n.link)?n.link:"#noticias";
+    document.getElementById("destaque-cat").textContent=n.c||"Destaque";
+    document.getElementById("destaque-titulo").textContent=n.t;
+    document.getElementById("destaque-resumo").textContent=limpaResumo(n);
+    var hc=horaCurta(n.data);document.getElementById("destaque-fonte").textContent=(n.fonte||"")+"  "+hc.dia+" "+hc.h;
+    if(seguro(n.img))document.getElementById("destaque-img").style.backgroundImage='url("'+n.img+'")';
+  }else{document.getElementById("destaque-titulo").textContent="As notícias aparecem aqui assim que o robô buscar."}
+
   document.getElementById("faixa-videos").innerHTML=VIDEOS.slice(0,4).map(cardVideo).join("")||'<p class="vazio">Os vídeos aparecem aqui assim que o robô buscar.</p>';
   iniciaContagem();
+}
+/* escolhe a notícia de destaque: com foto, sobre assuntos grandes e recente */
+var GRANDES=/gta|rockstar|playstation|ps5|ps6|xbox|nintendo|switch 2|steam|valve|sony|microsoft|zelda|mario|pok[eé]mon|call of duty|battlefield|elden|fromsoftware|resident evil|god of war|the last of us|cyberpunk|witcher|half-life|game awards|an[uú]ncio|anuncia|revela|trailer|data de lan[cç]amento|lan[cç]a(do|mento)/i;
+function noticiaDestaque(){
+  var agora=Date.now(),melhor=null,pts=-1;
+  NOTICIAS.forEach(function(n){
+    if(!n.t||n.c==="Ofertas")return;
+    var p=0,horas=(agora-new Date(n.data))/36e5;
+    if(seguro(n.img))p+=4;
+    var m=(n.t+" "+(n.d||"")).match(new RegExp(GRANDES.source,"gi"));if(m)p+=Math.min(m.length,3)*2;
+    if(n.c==="Lançamentos"||n.c==="Consoles")p+=1;
+    if(!isNaN(horas))p+=Math.max(0,3-horas/8);
+    if(p>pts){pts=p;melhor=n}
+  });
+  return melhor;
 }
 function cardVideo(v){
   return '<a class="vcard" href="'+esc(seguro(v.link)?v.link:LINK_CANAL)+'" target="_blank" rel="noopener"><div class="th"><img loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(v.img)+'"></div><h3>'+esc(v.t)+'</h3><p class="num">'+(v.views?compacto(v.views)+" visualizações":"")+'</p></a>';
