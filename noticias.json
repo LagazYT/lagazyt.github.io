@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-08T23:24:37.680Z",
+  "atualizadoEm": "2026-11-08T23:54:44.647Z",
   "noticias": [
+    {
+      "t": "Zelda: Ocarina of Time traz de volta voz original de Navi após 28 anos",
+      "d": "",
+      "link": "https://gameoverdrive.com.br/zelda-ocarina-of-time-nintendo-dubladora-navi-28-anos/",
+      "fonte": "Game Overdrive",
+      "data": "2026-11-08T23:26:40.000Z",
+      "c": "Geral",
+      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/rascunho-automatico-11-211-1600x900.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSVlYM2NQeXh1ZnAtb1NBMnh0T20wbnNlRE1ZSURsYmpWZmo0b2ZUdUxfRHZ5a1AtU1ZuQ0l0eDRMMS1wRWJsWDB5UmpfekdGYl9BaENEOXRVQk9kRjllSlUxM3dqQzJxSUdOLWlzcUQ2VDhCbG40MkpHb3c0amZrcjlSRk5wcHRxbDFV?oc=5"
+    },
     {
       "t": "Homem-Aranha: Um Novo Dia aumentou vendas dos jogos da PlayStation",
       "d": "",
@@ -39,16 +49,6 @@
       "c": "Lançamentos",
       "img": "https://universonintendo.com/wp-content/uploads/2026/09/Pikmin-4-–-Nintendo-Switch-2-Edition-Academia-Dandori-KEYART.jpg",
       "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWjZXSGZVZ1o0T1FGTkhjbkk0RnZCZmNNYVNOUFcxb3d5bEhzRkE0dENGQ1hHQUhmaUVpTWk4STlnU1NvYzc0WUlBV3BwcWZUZHNuU1gteTdJYl96NVl3V1AwSzQtV0ZXNTQyY1pfbjdydGtSQ1VvNWhnU01Pa1ZJeGJmUm1IM3dLVWUwT0ptSndTaVFZUnZZOHdpTFgxNHJHNlQ2OFRfSGRJeFFDOEE?oc=5"
-    },
-    {
-      "t": "Américas | Nintendo Store: Top 50 jogos que são tendência – Zelda: Ocarina of Time permanece em No. 1",
-      "d": "",
-      "link": "https://universonintendo.com/americas-nintendo-store-top-50-jogos-que-sao-tendencia-zelda-ocarina-of-time-permanece-em-no-1/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-11-08T20:14:44.000Z",
-      "c": "Consoles",
-      "img": "https://universonintendo.com/wp-content/uploads/2026/10/Zelda-Ocarina-of-Time-ALT-1.png",
-      "orig": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOak83WnA4TjNzcEJKUFJ4cFdCOXZ5M0xDNmlFTDV4aE5acHVLYnZQU1Y3Sk1rNHhmNGNMMHB6bXZvdFJOazFyelR4dzhlNW5pUE9nYkp6MDhjcXlUVVVpQVZVdGRraW1pOTg3MlBHdlpqWk5td3BaVnN0S3loNndwcExWcUZKRGYzVURLMkpnaWhrbEV1T1EwOXBfS0hia3FyVUttUmkyWHh5THFyUlBYMzR1N0VhNE1VSHJpNjVsRmtJUQ?oc=5"
     },
     {
       "t": "10 dicas e truques para melhorar seu gameplay em Palworld",
@@ -529,6 +529,36 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbi7.jpg",
       "hype": 13,
       "link": "https://www.igdb.com/games/casualties-unknown"
+    },
+    {
+      "t": "Cardaire: Eternal Aces",
+      "data": "2026-11-09",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coby1x.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/cardaire-eternal-aces"
+    },
+    {
+      "t": "Vena",
+      "data": "2026-11-09",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7an.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/vena"
+    },
+    {
+      "t": "Abracademia",
+      "data": "2026-11-09",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9e4.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/abracademia"
     },
     {
       "t": "Funeral for the Sun",
@@ -4658,36 +4688,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc0un.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/raiders-rise"
-    },
-    {
-      "t": "Mirealle",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobo3y.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/mirealle"
-    },
-    {
-      "t": "AirBoost Airship Knight",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa2pt.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/airboost-airship-knight"
-    },
-    {
-      "t": "Cathedral: Crow's Curse",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa2ud.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/cathedral-crows-curse"
     }
   ],
   "musicas": []
