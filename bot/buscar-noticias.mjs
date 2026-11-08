@@ -18,7 +18,9 @@ const decode = (s) => s
   .replace(/&#39;|&apos;/g, "'").replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n))
   .replace(/&amp;/g, "&");
 const semCdata = (s) => (s || "").replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1");
-const limpa = (s) => decode(semCdata(s)).replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+const ENT = { nbsp: " ", ndash: "–", mdash: "—", hellip: "…", laquo: "«", raquo: "»", ldquo: "“", rdquo: "”", lsquo: "‘", rsquo: "’", copy: "©", reg: "®", trade: "™" };
+const limpa = (s) => decode(decode(semCdata(s)).replace(/<[^>]+>/g, " "))
+  .replace(/&([a-z]+);/gi, (m, n) => ENT[n.toLowerCase()] ?? m).replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 const pega = (bloco, tag) => {
   const m = bloco.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)</${tag}>`, "i"));
   return m ? m[1] : "";
@@ -227,6 +229,7 @@ async function lerFeed(fonte) {
     const bruto = decode(semCdata(pega(b, "content:encoded") || pega(b, "description") || pega(b, "summary")));
     let resumo = limpa(pega(b, "description") || pega(b, "summary"));
     if (resumo.startsWith(titulo)) resumo = resumo.slice(titulo.length).trim();
+    if (resumo.toLowerCase() === origem.toLowerCase()) resumo = "";
     if (resumo.length > 200) resumo = resumo.slice(0, 197).replace(/\s+\S*$/, "") + "...";
     const quando = new Date(limpa(pega(b, "pubDate") || pega(b, "published") || pega(b, "updated")));
     return {

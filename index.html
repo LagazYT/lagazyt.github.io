@@ -4,369 +4,558 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="color-scheme" content="dark">
-<title>LAGAZ // notícias de games, lançamentos e vídeos</title>
-<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<meta name="theme-color" content="#000000">
+<title>Lagaz: notícias de games, lançamentos e vídeos</title>
+<meta name="description" content="Notícias de games, calendário de lançamentos para PC, PlayStation, Xbox e Nintendo, e os vídeos do canal Lagaz.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400..900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#0e0f11;--panel:#17181b;--panel2:#1f2125;--line:#2e3035;--ink:#eceded;--mut:#9a9da6;--y:#fcee0a;--r:#ff2b3d;
-color-scheme:dark;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-html{scroll-padding-top:70px;scroll-behavior:smooth}
+:root{
+  --bg:#000;--p1:#060a13;--p2:#0b1220;--p3:#111a2e;--line:#16213a;--line2:#22325a;
+  --tx:#eef3ff;--mu:#7f8bab;--mu2:#a9b4d0;--bl:#2d7dff;--bl2:#79b0ff;--rd:#ff2742;
+  --mono:"JetBrains Mono","DejaVu Sans Mono",ui-monospace,monospace;
+  --disp:"Inter Display","Inter",system-ui,sans-serif;
+  --rail:88px;color-scheme:dark;box-sizing:border-box;
+}
 *{box-sizing:border-box}
-body{margin:0;background-color:var(--bg);color:var(--ink);font:400 17px/1.55 "Chakra Petch",system-ui,sans-serif;
-background-image:linear-gradient(rgba(252,238,10,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(252,238,10,.035) 1px,transparent 1px);background-size:44px 44px}
-body::after{content:"";position:fixed;inset:0;pointer-events:none;z-index:50;background:repeating-linear-gradient(to bottom,transparent 0,transparent 2px,rgba(0,0,0,.13) 3px)}
-h1,h2,h3,.logo{margin:0;line-height:1.05}
-a{color:inherit}
-:focus-visible{outline:2px solid var(--y);outline-offset:3px}
-.wrap{max-width:1120px;margin:0 auto;padding:0 20px;overflow-x:hidden}
-.mono,.fonte,.note,.tag,.chips button,nav a,.eyebrow,footer{font-family:"Share Tech Mono",ui-monospace,monospace}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--tx);font:400 15.5px/1.55 "Inter",system-ui,sans-serif;font-optical-sizing:auto;-webkit-font-smoothing:antialiased;
+  background-image:radial-gradient(rgba(121,176,255,.11) 1px,transparent 1.2px),radial-gradient(1100px 600px at 70% -20%,rgba(45,125,255,.16),transparent 65%);
+  background-size:22px 22px,auto;background-attachment:fixed}
+h1,h2,h3,p{margin:0}
+a{color:inherit;text-decoration:none}
+img{display:block}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--bl2);outline-offset:2px}
+[hidden]{display:none!important}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
 
-header{display:flex;justify-content:space-between;align-items:center;padding:18px 0;border-bottom:1px solid var(--line)}
-.logo{font-size:1.9rem;font-weight:700;letter-spacing:.14em;text-decoration:none;text-transform:uppercase;text-shadow:2px 0 var(--r)}
-.logo b{color:var(--y);font-weight:700}
-nav{display:flex;gap:6px;flex-wrap:wrap}
-nav a{text-decoration:none;text-transform:uppercase;letter-spacing:.1em;font-size:.85rem;color:var(--mut);padding:6px 10px;border:1px solid transparent}
-nav a::before{content:"> ";color:var(--r)}
-nav a:hover{color:var(--y);border-color:var(--line)}
+/* ===== trilho de navegação ===== */
+.rail{position:fixed;inset:0 auto 0 0;width:var(--rail);z-index:50;display:flex;flex-direction:column;align-items:center;gap:6px;padding:18px 0 84px;
+  background:linear-gradient(180deg,#03060d,#000);border-right:1px solid var(--line)}
+.marca{display:grid;place-items:center;width:52px;height:52px;margin-bottom:18px}
+.marca svg{width:44px;height:44px}
+.rail [role=tab]{position:relative;width:72px;padding:11px 0 9px;border:0;background:none;cursor:pointer;color:var(--mu);display:flex;flex-direction:column;align-items:center;gap:6px;font-size:.72rem;font-weight:600;border-radius:6px;transition:color .15s,background .15s}
+.rail [role=tab] svg{width:22px;height:22px}
+.rail [role=tab]:hover{color:var(--tx);background:rgba(45,125,255,.08)}
+.rail [role=tab][aria-selected=true]{color:var(--tx);background:rgba(45,125,255,.14)}
+.rail [role=tab][aria-selected=true]::before{content:"";position:absolute;left:-8px;top:10px;bottom:10px;width:3px;border-radius:0 3px 3px 0;background:var(--bl);box-shadow:0 0 12px var(--bl)}
+.rail [role=tab][aria-selected=true] svg{color:var(--bl2);filter:drop-shadow(0 0 6px rgba(45,125,255,.7))}
 
-.hero{display:grid;grid-template-columns:1.05fr 1fr;gap:40px;align-items:center;padding:48px 0 40px}
-.eyebrow{display:flex;align-items:center;gap:10px;font-size:.85rem;letter-spacing:.14em;text-transform:uppercase;color:var(--mut);margin:0 0 18px}
-.eyebrow::before,.note::before{content:"";width:9px;height:9px;background:var(--r);border-radius:50%;animation:pisca 1.4s steps(2,jump-none) infinite;flex:none}
-@keyframes pisca{50%{opacity:.15}}
-.hero h1{font-size:clamp(2.3rem,6vw,4.3rem);font-weight:700;text-transform:uppercase;letter-spacing:-.01em}
-.hero h1 em{font-style:normal;color:var(--y);text-shadow:3px 0 var(--r)}
-.hero p.sub{color:var(--mut);max-width:38ch;margin:20px 0 28px}
-.btn{display:inline-block;background:var(--y);color:#000;padding:13px 26px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;text-decoration:none;
-clip-path:polygon(0 0,100% 0,100% calc(100% - 12px),calc(100% - 12px) 100%,0 100%);transition:background .15s,color .15s}
-.btn:hover{background:var(--r);color:#fff}
+/* ===== área principal ===== */
+.main{margin-left:var(--rail);min-height:100vh;padding:0 32px 64px}
+.topo{display:flex;align-items:center;gap:20px;height:72px;border-bottom:1px solid var(--line);margin-bottom:28px}
+.topo h1{font:800 1.35rem/1 var(--disp);letter-spacing:-.02em}
+.topo .sub{color:var(--mu);font-size:.85rem;margin-top:4px}
+.relogio{margin-left:auto;text-align:right;line-height:1.2}
+.relogio b{display:block;font:500 1.05rem var(--mono);letter-spacing:.02em}
+.relogio span{font-size:.75rem;color:var(--mu)}
+.yt{display:inline-flex;align-items:center;gap:8px;height:40px;padding:0 16px;border-radius:6px;background:var(--rd);color:#fff;font-weight:700;font-size:.88rem;box-shadow:0 0 0 1px rgba(255,255,255,.08) inset,0 8px 24px -10px rgba(255,39,66,.8);transition:filter .15s}
+.yt:hover{filter:brightness(1.12)}
+.yt svg{width:18px;height:18px}
 
-.feat{position:relative;display:flex;align-items:flex-end;aspect-ratio:16/9;padding:22px;color:#fff;text-decoration:none;
-background:linear-gradient(135deg,#2a2c31,#141518);box-shadow:inset 0 0 0 1px var(--line);
-clip-path:polygon(0 0,calc(100% - 24px) 0,100% 24px,100% 100%,24px 100%,0 calc(100% - 24px))}
-.feat::after{content:"DESTAQUE // MAIS VISTO";position:absolute;left:0;top:0;background:var(--y);color:#000;font:400 .75rem "Share Tech Mono",monospace;letter-spacing:.12em;padding:5px 12px}
-.feat.foto{background-size:cover;background-position:center}
-.play{position:absolute;left:50%;top:46%;transform:translate(-50%,-50%);width:70px;height:70px;background:var(--r);display:grid;place-items:center;
-clip-path:polygon(24% 0,100% 0,100% 76%,76% 100%,0 100%,0 24%);transition:background .15s}
-.play::after{content:"";border-left:20px solid #fff;border-top:12px solid transparent;border-bottom:12px solid transparent;margin-left:5px}
-.feat:hover .play{background:var(--y)}
-.feat:hover .play::after{border-left-color:#000}
-.feat span{position:relative;font-weight:700;font-size:1.25rem;line-height:1.15;max-width:24ch;text-transform:uppercase;text-shadow:0 2px 12px rgba(0,0,0,.8)}
-.faixa{height:10px;background:repeating-linear-gradient(135deg,var(--y) 0 14px,var(--bg) 14px 28px);opacity:.9}
+/* blocos com cantos de HUD */
+.bloco{position:relative;background:linear-gradient(180deg,var(--p2),var(--p1));border:1px solid var(--line);border-radius:6px;padding:20px}
+.bloco::before,.bloco::after{content:"";position:absolute;width:14px;height:14px;pointer-events:none;border-color:var(--bl);border-style:solid;opacity:.85}
+.bloco::before{left:-1px;top:-1px;border-width:2px 0 0 2px;border-top-left-radius:6px}
+.bloco::after{right:-1px;bottom:-1px;border-width:0 2px 2px 0;border-bottom-right-radius:6px}
+.bloco-tit{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:14px}
+.bloco-tit h2{font:700 1rem var(--disp);letter-spacing:-.01em}
+.bloco-tit a,.bloco-tit button{border:0;background:none;cursor:pointer;color:var(--bl2);font-size:.82rem;font-weight:600;padding:0}
+.bloco-tit a:hover,.bloco-tit button:hover{color:var(--tx)}
 
-section{padding:48px 0 8px}
-.head{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;flex-wrap:wrap;margin-bottom:24px;padding-bottom:14px;border-bottom:1px solid var(--line)}
-h2{font-size:1.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.04em;border-left:6px solid var(--y);padding-left:14px}
-h2::before{content:"// ";color:var(--r)}
-.chips{display:flex;gap:8px;flex-wrap:wrap}
-.chips button{font-size:.82rem;text-transform:uppercase;letter-spacing:.08em;background:transparent;color:var(--mut);border:1px solid var(--line);padding:7px 14px;cursor:pointer;
-clip-path:polygon(0 0,calc(100% - 8px) 0,100% 8px,100% 100%,8px 100%,0 calc(100% - 8px));transition:color .15s,border-color .15s}
-.chips button:hover{color:var(--ink);border-color:var(--y)}
-.chips button[aria-pressed="true"]{background:var(--y);color:#000;border-color:var(--y)}
+/* ===== início ===== */
+.inicio{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:18px}
+.destaque{grid-column:span 8;grid-row:span 2;padding:0;overflow:hidden;min-height:420px;display:flex;align-items:flex-end;isolation:isolate;cursor:pointer}
+.destaque-img{position:absolute;inset:0;z-index:-2;background:#0a1224 center/cover no-repeat;transition:transform .6s ease}
+.destaque:hover .destaque-img{transform:scale(1.03)}
+.destaque::marker{display:none}
+.destaque .veu{position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,rgba(0,0,0,.94) 0%,rgba(0,0,0,.35) 45%,rgba(0,0,0,0) 70%),linear-gradient(90deg,rgba(0,0,0,.5),transparent 60%)}
+.destaque-txt{padding:28px;width:100%}
+.selo{display:inline-flex;align-items:center;gap:8px;font-size:.78rem;font-weight:600;color:var(--tx);background:rgba(0,0,0,.6);border:1px solid rgba(255,255,255,.12);padding:5px 10px;border-radius:4px;backdrop-filter:blur(8px);margin-bottom:14px}
+.selo i{width:7px;height:7px;border-radius:50%;background:var(--rd);box-shadow:0 0 10px var(--rd)}
+.destaque h2{font:800 clamp(1.4rem,2.6vw,2.2rem)/1.08 var(--disp);letter-spacing:-.025em;max-width:26ch;text-wrap:balance}
+.destaque-meta{display:flex;align-items:center;gap:16px;margin-top:18px;color:var(--mu2);font-size:.88rem}
+.btn-play{display:inline-flex;align-items:center;gap:10px;height:44px;padding:0 18px 0 6px;border-radius:6px;background:var(--tx);color:#000;font-weight:700;font-size:.92rem}
+.btn-play i{display:grid;place-items:center;width:34px;height:34px;border-radius:4px;background:var(--rd)}
+.btn-play i::after{content:"";border-left:11px solid #fff;border-top:7px solid transparent;border-bottom:7px solid transparent;margin-left:3px}
+.destaque:hover .btn-play{box-shadow:0 0 0 3px rgba(121,176,255,.45)}
 
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:20px}
-.grid.lanc{grid-template-columns:repeat(auto-fill,minmax(180px,1fr))}
-.card{position:relative;background:var(--panel);border-left:3px solid var(--y);padding:20px;display:flex;flex-direction:column;gap:10px;text-decoration:none;
-clip-path:polygon(0 0,calc(100% - 14px) 0,100% 14px,100% 100%,14px 100%,0 calc(100% - 14px));transition:transform .15s,background .15s,border-color .15s}
-.card:hover{background:var(--panel2);border-left-color:var(--r);transform:translateY(-3px)}
-.card h3{font-size:1.12rem;font-weight:600;line-height:1.22}
-.card p{margin:0;color:var(--mut);font-size:.95rem}
-.tag{align-self:flex-start;background:var(--y);color:#000;font-size:.74rem;text-transform:uppercase;letter-spacing:.1em;padding:2px 9px}
-.tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
-.tags .tag{background:transparent;color:var(--ink);border:1px solid var(--mut)}
-.fonte{font-size:.8rem;color:var(--mut);text-transform:uppercase;letter-spacing:.06em}
-.card a.ler{align-self:flex-start;color:var(--y);text-decoration:none;font-weight:700;border-bottom:1px solid var(--y);padding-bottom:1px}
-.card a.ler:hover{color:var(--r);border-color:var(--r)}
-.capa,.thumbv,.thumbl{display:block;max-width:none;object-fit:cover;background:var(--line);filter:grayscale(.35) contrast(1.05);transition:filter .2s}
-.card:hover .capa,.card:hover .thumbv,.card:hover .thumbl{filter:none}
-.capa{width:calc(100% + 40px);margin:-20px -20px 4px;aspect-ratio:16/9}
-.card.vid{padding:0}
-.vid>div{padding:16px 20px 20px}
-.thumbv{width:100%;aspect-ratio:16/9}
-.thumbl{width:100%;aspect-ratio:3/4}
-.card.vid h3{font-size:1.05rem}
+.contagem{grid-column:span 4;display:flex;flex-direction:column;gap:14px;overflow:hidden}
+.contagem .jogo{display:flex;gap:14px;align-items:center}
+.contagem .jogo img,.contagem .jogo .sem{width:54px;height:72px;object-fit:cover;border-radius:4px;background:var(--p3);flex:none}
+.contagem .jogo b{display:block;font:700 1.05rem/1.2 var(--disp)}
+.contagem .jogo span{display:block;color:var(--mu);font-size:.8rem;margin-top:4px}
+.relog{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+.relog div{background:#02050b;border:1px solid var(--line);border-radius:4px;padding:10px 0 8px;text-align:center}
+.relog b{display:block;font:500 1.7rem/1 var(--mono);letter-spacing:-.02em}
+.relog span{display:block;font-size:.7rem;color:var(--mu);margin-top:6px}
+.relog div:last-child b{color:var(--rd);text-shadow:0 0 14px rgba(255,39,66,.6)}
 
-.note{display:flex;align-items:center;gap:10px;font-size:.82rem;color:var(--mut);text-transform:uppercase;letter-spacing:.08em;margin:0 0 22px}
-section>p.fonte{margin-top:18px}
-section>p.fonte a{color:var(--y)}
-footer{margin-top:56px;border-top:1px solid var(--line);padding:26px 0;color:var(--mut);font-size:.82rem;text-transform:uppercase;letter-spacing:.08em}
-footer::before{content:"";display:block;width:64px;height:3px;background:var(--y);margin-bottom:14px}
-@media (max-width:760px){.hero{grid-template-columns:1fr;padding-top:32px}nav a{padding:6px 6px}}
-@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
-.mes{margin:30px 0 14px;font:400 .95rem "Share Tech Mono",monospace;letter-spacing:.14em;text-transform:uppercase;color:var(--y)}.mes::before{content:"> ";color:var(--r)}.dia{background:var(--y);color:#000;font:700 .95rem "Share Tech Mono",monospace;letter-spacing:.08em;padding:7px 12px}
+.numeros{grid-column:span 4;display:grid;grid-template-columns:repeat(3,1fr);gap:0;padding:0}
+.numeros div{padding:18px 16px;border-left:1px solid var(--line)}
+.numeros div:first-child{border-left:0}
+.numeros b{display:block;font:500 1.9rem/1 var(--mono);color:var(--tx)}
+.numeros span{display:block;font-size:.76rem;color:var(--mu);margin-top:8px;line-height:1.3}
 
-.wrap{max-width:1200px}
-body{padding-bottom:96px}
-.layout{display:grid;grid-template-columns:minmax(0,1fr) 310px;grid-template-areas:"topo lateral" "conteudo lateral";column-gap:32px;align-items:start}
-.topo{grid-area:topo;min-width:0}.conteudo{grid-area:conteudo;min-width:0}
-.lateral{grid-area:lateral;position:sticky;top:16px;padding-top:40px}
-.hero{display:block;padding:36px 0 26px}
-.hero h1{font-size:clamp(1.9rem,4.2vw,3.1rem)}
-.hero p.sub{max-width:60ch;margin:14px 0 24px}
-.feat,.feat.foto{aspect-ratio:2/1}
-.abas{display:flex;gap:8px;flex-wrap:wrap;margin:30px 0 0;padding-bottom:14px;border-bottom:1px solid var(--line)}
-.abas button{font:700 .95rem "Chakra Petch",system-ui,sans-serif;text-transform:uppercase;letter-spacing:.06em;background:var(--panel);color:var(--mut);border:1px solid var(--line);padding:11px 18px;cursor:pointer;
-clip-path:polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,10px 100%,0 calc(100% - 10px));transition:color .15s,border-color .15s}
-.abas button:hover{color:var(--ink);border-color:var(--y)}
-.abas button[aria-selected="true"]{background:var(--y);color:#000;border-color:var(--y)}
-section[hidden]{display:none}
-section{padding-top:30px}
-#canal{margin-top:24px;border-top:1px solid var(--line)}
+.ultimas{grid-column:span 8}
+.radar{grid-column:span 4;grid-row:span 2;display:flex;flex-direction:column;padding:20px 0 0;min-height:560px}
+.radar .bloco-tit{padding:0 20px}
+.recentes{grid-column:span 8}
 
-.janela{display:flex;flex-direction:column;height:min(660px,calc(100vh - 56px));background:var(--panel);border-left:3px solid var(--r);
-clip-path:polygon(0 0,calc(100% - 16px) 0,100% 16px,100% 100%,16px 100%,0 calc(100% - 16px))}
-.janela-topo{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:12px 16px;background:var(--y);color:#000;font:400 .82rem "Share Tech Mono",monospace;letter-spacing:.1em;text-transform:uppercase}
-.janela-topo i{font-style:normal;color:var(--r);font-weight:700}
-.ticker{position:relative;flex:1;overflow:hidden;-webkit-mask-image:linear-gradient(to bottom,transparent 0,#000 22px,#000 calc(100% - 22px),transparent 100%);mask-image:linear-gradient(to bottom,transparent 0,#000 22px,#000 calc(100% - 22px),transparent 100%)}
+/* lista de notícias (estilo agência) */
+.fio{display:flex;flex-direction:column}
+.fio a{display:grid;grid-template-columns:56px 112px minmax(0,1fr);gap:16px;align-items:center;padding:12px 8px;border-top:1px solid var(--line);border-radius:4px;transition:background .15s}
+.fio a:first-child{border-top:0}
+.fio a:hover{background:rgba(45,125,255,.07)}
+.fio .hora{font:500 .82rem var(--mono);color:var(--bl2)}
+.fio .hora small{display:block;color:var(--mu);font-size:.7rem;margin-top:2px}
+.fio img,.fio .sem{width:112px;height:63px;object-fit:cover;border-radius:4px;background:var(--p3)}
+.fio .cat{font-size:.74rem;font-weight:700;color:var(--bl2)}
+.fio .cat em{font-style:normal;color:var(--mu);font-weight:500;margin-left:8px}
+.fio h3{font:600 .98rem/1.32 "Inter",sans-serif;margin-top:3px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.fio a:hover h3{color:#fff}
+
+/* radar de lançamentos que rola sozinho */
+.ticker{position:relative;flex:1 1 0;height:0;min-height:0;overflow:hidden;-webkit-mask-image:linear-gradient(transparent,#000 24px,#000 calc(100% - 24px),transparent);mask-image:linear-gradient(transparent,#000 24px,#000 calc(100% - 24px),transparent)}
 .ticker.manual{overflow-y:auto}
-.ticker-trilho{animation-name:sobe;animation-timing-function:linear;animation-iteration-count:infinite;animation-duration:60s;will-change:transform}
+.ticker-trilho{animation:sobe 60s linear infinite}
 .ticker:hover .ticker-trilho,.ticker:focus-within .ticker-trilho{animation-play-state:paused}
 @keyframes sobe{to{transform:translateY(-50%)}}
-.tk{display:grid;grid-template-columns:46px 44px minmax(0,1fr);gap:10px;align-items:center;padding:10px 14px;min-height:78px;border-bottom:1px solid var(--line);text-decoration:none}
-a.tk:hover{background:var(--panel2)}
-.tk-d{display:flex;flex-direction:column;align-items:center;justify-content:center;border:1px solid var(--y);color:var(--y);font:400 .66rem "Share Tech Mono",monospace;letter-spacing:.04em;line-height:1.1;padding:5px 0;background:var(--bg)}
-.tk-d b{font:700 1.15rem "Chakra Petch",sans-serif;color:var(--ink)}
-.tk img,.tk .sem{display:block;width:44px;height:58px;object-fit:cover;background:var(--line)}
-.tk img{filter:grayscale(.35)}
-.tk-t{display:block;font-weight:600;font-size:.9rem;line-height:1.2}
-.tk-p{display:block;margin-top:3px;font:400 .7rem "Share Tech Mono",monospace;color:var(--mut);text-transform:uppercase;letter-spacing:.06em}
-.vazio{padding:20px 16px;color:var(--mut);font-size:.9rem}
+.tk{display:grid;grid-template-columns:44px 40px minmax(0,1fr);gap:12px;align-items:center;padding:9px 20px;border-top:1px solid rgba(22,33,58,.7)}
+a.tk:hover{background:rgba(45,125,255,.08)}
+.tk-d{text-align:center;font:500 .66rem/1.15 var(--mono);color:var(--mu);text-transform:lowercase}
+.tk-d b{display:block;font-size:1.15rem;color:var(--tx)}
+.tk img,.tk .sem{width:40px;height:53px;object-fit:cover;border-radius:3px;background:var(--p3)}
+.tk-t{display:block;font-weight:600;font-size:.86rem;line-height:1.25}
+.tk-p{display:block;font-size:.72rem;color:var(--mu);margin-top:2px}
+.vazio{padding:18px 20px;color:var(--mu);font-size:.9rem}
 
-.radio{position:fixed;left:16px;bottom:16px;z-index:60;display:flex;align-items:center;gap:0;max-width:calc(100vw - 32px);background:var(--panel);border:1px solid var(--y);padding:6px;
-clip-path:polygon(0 0,calc(100% - 10px) 0,100% 10px,100% 100%,0 100%);transition:gap .2s,padding .2s}
-.radio button{flex:none;width:40px;height:40px;background:var(--y);color:#000;border:0;font:700 .95rem "Share Tech Mono",monospace;cursor:pointer}
-.radio button:hover{background:var(--r);color:#fff}
-.radio .extra{display:flex;align-items:center;gap:12px;max-width:0;overflow:hidden;opacity:0;transition:max-width .25s ease,opacity .2s}
-.radio:hover,.radio:focus-within,.radio.aberto{gap:12px;padding:6px 14px 6px 6px}
-.radio:hover .extra,.radio:focus-within .extra,.radio.aberto .extra{max-width:420px;opacity:1}
-.radio #radio-prox{width:34px;height:34px;background:transparent;color:var(--y);border:1px solid var(--line)}
-.radio #radio-prox:hover{border-color:var(--y);background:transparent;color:var(--y)}
-.radio-info{display:flex;flex-direction:column;min-width:0;width:150px}
-.radio-nome{font:400 .68rem "Share Tech Mono",monospace;color:var(--r);letter-spacing:.16em}
-.radio-faixa{font:400 .8rem "Share Tech Mono",monospace;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.radio input[type=range]{width:80px;accent-color:var(--y)}
-.eq{display:none;gap:2px;align-items:flex-end;height:18px;margin-left:8px}
+/* faixa de vídeos */
+.faixa-v{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.vcard{display:block;border-radius:4px;transition:transform .15s}
+.vcard .th{position:relative;aspect-ratio:16/9;border-radius:4px;overflow:hidden;background:var(--p3);border:1px solid var(--line)}
+.vcard .th img{width:100%;height:100%;object-fit:cover;transition:transform .4s}
+.vcard:hover .th img{transform:scale(1.05)}
+.vcard:hover .th{border-color:var(--bl);box-shadow:0 0 0 1px var(--bl),0 0 22px -4px rgba(45,125,255,.7)}
+.vcard .dur{position:absolute;right:6px;bottom:6px;font:500 .7rem var(--mono);background:rgba(0,0,0,.8);padding:2px 6px;border-radius:3px}
+.vcard h3{font:600 .88rem/1.3 "Inter",sans-serif;margin-top:9px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.vcard p{font-size:.76rem;color:var(--mu);margin-top:4px}
+
+/* ===== telas de seção ===== */
+.cab{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:22px}
+.cab h2{font:800 clamp(1.6rem,3vw,2.3rem)/1 var(--disp);letter-spacing:-.03em}
+.cab p{color:var(--mu);font-size:.9rem;margin-top:8px}
+.filtros{display:flex;border:1px solid var(--line2);border-radius:6px;overflow:hidden;background:var(--p1);flex-wrap:wrap}
+.filtros button{border:0;border-left:1px solid var(--line2);background:none;color:var(--mu2);font-size:.84rem;font-weight:600;padding:9px 14px;cursor:pointer;transition:background .15s,color .15s}
+.filtros button:first-child{border-left:0}
+.filtros button:hover{color:var(--tx);background:rgba(45,125,255,.08)}
+.filtros button[aria-pressed=true]{background:var(--bl);color:#fff}
+
+.tela-noticias{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:24px;align-items:start}
+.tela-noticias .bloco{padding:8px 12px}
+.manchete{display:block;padding:0!important;overflow:hidden;margin-bottom:18px}
+.manchete .img{aspect-ratio:21/9;background:var(--p3) center/cover no-repeat;border-bottom:1px solid var(--line)}
+.manchete div.t{padding:20px 22px 22px}
+.manchete .cat{font-size:.78rem;font-weight:700;color:var(--bl2)}
+.manchete h3{font:800 1.6rem/1.15 var(--disp);letter-spacing:-.02em;margin:6px 0 10px;text-wrap:balance}
+.manchete p{color:var(--mu2);font-size:.95rem;max-width:70ch}
+.manchete .fonte{display:block;font:500 .78rem var(--mono);color:var(--mu);margin-top:12px}
+.manchete:hover h3{color:#fff;text-decoration:underline;text-decoration-color:var(--bl);text-underline-offset:5px}
+.lateral-n{position:sticky;top:20px;display:flex;flex-direction:column;gap:18px}
+.status{display:flex;align-items:center;gap:10px;font-size:.84rem;color:var(--mu2)}
+.status i{width:8px;height:8px;border-radius:50%;background:#2fd17a;box-shadow:0 0 10px #2fd17a;flex:none}
+.fontes-l{display:flex;flex-direction:column;gap:8px;font-size:.86rem}
+.fontes-l div{display:flex;justify-content:space-between;color:var(--mu2)}
+.fontes-l b{font:500 .85rem var(--mono);color:var(--tx)}
+
+.semana{margin-bottom:34px}
+.semana h3{display:flex;align-items:center;gap:14px;font:700 1.05rem var(--disp);margin-bottom:14px}
+.semana h3 span{font:500 .78rem var(--mono);color:var(--mu)}
+.semana h3::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,var(--line2),transparent)}
+.capas{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:16px}
+.capa-j{display:block}
+.capa-j .c{position:relative;aspect-ratio:3/4;border-radius:4px;overflow:hidden;background:var(--p3);border:1px solid var(--line)}
+.capa-j .c img{width:100%;height:100%;object-fit:cover;transition:transform .4s}
+.capa-j:hover .c{border-color:var(--bl);box-shadow:0 0 0 1px var(--bl),0 0 24px -4px rgba(45,125,255,.7)}
+.capa-j:hover .c img{transform:scale(1.05)}
+.capa-j .dt{position:absolute;left:0;top:0;display:flex;flex-direction:column;align-items:center;min-width:46px;padding:6px 8px;background:rgba(0,0,0,.82);border-bottom-right-radius:4px;font:500 .66rem/1.1 var(--mono);color:var(--mu2);text-transform:lowercase}
+.capa-j .dt b{font-size:1.15rem;color:#fff}
+.capa-j h4{font:600 .86rem/1.3 "Inter",sans-serif;margin:9px 0 5px}
+.plats{display:flex;gap:4px;flex-wrap:wrap}
+.plats span{font:500 .66rem var(--mono);color:var(--mu2);border:1px solid var(--line2);padding:1px 6px;border-radius:3px}
+.mais{display:block;margin:6px auto 0;height:44px;padding:0 22px;border:1px solid var(--line2);border-radius:6px;background:var(--p1);color:var(--tx);font-weight:600;cursor:pointer}
+.mais:hover{border-color:var(--bl)}
+.nota-fonte{color:var(--mu);font-size:.8rem;margin-top:18px}
+.nota-fonte a{color:var(--bl2)}
+
+.tela-videos .vid-top{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:22px;margin-bottom:26px;align-items:start}
+.tela-videos .grade{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:18px}
+.canal{display:flex;flex-direction:column;justify-content:space-between;gap:16px}
+.canal h3{font:800 1.4rem var(--disp);letter-spacing:-.02em}
+.canal p{color:var(--mu2);font-size:.92rem}
+.canal .yt{align-self:flex-start}
+.canal .numeros{display:grid;grid-template-columns:1fr 1fr;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.canal .numeros div{padding:14px 0 14px 16px}.canal .numeros div:first-child{padding-left:0}
+
+footer{margin:56px 0 0;padding-top:20px;border-top:1px solid var(--line);color:var(--mu);font-size:.8rem}
+
+/* ===== rádio ===== */
+.radio{position:fixed;left:14px;bottom:16px;z-index:60;display:flex;align-items:center;gap:0;max-width:calc(100vw - 28px);padding:5px;border-radius:8px;
+  background:rgba(6,10,19,.92);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid var(--line2);box-shadow:0 14px 34px -14px rgba(0,0,0,.9);transition:gap .2s,padding .2s}
+.radio button{flex:none;width:50px;height:50px;border-radius:6px;border:0;cursor:pointer;background:var(--p3);color:var(--tx);font:700 .95rem "Inter",sans-serif;transition:background .15s}
+.radio button:hover{background:var(--bl)}
+.radio.tocando #radio-play{background:var(--rd);color:#fff;box-shadow:0 0 18px -2px rgba(255,39,66,.8)}
+.radio .extra{display:flex;align-items:center;gap:12px;max-width:0;overflow:hidden;opacity:0;transition:max-width .3s ease,opacity .2s}
+.radio:hover,.radio:focus-within,.radio.aberto{gap:12px;padding:5px 16px 5px 5px}
+.radio:hover .extra,.radio:focus-within .extra,.radio.aberto .extra{max-width:440px;opacity:1}
+.radio #radio-prox{width:36px;height:36px}
+.radio-info{display:flex;flex-direction:column;min-width:0;width:160px;line-height:1.3}
+.radio-nome{font-size:.7rem;font-weight:700;color:var(--bl2)}
+.radio-faixa{font-size:.84rem;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.radio input[type=range]{width:84px;accent-color:var(--bl)}
+.eq{position:absolute;left:5px;bottom:-1px;display:none;gap:2px;align-items:flex-end;width:50px;height:12px;justify-content:center;pointer-events:none}
 .radio.tocando .eq{display:flex}
-.radio:hover .eq,.radio:focus-within .eq,.radio.aberto .eq{margin-left:0}
-.eq i{width:3px;height:4px;background:var(--r);animation:eq .9s ease-in-out infinite}
+.eq i{width:3px;height:3px;border-radius:2px;background:#fff;opacity:.85;animation:eq .9s ease-in-out infinite}
 .eq i:nth-child(2){animation-delay:.2s}.eq i:nth-child(3){animation-delay:.4s}
-@keyframes eq{50%{height:18px}}
-.radio-dica{position:absolute;left:58px;top:50%;transform:translateY(-50%);white-space:nowrap;font:400 .72rem "Share Tech Mono",monospace;color:var(--y);letter-spacing:.08em;pointer-events:none}
-.radio:hover .radio-dica,.radio:focus-within .radio-dica,.radio.aberto .radio-dica,.radio.tocando .radio-dica{display:none}
+@keyframes eq{50%{height:10px}}
+.radio-dica{display:none}
 
-@media (max-width:980px){
-  .layout{grid-template-columns:minmax(0,1fr);grid-template-areas:"topo" "lateral" "conteudo"}
-  .lateral{position:static;padding-top:0}
-  .janela{height:360px}
+/* ===== responsivo ===== */
+@media (max-width:1180px){
+  .destaque{grid-column:span 12;grid-row:auto}
+  .contagem,.numeros{grid-column:span 6}
+  .ultimas,.recentes{grid-column:span 12}
+  .radar{grid-column:span 12;grid-row:auto;min-height:0}.ticker{flex:none;height:320px}
+  .tela-noticias{grid-template-columns:1fr}.lateral-n{position:static}
 }
-@media (max-width:520px){.radio input[type=range]{width:56px}.radio-info{width:96px}.radio:hover .extra,.radio:focus-within .extra,.radio.aberto .extra{max-width:calc(100vw - 100px)}}
+@media (max-width:760px){
+  :root{--rail:0px}
+  body{padding-bottom:72px}
+  .rail{inset:auto 0 0 0;width:auto;height:64px;flex-direction:row;justify-content:space-around;padding:0 6px env(safe-area-inset-bottom,0);border-right:0;border-top:1px solid var(--line);background:rgba(0,0,0,.92);backdrop-filter:blur(14px)}
+  .marca{display:none}
+  .rail [role=tab]{width:auto;flex:1;padding:8px 0;font-size:.68rem}
+  .rail [role=tab][aria-selected=true]::before{left:25%;right:25%;top:-1px;bottom:auto;width:auto;height:3px;border-radius:0 0 3px 3px}
+  .main{padding:0 16px 40px}
+  .topo{height:auto;padding:16px 0;flex-wrap:wrap;gap:12px}
+  .relogio{display:none}
+  .yt{margin-left:auto;height:36px;padding:0 12px}
+  .yt span{display:none}
+  .contagem,.numeros{grid-column:span 12}
+  .destaque{min-height:300px}
+  .destaque-txt{padding:20px}
+  .faixa-v{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .fio a{grid-template-columns:84px minmax(0,1fr);gap:12px}
+  .fio .hora{display:none}
+  .fio img,.fio .sem{width:84px;height:56px}
+  .tela-videos .vid-top{grid-template-columns:1fr}
+  .radio{left:auto;right:12px;bottom:78px}
+  .radio:hover,.radio:focus-within,.radio.aberto{padding:5px 12px 5px 5px}
+  .radio-info{width:100px}.radio input[type=range]{width:60px}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
 </style>
 </head>
 <body>
-<div class="wrap">
-<header>
-  <a class="logo" href="#top">La<b>gaz</b></a>
-  <nav><a href="#noticias">Notícias</a><a href="#lancamentos">Lançamentos</a><a href="#videos">Vídeos</a><a href="#canal">Canal</a></nav>
-</header>
 
-<main id="top" class="layout">
-  <div class="topo">
-    <div class="hero">
-      <p class="eyebrow">Sistema online // games + canal</p>
-      <h1>Games, notícias e o canal <em>Lagaz</em></h1>
-      <p class="sub">O que está rolando no mundo dos jogos, os próximos lançamentos e os vídeos do canal, num lugar só.</p>
-      <a class="feat" href="#" id="destaque" aria-label="Vídeo em destaque">
-        <div class="play"></div>
-        <span id="destaque-titulo"></span>
+<nav class="rail" aria-label="Seções do site">
+  <a class="marca" href="#inicio" aria-label="Lagaz, início">
+    <svg viewBox="0 0 44 44" aria-hidden="true"><path d="M8 4h28l4 4v28l-4 4H8l-4-4V8z" fill="#0b1220" stroke="#2d7dff" stroke-width="1.5"/><path d="M15 12v20h14" fill="none" stroke="#eef3ff" stroke-width="4" stroke-linecap="square"/><rect x="26" y="12" width="5" height="5" fill="#ff2742"/></svg>
+  </a>
+  <div role="tablist" aria-orientation="vertical" aria-label="Telas" id="abas" style="display:contents">
+    <button type="button" role="tab" id="aba-inicio" aria-controls="inicio" aria-selected="true">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="3" width="8" height="10" rx="1"/><rect x="13" y="3" width="8" height="6" rx="1"/><rect x="13" y="11" width="8" height="10" rx="1"/><rect x="3" y="15" width="8" height="6" rx="1"/></svg>Início</button>
+    <button type="button" role="tab" id="aba-noticias" aria-controls="noticias" aria-selected="false" tabindex="-1">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 5h13v14H6a2 2 0 0 1-2-2z"/><path d="M17 9h3v8a2 2 0 0 1-2 2"/><path d="M8 9h5M8 13h5"/></svg>Notícias</button>
+    <button type="button" role="tab" id="aba-lancamentos" aria-controls="lancamentos" aria-selected="false" tabindex="-1">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="1.5"/><path d="M3 10h18M8 3v4M16 3v4"/><path d="M8 14h3v3H8z"/></svg>Lançamentos</button>
+    <button type="button" role="tab" id="aba-videos" aria-controls="videos" aria-selected="false" tabindex="-1">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="2.5" y="5" width="19" height="14" rx="2"/><path d="M10 9.5v5l4.5-2.5z" fill="currentColor"/></svg>Vídeos</button>
+  </div>
+</nav>
+
+<div class="main">
+  <header class="topo">
+    <div>
+      <h1 id="titulo-tela">Início</h1>
+      <p class="sub" id="sub-tela">Notícias, lançamentos e o canal Lagaz</p>
+    </div>
+    <div class="relogio" aria-hidden="true"><b class="num" id="relogio">--:--:--</b><span id="data-hoje"></span></div>
+    <a class="yt" href="https://www.youtube.com/@lagazoficial" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23 7.2a3 3 0 0 0-2.1-2.1C19 4.6 12 4.6 12 4.6s-7 0-8.9.5A3 3 0 0 0 1 7.2 31 31 0 0 0 .5 12 31 31 0 0 0 1 16.8a3 3 0 0 0 2.1 2.1c1.9.5 8.9.5 8.9.5s7 0 8.9-.5a3 3 0 0 0 2.1-2.1 31 31 0 0 0 .5-4.8 31 31 0 0 0-.5-4.8zM9.7 15.1V8.9l5.8 3.1-5.8 3.1z"/></svg><span>Canal no YouTube</span></a>
+  </header>
+
+  <!-- ===== INÍCIO ===== -->
+  <section id="inicio" role="tabpanel" aria-labelledby="aba-inicio">
+    <div class="inicio">
+      <a class="bloco destaque" id="destaque" href="https://www.youtube.com/@lagazoficial" target="_blank" rel="noopener">
+        <div class="destaque-img" id="destaque-img"></div><div class="veu"></div>
+        <div class="destaque-txt">
+          <span class="selo"><i></i>Mais visto do canal</span>
+          <h2 id="destaque-titulo">Vídeos do canal Lagaz</h2>
+          <div class="destaque-meta"><span class="btn-play"><i></i>Assistir</span><span class="num" id="destaque-views"></span></div>
+        </div>
       </a>
-    </div>
-    <div class="faixa" aria-hidden="true"></div>
-  </div>
 
-  <aside class="lateral" aria-label="Jogos que vão lançar">
-    <div class="janela">
-      <div class="janela-topo"><span>Próximos lançamentos</span><i>● live</i></div>
-      <div class="ticker" id="ticker"><div class="ticker-trilho" id="ticker-trilho"></div></div>
-    </div>
-  </aside>
-
-  <div class="conteudo">
-    <div class="abas" id="abas" role="tablist" aria-label="Seções do site">
-      <button type="button" role="tab" id="aba-noticias" aria-controls="noticias" aria-selected="true">Notícias</button>
-      <button type="button" role="tab" id="aba-lancamentos" aria-controls="lancamentos" aria-selected="false" tabindex="-1">Lançamentos de jogos</button>
-      <button type="button" role="tab" id="aba-videos" aria-controls="videos" aria-selected="false" tabindex="-1">Vídeos do canal</button>
-    </div>
-
-    <section id="noticias" role="tabpanel" aria-labelledby="aba-noticias">
-      <div class="head">
-        <h2>Notícias de games</h2>
-        <div class="chips" id="chips" role="group" aria-label="Filtrar por categoria"></div>
+      <div class="bloco contagem" id="contagem">
+        <div class="bloco-tit"><h2>Próximo grande lançamento</h2></div>
+        <div class="jogo" id="cont-jogo"><span class="sem"></span><div><b>Carregando…</b></div></div>
+        <div class="relog" id="cont-relog" aria-live="off">
+          <div><b class="num" id="c-d">--</b><span>dias</span></div>
+          <div><b class="num" id="c-h">--</b><span>horas</span></div>
+          <div><b class="num" id="c-m">--</b><span>min</span></div>
+          <div><b class="num" id="c-s">--</b><span>seg</span></div>
+        </div>
       </div>
-      <div class="note" id="atualizado">Notícias atualizadas automaticamente pelo robô.</div>
-      <div class="grid" id="noticias-grid"></div>
-    </section>
 
-    <section id="lancamentos" role="tabpanel" aria-labelledby="aba-lancamentos" hidden>
-      <div class="head">
-        <h2>Lançamentos de jogos</h2>
-        <div class="chips" id="chips-lanc" role="group" aria-label="Filtrar por plataforma"></div>
+      <div class="bloco numeros">
+        <div><b class="num" id="n-noticias">--</b><span>notícias publicadas hoje</span></div>
+        <div><b class="num" id="n-semana">--</b><span>jogos lançam em 7 dias</span></div>
+        <div><b class="num" id="n-videos">--</b><span>vídeos no canal</span></div>
       </div>
-      <div id="lanc-grid"></div>
-      <p class="fonte">As datas podem mudar. Dados e capas: <a href="https://www.igdb.com" target="_blank" rel="noopener">IGDB.com</a>.</p>
-    </section>
 
-    <section id="videos" role="tabpanel" aria-labelledby="aba-videos" hidden>
-      <div class="head"><h2>Vídeos do canal</h2><div class="chips" id="chips-videos" role="group" aria-label="Ordenar vídeos"></div></div>
-      <div class="grid" id="videos-grid"></div>
-    </section>
-
-    <section id="canal">
-      <div class="head"><h2>Sobre o canal</h2></div>
-      <div class="card">
-        <p>Lagaz é o canal para mergulhar no universo dos games: gameplays, dicas e desde clássicos até lançamentos recentes. Inscreva-se e ative o sininho para não perder os próximos vídeos.</p>
-        <a class="btn" style="align-self:flex-start" href="#" id="link-canal">Abrir canal no YouTube</a>
+      <div class="bloco ultimas">
+        <div class="bloco-tit"><h2>Últimas notícias</h2><a href="#noticias">Ver todas</a></div>
+        <div class="fio" id="fio-inicio"></div>
       </div>
-    </section>
-  </div>
-</main>
 
-<footer>© Lagaz // feito para quem gosta de jogos // rádio lo-fi gerada ao vivo no navegador</footer>
+      <aside class="bloco radar" aria-label="Jogos que vão lançar">
+        <div class="bloco-tit"><h2>Chegando em breve</h2><a href="#lancamentos">Calendário</a></div>
+        <div class="ticker" id="ticker"><div class="ticker-trilho" id="ticker-trilho"></div></div>
+      </aside>
+
+      <div class="bloco recentes">
+        <div class="bloco-tit"><h2>Vídeos recentes</h2><a href="#videos">Ver todos</a></div>
+        <div class="faixa-v" id="faixa-videos"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== NOTÍCIAS ===== -->
+  <section id="noticias" role="tabpanel" aria-labelledby="aba-noticias" hidden>
+    <div class="cab">
+      <div><h2>Notícias de games</h2><p>As matérias abrem no site de origem.</p></div>
+      <div class="filtros" id="chips" role="group" aria-label="Filtrar por categoria"></div>
+    </div>
+    <div class="tela-noticias">
+      <div>
+        <a class="bloco manchete" id="manchete" target="_blank" rel="noopener" hidden></a>
+        <div class="bloco"><div class="fio" id="noticias-grid"></div></div>
+      </div>
+      <aside class="lateral-n">
+        <div class="bloco"><div class="status"><i></i><span id="atualizado">Atualização automática a cada 30 minutos.</span></div></div>
+        <div class="bloco"><div class="bloco-tit"><h2>Fontes de hoje</h2></div><div class="fontes-l" id="fontes-l"></div></div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===== LANÇAMENTOS ===== -->
+  <section id="lancamentos" role="tabpanel" aria-labelledby="aba-lancamentos" hidden>
+    <div class="cab">
+      <div><h2>Calendário de lançamentos</h2><p>PC, PlayStation 5, Xbox e Nintendo Switch 1 e 2.</p></div>
+      <div class="filtros" id="chips-lanc" role="group" aria-label="Filtrar por plataforma"></div>
+    </div>
+    <div id="lanc-grid"></div>
+    <p class="nota-fonte">As datas podem mudar. Dados e capas: <a href="https://www.igdb.com" target="_blank" rel="noopener">IGDB.com</a>.</p>
+  </section>
+
+  <!-- ===== VÍDEOS ===== -->
+  <section id="videos" role="tabpanel" aria-labelledby="aba-videos" hidden>
+    <div class="cab">
+      <div><h2>Vídeos do canal</h2><p>Gameplays, testes de PC e dicas.</p></div>
+      <div class="filtros" id="chips-videos" role="group" aria-label="Ordenar vídeos"></div>
+    </div>
+    <div class="tela-videos">
+      <div class="vid-top">
+        <div id="video-grande"></div>
+        <div class="bloco canal">
+          <div><h3>Canal Lagaz</h3><p style="margin-top:10px">Gameplays, ports e testes no PC, dicas e os lançamentos do momento. Inscreva-se para não perder os próximos vídeos.</p></div>
+          <div class="numeros"><div><b class="num" id="v-total">--</b><span>vídeos recentes</span></div><div><b class="num" id="v-views">--</b><span>visualizações somadas</span></div></div>
+          <a class="yt" id="link-canal" href="https://www.youtube.com/@lagazoficial" target="_blank" rel="noopener"><span>Inscrever-se no canal</span></a>
+        </div>
+      </div>
+      <div class="grade" id="videos-grid"></div>
+    </div>
+  </section>
+
+  <footer>© Lagaz. As notícias são de fontes externas, sempre com link para a matéria original. A rádio lo-fi é gerada ao vivo no navegador.</footer>
 </div>
 
 <div class="radio" id="radio" role="group" aria-label="Rádio lo-fi">
   <button type="button" id="radio-play" aria-label="Tocar rádio lofi">▶</button>
   <span class="eq" aria-hidden="true"><i></i><i></i><i></i></span>
-  <span class="radio-dica" id="radio-dica" aria-hidden="true">clique para ligar a rádio</span>
+  <span class="radio-dica" id="radio-dica" aria-hidden="true"></span>
   <div class="extra">
-    <div class="radio-info"><span class="radio-nome">LOFI.RADIO</span><span class="radio-faixa" id="radio-faixa">toque ▶ para ligar</span></div>
+    <div class="radio-info"><span class="radio-nome">Rádio lo-fi</span><span class="radio-faixa" id="radio-faixa">toque ▶ para ligar</span></div>
     <button type="button" id="radio-prox" aria-label="Próxima faixa">»</button>
     <input type="range" id="radio-vol" min="0" max="100" value="40" aria-label="Volume da rádio">
   </div>
 </div>
 
 <script>
-// ===== Edite aqui =====
-var LINK_CANAL = "https://www.youtube.com/@lagazoficial";
-function url(u){return u&&u!=="#"?u:LINK_CANAL} // coloque o link do seu canal
-var NOTICIAS = []; // preenchido pelo robô (noticias.json)
-var VIDEOS = []; // preenchido pelo robô (vídeos do canal)
-// ======================
-var cats=["Todas"];
-var atual="Todas";
-function esc(s){return s.replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
-function desenhaChips(){
-  var el=document.getElementById("chips");
-  el.innerHTML=cats.map(function(c){return '<button type="button" aria-pressed="'+(c===atual)+'" data-c="'+esc(c)+'">'+esc(c)+'</button>'}).join("");
-  el.querySelectorAll("button").forEach(function(b){b.onclick=function(){atual=b.dataset.c;desenhaChips();desenhaNoticias()}});
-}
-function cartao(n){
-  var d=new Date(n.data),quando=isNaN(d)?"":d.toLocaleDateString("pt-BR");
-  var img=/^https:\/\//.test(n.img||"")?'<img class="capa" loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(n.img)+'" onerror="this.remove()">':"";
-  var ler=/^https?:\/\//.test(n.link)?'<a class="ler" target="_blank" rel="noopener" href="'+esc(n.link)+'">Ler matéria completa</a>':"";
-  return '<article class="card">'+img+'<span class="tag">'+esc(n.c)+'</span><h3>'+esc(n.t)+'</h3>'+(n.d?'<p>'+esc(n.d)+'</p>':'')+'<span class="fonte">'+esc(n.fonte||"")+(quando?' · '+quando:'')+'</span>'+ler+'</article>';
-}
-function desenhaNoticias(){
-  document.getElementById("noticias-grid").innerHTML=NOTICIAS.filter(function(n){return atual==="Todas"||n.c===atual}).map(function(n){
-    return cartao(n)}).join("")||'<p>Nenhuma notícia por aqui ainda. O robô busca novidades a cada 30 minutos.</p>';
-}
-var LANC=[];var platLanc="Todas";var limiteLanc=40;
+var LINK_CANAL="https://www.youtube.com/@lagazoficial";
+var NOTICIAS=[],VIDEOS=[],LANC=[],MUSICAS=[];
 var MESES=["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
-function desenhaChipsLanc(){
-  var el=document.getElementById("chips-lanc");
-  if(!LANC.length){el.innerHTML="";return}
-  el.innerHTML=["Todas","PC","Xbox","PS5","Switch","Switch 2"].map(function(c){return '<button type="button" aria-pressed="'+(c===platLanc)+'" data-c="'+c+'">'+c+'</button>'}).join("");
-  el.querySelectorAll("button").forEach(function(b){b.onclick=function(){platLanc=b.dataset.c;limiteLanc=40;desenhaChipsLanc();desenhaLanc()}});
+var TZ="America/Sao_Paulo";
+function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function seguro(u){return /^https:\/\//.test(u||"")}
+function limpaResumo(n){var d=String(n.d||"").replace(/&nbsp;/gi," ").replace(/\s+/g," ").trim();return d.toLowerCase()===String(n.fonte||"").toLowerCase()?"":d}
+function hojeISO(){return new Date().toLocaleDateString("en-CA",{timeZone:TZ})}
+function diaMes(iso){var d=new Date(iso+"T00:00:00Z");return isNaN(d)?null:{d:String(d.getUTCDate()).padStart(2,"0"),m:MESES[d.getUTCMonth()].slice(0,3),a:d.getUTCFullYear(),dt:d}}
+function horaCurta(iso){var d=new Date(iso);if(isNaN(d))return{h:"",dia:""};return{h:d.toLocaleTimeString("pt-BR",{hour:"2-digit",minute:"2-digit",timeZone:TZ}),dia:d.toLocaleDateString("pt-BR",{day:"2-digit",month:"2-digit",timeZone:TZ})}}
+function compacto(n){return n>=1e6?(n/1e6).toFixed(1).replace(".",",")+" mi":n>=1e3?(n/1e3).toFixed(1).replace(".",",")+" mil":String(n)}
+
+/* ===== relógio ===== */
+function tique(){var a=new Date();document.getElementById("relogio").textContent=a.toLocaleTimeString("pt-BR",{timeZone:TZ});
+  document.getElementById("data-hoje").textContent=a.toLocaleDateString("pt-BR",{weekday:"long",day:"numeric",month:"long",timeZone:TZ})}
+tique();setInterval(tique,1000);
+
+/* ===== telas (navegação) ===== */
+var TELAS={inicio:["Início","Notícias, lançamentos e o canal Lagaz"],noticias:["Notícias","O que está rolando no mundo dos games"],lancamentos:["Lançamentos","Os próximos jogos de PC e consoles"],videos:["Vídeos","Os vídeos do canal Lagaz"]};
+var ORDEM=["inicio","noticias","lancamentos","videos"];
+function mostra(id,foco){
+  if(!TELAS[id])id="inicio";
+  ORDEM.forEach(function(t){document.getElementById(t).hidden=t!==id;var b=document.getElementById("aba-"+t);b.setAttribute("aria-selected",t===id);b.tabIndex=t===id?0:-1});
+  document.getElementById("titulo-tela").textContent=TELAS[id][0];document.getElementById("sub-tela").textContent=TELAS[id][1];
+  if(foco)document.getElementById("aba-"+id).focus();
+  window.scrollTo(0,0);
 }
-function desenhaLanc(){
-  var lista=LANC.filter(function(g){return platLanc==="Todas"||(g.plats||[]).indexOf(platLanc)>-1}).sort(function(a,b){return String(a.data).localeCompare(String(b.data))});
-  var vis=lista.slice(0,limiteLanc),html="",mes="",aberto=false;
-  vis.forEach(function(g){
-    var d=new Date(g.data+"T00:00:00Z"),ok=!isNaN(d);
-    var m=ok?MESES[d.getUTCMonth()]+" de "+d.getUTCFullYear():"data a confirmar";
-    if(m!==mes){if(aberto)html+='</div>';mes=m;aberto=true;html+='<h3 class="mes">'+esc(m)+'</h3><div class="grid lanc">'}
-    var dia=ok?String(d.getUTCDate()).padStart(2,"0")+" "+MESES[d.getUTCMonth()].slice(0,3).toUpperCase()+" "+d.getUTCFullYear():"EM BREVE";
-    var img=/^https:\/\//.test(g.img||"")?'<img class="thumbl" loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(g.img)+'" onerror="this.remove()">':"";
-    var tags=(g.plats||[]).map(function(p){return '<span class="tag">'+esc(p)+'</span>'}).join(" ");
-    var corpo='<div class="dia">'+esc(dia)+'</div>'+img+'<div><h3>'+esc(g.t)+'</h3><div class="tags">'+tags+'</div></div>';
-    html+=/^https:\/\//.test(g.link||"")?'<a class="card vid" target="_blank" rel="noopener" href="'+esc(g.link)+'">'+corpo+'</a>':'<article class="card vid">'+corpo+'</article>';
-  });
-  if(aberto)html+='</div>';
-  if(lista.length>vis.length)html+='<p style="margin-top:24px"><button type="button" class="btn" id="mais-lanc" style="border:0;cursor:pointer;font:inherit;font-weight:700">Ver mais jogos ('+(lista.length-vis.length)+')</button></p>';
-  document.getElementById("lanc-grid").innerHTML=html||'<p>Os próximos lançamentos aparecem aqui assim que o robô buscar.</p>';
-  var mais=document.getElementById("mais-lanc");
-  if(mais)mais.onclick=function(){limiteLanc+=40;desenhaLanc()};
+ORDEM.forEach(function(t,i){var b=document.getElementById("aba-"+t);
+  b.onclick=function(){if(location.hash!=="#"+t)location.hash=t;else mostra(t)};
+  b.onkeydown=function(e){var k={ArrowDown:1,ArrowRight:1,ArrowUp:-1,ArrowLeft:-1}[e.key];if(!k)return;e.preventDefault();var n=ORDEM[(i+k+ORDEM.length)%ORDEM.length];location.hash=n;mostra(n,true)}});
+window.addEventListener("hashchange",function(){mostra(location.hash.slice(1))});
+mostra(location.hash.slice(1));
+
+/* ===== início ===== */
+function linhaFio(n){
+  var t=horaCurta(n.data);
+  var img=seguro(n.img)?'<img loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(n.img)+'" onerror="this.outerHTML=\'<span class=sem></span>\'">':'<span class="sem"></span>';
+  return '<a href="'+esc(seguro(n.link)||/^http:\/\//.test(n.link)?n.link:"#")+'" target="_blank" rel="noopener"><span class="hora">'+esc(t.h)+'<small>'+esc(t.dia)+'</small></span>'+img+
+    '<span><span class="cat">'+esc(n.c)+'<em>'+esc(n.fonte||"")+'</em></span><h3>'+esc(n.t)+'</h3></span></a>';
 }
-var modoVideos="recentes";
-function porViews(a,b){return (b.views||0)-(a.views||0)}
-function desenhaChipsVideos(){
-  var el=document.getElementById("chips-videos");
-  if(!VIDEOS.length){el.innerHTML="";return}
-  el.innerHTML=[["recentes","Mais recentes"],["vistos","Mais vistos"]].map(function(m){return '<button type="button" aria-pressed="'+(m[0]===modoVideos)+'" data-m="'+m[0]+'">'+m[1]+'</button>'}).join("");
-  el.querySelectorAll("button").forEach(function(b){b.onclick=function(){modoVideos=b.dataset.m;desenhaChipsVideos();desenhaVideos()}});
-}
-function desenhaVideos(){
-  var lista=VIDEOS.slice();
-  if(modoVideos==="vistos")lista.sort(porViews);
-  lista=lista.slice(0,6);
-  document.getElementById("videos-grid").innerHTML=lista.map(function(v){
-    return '<a class="card vid" target="_blank" rel="noopener" href="'+esc(v.link)+'"><img class="thumbv" loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(v.img)+'"><div><h3>'+esc(v.t)+'</h3>'+(v.views?'<span class="fonte">'+v.views.toLocaleString("pt-BR")+' visualizações</span>':'')+'</div></a>'}).join("")||'<p>Os vídeos do canal aparecem aqui assim que o robô buscar. <a href="'+LINK_CANAL+'" target="_blank" rel="noopener">Ver no YouTube</a></p>';
-  var d=document.getElementById("destaque"),t=document.getElementById("destaque-titulo");
+function desenhaInicio(){
+  document.getElementById("fio-inicio").innerHTML=NOTICIAS.slice(0,5).map(linhaFio).join("")||'<p class="vazio">As notícias aparecem aqui assim que o robô buscar.</p>';
+  var hoje=hojeISO();
+  document.getElementById("n-noticias").textContent=NOTICIAS.filter(function(n){return new Date(n.data).toLocaleDateString("en-CA",{timeZone:TZ})===hoje}).length;
+  var lim=new Date(Date.now()+7*864e5).toISOString().slice(0,10);
+  document.getElementById("n-semana").textContent=LANC.filter(function(g){return g.data>=hoje&&g.data<=lim}).length;
+  document.getElementById("n-videos").textContent=VIDEOS.length;
+  // destaque: vídeo mais visto
   if(VIDEOS.length){
-    var top=VIDEOS.slice().sort(porViews)[0];
-    t.textContent=top.t;d.href=top.link;
-    if(/^https:\/\/i\.ytimg\.com\//.test(top.img)){
-      var fundo=function(u){d.style.backgroundImage='linear-gradient(to top,rgba(0,0,0,.78),rgba(0,0,0,.05)),url("'+u+'")'};
-      d.classList.add("foto");fundo(top.img);
-      var hd=new Image();hd.onload=function(){if(hd.naturalWidth>200)fundo(hd.src)};
-      hd.src="https://i.ytimg.com/vi/"+encodeURIComponent(top.id)+"/maxresdefault.jpg";
-    }
-  }else{t.textContent="Vídeos novos no canal Lagaz";d.href=LINK_CANAL}
+    var top=VIDEOS.slice().sort(function(a,b){return(b.views||0)-(a.views||0)})[0];
+    var a=document.getElementById("destaque");a.href=seguro(top.link)?top.link:LINK_CANAL;
+    document.getElementById("destaque-titulo").textContent=top.t;
+    document.getElementById("destaque-views").textContent=top.views?top.views.toLocaleString("pt-BR")+" visualizações":"";
+    var bg=document.getElementById("destaque-img");
+    if(/^https:\/\/i\.ytimg\.com\//.test(top.img)){bg.style.backgroundImage='url("'+top.img+'")';
+      var hd=new Image();hd.onload=function(){if(hd.naturalWidth>200)bg.style.backgroundImage='url("'+hd.src+'")'};hd.src="https://i.ytimg.com/vi/"+encodeURIComponent(top.id)+"/maxresdefault.jpg"}
+  }
+  document.getElementById("faixa-videos").innerHTML=VIDEOS.slice(0,4).map(cardVideo).join("")||'<p class="vazio">Os vídeos aparecem aqui assim que o robô buscar.</p>';
+  iniciaContagem();
 }
-document.getElementById("link-canal").href=LINK_CANAL;
-
-// ===== Guias =====
-var ABAS=["noticias","lancamentos","videos"];
-function mostraAba(id,rolar){
-  if(ABAS.indexOf(id)<0)id="noticias";
-  ABAS.forEach(function(a){
-    document.getElementById(a).hidden=(a!==id);
-    var b=document.getElementById("aba-"+a);
-    b.setAttribute("aria-selected",a===id?"true":"false");
-    b.tabIndex=(a===id)?0:-1;
-  });
-  if(rolar){var el=document.getElementById("abas");if(el.scrollIntoView)el.scrollIntoView({behavior:"smooth",block:"start"})}
+function cardVideo(v){
+  return '<a class="vcard" href="'+esc(seguro(v.link)?v.link:LINK_CANAL)+'" target="_blank" rel="noopener"><div class="th"><img loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(v.img)+'"></div><h3>'+esc(v.t)+'</h3><p class="num">'+(v.views?compacto(v.views)+" visualizações":"")+'</p></a>';
 }
-ABAS.forEach(function(a,i){
-  var b=document.getElementById("aba-"+a);
-  b.onclick=function(){mostraAba(a,false);if(history.replaceState)history.replaceState(null,"","#"+a)};
-  b.onkeydown=function(e){
-    var k=e.key==="ArrowRight"?1:e.key==="ArrowLeft"?-1:0;
-    if(!k)return;
-    var n=ABAS[(i+k+ABAS.length)%ABAS.length];
-    mostraAba(n,false);document.getElementById("aba-"+n).focus();
-  };
-});
-window.addEventListener("hashchange",function(){var h=location.hash.slice(1);if(ABAS.indexOf(h)>-1)mostraAba(h,true)});
-mostraAba(ABAS.indexOf(location.hash.slice(1))>-1?location.hash.slice(1):"noticias",false);
 
-// ===== Janela lateral: todos os jogos que vão lançar =====
+/* contagem regressiva para o lançamento mais aguardado dos próximos 60 dias */
+var alvoCont=null;
+function iniciaContagem(){
+  var hoje=hojeISO(),lim=new Date(Date.now()+60*864e5).toISOString().slice(0,10);
+  var c=LANC.filter(function(g){return g.data>hoje&&g.data<=lim});
+  if(!c.length)c=LANC.filter(function(g){return g.data>hoje});
+  if(!c.length){document.getElementById("contagem").hidden=true;return}
+  var g=c.slice().sort(function(a,b){return(b.hype||0)-(a.hype||0)||a.data.localeCompare(b.data)})[0];
+  var dm=diaMes(g.data);
+  var capa=seguro(g.img)?'<img referrerpolicy="no-referrer" alt="" src="'+esc(g.img)+'">':'<span class="sem"></span>';
+  var nome='<b>'+esc(g.t)+'</b><span>'+esc(dm.d+" de "+MESES[dm.dt.getUTCMonth()]+" · "+(g.plats||[]).join(", "))+'</span>';
+  document.getElementById("cont-jogo").innerHTML=(seguro(g.link)?'<a href="'+esc(g.link)+'" target="_blank" rel="noopener" style="display:contents">':'')+capa+'<div>'+nome+'</div>'+(seguro(g.link)?'</a>':'');
+  alvoCont=new Date(g.data+"T00:00:00-03:00").getTime();
+  conta();
+}
+function conta(){if(!alvoCont)return;var r=Math.max(0,alvoCont-Date.now())/1000;
+  var v=[Math.floor(r/86400),Math.floor(r%86400/3600),Math.floor(r%3600/60),Math.floor(r%60)];
+  ["c-d","c-h","c-m","c-s"].forEach(function(id,i){document.getElementById(id).textContent=String(v[i]).padStart(2,"0")})}
+setInterval(conta,1000);
+
+/* radar lateral */
 function desenhaTicker(){
   var trilho=document.getElementById("ticker-trilho"),cx=document.getElementById("ticker");
-  var lista=LANC.slice().sort(function(a,b){return String(a.data).localeCompare(String(b.data))});
+  var hoje=hojeISO();
+  var lista=LANC.filter(function(g){return g.data>=hoje}).sort(function(a,b){return String(a.data).localeCompare(String(b.data))}).slice(0,80);
   if(!lista.length){trilho.style.animation="none";trilho.innerHTML='<p class="vazio">Os próximos lançamentos aparecem aqui assim que o robô buscar.</p>';return}
-  var anoAtual=new Date().getUTCFullYear();
   function linha(g,oculto){
-    var d=new Date(g.data+"T00:00:00Z"),ok=!isNaN(d);
-    var dia=ok?String(d.getUTCDate()).padStart(2,"0"):"--";
-    var mes=ok?MESES[d.getUTCMonth()].slice(0,3).toUpperCase()+(d.getUTCFullYear()!==anoAtual?" "+String(d.getUTCFullYear()).slice(2):""):"";
-    var capa=/^https:\/\//.test(g.img||"")?'<img loading="lazy" decoding="async" referrerpolicy="no-referrer" alt="" src="'+esc(String(g.img).replace("t_cover_big","t_cover_small"))+'" onerror="this.style.visibility=\'hidden\'">':'<span class="sem"></span>';
-    var inner='<span class="tk-d"><b>'+dia+'</b>'+esc(mes)+'</span>'+capa+'<span><span class="tk-t">'+esc(g.t)+'</span><span class="tk-p">'+esc((g.plats||[]).join(" · "))+'</span></span>';
-    var attr=oculto?' aria-hidden="true" tabindex="-1"':'';
-    return /^https:\/\//.test(g.link||"")?'<a class="tk" target="_blank" rel="noopener" href="'+esc(g.link)+'"'+attr+'>'+inner+'</a>':'<div class="tk"'+attr+'>'+inner+'</div>';
+    var dm=diaMes(g.data);
+    var capa=seguro(g.img)?'<img loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(String(g.img).replace("t_cover_big","t_cover_small"))+'" onerror="this.style.visibility=\'hidden\'">':'<span class="sem"></span>';
+    var inner='<span class="tk-d"><b>'+(dm?dm.d:"--")+'</b>'+(dm?dm.m:"")+'</span>'+capa+'<span><span class="tk-t">'+esc(g.t)+'</span><span class="tk-p">'+esc((g.plats||[]).join(", "))+'</span></span>';
+    var at=oculto?' aria-hidden="true" tabindex="-1"':'';
+    return seguro(g.link)?'<a class="tk" target="_blank" rel="noopener" href="'+esc(g.link)+'"'+at+'>'+inner+'</a>':'<div class="tk"'+at+'>'+inner+'</div>';
   }
   var um=lista.map(function(g){return linha(g,false)}).join("");
-  var reduz=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
-  if(reduz){trilho.style.animation="none";cx.classList.add("manual");trilho.innerHTML=um;return}
+  if(window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches){trilho.style.animation="none";cx.classList.add("manual");trilho.innerHTML=um;return}
   trilho.innerHTML=um+lista.map(function(g){return linha(g,true)}).join("");
-  trilho.style.animationDuration=Math.max(40,lista.length*3.2)+"s";
+  trilho.style.animationDuration=Math.max(40,lista.length*3)+"s";
+}
+
+/* ===== notícias ===== */
+var catAtual="Todas";
+function filtros(el,itens,ativo,cb){
+  el.innerHTML=itens.map(function(c){var v=Array.isArray(c)?c[0]:c,r=Array.isArray(c)?c[1]:c;return '<button type="button" aria-pressed="'+(v===ativo)+'" data-v="'+esc(v)+'">'+esc(r)+'</button>'}).join("");
+  el.querySelectorAll("button").forEach(function(b){b.onclick=function(){cb(b.dataset.v)}});
+}
+function desenhaNoticias(){
+  var cats=["Todas"].concat(NOTICIAS.map(function(n){return n.c}).filter(function(v,i,a){return v&&a.indexOf(v)===i}));
+  filtros(document.getElementById("chips"),cats,catAtual,function(v){catAtual=v;desenhaNoticias()});
+  var lista=NOTICIAS.filter(function(n){return catAtual==="Todas"||n.c===catAtual});
+  var m=document.getElementById("manchete"),prim=lista.find(function(n){return seguro(n.img)});
+  if(prim){
+    m.hidden=false;m.href=prim.link;
+    m.innerHTML='<div class="img" style="background-image:url(&quot;'+esc(prim.img)+'&quot;)"></div><div class="t"><span class="cat">'+esc(prim.c)+'</span><h3>'+esc(prim.t)+'</h3>'+(limpaResumo(prim)?'<p>'+esc(limpaResumo(prim))+'</p>':'')+'<span class="fonte">'+esc(prim.fonte||"")+'  '+esc(horaCurta(prim.data).dia)+' '+esc(horaCurta(prim.data).h)+'</span></div>';
+  }else m.hidden=true;
+  var resto=lista.filter(function(n){return n!==prim});
+  document.getElementById("noticias-grid").innerHTML=resto.map(linhaFio).join("")||'<p class="vazio">Nenhuma notícia nesta categoria agora.</p>';
+  var cont={};NOTICIAS.forEach(function(n){var f=n.fonte||"Outras";cont[f]=(cont[f]||0)+1});
+  document.getElementById("fontes-l").innerHTML=Object.keys(cont).sort(function(a,b){return cont[b]-cont[a]}).slice(0,8).map(function(f){return '<div><span>'+esc(f)+'</span><b>'+cont[f]+'</b></div>'}).join("");
+}
+
+/* ===== lançamentos ===== */
+var platAtual="Todas",limLanc=48;
+function rotuloSemana(iso){
+  var hoje=new Date(hojeISO()+"T00:00:00Z"),d=new Date(iso+"T00:00:00Z");
+  var dow=(hoje.getUTCDay()+6)%7,ini=new Date(hoje.getTime()-dow*864e5);
+  var sem=Math.floor((d-ini)/(7*864e5));
+  if(sem<=0)return["Esta semana",""];
+  if(sem===1)return["Próxima semana",""];
+  var s=new Date(ini.getTime()+sem*7*864e5),f=new Date(s.getTime()+6*864e5);
+  if(sem<6)return["Semana de "+s.getUTCDate()+" de "+MESES[s.getUTCMonth()],"até "+f.getUTCDate()+"/"+String(f.getUTCMonth()+1).padStart(2,"0")];
+  return[MESES[d.getUTCMonth()].replace(/^./,function(c){return c.toUpperCase()})+" de "+d.getUTCFullYear(),""];
+}
+function desenhaLanc(){
+  filtros(document.getElementById("chips-lanc"),["Todas","PC","PS5","Xbox","Switch","Switch 2"],platAtual,function(v){platAtual=v;limLanc=48;desenhaLanc()});
+  var hoje=hojeISO();
+  var lista=LANC.filter(function(g){return g.data>=hoje&&(platAtual==="Todas"||(g.plats||[]).indexOf(platAtual)>-1)}).sort(function(a,b){return a.data.localeCompare(b.data)});
+  var vis=lista.slice(0,limLanc),html="",grupo=null;
+  vis.forEach(function(g){
+    var r=rotuloSemana(g.data);
+    if(r[0]!==grupo){if(grupo!==null)html+='</div></div>';grupo=r[0];html+='<div class="semana"><h3>'+esc(r[0])+(r[1]?'<span>'+esc(r[1])+'</span>':'')+'</h3><div class="capas">'}
+    var dm=diaMes(g.data);
+    var img=seguro(g.img)?'<img loading="lazy" referrerpolicy="no-referrer" alt="" src="'+esc(g.img)+'" onerror="this.remove()">':'';
+    var corpo='<div class="c">'+img+'<span class="dt"><b>'+(dm?dm.d:"--")+'</b>'+(dm?dm.m:"")+'</span></div><h4>'+esc(g.t)+'</h4><div class="plats">'+(g.plats||[]).map(function(p){return '<span>'+esc(p)+'</span>'}).join("")+'</div>';
+    html+=seguro(g.link)?'<a class="capa-j" href="'+esc(g.link)+'" target="_blank" rel="noopener">'+corpo+'</a>':'<div class="capa-j">'+corpo+'</div>';
+  });
+  if(grupo!==null)html+='</div></div>';
+  if(lista.length>vis.length)html+='<button type="button" class="mais" id="mais-lanc">Mostrar mais '+Math.min(48,lista.length-vis.length)+' jogos</button>';
+  document.getElementById("lanc-grid").innerHTML=html||'<p class="vazio">Os próximos lançamentos aparecem aqui assim que o robô buscar.</p>';
+  var b=document.getElementById("mais-lanc");if(b)b.onclick=function(){limLanc+=48;desenhaLanc()};
+}
+
+/* ===== vídeos ===== */
+var ordemV="recentes";
+function desenhaVideos(){
+  filtros(document.getElementById("chips-videos"),[["recentes","Mais recentes"],["vistos","Mais vistos"]],ordemV,function(v){ordemV=v;desenhaVideos()});
+  var l=VIDEOS.slice();if(ordemV==="vistos")l.sort(function(a,b){return(b.views||0)-(a.views||0)});
+  var g=l[0];
+  document.getElementById("v-total").textContent=VIDEOS.length;document.getElementById("v-views").textContent=compacto(VIDEOS.reduce(function(t,v){return t+(v.views||0)},0));
+  document.getElementById("video-grande").innerHTML=g?'<a class="vcard" href="'+esc(seguro(g.link)?g.link:LINK_CANAL)+'" target="_blank" rel="noopener"><div class="th"><img referrerpolicy="no-referrer" alt="" src="'+esc(String(g.img).replace("hqdefault","maxresdefault"))+'" onerror="this.onerror=null;this.src=\''+esc(g.img)+'\'"></div><h3 style="font-size:1.2rem;-webkit-line-clamp:3">'+esc(g.t)+'</h3><p class="num">'+(g.views?g.views.toLocaleString("pt-BR")+" visualizações":"")+'</p></a>':'';
+  document.getElementById("videos-grid").innerHTML=l.slice(1,13).map(cardVideo).join("")||(g?"":'<p class="vazio">Os vídeos aparecem aqui assim que o robô buscar.</p>');
 }
 
 // ===== Rádio lo-fi =====
@@ -498,14 +687,11 @@ function iniciaRadio(){
   },400);
 }
 
+
 fetch("noticias.json",{cache:"no-store"}).then(function(r){return r.json()}).then(function(d){
-  NOTICIAS=d.noticias||[];
-  VIDEOS=d.videos||[];
-  LANC=d.lancamentos||[];
-  MUSICAS=d.musicas||[];
-  cats=["Todas"].concat(NOTICIAS.map(function(n){return n.c}).filter(function(v,i,a){return a.indexOf(v)===i}));
-  if(d.atualizadoEm){document.getElementById("atualizado").textContent="Atualizado automaticamente em "+new Date(d.atualizadoEm).toLocaleString("pt-BR")+".";}
-}).catch(function(){}).then(function(){desenhaChips();desenhaNoticias();desenhaChipsVideos();desenhaVideos();desenhaChipsLanc();desenhaLanc();desenhaTicker();iniciaRadio()});
+  NOTICIAS=d.noticias||[];VIDEOS=d.videos||[];LANC=d.lancamentos||[];MUSICAS=d.musicas||[];
+  if(d.atualizadoEm)document.getElementById("atualizado").textContent="Atualizado em "+new Date(d.atualizadoEm).toLocaleString("pt-BR",{timeZone:TZ,day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})+". O robô busca novidades a cada 30 minutos.";
+}).catch(function(){}).then(function(){desenhaInicio();desenhaTicker();desenhaNoticias();desenhaLanc();desenhaVideos();iniciaRadio()});
 </script>
 </body>
 </html>
