@@ -1,6 +1,25 @@
 {
-  "atualizadoEm": "2026-11-08T17:22:41.265Z",
+  "atualizadoEm": "2026-11-08T17:52:51.407Z",
   "noticias": [
+    {
+      "t": "Embaixadora do Metrópoles Games vence concurso de cosplay em Goiânia",
+      "d": "&nbsp;&nbsp; Metrópoles",
+      "link": "https://www.metropoles.com/colunas/metropoles-games/embaixadora-do-metropoles-games-vence-concurso-de-cosplay-em-goiania",
+      "fonte": "Metrópoles",
+      "data": "2026-11-08T17:22:00.000Z",
+      "c": "Geral",
+      "img": "https://i.metroimg.com/XAOcslAjFtI0HoPjCNCiFfA7EVXlZm8f_8SEx3Sq73g/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/11/a-embaixadora-carol-conquistou-o-premio-master-do-concurso-de-cosplay-durante-o-cerrado-play-2026no-shopping-cerrado-em-goiania-go-metropoles-1-scaled.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0taQ25XZHl5TlBYdWdRazBaWGI2Z3lnOHhjYzRuNkp3aFIxdU0zVEJyb09YYkpBV3NHWmU2ZUk5OWN4d1c3SFlUWE8yMkNKYzVJcWNqaVpBMTRZbDhwd21PTG9IbXdQN1hZeUZob3pWeXdWcmNtbWtZNWlBNzZ3aXBRa2ltMl9VdFV2WEZONG1OcUFQTVMwcWk3QmF1alN1cl9TU1JvOUUydVd6WnE3eHVVNVpLU3BSZ1FwTQ?oc=5"
+    },
+    {
+      "t": "Naruto x Boruto para PS5 em disco por menos da metade do preço da edição digital",
+      "d": "Disco de Ultimate Ninja Storm Connections está custando menos da metade do preço da edição padrão na PlayStation Store",
+      "link": "https://br.ign.com/descontos/157428/naruto-x-boruto-para-ps5-em-disco-por-menos-da-metade-do-preco-da-edicao-digital",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-08T17:18:15.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/ign_br/news/n/new-naruto/new-naruto-game-will-let-xbox-series-x-players-block-users-o_qz95.jpg"
+    },
     {
       "t": "Lance mínimo de R$ 400 por um Xbox Series X de 1 TB: leilão da Receita Federal em Minas recebe propostas de 16 a 18 de novembro, com 48 lotes abertos a pessoa física, de câmera Canon EOS R8 a Apple Watch",
       "d": "&nbsp;&nbsp; CPG Click Petróleo e Gás",
@@ -14,11 +33,12 @@
     {
       "t": "TANUKI: Pon's Summer Chega em Novembro com Lançamento Massivo, Incluindo Nintendo Switch 2 e Game Pass",
       "d": "&nbsp;&nbsp; Gamerscore Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTGVab0U2R2hKaHZZM3RJYlpmbE1SaEtrX0dfS201alVqSTlzaGVlSmxTenp6TUF1ZkZNMFhtWGVYY3JqaXFHcGN1empWNXI5RDVGb2hJZzlCVkNZSUJmT1g2T3p0b3FXR2pQT3RDSTJHeFBjUXNCV2RYQUNPRnhxWHZZeThhR1V4d2t4QVNFNEZYLWtaYmJvM2tlVFVCU1VHaWVXR3NRWlBJVnQxN0JmMGRsXzZtUTBjU3Mxd3NrRTY3RGNsTmFZYVhn?oc=5",
+      "link": "https://www.gamerscore.com.br/tanuki-pons-summer-chega-em-novembro-com-lancamento-massivo-incluindo-nintendo-switch-2-e-game-pass/",
       "fonte": "Gamerscore Brasil",
       "data": "2026-11-08T17:03:30.000Z",
       "c": "Consoles",
-      "img": ""
+      "img": "https://www.gamerscore.com.br/wp-content/uploads/2024/09/TANUKI-Pons-Summer.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTGVab0U2R2hKaHZZM3RJYlpmbE1SaEtrX0dfS201alVqSTlzaGVlSmxTenp6TUF1ZkZNMFhtWGVYY3JqaXFHcGN1empWNXI5RDVGb2hJZzlCVkNZSUJmT1g2T3p0b3FXR2pQT3RDSTJHeFBjUXNCV2RYQUNPRnhxWHZZeThhR1V4d2t4QVNFNEZYLWtaYmJvM2tlVFVCU1VHaWVXR3NRWlBJVnQxN0JmMGRsXzZtUTBjU3Mxd3NrRTY3RGNsTmFZYVhn?oc=5"
     },
     {
       "t": "Controle premium em oferta! DualSense Edge Midnight Black por quase metade do preço na Amazon",
@@ -66,16 +86,6 @@
       "c": "Consoles",
       "img": "https://www.gamerscore.com.br/wp-content/uploads/2026/10/Planet-of-Lana-II.jpg",
       "orig": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFNMaWh4QVVUWTVSZ0JyWHVwbjljVHo3QzRoazYyX3ZNd3ZlUk0xRzI2dThqWEtfV3BqV1VOdmxZZXIteUZJcjlYZGpmN2k3MXZRUmNvM0ZCYkgwRXVsUzYxN2EzOFd4S1NpRHNxdTkxWXp3akV2ZFNSTWpWZlVtbFA2SVZob0syMzBBZXFtU2RVTTJ3ZWVKWElhM0czbmpudUpTcG5tWnhIWER0bnlqdldFM1ZQcmpGRFFJ?oc=5"
-    },
-    {
-      "t": "Demo de Mega Man X4 no Super Nintendo com MSU1 e SA-1 mostra o limite do console",
-      "d": "&nbsp;&nbsp; Arkade",
-      "link": "https://arkade.com.br/demo-de-mega-man-x4-no-super-nintendo-com-msu1-e-sa-1-mostra-o-limite-do-console/",
-      "fonte": "Arkade",
-      "data": "2026-11-08T16:00:00.000Z",
-      "c": "Consoles",
-      "img": "https://arkade.com.br/wp-content/uploads/2026/11/demo-de-mega-man-x4-no-super-nintendo-com-msu1-e-sa-1-mostra-o-limite-do-console.webp",
-      "orig": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYmE4N3VTTUkyaUJoU1JwY2tWekE4M0xHQnZ5MklHNFhVbUpuajZ4dXZNUVNweFRweldoYVdSY2hacFRIdkZJbjRKZXNFaHNOU1ZhdG9PTjVQbzhXMHk0NTFScWtIN2czV1N3eDZRWENoV3hlUXZ3dkNNQ1dsbXBobDJKSlVxeTJ0Y1ZhWGV1YXJxNFczb0Y0RjRERUhOY0ltRUQwLUln?oc=5"
     },
     {
       "t": "Phantom Blade Zero fica mais soulslike com mods de PC",
@@ -267,15 +277,6 @@
       "data": "2026-11-07T13:00:28.000Z",
       "c": "Geral",
       "img": "https://www.youtube.com/embed/JMU_ksS3fq4"
-    },
-    {
-      "t": "O tempo de jogo de GTA 6 vai ser tão grande quanto o download e o mapa do game",
-      "d": "Serão mais de 80 horas de gameplay (isso sem fazer 100%) Em GTA 5, fazer uma run completando tudo durava cerca de 80 horas. Em GTA 6, esse tempo será suficiente apenas para zerar a história e...",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157420/o-tempo-de-jogo-de-gta-6-vai-ser-tao-grande-quanto-o-download-e-o-mapa-do-game",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-07T12:00:37.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_p86x.jpg"
     }
   ],
   "videos": [
@@ -291,7 +292,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8220,
+      "views": 8222,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -443,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20357,
+      "views": 20360,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -451,7 +452,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4288,
+      "views": 4289,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -506,7 +507,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod2dx.jpg",
-      "hype": 18,
+      "hype": 19,
       "link": "https://www.igdb.com/games/dreadmoor"
     },
     {
@@ -728,7 +729,7 @@
         "Switch"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coasoa.jpg",
-      "hype": 11,
+      "hype": 12,
       "link": "https://www.igdb.com/games/warhammer-survivors"
     },
     {
