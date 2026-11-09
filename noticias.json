@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-09T05:57:08.709Z",
+  "atualizadoEm": "2026-11-09T06:27:17.494Z",
   "noticias": [
     {
       "t": "David Henrie Talks Losing ‘Hunger Games’ Role to Liam Hemsworth, Says It Was ‘the Best Thing in the World’",
@@ -3440,16 +3440,6 @@
       "link": "https://www.igdb.com/games/junxions"
     },
     {
-      "t": "Gummy Nightmares",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8lc4.jpg",
-      "hype": 7,
-      "link": "https://www.igdb.com/games/gummy-nightmares"
-    },
-    {
       "t": "Five Laps at Freddy's",
       "data": "2026-12-31",
       "plats": [
@@ -4688,6 +4678,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4mc.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/among-space"
+    },
+    {
+      "t": "DungeonBox",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabi5.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/dungeonbox"
     }
   ],
   "musicas": []
