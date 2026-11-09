@@ -1,6 +1,64 @@
 {
-  "atualizadoEm": "2026-11-09T18:38:52.657Z",
+  "atualizadoEm": "2026-11-09T19:09:04.242Z",
   "noticias": [
+    {
+      "t": "Jogos em oferta na Steam com até 91% de desconto nesta semana",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-em-oferta-na-steam-com-ate-91-de-desconto-nesta-semana/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-09T19:00:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/jogo-mortal-shell-2.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmZWUjg4c21aNlRELThGNG1XMTkwcWpVcTVsR3Z4Z05Va2VUSVZZeXB5YUl0OTNVY3dEalJyRUpzSzMtbjk2NW1pR0RVZW8tbkJ1LS1Kd3J0SlhGWVZaZGZ0RkpyWlU4SVhVVFJ5eWxLZEY0c3BiZ0dlbXhzanFMOHRBZDE5UW56OS1kdTVaZlVrTkY5WllYcmVvZWpHQl9SeXZFWnR3Vjh6QQ?oc=5"
+    },
+    {
+      "t": "Review: RoboGal é aperitivo perfeito para Mega Man Dual Override",
+      "d": "Robogal traz muita diversão e desafio para quem cresceu nos 8 e 16 bits",
+      "link": "https://flowgames.gg/robogal-review-do-jogo-inspirado-em-megaman/",
+      "fonte": "Flow Games",
+      "data": "2026-11-09T18:54:09.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/knD-UhY-qJ4"
+    },
+    {
+      "t": "Sony eleva previsão de lucro do PlayStation a ¥700 bilhões",
+      "d": "",
+      "link": "https://revistaempreende.com.br/sony-previsao-lucro-playstation-700-bilhoes/",
+      "fonte": "Revista Empreende",
+      "data": "2026-11-09T18:52:00.000Z",
+      "c": "Consoles",
+      "img": "https://i0.wp.com/revistaempreende.com.br/wp-content/uploads/2026/11/sony-previsao-lucro-playstation-700-bilhoes-54380c8d-scaled.webp?fit=1200%2C675&quality=80&ssl=1",
+      "orig": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVXBTTEdvWVM2OXh2VFAtUmwxVklJdHd4YXk1bFlrTkFnVDRMR1FYZ1l3bWEzSWo0WF9DcDZmYmc3N1ZzdFE5SXNKRUM1Q2o5ZUNXVkJBcDJpTnNHYWw3WWR1ak9Qei1aSHlmVWJWZzNuMVRvS0thWm5WWkd6RnJXWk13?oc=5"
+    },
+    {
+      "t": "Sony antecipa dois jogos da PlayStation Plus e revela novo portátil com armazenamento interno",
+      "d": "",
+      "link": "https://www.nsctotal.com.br/esportes/sony-antecipa-dois-jogos-da-playstation-plus-e-revela-novo-portatil-com-armazenamento-interno",
+      "fonte": "NSC Total",
+      "data": "2026-11-09T18:50:18.000Z",
+      "c": "Consoles",
+      "img": "https://img.nsctotal.com.br/wp-content/uploads/2026/11/Sony-antecipa-dois-jogos-da-PlayStation-Plus-e-revela-novo-portatil-com-armazenamento-interno.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWlAyWENPRzN2X3g5bV9pcHR0cmNoQndpRm1HUHlQQUc5NVR0MDRIb2xSYW1GYUQ1LXF5U0VlOUhNSVZjdHhsWGc1RlFPU2ZpeWEwbTVGWUlvcU9pS3diTk9JRERXa0pPb0RHOE5zVXJFdFNFbHZZXzJGYTFLNzViOWJ1bHZuU1ZUc3BzNTJvT25QOUdOUVVwNFFiODQ1MWU0MndWeFhod0w2a25LU2dHSmc2Q29lUmh2eUdkR3lCdEhvR1RJS2JycWJB?oc=5"
+    },
+    {
+      "t": "GTA VI pode usar versão mais recente do PSSR 2",
+      "d": "",
+      "link": "https://arkade.com.br/metadados-de-grand-theft-auto-vi-apontam-versao-mais-recente-de-pssr-2-no-playstation-5-pro/",
+      "fonte": "Arkade",
+      "data": "2026-11-09T18:45:00.000Z",
+      "c": "Geral",
+      "img": "https://arkade.com.br/wp-content/uploads/2026/11/metadados-de-grand-theft-auto-vi-apontam-versao-mais-recente-de-pssr-2-no-playst.webp",
+      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkFBRDhCQ2M0bjl6SWFWSW9pWENFZElPQVM2WE1Cd1o1c25tS3NVTXBQcVZMRlEtVm1nUjl1X3d4Z0pvV25CUXhsVWI4UEFkR0Mtc2laN0w0ek9OYVlfRk9WRXpvWUViVklDZWpjSHg3dnVhckl6OE9QT2s5NFd5NHU4TTRxM2FYejdLeTdZM05pN3F5czRRNU9EbTFKMDhfb1VpdFUxdE9BWmk5NEZpNFlseGk?oc=5"
+    },
+    {
+      "t": "Zelda Ocarina of Time Remake tem recorde de vendas no Reino Unido",
+      "d": "Cópias físicas de Zelda Ocarina of Time Remake ultrapassaram Breath of The Wild",
+      "link": "https://flowgames.gg/zelda-ocarina-of-time-remake-recorde-vendas-fisicas/",
+      "fonte": "Flow Games",
+      "data": "2026-11-09T18:38:59.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/06/The-Legend-of-Zelda-Ocarina-of-Time-2.jpg"
+    },
     {
       "t": "US$ 17,8 bilhões investidos e uma área equivalente a 1.300 campos de futebol: Elon Musk anuncia a Terafab, a maior fábrica de chips de IA do mundo",
       "d": "Área de aproximadamente 9,3 milhões de metros quadrados reunirá Tesla, SpaceX e xAI O empresário quer deixar de depender de terceiros para a fabricação dos chips para seus produtos.",
@@ -21,44 +79,13 @@
       "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVBNMFJralRuLWZjaHZXVFRGRS1wVk1kMUhUdWkxRkhrLTR4LThhUjFWZWs5cG9VTURBZENFX1Vrclc5T2IxSGR4X095SEJpSDF0cjNqNmZUTlVWVFBqS21DUWI4V2ZEZ0VBSzU3RGRYd3FBZURQR3l5NEJfRFhFTzlrT3hKU0RPbTl3SXBCaEx2YjN2Sy1rei1oQUJSVTQ3bm13NA?oc=5"
     },
     {
-      "t": "Hollow Knight: Silksong pode receber várias expansões gratuitas após Sea of Sorrow",
+      "t": "CEO da Nvidia vira meme após traição e possível caso de espionagem; veja reações da internet",
       "d": "",
-      "link": "https://www.nintendoblast.com.br/2026/11/hollow-knight-silksong-pode-receber-varias-expansoes-gratuitas-apos-sea-of-sorrow.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-11-09T18:16:29.000Z",
-      "c": "Geral",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1jcJm0D6vS5XPG3aL0jKk46xvCpCTqDxOnhSFIsx1CofiSoAOgxxpcZVLtpMc5jphg7HBeFZO7h29RBOWslI0El5ozCdtzS3XNHsTPKvPFKQeQK6UC3LANLMeJXsikSlPLMEXCoszuh4IH1yPmF0QctQi1BwW3rAHl4ONqGiY7hQ7ywDcxe-PjaqyI98/w1200-h630-p-k-no-nu/hollow-knight-silksong-switch2.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0xhV2ZxRndmbThaT1VXckxUNGkyTXVSR3N2RGtLd25qb2xjajJWS0lGckxDRk9FUkdJZGV1bHRaVFJRbWJXX0gzSl9mRGhHMGR1ZUU5dUNsSk5zeUN1eU9sVnZmYUppaFZvQzRlSUhuZDF6bkhYZXZWZC1ZUjZmSFhpQUlEc1FoeG1PN1gyRmthd0sxUDNWRnd2aUpBRUJ4cGloSDM4MUVSQlc5X2ZzZi1ZQzBMRlNHZ0FmaDNPc3lIcWNUY3c?oc=5"
-    },
-    {
-      "t": "Hozy chega ao PS5 e Xbox Series X|S com novos recursos",
-      "d": "",
-      "link": "https://ultimaficha.com.br/2026/11/09/hozy-consoles-lancamento/",
-      "fonte": "Última Ficha",
-      "data": "2026-11-09T18:16:08.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UZk95S29kcEpDVjZ3bE1QMGg2QUhjUUZ4b2RyM2Z5bWtpQVV6dFlXb0hxNVVCY2w3YVVac2E4a3JfcVdZUDJTbU9kZERhMElxMm16c0Y2QzVMMy1GdU5jQWF6aXZGbmo3Q21FUzJ2U2M?oc=5"
-    },
-    {
-      "t": "Skydance inicia demissões na divisão de games após união com a Warner Bros. Games",
-      "d": "",
-      "link": "https://arkade.com.br/skydance-inicia-demissoes-na-divisao-de-games-apos-uniao-com-a-warner-bros-games/",
-      "fonte": "Arkade",
-      "data": "2026-11-09T18:15:00.000Z",
-      "c": "Geral",
-      "img": "https://arkade.com.br/wp-content/uploads/2026/10/elon-musk-investe-cerca-de-us-1-bilhao-na-skydance-dona-da-paramount-e-da-warner.webp",
-      "orig": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdDJsbHJ3NFFWdE16UlVMTjFMaGZBQ0ZPSU9seGcyMUsyN2tKcFpqVnlKcHB4UmRPY3QwWElFQWFZTzNyNHROOUI0X1VJN1JFT21SaFR4SVNhUDBsZV9RT2RtNFZEZXdGV1E2MUZxLXcwS0NCUzlZVE1YSEl5Vkx4X2Q4NUJjSl9wRTFLLWJ0SXRMTTZYaGFlTkUzV1RJcFpWbUU2VXZR?oc=5"
-    },
-    {
-      "t": "GTA 6 Online mais cedo? Arquivos vazados revelam funções multiplayer",
-      "d": "",
-      "link": "https://canaltech.com.br/games/gta-6-online-mais-cedo-arquivos-vazados-revelam-funcoes-multiplayer/",
-      "fonte": "Canaltech",
-      "data": "2026-11-09T18:15:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://tl.ctcdn.com.br/xbciussKbHI3F29VE5dw6DrkdtU=/1200x675/smart/filters:format(webp):quality(85)/24292943-51e4-4db4-8630-03b172eb0d36.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQTVMRERqQk1tVnNCMk9zUEkwbnBNWkRvVlh5am5KbkF4OEJKRVVYYjFGeUFNNkJZZlQ0blJNcWJzS191VWFQdkloLTUzMFNuWXpmZnZ3NTNYQUl1SjRJN0g3S2VFRUVMdGdfQnIzRDlGdTNObUJqdmFiZzYxS0NIV21pXzZsRGpjLVdVeFV3eGxSSWFpNl93cGY4d0JWY2h2?oc=5"
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/ceo-da-nvidia-vira-meme-apos-confessar-traicao-veja-memes-e-reacoes-da-internet/",
+      "fonte": "TecMundo",
+      "data": "2026-11-09T18:30:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/5F7UXL2UIRGE5JGAR3P6N4753M.png?quality=80&auth=5774b4ab2f507ab84338fe1984a2fc71f5ad39b5de25a32138cf539c7959f1e2&width=1200&height=630&smart=true"
     },
     {
       "t": "Ex-produtor executivo da BioWare, Mark Darrah, compartilha visão original para um Dragon Age 4 mais “imersivo”",
@@ -234,15 +261,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2025/04/psplus-transformed-2048x1152-1-1044x587.jpg"
     },
     {
-      "t": "Há indícios de que GTA 6 pode chegar já com online",
-      "d": "Datamining encontra possíveis arquivos online do GTA 6",
-      "link": "https://flowgames.gg/gta-6-datamining-modo-online-encontrado/",
-      "fonte": "Flow Games",
-      "data": "2026-11-09T14:17:29.000Z",
-      "c": "Lançamentos",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/10/GTA6Screen3-1024x576-1.jpg"
-    },
-    {
       "t": "Oferta de Black Friday: Resident Evil Requiem para Switch 2 fica mais barato na Amazon",
       "d": "Resident Evil Requiem combina terror e sobrevivência em uma nova história com Grace Ashcroft e o retorno de Leon S. Kennedy.",
       "link": "https://br.ign.com/descontos/157450/oferta-de-black-friday-resident-evil-requiem-para-switch-2-fica-mais-barato-na-amazon",
@@ -252,15 +270,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_rmnc.jpg"
     },
     {
-      "t": "GTA 6 deve ter PSSR 2, ray tracing melhor e mais no PS5 Pro",
-      "d": "Talvez o PS5 Pro realmente tenha ray tracing, PSSR 2 e até modo 120 Hz em GTA 6; confira",
-      "link": "https://flowgames.gg/gta-6-deve-ter-pssr-2-ray-tracing-melhor-e-mais-no-ps5-pro/",
-      "fonte": "Flow Games",
-      "data": "2026-11-09T14:11:59.000Z",
-      "c": "Consoles",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/06/Jason_Lucia_03_With_Logos_landscape-1.jpg"
-    },
-    {
       "t": "Fragmento de Coração no Cemitério da Vila Kakariko",
       "d": "",
       "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157451/fragmento-de-coracao-no-cemiterio-da-vila-kakariko",
@@ -268,15 +277,6 @@
       "data": "2026-11-09T14:11:44.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/video/f/fragmento-/fragmento-de-coracao-no-cemiterio-da-vila-kakariko_rcsd.jpg"
-    },
-    {
-      "t": "Jensen Huang admite caso com suposta espiã e Trump apoia CEO da Nvidia",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/jensen-huang-admite-caso-com-suposta-espia-e-trump-apoia-ceo-da-nvidia/",
-      "fonte": "TecMundo",
-      "data": "2026-11-09T12:00:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/D4CHGJEGFZAY3N3C2SHCYAMDAE.jpg?quality=80&auth=4d8680a4347687ab5f057531451ebf977aee2176d212520e7d00f2b682d483b6&width=710"
     }
   ],
   "videos": [
@@ -1750,6 +1750,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coak15.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/trifolium-the-adventures-of-gary-pretzelneck"
+    },
+    {
+      "t": "Heidi's Legacy: Mountains Calling",
+      "data": "2026-12-04",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xv6.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/heidis-legacy-mountains-calling"
     },
     {
       "t": "Petit Planet",
@@ -4681,16 +4691,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa540.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/tamer-town"
-    },
-    {
-      "t": "Space Diner Simulator",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa672.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/space-diner-simulator"
     }
   ],
   "musicas": []
