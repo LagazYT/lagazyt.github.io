@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-09T01:25:33.193Z",
+  "atualizadoEm": "2026-11-09T01:55:44.156Z",
   "noticias": [
+    {
+      "t": "Yomawari: Lost in the Dark | Review",
+      "d": "",
+      "link": "https://alternativanerd.com.br/games/yomawari-lost-in-the-dark-review/",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-11-09T01:41:46.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiX1VjNUVLNlAtdUdvNGhaelhOR2RBY3l3dnJWWHc0RVZHUEZudjNPQUYzZmNBVHVXOGpuWU42bHBHYWlhc3ZSY2Z0aGhnUHdnaTlpNlVZa2xJMzZrMW4yRkliSmJYOVF3M0JlMGtGWVZMSzNGblo5S2Jn?oc=5"
+    },
     {
       "t": "Quem cresceu jogando Mario, Zelda e Sonic poderá reviver jogos clássicos com gráficos melhores e sem precisar dos videogames que marcaram a infância de milhões",
       "d": "",
@@ -40,16 +50,6 @@
       "c": "Consoles",
       "img": "https://www.gamerscore.com.br/wp-content/uploads/2025/04/Witchbrook.jpg",
       "orig": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMWRiSldaa3dzMHZ1RjhpYkRVZU9ZVnM4dW9rZnFsNE1HM2hqYUxqMnlORjkwOG4ycWpaTmlxVDdJc1NZMy1NUU9DSldLTktzVWpEVGxYTG51N2w0YmtaLUhxTEVnTGlkQVNUNHltTFBjWVZQRWd3UEZPbEl2YTRTRkpmS29iMU05aUlvWHNveFlqc055d3VjNVBhWHVNS1pQU3JydVFOdk1acVRUOWtPWXhuY1dpcThSQjNCeUd3alBVV3BxbFJyV0Jvd2hQX1hh?oc=5"
-    },
-    {
-      "t": "PlayStation está começando a enviar e-mails aos usuários para que vendam seus PS5 no Back Market",
-      "d": "",
-      "link": "https://www.terra.com.br/gameon/playstation-esta-comecando-a-enviar-e-mails-aos-usuarios-para-que-vendam-seus-ps5-no-back-market,804b73796434ee4b94bf2c0f50972204dwx5t6xq.html",
-      "fonte": "Terra",
-      "data": "2026-11-09T00:03:00.000Z",
-      "c": "Consoles",
-      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/07/844565216-13662000.png",
-      "orig": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVXFTNV9SQUZSRG0zZWFHWm15czk1ZG1yRHpFUlZLcnZwVmxiZlNSaUxVR01SOERVMUtLX01qWExTRWhreHpPd2lVM2JjcVNwNVZwTzE1MDlxUWxyMTl2eGRYcGI3clJMUFdrSTFLZ3NVSmpKVktPNWluY3d2dnZXMlc5NWd2MlZLbU1ldGZiMVFsN1FOamVZa09KZHByUXNfT0JUZkJNQ0Q1d0N5UTNQV1ltRzdGMDRFaFpVRWFhX0hpTWVEVWlZdWFaV1lkUXo1dDE5OEJYb3paTFo2TUMwWmZxN1Fudi14NjhmdGJHZkRfU3pvMTNWU3Jya3dZVHprVnlFQw?oc=5"
     },
     {
       "t": "Fable: todos os jogos da franquia em ordem",
@@ -1618,7 +1618,7 @@
         "Switch"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coctri.jpg",
-      "hype": 6,
+      "hype": 7,
       "link": "https://www.igdb.com/games/dragon-quest-monsters-the-withered-world"
     },
     {
@@ -3676,16 +3676,6 @@
       "link": "https://www.igdb.com/games/animal-use-protocol"
     },
     {
-      "t": "Nonolith",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zxt.jpg",
-      "hype": 5,
-      "link": "https://www.igdb.com/games/nonolith"
-    },
-    {
       "t": "Don't Wake the Beast",
       "data": "2026-12-31",
       "plats": [
@@ -4689,6 +4679,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabi5.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/dungeonbox"
+    },
+    {
+      "t": "Ugomeku Note",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqei.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/ugomeku-note"
     }
   ],
   "musicas": []
