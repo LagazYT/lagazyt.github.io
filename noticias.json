@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-09T02:25:56.059Z",
+  "atualizadoEm": "2026-11-09T02:56:08.560Z",
   "noticias": [
     {
       "t": "GTA 6: Como Jogar Antes no Xbox com o Truque da Nova Zelândia – Horário e Guia Completo",
@@ -453,7 +453,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4289,
+      "views": 4290,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -1856,6 +1856,16 @@
       "link": "https://www.igdb.com/games/cozy-island-cleaner"
     },
     {
+      "t": "Never Be Alone",
+      "data": "2026-12-08",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8l8u.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/never-be-alone"
+    },
+    {
       "t": "The Glued",
       "data": "2026-12-08",
       "plats": [
@@ -1906,6 +1916,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/codazn.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/pokemon-pokopia-dazzling-decorations"
+    },
+    {
+      "t": "Tiny RTS",
+      "data": "2026-12-09",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3kg.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/tiny-rts"
     },
     {
       "t": "Professor Layton and the New World of Steam",
@@ -4669,26 +4689,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4mc.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/among-space"
-    },
-    {
-      "t": "DungeonBox",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabi5.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/dungeonbox"
-    },
-    {
-      "t": "Ugomeku Note",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqei.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/ugomeku-note"
     }
   ],
   "musicas": []
