@@ -1,15 +1,64 @@
 {
-  "atualizadoEm": "2026-11-09T18:08:43.071Z",
+  "atualizadoEm": "2026-11-09T18:38:52.657Z",
   "noticias": [
     {
-      "t": "A Little to the Left ganha Switch 2 Edition com 120 fps",
+      "t": "US$ 17,8 bilhões investidos e uma área equivalente a 1.300 campos de futebol: Elon Musk anuncia a Terafab, a maior fábrica de chips de IA do mundo",
+      "d": "Área de aproximadamente 9,3 milhões de metros quadrados reunirá Tesla, SpaceX e xAI O empresário quer deixar de depender de terceiros para a fabricação dos chips para seus produtos.",
+      "link": "https://br.ign.com/elon-musk/157461/us-178-bilhoes-investidos-e-uma-area-equivalente-a-1300-campos-de-futebol-elon-musk-anuncia-a-terafa",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-09T18:30:39.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_qagp.jpg"
+    },
+    {
+      "t": "Black November 2026: Nintendo Switch 2 tem promoção em até 12x sem juros",
       "d": "",
-      "link": "https://projectn.com.br/a-little-to-the-left-nintendo-switch-2-edition-120-fps-mouse/",
-      "fonte": "Project N",
-      "data": "2026-11-09T17:46:59.000Z",
-      "c": "PC",
-      "img": "https://projectn.com.br/wp-content/uploads/2026/11/A-Little-to-the-Left-Nintendo-Switch-2-Edition-1280x720-1.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQVBzMG5fenh1TVo4VjlpSThJd2VrM0xzT3FyOUd3bXkteWRQTkgzX1hsVFNJa0k0Yk5QZXAzY3J0LS1Nb1FpdjJDcDcyZUs1dndpMTBhN3ZKTXhLcjhyREFMY0VCMHNualdjUTdWbHdPNTZHamhsWXY1c3pKMDM4U0xYLTVlVUlQQkc1ZUd3?oc=5"
+      "link": "https://tecnoblog.net/achados/black-november-2026-nintendo-switch-2-tem-promocao-em-ate-12x-sem-juros/",
+      "fonte": "Tecnoblog",
+      "data": "2026-11-09T18:30:12.000Z",
+      "c": "Ofertas",
+      "img": "https://files.tecnoblog.net/wp-content/uploads/2026/11/nintendo-switch-2-imagem-lucas-limatecnoblog.png",
+      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObVBNMFJralRuLWZjaHZXVFRGRS1wVk1kMUhUdWkxRkhrLTR4LThhUjFWZWs5cG9VTURBZENFX1Vrclc5T2IxSGR4X095SEJpSDF0cjNqNmZUTlVWVFBqS21DUWI4V2ZEZ0VBSzU3RGRYd3FBZURQR3l5NEJfRFhFTzlrT3hKU0RPbTl3SXBCaEx2YjN2Sy1rei1oQUJSVTQ3bm13NA?oc=5"
+    },
+    {
+      "t": "Hollow Knight: Silksong pode receber várias expansões gratuitas após Sea of Sorrow",
+      "d": "",
+      "link": "https://www.nintendoblast.com.br/2026/11/hollow-knight-silksong-pode-receber-varias-expansoes-gratuitas-apos-sea-of-sorrow.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-11-09T18:16:29.000Z",
+      "c": "Geral",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1jcJm0D6vS5XPG3aL0jKk46xvCpCTqDxOnhSFIsx1CofiSoAOgxxpcZVLtpMc5jphg7HBeFZO7h29RBOWslI0El5ozCdtzS3XNHsTPKvPFKQeQK6UC3LANLMeJXsikSlPLMEXCoszuh4IH1yPmF0QctQi1BwW3rAHl4ONqGiY7hQ7ywDcxe-PjaqyI98/w1200-h630-p-k-no-nu/hollow-knight-silksong-switch2.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS0xhV2ZxRndmbThaT1VXckxUNGkyTXVSR3N2RGtLd25qb2xjajJWS0lGckxDRk9FUkdJZGV1bHRaVFJRbWJXX0gzSl9mRGhHMGR1ZUU5dUNsSk5zeUN1eU9sVnZmYUppaFZvQzRlSUhuZDF6bkhYZXZWZC1ZUjZmSFhpQUlEc1FoeG1PN1gyRmthd0sxUDNWRnd2aUpBRUJ4cGloSDM4MUVSQlc5X2ZzZi1ZQzBMRlNHZ0FmaDNPc3lIcWNUY3c?oc=5"
+    },
+    {
+      "t": "Hozy chega ao PS5 e Xbox Series X|S com novos recursos",
+      "d": "",
+      "link": "https://ultimaficha.com.br/2026/11/09/hozy-consoles-lancamento/",
+      "fonte": "Última Ficha",
+      "data": "2026-11-09T18:16:08.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UZk95S29kcEpDVjZ3bE1QMGg2QUhjUUZ4b2RyM2Z5bWtpQVV6dFlXb0hxNVVCY2w3YVVac2E4a3JfcVdZUDJTbU9kZERhMElxMm16c0Y2QzVMMy1GdU5jQWF6aXZGbmo3Q21FUzJ2U2M?oc=5"
+    },
+    {
+      "t": "Skydance inicia demissões na divisão de games após união com a Warner Bros. Games",
+      "d": "",
+      "link": "https://arkade.com.br/skydance-inicia-demissoes-na-divisao-de-games-apos-uniao-com-a-warner-bros-games/",
+      "fonte": "Arkade",
+      "data": "2026-11-09T18:15:00.000Z",
+      "c": "Geral",
+      "img": "https://arkade.com.br/wp-content/uploads/2026/10/elon-musk-investe-cerca-de-us-1-bilhao-na-skydance-dona-da-paramount-e-da-warner.webp",
+      "orig": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdDJsbHJ3NFFWdE16UlVMTjFMaGZBQ0ZPSU9seGcyMUsyN2tKcFpqVnlKcHB4UmRPY3QwWElFQWFZTzNyNHROOUI0X1VJN1JFT21SaFR4SVNhUDBsZV9RT2RtNFZEZXdGV1E2MUZxLXcwS0NCUzlZVE1YSEl5Vkx4X2Q4NUJjSl9wRTFLLWJ0SXRMTTZYaGFlTkUzV1RJcFpWbUU2VXZR?oc=5"
+    },
+    {
+      "t": "GTA 6 Online mais cedo? Arquivos vazados revelam funções multiplayer",
+      "d": "",
+      "link": "https://canaltech.com.br/games/gta-6-online-mais-cedo-arquivos-vazados-revelam-funcoes-multiplayer/",
+      "fonte": "Canaltech",
+      "data": "2026-11-09T18:15:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://tl.ctcdn.com.br/xbciussKbHI3F29VE5dw6DrkdtU=/1200x675/smart/filters:format(webp):quality(85)/24292943-51e4-4db4-8630-03b172eb0d36.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQTVMRERqQk1tVnNCMk9zUEkwbnBNWkRvVlh5am5KbkF4OEJKRVVYYjFGeUFNNkJZZlQ0blJNcWJzS191VWFQdkloLTUzMFNuWXpmZnZ3NTNYQUl1SjRJN0g3S2VFRUVMdGdfQnIzRDlGdTNObUJqdmFiZzYxS0NIV21pXzZsRGpjLVdVeFV3eGxSSWFpNl93cGY4d0JWY2h2?oc=5"
     },
     {
       "t": "Ex-produtor executivo da BioWare, Mark Darrah, compartilha visão original para um Dragon Age 4 mais “imersivo”",
@@ -28,46 +77,6 @@
       "data": "2026-11-09T17:45:00.000Z",
       "c": "Lançamentos",
       "img": "https://www.estadao.com.br/resizer/v2/DDE57KNFWJGSRBPZI47KFETSPY.jpg?quality=80&auth=9beee05924650253bad6e6a3565352b68982b3917c3acbd6ec3268f00ef94276&width=710"
-    },
-    {
-      "t": "Warhammer 40,000: Dark Heresy é confirmado para Switch 2",
-      "d": "",
-      "link": "https://www.nintendoblast.com.br/2026/11/warhammer-40000-dark-heresy-e.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-11-09T17:41:27.000Z",
-      "c": "Consoles",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEdJYmFDjEcx4knDN6XEzhyozYMTaDVZBexv6wbb9SPyxR1p-khdbZGX1E4fxtVbO5yhQIJ6fOJMJoqxBIzym8kK_IN7jD6NM_csdh20K7KeVJPRyHGYT9C7iyBw7n63HvvMHNi_kfMjZemhSvU57VUYuqpOkNeiMxIQi2XvI6Ux0vIVX1lJWYcFO1xzY/w1200-h630-p-k-no-nu/Warhammer-40000-Dark-Heresy-KEYART.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRktnRlJnM1lCSGt4MmduaDJOMmY5bWlqNzY3TFZUblpFNVBPeUNlMzBNTlFXTzFWOTdSbjI5OVh2MVI4TkFnZHdxRHdyQXI0TnY1aHJTNXVhWmFWaE5yNXV3RXc4dXZwY29IdFhHQ054T3ZMQjVzb3FRcUJEZ29xWg?oc=5"
-    },
-    {
-      "t": "Novo Football Manager amplia recursos para quem gosta de comandar clubes",
-      "d": "",
-      "link": "https://fastcompanybrasil.com/games/novo-football-manager-amplia-recursos-para-quem-gosta-de-comandar-clubes/",
-      "fonte": "Fast Company Brasil",
-      "data": "2026-11-09T17:40:45.000Z",
-      "c": "Geral",
-      "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/futebol-manager.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0NfMTJjUC0ybGc0OWpCbEJ3TXI2Y3p2cE5XNTZ5SmVMSk1EX212SExKeklpSUZIOXF6MDNGNll0eS15U1dZeEZ3T1M1dDFuQm5NZXljMFRUQUc1N1ZTT0l0SUpla1VaQ2R6QWtjcWJMQmUxN2pMOWZmbFg0UnROMlJSNkNCWmJpZ1VONjV0MzAwMDZkR2phV1B3UEVjcllEVm5scVl0MHNwdVBJNGc?oc=5"
-    },
-    {
-      "t": "gamescom asia 2026: Público recorde e presença do Nintendo Switch 2",
-      "d": "",
-      "link": "https://ultimaficha.com.br/2026/11/09/gamescom-asia-2026-recorde-participacao/",
-      "fonte": "Última Ficha",
-      "data": "2026-11-09T17:39:00.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVB1SzgxbThaZGxuSzg3dENWZzlGbmZuSl91R2tnemNLLXZ6dkJKU0tDQXFHUGNWdmU2aERyS2wyVl80X245cnA3S012VDJkTVZXVHJYaWZScmZsYU4wb0tqR3pwU3RXRElrSFItdFAwRHpUZXN0LTdJbkU3Y0NvS2NfV3Q?oc=5"
-    },
-    {
-      "t": "A Little to the Left ganha versão para o sucessor do Switch; veja o que muda",
-      "d": "",
-      "link": "https://ultimaficha.com.br/2026/11/09/a-little-to-the-left-nintendo-switch-2/",
-      "fonte": "Última Ficha",
-      "data": "2026-11-09T17:31:59.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaWRJVDAwQnZFdnhnWTFkaEJnRS1yOU4xU1RlbmxuM0NScjJxcGdsMVVCajdRZm1fdDMxVFprVHpKOUlhSVB2bXpnOXNSY0I2M09BaVppMGdNcEFHUC1HZmpsbldaWGZzMGFUQUNZMnJBNUxMemNKRGh0WHRHalJJNFV5aw?oc=5"
     },
     {
       "t": "Phantom Blade Zero também vendeu bem fora da China",
@@ -261,15 +270,6 @@
       "img": "https://sm.ign.com/ign_br/video/f/fragmento-/fragmento-de-coracao-no-cemiterio-da-vila-kakariko_rcsd.jpg"
     },
     {
-      "t": "Não adianta tentar: glitch do Fragmento de Coração infinito é retirado no remake de The Legend of Zelda: Ocarina of Time",
-      "d": "Poxa, agora eu vou ter que achar todos os Fragmentos... Jogadores veteranos de The Legend of Zelda: Ocarina of Time conhecem há muito tempo o popular glitch do Fragmento de Coração \"infinito\" do...",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157449/nao-adianta-tentar-glitch-do-fragmento-de-coracao-infinito-e-retirado-no-remake-de-the-legend-of-zel",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-09T14:11:44.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/image/s/shadow-tem/shadow-temple-dungeon-walkthrough_skh2.jpg"
-    },
-    {
       "t": "Jensen Huang admite caso com suposta espiã e Trump apoia CEO da Nvidia",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/big-techs/jensen-huang-admite-caso-com-suposta-espia-e-trump-apoia-ceo-da-nvidia/",
@@ -292,7 +292,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8232,
+      "views": 8233,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -444,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20370,
+      "views": 20371,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -3139,16 +3139,6 @@
       "link": "https://www.igdb.com/games/the-milgram-experiment"
     },
     {
-      "t": "Meat-Grinder",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ii1.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/meat-grinder"
-    },
-    {
       "t": "L.OD",
       "data": "2026-12-31",
       "plats": [
@@ -4691,6 +4681,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa540.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/tamer-town"
+    },
+    {
+      "t": "Space Diner Simulator",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa672.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/space-diner-simulator"
     }
   ],
   "musicas": []
