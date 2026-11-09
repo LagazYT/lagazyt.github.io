@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-11-09T10:51:39.693Z",
+  "atualizadoEm": "2026-11-09T11:21:51.245Z",
   "noticias": [
+    {
+      "t": "Shueisha Games Desembarca Dois Aventures no Nintendo Switch 2 com Visuais Aprimorados e Controles Joy-Con 2",
+      "d": "",
+      "link": "https://www.gamerscore.com.br/shueisha-games-desembarca-dois-aventures-no-nintendo-switch-2-com-visuais-aprimorados-e-controles-joy-con-2/",
+      "fonte": "Gamerscore Brasil",
+      "data": "2026-11-09T11:04:07.000Z",
+      "c": "Consoles",
+      "img": "https://www.gamerscore.com.br/wp-content/uploads/2025/01/Switch-2.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOXZ6TGF0X1dnSjFVRURpYnV0RHlSNmRsQVpsNkhReU5HS2pvQWVmb2FOWXdnR09hTzVSSElXMUpSbzRmX1hVbHhMeE1Sc3ZpQWswODlhZk5UblpPTkpYZy1SbzZTd3JILXdJNjdDNVQzMk05OVMxSkJZRWtMTmVMRHlYdHJKZUhZR19HSHZVOUJXUHVVTkpPbjQ4c2Zwd3liQ3Rwc0c2QmxQYVFiM2NReFFpUmxab2UwWnNxcmR0czlndHNiMUx4X18wWUZOMmdmUGNfUw?oc=5"
+    },
+    {
+      "t": "Sony lança versão do PlayStation Portal com armazenamento interno e novo nome",
+      "d": "",
+      "link": "https://www.tudocelular.com/novos-produtos/noticias/n266686/playstation-portal-armazenamento-interno-novo-nome.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-11-09T10:51:30.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVpIejdtSUREMV9WNlZBSEhsaTBSRjFuTlk2cFlndEktQWdYeXBuNEttaXVENFhFSTdjSVRISE43MGNZYW0teThQTjh5eXBPclQyOFpwZnNwYVVpbWZvb2wyczdKX0hIcFJ6RklKQVNOMGJBdjczTEJIMzdoSFl3MlB1OGw5dk5CWlJNdEVMV3FhTjYyeDV2Z2RvLWpUR2ZUQ2Z3TjdkSFA3b292VTdEcFY4eUgxZw?oc=5"
+    },
     {
       "t": "Sony se antecipa e revela dois grandes jogos de PS5 para o PlayStation Plus Extra",
       "d": "",
@@ -39,26 +59,6 @@
       "c": "Geral",
       "img": "https://cdn.folhape.com.br/img/c/800/600/dn_arquivo/2025/10/divulgacao-recnplay.jpeg",
       "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUlBc3I4T3FVNGFvQUhDRkd5T0E1eUJqc01FaWZsUV9hWV9xdUd1QWlWU3lta1VlY2dlLURYOV9rQmd1T1NFSUpURHR1RkRETHVFa19YNS15Q09FUjFxb3BncjEtTEtwM1RabVhHZ1FUTWdObmZLVDlyaV85Z2RtV09Uc2JpaEFWYmxtUE1pNkJVaC1tQnVYZ2tIZWNHX0h1clE?oc=5"
-    },
-    {
-      "t": "Jogos de novembro de 2026 | PlayStation, Xbox, Switch, PC e mais!",
-      "d": "",
-      "link": "https://www.showmetech.com.br/jogos-novembro-2026/",
-      "fonte": "Showmetech",
-      "data": "2026-11-09T10:00:00.000Z",
-      "c": "PC",
-      "img": "https://www.showmetech.com.br/wp-content/uploads//2026/10/gta6-arte.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFeERKMUpCTGw0M1k2WVg2bEdOdGpZcUVZNUhIU2RRSXpZUUREcVNjYjB2VDlWQ21aTEI2Z09aRU5nNnF6TElNcUFSd3JUd0xkZWJWTU1VMVJqc3hqeUcw?oc=5"
-    },
-    {
-      "t": "PS Plus Extra terá Dragon Quest III em novembro e Dynasty Warriors em dezembro",
-      "d": "",
-      "link": "https://seriesemcena.com.br/noticias/ps-plus-extra-tera-dragon-quest-iii-em-novembro-e-dynasty-warriors-em-dezembro/",
-      "fonte": "Séries em Cena",
-      "data": "2026-11-09T09:20:00.000Z",
-      "c": "Geral",
-      "img": "https://seriesemcena.com.br/wp-content/uploads/2026/11/ps-plus-extra-tera-dragon-quest-iii-em-novembro-e-dynasty-warriors-em-dezembro.webp",
-      "orig": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU0NjUGNfRjZyREpxRkpsdnNST0pCNGdvSWR2bll1Yy0zYmJJeTJ1UnZwYzN3dUJEd1RkYzFnWVdfZGxJQ2J1N0s0Q1htVm9ERGVhRHkxNFhFcjYtWVdPcTF2TzFSMlppeUNJUlJSLVFxeXgtbkI5d05td3UzMXd6UWx2TUpJbDdZNzlhRVY3OTBtb2ZRY3RvX3BJX3BwZnl0WEJ0V2tiX0dQUHMwN3hTVjZlZ2p5ZTA?oc=5"
     },
     {
       "t": "Os EUA despejaram 96 milhões de bolas de plástico preto em um reservatório para conservar água. 11 anos depois, essa invenção teve um custo inesperado",
@@ -3661,16 +3661,6 @@
       "link": "https://www.igdb.com/games/entwine"
     },
     {
-      "t": "Killer Chat: Extended Edition",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1w5.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/killer-chat-extended-edition"
-    },
-    {
       "t": "The Infectious Madness of Doctor Dekker 2",
       "data": "2026-12-31",
       "plats": [
@@ -4687,6 +4677,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa4mc.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/among-space"
+    },
+    {
+      "t": "DungeonBox",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabi5.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/dungeonbox"
     }
   ],
   "musicas": []
