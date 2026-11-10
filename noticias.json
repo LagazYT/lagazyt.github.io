@@ -1,6 +1,55 @@
 {
-  "atualizadoEm": "2026-11-10T09:59:53.030Z",
+  "atualizadoEm": "2026-11-10T10:30:00.280Z",
   "noticias": [
+    {
+      "t": "Arquivos do FSR foram encontrados na versão de Xbox do GTA 6",
+      "d": "",
+      "link": "https://centralxbox.com.br/2026/11/10/arquivos-do-fsr-foram-encontrados-na-versao-de-xbox-do-gta-6/",
+      "fonte": "Central Xbox",
+      "data": "2026-11-10T10:20:03.000Z",
+      "c": "PC",
+      "img": "https://centralxbox.com.br/wp-content/uploads/2026/06/GTA-6-scaled.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2Y2OEpLQjhpWXMzTzYzaFljM3R3UG1xdURsS2Q4cUFobGlLOTB1RVNVQndFUXBoaFNHM1ltMDJlZmN4TEoxeklIT2RFR0p1aWc4UWtiS3BhRVZfZ1A5NmZpaHpkeGdFUWhqczZfRVNnQUpvNk50N0RTSFg3WllEeDUwbTd6TlFncEhOSXlzcEVhc25JYkhzOFo2VjZtMk16?oc=5"
+    },
+    {
+      "t": "GTA 6: caixa vazada revela diferenças técnicas da versão do XBOX em relação ao PS5",
+      "d": "",
+      "link": "https://www.tudocelular.com/novos-produtos/noticias/n266777/gta-6-caixa-vazada-diferencas-tecnicas-xbox-ps5.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-11-10T10:12:16.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnRBdGtOSlJtbHFycHhVOXVScGNHaFRfTWFnUDdtR3g2WDZQSlFYTFdVWHhFLUN2cXo5c2xkMjNIZjFDX2hfUWU3ZUQ0M01tSjl6bEduSUp4MVdJM0ktSE9aRHRqOGNJcURIQkJvZTdpb1o5WVpFOVRCeDg3LWpTV1ZoX2g4SlpTcGNvam55a3NuWGJfSEMzNl9TLTlpVy11UFRrM0RlLWd2TS1LZzVHQzhB?oc=5"
+    },
+    {
+      "t": "Warhammer Survivors disponível agora no XBOX Game Pass! Derrote o Gloomspite Gitz com estas dicas",
+      "d": "",
+      "link": "https://xboxers.com.br/warhammer-survivors-disponivel-agora-no-xbox-game-pass-derrote-o-gloomspite-gitz-com-estas-dicas/",
+      "fonte": "Xboxers",
+      "data": "2026-11-10T10:04:54.000Z",
+      "c": "Consoles",
+      "img": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/WS_SCREENSHOT_RELEASE-DATE_01_3840x2160-d7d72aeea17c09098d92-1024x576.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0p4Q3JjQU5taFhLUDVDa2VGSVdOMTl6eXVweTI5Q00yTktleXQtcW1YTXNfamgyMTNfRFhET1NkVW9XX0JfY2Qya2wtQzBpWHpoV2NHNV9kck9Nb0JxWjQxWHBwWm5BclVJOUVWSVRVeG5IMkxFc0V1LXNpajhCSHVicUxmUUszSHpEcXN2U3NzLTI0RnZNM3dGTi1oN0tjTmUteDB6VjgwejBmUDNrbm9fSU5OdjRkTFRfMA?oc=5"
+    },
+    {
+      "t": "Como farmar rupias facilmente em The Legend of Zelda: Ocarina of Time",
+      "d": "Veja como ganhar a moeda do game de forma efetiva Se você pretende obter os melhores recursos de Hyrule, precisará de uma boa quantidade de rupias.",
+      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157483/como-farmar-rupias-facilmente-em-the-legend-of-zelda-ocarina-of-time",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-10T10:03:29.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_2daj.jpg"
+    },
+    {
+      "t": "Bem a tempo do Natal: Nintendo prepara envio de presentes digitais para o Switch",
+      "d": "",
+      "link": "https://www.notebookcheck.info/Bem-a-tempo-do-Natal-Nintendo-prepara-envio-de-presentes-digitais-para-o-Switch.1446826.0.html",
+      "fonte": "Notebookcheck.info",
+      "data": "2026-11-10T09:49:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/Nintendo-Switch-Geschenke.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR2RMNC1IZWU3QUlQU3Z1T1dDWmNtVDlDTnZSOWd6ZGxfMnNUQmZDSkIwTjg4VUU2V0lWdU84ZDZKaTFtYkVVVWZ1SVlLNC1PUFBkbkJya0IxaGdzNlFoTURNSUpBRUpmZ1l1cmRzUUYwSDBseXlCOGExaWVDY0lXTWxycjhSQTh5Z0d2MmFwQlBBLTlVVjdPNldEMUU1VnZaRU5vRm5FalRwdVBYSlRfTk1oRWtzeWlJcWlDTlNORnFDU3c?oc=5"
+    },
     {
       "t": "Podes oferecer jogos digitais na Nintendo Switch 2 e Switch",
       "d": "",
@@ -12,36 +61,6 @@
       "orig": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXVmT1RNamJsLS1RRDR3OFhWWTFlUFVsWl9GaFFhdmJEdVpUVU1obTkwSVNsUlZHUjRPRXE1Zi1nNkhGaTBUeVdraFZMOG5uM2dka3ZmYy1xdFZuUkUyYUxzOXFjMHpSdTBTRDFDUTNuOUFvbnN5UkNZQ0hSaDNFZ2V1NDFKRXdIOVdycg?oc=5"
     },
     {
-      "t": "Atualização de firmware para Switch 2 e Switch (23.5.0) — inclui recurso de envio de presentes digitais pela eShop",
-      "d": "",
-      "link": "https://nintendoboy.com.br/2026/11/atualizacao-de-firmware-para-switch-2-e-switch-23-5-0-inclui-recurso-de-envio-de-presentes-digitais-pela-eshop/",
-      "fonte": "NintendoBoy",
-      "data": "2026-11-10T09:29:52.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVkNoZGk2N0RzNFE5d3pOMU1lbjVDQmhSd0VmdkJ2a3JmRnhoamxhcEpOY25OOUloblZSMWtvZ0ZveDB6a2JqUjlyaDR4XzcxazBzVXlrTTNyTGJRcGlrRzJOU29naXpDVklCYnlCT0RuY0FyYTczN28tbE9fQlY3YmZESnlveG51ejB0czdnNnprNWlGcS00VTNPenJQb20xOHBac3RRZHRFc1luVG1YS2d4eUhNblFzZlpOQWM1ZnNlTHNNdTJWV0o1eTBORzZZNzBsckFuVWlpbmcyOVZF?oc=5"
-    },
-    {
-      "t": "Mouse Work será lançado para Nintendo Switch 2 em 7 de dezembro",
-      "d": "",
-      "link": "https://www.nintendoblast.com.br/2026/11/mouse-work-sera-lancado-para-nintendo-switch-2-em-7-de-dezembro.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-11-10T09:21:24.000Z",
-      "c": "Consoles",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi-oooUKQhxXnFo1x-LgYETeZmCqClr5M4YBctRkJwfqkWf-FTVvhiFCQnOU8GGJOKDan9US3TMLMNO2jpSMLn4R-cIcRw2qsS7ZU1eNYfu_-vUh-OedClj3binNPAsoxl9o556dlpCGxcigY3ERqBsM9mBXzi3f8gVj3BKnR8GqGUWh5jJp1hg1SeGPqt/w1200-h630-p-k-no-nu/image.png",
-      "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXp4VEJyakNwaldlbGZ3bHVTZDRjcWx6NGprZHFoNVFBLXc5bmU0LTduajRCRGJBQURKMnRsc0pVNUVBa2hIdjB4aVg5VjFudjVfc3dfMlRjaE9iUUxtQzhrM2M0bm43akh1V2piYzkyMjktOXJJcVcyUTJ0OEw1QVhxVFF4aVlVOWtZazJJYkp2LWUzczNPVWdPVWo2YXZsUV9fSmJ6NVUxbTJINEE?oc=5"
-    },
-    {
-      "t": "Nintendo Switch e Switch 2 recebem atualização 23.5.0 com suporte a presentes digitais",
-      "d": "",
-      "link": "https://www.nintendoblast.com.br/2026/11/nintendo-switch-e-switch-2-recebem-atualizacao-2350-com-suporte-a-presentes-digitais.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-11-10T09:11:50.000Z",
-      "c": "Consoles",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipjIfZPuZJ05lGtoIrUSKbm37JJenrt4rC3FsUV7DRRdjROpy80V8H91gGc5XJkq722JAs32unGqnHJU5nWPgbdSZ9EGs0EbFYq8yURykRARaWDjHihU8sZWpL_MXxrY9_9nfUHXo_qc8gBbkjkf6zwK847X62xZ3aJV1_CRS1UyyVKpmcVya8yyTmgkKK/w1200-h630-p-k-no-nu/image.png",
-      "orig": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjJQMUlBLTlYTmdudnNXVXRWVlRzVG04d1c4NmxvSzhoREFpUk1VWjBBR3NYNVo5RzRleWlqTkoyenRNaVF1ZC1rc01PT1ZfWUk2bGkzVDY0c1JFMHplWVR6MmxjTUljUmtQSUQzV0JBSjNNX1R1a3Q3eWpVTWNOMDhrLTU2bDdOOUxqNmloWWpoQ3hTREpaQlVzdTlYSE13Q3k3b1ItM0YzNUZIUENGdFk0azdFdndmOTJmT2p0NVNqajhkMURYd1Vn?oc=5"
-    },
-    {
       "t": "Fragmentos de Coração para coletar logo no início de The Legend of Zelda: Ocarina of Time",
       "d": "Confira a localização de cinco heart pieces que podem ser coletados bem cedo no remake O novo Ocarina of Time traz 36 pedaços de coração de volta, mas cinco deles podem ser encontrados rapidamente.",
       "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157480/fragmentos-de-coracao-para-coletar-logo-no-inicio-de-the-legend-of-zelda-ocarina-of-time",
@@ -49,16 +68,6 @@
       "data": "2026-11-10T09:03:29.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_8fh9.jpg"
-    },
-    {
-      "t": "Já comprou GTA VI? Saiba como fazer o preload do jogo",
-      "d": "",
-      "link": "https://www.itatiaia.com.br/games/ja-comprou-gta-vi-saiba-como-fazer-o-preload-do-jogo/",
-      "fonte": "Rádio Itatiaia",
-      "data": "2026-11-10T09:01:50.000Z",
-      "c": "Geral",
-      "img": "https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/06/ULTIMATE_EDITION_01.jpg?resize=1280%2C720&w=1280&h=720&quality=75&crop=1",
-      "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONllTa2dnaFd3Zm1hSDdFNlZtWHcxcU05dHNTOFFqQ1h0b2NhTG1oQkxMZFlvNXlvS1FLZFRGTktHcHFGUHNBNFdzeFM3Sm1qX1ROTDJoU2d5QXV0SGtXUUVfYW0yOHljUWphUmJCYnpaZmdCVm9iN2JRWU55UkRCMGl3dW5TOWNYS3MzelVzX1Q?oc=5"
     },
     {
       "t": "Sony lança nova versão do PlayStation Portal com armazenamento extra para ‘nova função’",
@@ -214,15 +223,6 @@
       "data": "2026-11-09T18:38:59.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/06/The-Legend-of-Zelda-Ocarina-of-Time-2.jpg"
-    },
-    {
-      "t": "US$ 17,8 bilhões investidos e uma área equivalente a 1.300 campos de futebol: Elon Musk anuncia a Terafab, a maior fábrica de chips de IA do mundo",
-      "d": "Área de aproximadamente 9,3 milhões de metros quadrados reunirá Tesla, SpaceX e xAI O empresário quer deixar de depender de terceiros para a fabricação dos chips para seus produtos.",
-      "link": "https://br.ign.com/elon-musk/157461/us-178-bilhoes-investidos-e-uma-area-equivalente-a-1300-campos-de-futebol-elon-musk-anuncia-a-terafa",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-09T18:30:39.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_qagp.jpg"
     },
     {
       "t": "CEO da Nvidia vira meme após traição e possível caso de espionagem; veja reações da internet",
