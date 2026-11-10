@@ -1,6 +1,45 @@
 {
-  "atualizadoEm": "2026-11-10T22:59:15.661Z",
+  "atualizadoEm": "2026-11-10T23:31:12.697Z",
   "noticias": [
+    {
+      "t": "GTA 6 está fazendo tanto sucesso na pré-venda que está atrapalhando outros jogos da Take-Two",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-esta-fazendo-tanto-sucesso-na-pre-venda-que-esta-atrapalhando-outros-jogos-da-take-two/",
+      "fonte": "TecMundo",
+      "data": "2026-11-10T23:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/CFHCAQ6RUFB3LGPYIWEFBXAYA4.jpg?quality=80&auth=dae5c425722f6561f8019848040f5b284311c74b3106ce465528ee902660400c&width=710"
+    },
+    {
+      "t": "Nintendo acaba com login pelo Google e Apple; veja o que muda",
+      "d": "",
+      "link": "https://www.tudocelular.com/seguranca/noticias/n266873/nintendo-fim-login-google-apple.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-11-10T23:14:05.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUZwSTFTMjBIUzRqTFhhUE9BSmdvX0M3eUtnZ0dJY0NfRExWWW5hQl81aEhWVWJoM09sQ2JScFpYUVBBMDhGaWUzSGI2a1BOT25DN0hqVzk4Z0VwNmlNRkR2Z1Jzc0FLTnRDNk5vMFRmVThnS05CQmctaTJpU2NtbWg4eGRMaGFYWkRDbTNRNW1UdnEyRWc?oc=5"
+    },
+    {
+      "t": "Agência de Comunicação - Richard Lucas da Silva Miranda, empreendedor do setor de games, e o que a inteligência artificial muda em testes e balanceamento de jogos",
+      "d": "",
+      "link": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/saftec-digital/richard-lucas-da-silva-miranda-empreendedor-do-setor-de-games-e-o-que-a-inteligencia-artificial-muda-em-testes-e-balanceamento-de-jogos/",
+      "fonte": "Estadão Blue Studio",
+      "data": "2026-11-10T23:06:41.000Z",
+      "c": "Geral",
+      "img": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/wp-content/uploads/2026/11/SFT20261110145511_760518.png",
+      "orig": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQUFAzcGQ0WW9vRWJwRUN4QURfTmpNVE85TTdFcWVqUDZqU09pLUxTRnhfUDdqNmRyeVNSRC1OLW9PX0lFbmMzLU5jeEc1ZU56OXJIQ2c3bGpLd09XQzAzbUNndlAyVXQ3eFRMWl80X0V5N0d1QndMQ3ByWE01eFNvSzVpU3lvSXZCd0g2OUJJTTMwcF9WY1lWVlVxRHZkR2hlQ3J4cmg5ek1XUndjVWNZOHdYb0YtcnB4RFJNWkVKcFVubDZIWTUzSFJXVmRrV2xzZmpORjNUT28wLXZTVkllSTF0UUdYWW1FUWV3QlBvbUxGNjdfLXdEMjlpUTZMQkgxSWdOcFo5T0x0bHo1aUZMYU1FUTlBTXlMRW9fdkNUVk9yQlliTGVpcWxHTzNreXpTWXc?oc=5"
+    },
+    {
+      "t": "Presente de Natal! Nintendo Switch OLED está com 30% de desconto no Esquenta 11.11 da Amazon",
+      "d": "",
+      "link": "https://br.ign.com/descontos/157526/presente-de-natal-nintendo-switch-oled-esta-com-30-de-desconto-no-esquenta-1111-da-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-10T23:05:26.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/t/ign_br/screenshot/default/nintendo-switch-oled-branco-thumb_233x.1200.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlE4NnFBa0FTUEtFakhnZWxFTm1VZVZYdllmQXk0TDgwLV9pTUJXdGtWZDJyS3NPY2hMd3VscTRPT1VLOHJsWGZRMW5qR3pMelZLbDFHUUM1MzhCa0NGQXFvY2RzLXNKRDZBY3F4aEtja0tqQUxuWnNkdzVDd3R3a0ZPck4tRlJTWjc3VjZrYXUzbjNVQUt5TFJDSDFXd0g4SURKd3R3c2J1X0stQktBMGxnenNVTHhuNGtSMWEwcEMzdW8?oc=5"
+    },
     {
       "t": "PlayStation cancela Fairgames após anos de silêncio",
       "d": "",
@@ -10,6 +49,16 @@
       "c": "Consoles",
       "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/11/AN_Fairgames.webp",
       "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmVnVEhqZHFMX0tpcU02RzRDcmRpdzgzdW1id0tLWE8wUzZUQkJhNEdIOEw3TTBiZkd2aXQ2QlRJR21DZlViOUY0R3hvSnNoSW1DZU5MU0gyRlVfMEE4ZTlRVkxBZkRzRXNkcldnQXBqcndEd0xGR0xhbWNmM0xPb1NubzBHNk5LMjVkbUYxZG1RTGc?oc=5"
+    },
+    {
+      "t": "GTA 6 tem a maior pré-venda da história da PlayStation Store e Microsoft Store",
+      "d": "",
+      "link": "https://www.folhape.com.br/colunistas/tecnologia-e-games/gta-6-tem-a-maior-pre-venda-da-historia-da-playstation-store-e-microsoft-store/60922/",
+      "fonte": "Folha PE",
+      "data": "2026-11-10T22:48:00.000Z",
+      "c": "Consoles",
+      "img": "https://cdn.folhape.com.br/img/c/800/600/dn_arquivo/2022/07/gta-6-protagonista-feminina.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcDVlSTg5Z0RCQVVxVm9YaExmXzQ3dlo4S0RJUUxuRl9JdjZmX2lKNjkwUWRNQjZxb25WQWNNWXpaTzA4S0RYT3lSb18tV1AxbFAzYXpRa0I4QllMcHQ4eDVDbnQ1MWxKZmo2cEt0TE8wLW0tN1NsbFZubTNucVMtTjlYaV9TbEZpZkpSUjEzaTNRcUhDWEdJTkowbV9SNU1ob3VBY0sxUklOZ3JqZ1J4d0FpMG9Rdm9UQW10cXAxTVU1REpmdkRLZ1J5dUdTWkdXbGlGWWQ0S2oxUQ?oc=5"
     },
     {
       "t": "Take-Two não quer investir apenas em GTA 6",
@@ -30,24 +79,13 @@
       "img": "https://www.estadao.com.br/resizer/v2/AH3P7T2LBNK67BMAF74RGUBWOI.jpg?quality=80&auth=d41c38e49128439b379ea4f5a29a74b4b37a40872dd427de751da54451574e40&width=710"
     },
     {
-      "t": "PlayStation Plus Extra anuncia jogos de novembro com Death Stranding 2 e mais; veja lista",
-      "d": "",
-      "link": "https://www.omelete.com.br/games/playstation-plus-extra-jogos-de-novembro-death-stranding-2-e-mais",
-      "fonte": "Omelete",
-      "data": "2026-11-10T22:19:00.000Z",
-      "c": "Consoles",
-      "img": "https://cdn.ome.lt/KnFETRk_StuntAR3fRSh3r-VQ4w=/1200x630/smart/filters:format(webp)/extras/conteudos/eebf05424d998604352db943ca43cad4d94a597b-scaled.webp",
-      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmltTFl0SWFVVGlQd1V5cThzTW5yVUUtN1FGM29uVTdyVlpwVGRSSS1CV0lpWEh6cDJUZEZkcTJoMUswTXNmZUZJTlV3UndZdUpIbGh3TkZnQ1lMdkhBM2RibWNCaUl2R2N4eVdDbmM2UFZ6MjRzMGdGRUhib2t0MTdwQlNXbXh3WTRVbHNUMXpPM2xPWVVuMzlxRXQ1TzQ?oc=5"
-    },
-    {
       "t": "3 anos depois de ser anunciado, PlayStation cancela Fairgames",
-      "d": "",
+      "d": "Game over Fairgames , um jogo de assalto do tipo \"serviço ao vivo\" (live-service) desenvolvido pela Haven Studios, da PlayStation, foi cancelado pela Sony. Um novo relatório da Bloomberg revela...",
       "link": "https://br.ign.com/fairgame/157528/3-anos-depois-de-ser-anunciado-playstation-cancela-fairgames",
       "fonte": "IGN Brasil",
-      "data": "2026-11-10T22:05:26.000Z",
+      "data": "2026-11-10T22:02:59.000Z",
       "c": "Consoles",
-      "img": "https://sm.ign.com/t/ign_br/news/p/playstatio/playstation-cancels-live-service-heist-shooter-fairgames_ax52.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXdqTUFmYVMyZHdDbGJjcTNfaEdLTWVsWTJYbF83YUJMdHJVSlRHbWhPTENaWjhwYk02aTBtWFdkUFZ3MW53UWoyWWRZb2lMckJQenU5VzVDNERQVEo2R25RNG8xcGhZLTM4UFZXU1F4c2R0OXRlNlZ2Q2d5WFZCaUlWSlFYYjBWYlp6UmxFRUNiNjVobE1RYmc5SQ?oc=5"
+      "img": "https://sm.ign.com/ign_br/news/p/playstatio/playstation-cancels-live-service-heist-shooter-fairgames_ax52.jpg"
     },
     {
       "t": "Esquenta 11.11! Bundle de PS5 Slim com GTA VI está com desconto exclusivo para Prime",
@@ -59,16 +97,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/bundle-gta-vi-playstation-5-slim-digital-825-gb-pacote-astro_366327_exm4.png"
     },
     {
-      "t": "Aplicativo do PlayStation Plus deixará de funcionar no PC por baixa adesão",
-      "d": "",
-      "link": "https://ver-o-fato.com.br/sony-encerra-app-playstation-plus-pc/",
-      "fonte": "Ver-o-Fato",
-      "data": "2026-11-10T21:44:02.000Z",
-      "c": "PC",
-      "img": "https://ver-o-fato.com.br/wp-content/uploads/imagens-sociais/249530-6edf41532e.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kX2swRXZRS1BIdEp3emV6OE5Va1l1c2lNMm5pR0hPRW5qMVFJd1BtMTRMNkxKS0doSDZyU1pxdFVrSkZCZi1XdS10VkJxU0JtbW1KbktFRkFsVTRRN0hyT3dTTWVmVE1XQ3JuV1lmRFU?oc=5"
-    },
-    {
       "t": "Eita! Fairgames, jogo live service, é cancelado por PlayStation",
       "d": "Fairgames foi anunciado há anos e rumores apontavam em playtests recentes, mas o jogo foi cancelado",
       "link": "https://flowgames.gg/fairgames-jogo-live-service-cancelado-por-playstation/",
@@ -76,16 +104,6 @@
       "data": "2026-11-10T21:37:49.000Z",
       "c": "Consoles",
       "img": "https://flowgames.gg/wp-content/uploads/2023/05/51_PlayStation_Showcase_2023_ENGLISH_00-51-35.png"
-    },
-    {
-      "t": "Death Stranding 2 lidera o PlayStation Plus de novembro",
-      "d": "",
-      "link": "https://alternativanerd.com.br/games/death-stranding-2-lidera-o-playstation-plus-de-novembro/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-11-10T21:34:59.000Z",
-      "c": "Consoles",
-      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2024/01/AN_Death-Stranding-Directors-Cut.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDhCb0RYTDdnZldSdDRjSDRFZDFQTXIzdldEWGNaQmVleE5RZ3BfbGtpNGFJdnpuZVM2bzJMTjhmbXdxOF9HeFFCVDZ1TndPWTNKVHpRYkVJUGNiQVVUNmVCWHZ1ckhEX1lsNEFGYmxKeU1nQnloRXRJNVRpOXV0cmpJR1E2dUJXX2FPc1p3bTZmWDJTVW9wSQ?oc=5"
     },
     {
       "t": "De Diários de uma Apotecária a romances marcantes: 3 histórias de sucesso para resgatar no Skeelo",
@@ -261,24 +279,6 @@
       "data": "2026-11-10T17:25:23.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/capa-skeelo-4-1_wjfr.jpg"
-    },
-    {
-      "t": "7 em 1: coletânea de Mega Man que leva clássicos do Nintendo DS ao PS5 está em oferta",
-      "d": "Mega Man Star Force Legacy Collection reúne todas as versões da trilogia original e adiciona batalhas online, ajustes de dificuldade e uma galeria de arte e música",
-      "link": "https://br.ign.com/descontos/157508/7-em-1-coletanea-de-mega-man-que-leva-classicos-do-nintendo-ds-ao-ps5-esta-em-oferta",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T17:23:26.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/mega-man-star-force-capa-mega-man-1280x720_fkyw.jpg"
-    },
-    {
-      "t": "Menor preço da web! Mafia: The Old Country para PS5 fica mais barato no Esquenta 11.11 da Amazon",
-      "d": "O jogo coloca os jogadores na Sicília do início do século XX, em uma história de origem da máfia protagonizada por Enzo Favara",
-      "link": "https://br.ign.com/descontos/157509/menor-preco-da-web-mafia-the-old-country-para-ps5-fica-mais-barato-no-esquenta-1111-da-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T17:16:17.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_qhtg.jpg"
     }
   ],
   "videos": [
@@ -342,7 +342,7 @@
       "id": "0ZIRBuW6lqE",
       "t": "KATANA LENDARIA ZÉFIRO TURQUESA PARA O YASUKE | ASSASSINS CREED SHADOWS!",
       "data": "2025-06-16T14:00:02Z",
-      "views": 186,
+      "views": 187,
       "img": "https://i.ytimg.com/vi/0ZIRBuW6lqE/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0ZIRBuW6lqE"
     },
@@ -406,7 +406,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2935,
+      "views": 2936,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
