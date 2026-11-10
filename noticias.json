@@ -1,6 +1,84 @@
 {
-  "atualizadoEm": "2026-11-10T17:57:25.819Z",
+  "atualizadoEm": "2026-11-10T18:27:38.336Z",
   "noticias": [
+    {
+      "t": "Fortnite revela chances de encontrar Token Pirata que deixa toda a loja do jogo gratuita",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/fortnite-revela-chances-de-encontrar-token-pirata-que-deixa-toda-a-loja-do-jogo-gratuita/",
+      "fonte": "TecMundo",
+      "data": "2026-11-10T18:15:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.estadao.com.br/resizer/v2/WF7CJFE26ZHWXEOKZK4VZXJ6KY.jpg?quality=80&auth=a8bc773ba585012ca2f02a7c336d89bcdf031a28160bdef3117fad17fd7c3033&width=710"
+    },
+    {
+      "t": "Jogos em oferta na Steam por menos de R$ 5; até 90% de desconto",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-em-oferta-na-steam-por-menos-de-r-5-ate-90-de-desconto/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-10T18:15:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/borderlands-2.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLVk4WGlUOWNHZzdoOXpvc2RGaVplbGZwN29rTndPOEZNS2tueXZuYXlCNEdib2hBUDRPczFEVXpGbWZSX2hzZ0UtNnVPYzZya3VCMFpiUE1vb0ppRjY3X0VxT3Vab0Y3eGdDbEJzeVY2TW5vNmVjY3BoZjNaRko1S3NMc0lVSzdsU2VPaGcxVmRKNXQ4eE5BNnNKQ1dYb2lvWFpKRjItWGtPUQ?oc=5"
+    },
+    {
+      "t": "GTA 6 ganha novo comercial focado em melhorias do PS5",
+      "d": "A Sony está apostando forte no marketing ao redor de GTA 6",
+      "link": "https://flowgames.gg/gta-6-ganha-novo-comercial-focado-no-ps5-melhorias/",
+      "fonte": "Flow Games",
+      "data": "2026-11-10T18:14:53.000Z",
+      "c": "Consoles",
+      "img": "https://www.youtube.com/embed/3pcuK1EroVw"
+    },
+    {
+      "t": "GTA 6 bate recorde de pré-vendas na PlayStation Store e libera pré-download no PS5",
+      "d": "",
+      "link": "https://www.jwave.com.br/2026/11/gta-6-bate-recorde-de-pre-vendas-na-playstation-store-e-libera-pre-download-no-ps5/",
+      "fonte": "jwave.com.br",
+      "data": "2026-11-10T18:13:43.000Z",
+      "c": "Consoles",
+      "img": "https://www.jwave.com.br/wp-content/uploads/2026/11/Grand-Theft-Auto-VI-1.webp",
+      "orig": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3VZVUNnN016NlVpUVJQYXhPWUVUQXJHRjhLZjRkeTZ6ajBURHhIdmtuakgwWHpxZEp2RjRXb3JFVjBqUjVWaVVnWmRXeVp0eEU4ODY2UUs0aHExWWJCUjhaZENPc1hUZkZPT0VqejltUERVMjZJNE84Q2hkM1dVbmdjdzlud1oxeEpfQUVFVW1GR3JGblVSeURPc19BZno5WVhRcEg2bkU1cmtaQ2hPWGFJTG0tNkk?oc=5"
+    },
+    {
+      "t": "GTA 6: caixa vazada revela diferenças entre Xbox e PS5",
+      "d": "",
+      "link": "https://ncnews.com.br/2026/11/10/gta-6-caixa-vazada-diferencas-xbox-ps5/",
+      "fonte": "ncnews.com.br",
+      "data": "2026-11-10T18:12:46.000Z",
+      "c": "Consoles",
+      "img": "https://ncnews.com.br/app/uploads/2026/11/841058.webp",
+      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xWnBzWEZyVHdodGdaR3o2VWZDM3JnTjNIb0hPcFBmdDJqcE9ObkVIMXB5Y1lPOFY5dU5fdlMtSXFZcnpfVlNXRTlvVzdsbGg5eUFMOUNuZzN5ZVo2M1dEYXJ6U1I5UUJORXlmcFdVSUxHNzIwQThlejFiMDQ?oc=5"
+    },
+    {
+      "t": "PlayStation encerrará aplicativo do PS Plus para PC",
+      "d": "",
+      "link": "https://ovicio.com.br/playstation-encerrara-aplicativo-do-ps-plus-para-pc/",
+      "fonte": "O Vício",
+      "data": "2026-11-10T18:11:38.000Z",
+      "c": "PC",
+      "img": "https://ovicio.com.br/wp-content/uploads/2026/06/20260625-ovicio-ps5-dualsense.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhd0RXY0locmt6LUV3d200emd1dVNxd0VOVnU4a0xxMkxUX2U4YnpNUDl6U3ZJN0tjSkpILWF1dlZRODc4Y0t3WFJXcWY3ckhjZWxEZTFqbFdpZjM1QjdpdW5ja3p0a21qUjdiX3JHanljb3FnQ1ZyNGxDTllKbjDSAYQBQVVfeXFMUFg5Q1BWcW1yOGVUeUJzZnZvbVNtT3VfOFdrU1hMR19ZMlNUZllaeFhYUGpZWVdjd2kxd3BRX3hCMUtqNG1IMk9wWXRRUGtUWUhPVFFZTFRXT3BCVEJNbXBvSC1hUGdJTVZmbGpYc0ZyZEVkbVNmY0U1V29tNW5qek5hajA5?oc=5"
+    },
+    {
+      "t": "PlayStation anuncia Prism Collection com controles DualSense e tampas para PS5",
+      "d": "",
+      "link": "https://www.itatiaia.com.br/games/playstation-anuncia-prism-collection-com-controles-dualsense-e-tampas-para-ps5/",
+      "fonte": "Rádio Itatiaia",
+      "data": "2026-11-10T18:07:05.000Z",
+      "c": "Consoles",
+      "img": "https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/11/IMAGENS-PORTAL-ITATIAIA-10-1.png?resize=1280%2C720&w=1280&h=720&quality=75&crop=1",
+      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDdDTTZwM3gyUEpiTlRmd1I1c2VLQ1kwbDk4RWxOd05maGtVamo4YjVtN3dDb2t2Y1hPcG85Mjh5bkJaWDdyQW9CMy1LbC1YTUFlLXV6SVZwVDZWc0dwXzB1bXJOaDlYUDktWll6d01qWmQ1VEY1OV8zZEttblRZUXZtTWV1MXREYllfZmNjWkZ6MjZaTldFcUhqQTA3czdJZkJFc3F3SmlTMktwUzUyVDRNTQ?oc=5"
+    },
+    {
+      "t": "Aplicativo PlayStation Plus no PC será encerrado em dezembro",
+      "d": "",
+      "link": "https://www.comboinfinito.com.br/principal/playstation-plus-app-pc-encerra-atividades/",
+      "fonte": "Combo Infinito",
+      "data": "2026-11-10T18:02:37.000Z",
+      "c": "PC",
+      "img": "https://www.comboinfinito.com.br/principal/wp-content/uploads/2023/08/PS-Plus-2-1200x628.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcWJLSzhJRzlfSWRLQURKa0pLeE9DVG1JRDVUWWhxbmxNbXVtZzBGNl9mNXM2NEpUTUZ6R2haVVB5QndDY01KaFl5VHRnRmlhdkpPb1pnQWdSVlVIWWdOUjRmOGZmVUNZbnM2UDZOUDg4cWhEN2R1aDdld24tN05aQURTbnFhVk9aekFLdGdUQQ?oc=5"
+    },
     {
       "t": "PS Plus tem Death Stranding 2 e mais 9 jogos em novembro; veja a lista",
       "d": "Serviço também perderá ótimos jogos em novembro, incluindo GTA 5 e Red Dead 2",
@@ -11,36 +89,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2024/05/image-2023-05-17T100426.530.webp"
     },
     {
-      "t": "Nintendo vai permitir que você presenteie amigos com jogos digitais de Switch 1 e 2 em breve",
-      "d": "",
-      "link": "https://www.tudocelular.com/curiosidade/noticias/n266831/nintendo-switch-presente-jogos-digitais.html",
-      "fonte": "TudoCelular.com",
-      "data": "2026-11-10T17:47:16.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHNPZzBrM0xBdHJ3ZFpveV9ORTUtVFlZYTdHVzhVZXRRaE92QVRHSHZYSGx2NHhDbjJMVHZSbWNyUUpLbUw3MEVFNTFmR1J2aDhtNi1kUW5OcjlVVFZjMnJZYmxfZGw0NTdjY1dWLXhHRnlXWXN0ZEdaa1Rtd2ppNmZDRU15aWp3cUpZUDZWM1RyWjYxUFFob3VyaXZuczVpaF9r?oc=5"
-    },
-    {
-      "t": "Just Dance: Decades of Hits chega ao Nintendo Switch 2 e como atualização gratuita no Switch",
-      "d": "",
-      "link": "https://arkade.com.br/just-dance-decades-of-hits-chega-ao-nintendo-switch-2-e-como-atualizacao-gratuita-no-switch/",
-      "fonte": "arkade.com.br",
-      "data": "2026-11-10T17:45:00.000Z",
-      "c": "Consoles",
-      "img": "https://arkade.com.br/wp-content/uploads/2026/11/just-dance-decades-of-hits-chega-ao-nintendo-switch-2-e-como-atualizacao-gratuit.webp",
-      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHZHM3VjSldFeVZVSHBkYmQ1NXBIdUo2OWRrMEUxbU1UZGY5WlQtMTM1b295OWJYUnJYRjgxMXYwOW5vNzFHcmV6R0d6aGtuMTF2cjd5RDluS2JIYUhVSWJ2LUJqQXVtanM3WjZkTHlCWkJmQmxidGwtN2ZzZ3R0MW9tYWgzZGtFX01jVXdWQkpkWi1YNFFodU5wYUlJbE5sZmJYeGYyQVU4dDNoWG1kY3dxSTQ?oc=5"
-    },
-    {
-      "t": "Primeiras notas da versão de Nintendo Switch 2 de Pikmin 4 são reveladas no Metacritic",
-      "d": "",
-      "link": "https://projectn.com.br/primeiras-notas-da-versao-de-nintendo-switch-2-de-pikmin-4-sao-reveladas-no-metacritic/",
-      "fonte": "projectn.com.br",
-      "data": "2026-11-10T17:44:11.000Z",
-      "c": "Consoles",
-      "img": "https://projectn.com.br/wp-content/uploads/2026/11/Pikmin-4-Nintendo-Switch-2-Edition-Dandori-Academy-trailer.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFpoZENubXNTa2xIamdVYmNkSzhzaDhCNlVFaS14RmJIMndXWk5aTERLRmJXQkdvbmRCeDlibHhCckozTk9CVHIzOFhxdHo1M0VSV1g5VXVlVlhEYnlqbXV2R2FrSmlsYWJGYWpobXZvZ1pwZ216MzNEbUg0MVI0NHlWU2h2elNzMkFXVTVLVjd1V09LbVQ3d241b3NSSGNIRXFibTMtSmVsaDlLMDJGcw?oc=5"
-    },
-    {
       "t": "GTA 6 ganha novo teaser de gameplay anunciando preload do jogo",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-ganha-novo-teaser-de-gameplay-anunciando-preload-do-jogo/",
@@ -48,16 +96,6 @@
       "data": "2026-11-10T17:38:00.000Z",
       "c": "Lançamentos",
       "img": "https://www.estadao.com.br/resizer/v2/UT2SN53IC5BWJJMCMMBV4TJR4A.jpg?quality=80&auth=3660af0d289b1896a36bf5c02bb8145d8c268d193da40a9b39677ff1a39ff590&width=710"
-    },
-    {
-      "t": "DOIS NOVOS JOGOS chegaram no Xbox Game Pass! – 10 de novembro",
-      "d": "",
-      "link": "https://centralxbox.com.br/2026/11/10/dois-novos-jogos-chegaram-no-xbox-game-pass-10-de-novembro/",
-      "fonte": "Central Xbox",
-      "data": "2026-11-10T17:35:13.000Z",
-      "c": "Consoles",
-      "img": "https://centralxbox.com.br/wp-content/uploads/2025/05/Game-Pass.webp",
-      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm1nRW9GT0xUbnJrUGVidl80N1dzRGVvSWlXaW1JaFdqVDlhN2d0bGp1ZzJ6Z05PVEpnMlllcFJ0TXJ1YWNXazJRY2xxS3ZNUXQ0MVpqN0tUaDBpbFpVb25GVUh4d3JiZnpHUDBZS2RVX2dzTV82b2V0X2J4dEdNWnFuLS05a3NFOXAyQkphelhqVFU4SkJJVFhybXZTQQ?oc=5"
     },
     {
       "t": "5 coleções geeks de peso no Skeelo que você precisa testar para ver se pode resgatar: aprenda como fazer isso em poucos minutos",
@@ -231,15 +269,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/08/download.jpg"
     },
     {
-      "t": "Capcom decidiu adiar RE Veronica após feedback de Requiem [rumor]",
-      "d": "Segundo Dusk Golem, a Capcom trabalha em correções para RE Veronica",
-      "link": "https://flowgames.gg/re-veronica-e-adiado-para-fim-de-2027-diz-insider/",
-      "fonte": "Flow Games",
-      "data": "2026-11-10T13:46:43.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/06/resident_evil_veronica_-_screenshot_8.jpg"
-    },
-    {
       "t": "GTA 6 está oficialmente pronto e já pode ser baixado no PS5 e Xbox Series S e X",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-esta-oficialmente-pronto-e-ja-pode-ser-baixado-no-ps5-e-xbox-series-s-e-x/",
@@ -247,34 +276,6 @@
       "data": "2026-11-10T13:17:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/FEODFQXPBBLVZLIL7WD2N67WEM.jpg?quality=80&auth=e7730d4829449ef3ec6b47c844c9298981e0d3b49dc15f3e4fead2831bfa2c42&width=710"
-    },
-    {
-      "t": "Red Dead Redemption 2 supera 89 milhões de cópias e completa 7 anos no PC",
-      "d": "",
-      "link": "https://ncnews.com.br/2026/11/10/red-dead-redemption-2-pc-estreia-trailer-4k-extras-ineditos/",
-      "fonte": "ncnews.com.br",
-      "data": "2026-11-10T13:05:31.000Z",
-      "c": "PC",
-      "img": "https://ncnews.com.br/app/uploads/2026/11/red-dead-redemption-2-screenshot-of-arthur-morgan-holding-a-lantern.webp",
-      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzU1WWV5YVpHTnByeXJjS2h5eFVaX2x0cXo2Z2pwT2ZUa1ZMTXNheHBwYkVLYk5LOU9XYzJyR3pZLVNYYkdzVmRUdlBOd2xZSm1HUkUxX3lZaE4yYnhtWjI1aVZSSEFuSGNLYTQxQ3NOdEJjd2ZHcUpuWXAxX2Q4WjY1MFVvZE1jUEs5b0VHbjc1M2F5NkFuRA?oc=5"
-    },
-    {
-      "t": "7 melhores consoles portáteis de todos os tempos (do Game Boy ao Steam Deck)",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/7-melhores-consoles-portateis-de-todos-os-tempos-do-game-boy-ao-steam-deck/",
-      "fonte": "TecMundo",
-      "data": "2026-11-10T11:15:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/64PHK3WTUVPLTIAATCGLHJVW74.jpg?quality=80&auth=7f424731c5711118f44cce9b483543e92081d61755f2620a4d376c9d1f2c3d3b&width=710"
-    },
-    {
-      "t": "Sony lança nova versão do PlayStation Portal com armazenamento extra para ‘nova função’",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/sony-lanca-nova-versao-do-playstation-portal-com-armazenamento-extra-para-nova-funcao/",
-      "fonte": "TecMundo",
-      "data": "2026-11-09T23:15:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/WE5BGWLISRBHZABFRHU3D4ODQI.jpg?quality=80&auth=19ed40d3ff5c8ae8e8c05c45b642d18158abeb8225cb9ede1dde45beab244b92&width=710"
     }
   ],
   "videos": [
@@ -290,7 +291,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8238,
+      "views": 8239,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -442,7 +443,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20379,
+      "views": 20378,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -941,7 +942,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv1v.jpg",
-      "hype": 1142,
+      "hype": 1144,
       "link": "https://www.igdb.com/games/grand-theft-auto-vi"
     },
     {
