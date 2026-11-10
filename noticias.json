@@ -1,34 +1,198 @@
 {
-  "atualizadoEm": "2026-11-10T15:01:26.876Z",
+  "atualizadoEm": "2026-11-10T17:57:25.819Z",
   "noticias": [
     {
-      "t": "Switch 2: Nintendo corrige falha que permitia jailbreak",
-      "d": "Novo firmware do Nintendo Switch 2 elimina as suas vulnerabilidades",
-      "link": "https://flowgames.gg/nintendo-switch-2-jailbreak-firmware-remove/",
+      "t": "PS Plus tem Death Stranding 2 e mais 9 jogos em novembro; veja a lista",
+      "d": "Serviço também perderá ótimos jogos em novembro, incluindo GTA 5 e Red Dead 2",
+      "link": "https://flowgames.gg/ps-plus-tem-death-stranding-2-e-mais-9-jogos-novembro/",
       "fonte": "Flow Games",
-      "data": "2026-11-10T14:58:33.000Z",
+      "data": "2026-11-10T17:47:48.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2024/05/image-2023-05-17T100426.530.webp"
+    },
+    {
+      "t": "Nintendo vai permitir que você presenteie amigos com jogos digitais de Switch 1 e 2 em breve",
+      "d": "",
+      "link": "https://www.tudocelular.com/curiosidade/noticias/n266831/nintendo-switch-presente-jogos-digitais.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-11-10T17:47:16.000Z",
       "c": "Consoles",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/06/image-7.jpg"
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSHNPZzBrM0xBdHJ3ZFpveV9ORTUtVFlZYTdHVzhVZXRRaE92QVRHSHZYSGx2NHhDbjJMVHZSbWNyUUpLbUw3MEVFNTFmR1J2aDhtNi1kUW5OcjlVVFZjMnJZYmxfZGw0NTdjY1dWLXhHRnlXWXN0ZEdaa1Rtd2ppNmZDRU15aWp3cUpZUDZWM1RyWjYxUFFob3VyaXZuczVpaF9r?oc=5"
     },
     {
-      "t": "GTA 6: Suporte ao Xbox One e PC via nuvem confirmado",
+      "t": "Just Dance: Decades of Hits chega ao Nintendo Switch 2 e como atualização gratuita no Switch",
       "d": "",
-      "link": "https://ultimaficha.com.br/2026/11/10/gta-6-xbox-one-pc-nuvem/",
-      "fonte": "Última Ficha",
-      "data": "2026-11-10T14:56:31.000Z",
-      "c": "PC",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DYUdRbGZETXpTT19SMWpWTFUyUFpSajBJSnZ1clR4ZUpsVVJFU0EtYkpEWDRRcFVmTW1QUVJScS05YXlHMXg4djJCWWJUT1k5bFZEbk1wNDNBaWtEeWRPWktnOGlPZnRLM0NHd2Zabw?oc=5"
+      "link": "https://arkade.com.br/just-dance-decades-of-hits-chega-ao-nintendo-switch-2-e-como-atualizacao-gratuita-no-switch/",
+      "fonte": "arkade.com.br",
+      "data": "2026-11-10T17:45:00.000Z",
+      "c": "Consoles",
+      "img": "https://arkade.com.br/wp-content/uploads/2026/11/just-dance-decades-of-hits-chega-ao-nintendo-switch-2-e-como-atualizacao-gratuit.webp",
+      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHZHM3VjSldFeVZVSHBkYmQ1NXBIdUo2OWRrMEUxbU1UZGY5WlQtMTM1b295OWJYUnJYRjgxMXYwOW5vNzFHcmV6R0d6aGtuMTF2cjd5RDluS2JIYUhVSWJ2LUJqQXVtanM3WjZkTHlCWkJmQmxidGwtN2ZzZ3R0MW9tYWgzZGtFX01jVXdWQkpkWi1YNFFodU5wYUlJbE5sZmJYeGYyQVU4dDNoWG1kY3dxSTQ?oc=5"
     },
     {
-      "t": "GTA 6 a 30 FPS: Entenda a decisão técnica da Rockstar Games",
+      "t": "Primeiras notas da versão de Nintendo Switch 2 de Pikmin 4 são reveladas no Metacritic",
       "d": "",
-      "link": "https://ultimaficha.com.br/2026/11/10/gta-6-confirmado-30-fps-consoles-detalhes-tecnicos/",
-      "fonte": "Última Ficha",
-      "data": "2026-11-10T14:54:39.000Z",
+      "link": "https://projectn.com.br/primeiras-notas-da-versao-de-nintendo-switch-2-de-pikmin-4-sao-reveladas-no-metacritic/",
+      "fonte": "projectn.com.br",
+      "data": "2026-11-10T17:44:11.000Z",
+      "c": "Consoles",
+      "img": "https://projectn.com.br/wp-content/uploads/2026/11/Pikmin-4-Nintendo-Switch-2-Edition-Dandori-Academy-trailer.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFpoZENubXNTa2xIamdVYmNkSzhzaDhCNlVFaS14RmJIMndXWk5aTERLRmJXQkdvbmRCeDlibHhCckozTk9CVHIzOFhxdHo1M0VSV1g5VXVlVlhEYnlqbXV2R2FrSmlsYWJGYWpobXZvZ1pwZ216MzNEbUg0MVI0NHlWU2h2elNzMkFXVTVLVjd1V09LbVQ3d241b3NSSGNIRXFibTMtSmVsaDlLMDJGcw?oc=5"
+    },
+    {
+      "t": "GTA 6 ganha novo teaser de gameplay anunciando preload do jogo",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-ganha-novo-teaser-de-gameplay-anunciando-preload-do-jogo/",
+      "fonte": "TecMundo",
+      "data": "2026-11-10T17:38:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.estadao.com.br/resizer/v2/UT2SN53IC5BWJJMCMMBV4TJR4A.jpg?quality=80&auth=3660af0d289b1896a36bf5c02bb8145d8c268d193da40a9b39677ff1a39ff590&width=710"
+    },
+    {
+      "t": "DOIS NOVOS JOGOS chegaram no Xbox Game Pass! – 10 de novembro",
+      "d": "",
+      "link": "https://centralxbox.com.br/2026/11/10/dois-novos-jogos-chegaram-no-xbox-game-pass-10-de-novembro/",
+      "fonte": "Central Xbox",
+      "data": "2026-11-10T17:35:13.000Z",
+      "c": "Consoles",
+      "img": "https://centralxbox.com.br/wp-content/uploads/2025/05/Game-Pass.webp",
+      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQm1nRW9GT0xUbnJrUGVidl80N1dzRGVvSWlXaW1JaFdqVDlhN2d0bGp1ZzJ6Z05PVEpnMlllcFJ0TXJ1YWNXazJRY2xxS3ZNUXQ0MVpqN0tUaDBpbFpVb25GVUh4d3JiZnpHUDBZS2RVX2dzTV82b2V0X2J4dEdNWnFuLS05a3NFOXAyQkphelhqVFU4SkJJVFhybXZTQQ?oc=5"
+    },
+    {
+      "t": "5 coleções geeks de peso no Skeelo que você precisa testar para ver se pode resgatar: aprenda como fazer isso em poucos minutos",
+      "d": "O catálogo do Skeelo vai além dos best-sellers de sempre. O acervo do aplicativo de leitura conta com mangás clássicos, como Naruto; light novels em alta, como Diário de uma Apotecária; e até...",
+      "link": "https://br.ign.com/descontos/157511/5-colecoes-geeks-de-peso-no-skeelo-que-voce-precisa-testar-para-ver-se-pode-resgatar-aprenda-como-fa",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-10T17:25:23.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/capa-skeelo-4-1_wjfr.jpg"
+    },
+    {
+      "t": "7 em 1: coletânea de Mega Man que leva clássicos do Nintendo DS ao PS5 está em oferta",
+      "d": "Mega Man Star Force Legacy Collection reúne todas as versões da trilogia original e adiciona batalhas online, ajustes de dificuldade e uma galeria de arte e música",
+      "link": "https://br.ign.com/descontos/157508/7-em-1-coletanea-de-mega-man-que-leva-classicos-do-nintendo-ds-ao-ps5-esta-em-oferta",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-10T17:23:26.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/mega-man-star-force-capa-mega-man-1280x720_fkyw.jpg"
+    },
+    {
+      "t": "Menor preço da web! Mafia: The Old Country para PS5 fica mais barato no Esquenta 11.11 da Amazon",
+      "d": "O jogo coloca os jogadores na Sicília do início do século XX, em uma história de origem da máfia protagonizada por Enzo Favara",
+      "link": "https://br.ign.com/descontos/157509/menor-preco-da-web-mafia-the-old-country-para-ps5-fica-mais-barato-no-esquenta-1111-da-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-10T17:16:17.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_qhtg.jpg"
+    },
+    {
+      "t": "GTA 6 é o jogo com mais pré-vendas da história da PlayStation Store e da Microsoft Store",
+      "d": "Tanto a Sony quanto a Microsoft emitiram um aviso para que os fãs façam o pré-carregamento do jogo o mais rápido possível",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157506/gta-6-e-o-jogo-com-mais-pre-vendas-da-historia-da-playstation-store-e-da-microsoft-store",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-10T16:56:27.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6-now-/gta-6-now-the-most-preordered-game-in-playstation-store-and_dmwd.jpg"
+    },
+    {
+      "t": "Novo Metroid 2D para Nintedo Switch 2 entra em pré-venda na Amazon",
+      "d": "Metroid Ravenous chega em 28 de janeiro de 2027",
+      "link": "https://br.ign.com/metroid-ravenous/157505/novo-metroid-2d-para-nintedo-switch-2-entra-em-pre-venda-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-10T16:40:15.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/ign_br/photo/default/metroid-ravenous-uk-preorders-2-1789040876992_w6h5.jpg"
+    },
+    {
+      "t": "GTA 6: Rockstar Games libera música inédita",
+      "d": "Após ter liberado o pre-load, a Rockstar Games também acaba de lançar mais uma música original do GTA 6",
+      "link": "https://flowgames.gg/gta-6-rockstar-games-libera-musica-inedita/",
+      "fonte": "Flow Games",
+      "data": "2026-11-10T16:26:02.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.youtube.com/embed/UqdOZmMQfSk"
+    },
+    {
+      "t": "GTA 6 tem horário de lançamento confirmado pela Rockstar",
+      "d": "Ansioso por GTA 6? Veja o horário que o jogo será liberado no Brasil",
+      "link": "https://flowgames.gg/gta-6-tem-horario-de-lancamento-confirmado-rockstar/",
+      "fonte": "Flow Games",
+      "data": "2026-11-10T16:10:09.000Z",
+      "c": "Lançamentos",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/Pre-Load-Grand-Theft-Auto-VI-Now-Artwork.jpg"
+    },
+    {
+      "t": "GTA 7 não deve demorar tanto quanto GTA 6 demorou",
+      "d": "CEO da Take-Two não quer repetir a espera de 13 anos por GTA 6",
+      "link": "https://flowgames.gg/gta-6-demorou-13-anos-gta-7-deve-demorar-menos/",
+      "fonte": "Flow Games",
+      "data": "2026-11-10T15:43:44.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-6.jpg"
+    },
+    {
+      "t": "Carro de GTA 6 da vida real está sendo vendido por US$ 1,3 milhão",
+      "d": "O veículo foi projetado pela Rockstar e pela West Coast Customs e é baseado no Ferrari Testarossa",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157499/carro-de-gta-6-da-vida-real-esta-sendo-vendido-por-us-13-milhao",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-10T15:35:03.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/a/a-real-lif/a-real-life-gta-6-car-is-being-sold-for-13-million_6d1x.jpg"
+    },
+    {
+      "t": "Rockstar Games confirma que GTA 6 será jogável no Xbox One de um jeito diferenciado",
+      "d": "Isso se você não se importar com os melhores gráficos Após meses de especulação, a Rockstar finalmente revelou que o GTA 6 terá como meta 30 fps em todos os consoles da geração atual , incluindo o...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157504/rockstar-games-confirma-que-gta-6-sera-jogavel-no-xbox-one-de-um-jeito-diferenciado",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-10T15:31:58.000Z",
       "c": "PC",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbUcyNnpHV1FKSXpuaWc5dHJEenNMMURNeVlUSk1wQnI4UVJTelhkMnZvcG5GZjlTaWRjMkVoaU1pNnJJbzVXcUIzMExVdjkzUkw5RWhWcEhUMVRvZnJjU2ZfamRtRkk0UnFBRE4wd1FMVHpRMWdqYjBqdTctaXZmZmNPa1M1MFNydU8xN1UzdG4zdWM?oc=5"
+      "img": "https://sm.ign.com/ign_br/news/y/you-dont-n/you-dont-need-a-current-gen-console-if-youre-happy-to-play-g_kqr5.jpg"
+    },
+    {
+      "t": "Esquenta 11.11: Mouse gamer Logitech G305 LIGHTSPEED fica mais barato na Amazon",
+      "d": "O mouse gamer sem fio da Logitech aparece com desconto especial durante o Esquenta 11.11 da Amazon, oferecendo tecnologia LIGHTSPEED e sensor HERO para jogos",
+      "link": "https://br.ign.com/descontos/157502/esquenta-1111-mouse-gamer-logitech-g305-lightspeed-fica-mais-barato-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-10T15:24:30.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_bvtm.jpg"
+    },
+    {
+      "t": "GTA 6 fez com que alguns jogadores adiassem a compra de novos jogos — incluindo NBA 2K27 da Take-Two, afirma Strauss Zelnick",
+      "d": "“Acreditamos que o lançamento de GTA 6 tenha influenciado o consumidor”",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157500/gta-6-fez-com-que-alguns-jogadores-adiassem-a-compra-de-novos-jogos-incluindo-nba-2k27-da-take-two-a",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-10T15:20:39.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6-caus/gta-6-caused-some-gamers-to-hold-off-on-buying-new-games-inc_u1zj.jpg"
+    },
+    {
+      "t": "GTA 6 terá jogatina em nuvem com suporte ao Xbox Cloud Gaming",
+      "d": "Você vai poder jogar GTA 6 através da nuvem em uma TV ou celular (sem precisar de um Xbox)",
+      "link": "https://flowgames.gg/gta-6-jogatina-em-nuvem-com-suporte-xbox-cloud-gaming/",
+      "fonte": "Flow Games",
+      "data": "2026-11-10T15:03:25.000Z",
+      "c": "Consoles",
+      "img": "https://flowgames.gg/wp-content/uploads/2025/05/batch_Jason_e_Lucia_02_paisagem.jpg"
+    },
+    {
+      "t": "Caso Nvidia: quais os interesses da China na suposta espionagem contra Jensen Huang?",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/o-que-a-china-tinha-a-ganhar-com-a-suposta-espionagem-contra-jensen-huang/",
+      "fonte": "TecMundo",
+      "data": "2026-11-10T15:00:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/DTS72AKJ5ZDGBE2Y5I64AY4FYM.jpg?quality=80&auth=f87085be9570332e5106b789224ad2553456e03be0e2072ba6395b1d59527a62&width=710"
+    },
+    {
+      "t": "Segundo relatos, James Gunn tinha grandes planos para vários filmes de Superman e uma possível franquia da Liga da Justiça antes de deixar a DC Studios",
+      "d": "A mudança lança dúvidas sobre o futuro do Universo DC",
+      "link": "https://br.ign.com/superman-james-gunn/157491/segundo-relatos-james-gunn-tinha-grandes-planos-para-varios-filmes-de-superman-e-uma-possivel-franqu",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-10T14:55:01.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/news/j/james-gunn/james-gunn-reportedly-had-big-plans-for-multiple-superman-mo_nu48.png"
     },
     {
       "t": "GTA 6 tem suporte ao PS5 Pro oficializado (mas roda em 30 fps)",
@@ -40,52 +204,13 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-37.jpg"
     },
     {
-      "t": "Rockstar confirma GTA 6 no Xbox One através do Cloud Gaming",
-      "d": "",
-      "link": "https://centralxbox.com.br/2026/11/10/rockstar-confirma-gta-6-no-xbox-one-atraves-do-cloud-gaming/",
-      "fonte": "Central Xbox",
-      "data": "2026-11-10T14:49:42.000Z",
+      "t": "Switch 2: Nintendo corrige falha que permitia jailbreak",
+      "d": "Novo firmware do Nintendo Switch 2 elimina as suas vulnerabilidades",
+      "link": "https://flowgames.gg/nintendo-switch-2-jailbreak-firmware-remove/",
+      "fonte": "Flow Games",
+      "data": "2026-11-10T14:32:33.000Z",
       "c": "Consoles",
-      "img": "https://centralxbox.com.br/wp-content/uploads/2026/08/GTA-6-scaled.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNby1sWEp4eXBKNzc4bEpBeG5RLUxxcmFYaFZBQy1ianVMdm9pYmUxWTMwS0RvdVNjWE5rNkxyNTV5ZWdPbDc2ako1bElOclVJbmk1UmIzU004VVVBSUIxUmJxQURoeEpYSzN4elhULUhMV1R0UTU4UnE1ZC1MN3lSUlhvbHdiZmtqUHd4T1ZuSHhXQ0tvVVl0ZlFyV00tbW8?oc=5"
-    },
-    {
-      "t": "Pikmin 4 é fantástico, mas ficou ainda melhor na Nintendo Switch 2",
-      "d": "",
-      "link": "https://www.eurogamer.pt/pikmin-4-nintendo-switch-2-edition-um-adoravel-jogo-expandido",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-11-10T14:49:10.000Z",
-      "c": "Consoles",
-      "img": "https://assetsio.gnwcdn.com/images_8v4FZXl.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNakp0V3BwdDQwOUhkTTUyNm1qRndVTDNsOTFlejBaVUFhUWp2aHY5OGh3TWV3Z0xpSmxaOTR3R2VfQUlOdExqTGtNV3oycExQYm9iaWhudnBYNnpNdUVrdHl3d2lzazFoNWRrN0c5OVNRU3p4Z1RMbjIwWTFEMlluWDJ1b0lXNUxVTGlvYVFiRQ?oc=5"
-    },
-    {
-      "t": "Grand Theft Auto VI: Análise do Trailer e Detalhes do PS5 Pro",
-      "d": "",
-      "link": "https://ultimaficha.com.br/2026/11/10/gta-vi-analise-trailer-detalhes-tecnicos-ps5-pro-xbox/",
-      "fonte": "Última Ficha",
-      "data": "2026-11-10T14:48:35.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOclM2U0Q4MmFoVENCVFdxRUItdVMyaWpYZFNqd0hMMjRMQnU1TGFuMlZzcWJ6ZW93bkcwN3VDMG5lRXJpQ2tFbzNBM2F5Wk95b3Fta2U1Z2ZaVHBqMl9ySGFrQ0oxYmszVmFWS0pWem55Q3JEN3Y4SG5lbE1XbU9CbTFZS085RmRsMy1nMHBMQW8ySTB3UlBV?oc=5"
-    },
-    {
-      "t": "GTA 6 rodará a 30 fps em todos os consoles e contará com melhorias de ray tracing no PS5 Pro",
-      "d": "Melhorias detalhadas A Rockstar finalmente anunciou o desempenho de GTA 6 . O jogo rodará a 30 fps em todos os consoles, mas melhorias no PS5 Pro aprimoram o ray tracing. “Grand Theft Auto VI foi...",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157497/gta-6-rodara-a-30-fps-em-todos-os-consoles-e-contara-com-melhorias-de-ray-tracing-no-ps5-pro",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T14:41:33.000Z",
-      "c": "PC",
-      "img": "https://sm.ign.com/ign_br/news/g/gta-6-will/gta-6-will-run-at-30fps-on-all-consoles-features-ray-tracing_3zjp.jpg"
-    },
-    {
-      "t": "Rockstar divulga novo teaser de GTA 6 para celebrar o pré-carregamento do jogo",
-      "d": "Estamos cada vez mais próximos!! Começou hoje o pré-carregamento de GTA 6 para jogadores que já adquiriram o jogo em seus consoles e, para celebrar, a Rockstar divulgou um novo teaser que mostra...",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157495/rockstar-divulga-novo-teaser-de-gta-6-para-celebrar-o-pre-carregamento-do-jogo",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T14:34:57.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/photo/default/lucia-caminos-11-1793891731332_tffe.jpg"
+      "img": "https://flowgames.gg/wp-content/uploads/2025/06/image-7.jpg"
     },
     {
       "t": "GTA 6 ganha novo trailer com imagens inéditas; confira",
@@ -97,15 +222,6 @@
       "img": "https://www.youtube.com/embed/_yl5ELcmugI"
     },
     {
-      "t": "Compositor das trilhas de Donkey Kong Country, David Wise faz show inédito em São Paulo ao lado do grupo brasileiro Gameboys",
-      "d": "O show terá repertório especial, lançamento de álbum e experiências VIP para fãs",
-      "link": "https://br.ign.com/david-wise/157493/compositor-das-trilhas-de-donkey-kong-country-david-wise-faz-show-inedito-em-sao-paulo-ao-lado-do-gr",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T14:23:38.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_em95.png"
-    },
-    {
       "t": "GTA 6: início do pré-load mostra pico de tráfego na internet",
       "d": "Parece que o pré-load de GTA 6 realmente foi um fenômeno e aumentou o tráfego de internet no Brasil e no mundo",
       "link": "https://flowgames.gg/gta-6-inicio-pre-load-mostra-pico-trafego-na-internet/",
@@ -113,33 +229,6 @@
       "data": "2026-11-10T14:18:46.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/08/download.jpg"
-    },
-    {
-      "t": "GTA 6 (Grand Theft Auto 6) - Teaser de Pré-Carregamento",
-      "d": "",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157498/gta-6-grand-theft-auto-6-teaser-de-pre-carregamento",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T14:06:03.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/video/g/gta-6-gran/gta-6-grand-theft-auto-6-official-pre-load-now-trailer_qmt2.png"
-    },
-    {
-      "t": "Chuva no Pesque-pague do remake de The Legend of Zelda: Ocarina of Time",
-      "d": "",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157490/chuva-no-pesque-pague-do-remake-de-the-legend-of-zelda-ocarina-of-time",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T14:00:16.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/video/c/chuva-no-p/chuva-no-pesque-pague-do-remake-de-the-legend-of-zelda-ocari_4hf8.jpg"
-    },
-    {
-      "t": "Quer um Fragmento de Coração ou a Escama Dourada mais rápido? Este é o melhor truque para se usar no Pesque-pague do remake de The Legend of Zelda: Ocarina of Time",
-      "d": "Uma dica passada por gerações de pescadores Eu não sei você, mas eu amo ficar horas — sim, horas — presa em jogos de pesca e o remake de The Legend of Zelda: Ocarina of Time potencializou meu amor...",
-      "link": "https://br.ign.com/games/157487/quer-um-fragmento-de-coracao-ou-a-escama-dourada-mais-rapido-este-e-o-melhor-truque-para-se-usar-no",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T14:00:16.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/oot_33he.jpg"
     },
     {
       "t": "Capcom decidiu adiar RE Veronica após feedback de Requiem [rumor]",
@@ -160,15 +249,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/FEODFQXPBBLVZLIL7WD2N67WEM.jpg?quality=80&auth=e7730d4829449ef3ec6b47c844c9298981e0d3b49dc15f3e4fead2831bfa2c42&width=710"
     },
     {
-      "t": "Fãs vão à loucura após o remake de The Legend of Zelda: Ocarina of Time esclarecer décadas de dúvidas em relação ao design de certos personagens",
-      "d": "\"Ele tá usando uma bermuda jeans?????\" O remake de The Legend of Zelda: Ocarina of Time traz uma nova roupagem para a primeira aventura de Link em 3D, mas alguns de seus detalhes fazem com que os...",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157484/fas-vao-a-loucura-apos-o-remake-de-the-legend-of-zelda-ocarina-of-time-esclarecer-decadas-de-duvidas",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T13:16:59.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/t/the-legend/the-legend-of-zelda-ocarina-of-times-high-quality-visuals-ha_7phm.jpg"
-    },
-    {
       "t": "Red Dead Redemption 2 supera 89 milhões de cópias e completa 7 anos no PC",
       "d": "",
       "link": "https://ncnews.com.br/2026/11/10/red-dead-redemption-2-pc-estreia-trailer-4k-extras-ineditos/",
@@ -177,60 +257,6 @@
       "c": "PC",
       "img": "https://ncnews.com.br/app/uploads/2026/11/red-dead-redemption-2-screenshot-of-arthur-morgan-holding-a-lantern.webp",
       "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUzU1WWV5YVpHTnByeXJjS2h5eFVaX2x0cXo2Z2pwT2ZUa1ZMTXNheHBwYkVLYk5LOU9XYzJyR3pZLVNYYkdzVmRUdlBOd2xZSm1HUkUxX3lZaE4yYnhtWjI1aVZSSEFuSGNLYTQxQ3NOdEJjd2ZHcUpuWXAxX2Q4WjY1MFVvZE1jUEs5b0VHbjc1M2F5NkFuRA?oc=5"
-    },
-    {
-      "t": "Jogadores de Zelda: Breath of the Wild podem aproveitar o remake de Ocarina of Time?",
-      "d": "Será que a fórmula original modernizada consegue atrair um público novo que chegou com os jogos recentes? O remake de Ocarina of Time traz a franquia de volta. Mas, depois de experimentar a...",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157479/jogadores-de-zelda-breath-of-the-wild-podem-aproveitar-o-remake-de-ocarina-of-time",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T13:04:03.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_2r3g.jpg"
-    },
-    {
-      "t": "Capturas do recurso de presentear no Nintendo Switch e Switch 2",
-      "d": "",
-      "link": "https://br.ign.com/nintendo-switch-1/157486/capturas-do-recurso-de-presentear-no-nintendo-switch-e-switch-2",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T12:58:07.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/gift-1794300165962_bnjs.png"
-    },
-    {
-      "t": "Nova atualização da eShop do Switch e Switch 2 permite presentear com games, mas não qualquer pessoa",
-      "d": "Chegou a hora de espalhar a palavra de Ocarina of Time nas festividades A Nintendo lançou uma atualização para o Switch e o Switch 2 que permite presentear produtos da eShop, mas há um porém. A...",
-      "link": "https://br.ign.com/nintendo-switch-2/157485/nova-atualizacao-da-eshop-do-switch-e-switch-2-permite-presentear-com-games-mas-nao-qualquer-pessoa",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T12:58:07.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/ns_41cn.jpg"
-    },
-    {
-      "t": "Chegada de GTA 6 no PC ficará a cargo da Rockstar, diz CEO da Take-Two",
-      "d": "CEO da Take-Two comenta sobre lançamento de GTA 6 no Switch 2 e PC",
-      "link": "https://flowgames.gg/gta-6-no-pc-ficara-a-cargo-da-rockstar-ceo-take-two/",
-      "fonte": "Flow Games",
-      "data": "2026-11-10T12:34:52.000Z",
-      "c": "PC",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-33.jpg"
-    },
-    {
-      "t": "Agora vai! GTA 6 atinge estado Gold",
-      "d": "Em reunião com investidores, Strauss Zelnick confirma que GTA 6 está pronto e revelou outras informações. Veja o que foi dito!",
-      "link": "https://flowgames.gg/agora-vai-gta-6-atinge-estado-gold/",
-      "fonte": "Flow Games",
-      "data": "2026-11-10T11:53:33.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/08/GTA-6-3.jpg"
-    },
-    {
-      "t": "Pack Rush em Disney Lorcana: como jogar com dois boosters",
-      "d": "Pack Rush Disney Lorcana: como jogar com dois boosters fechados, o que muda nas regras e como decidir o que vira tinta sem conhecer o deck.",
-      "link": "https://flowgames.gg/pack-rush-disney-lorcana-como-jogar/",
-      "fonte": "Flow Games",
-      "data": "2026-11-10T11:50:33.000Z",
-      "c": "Geral",
-      "img": "https://cdn.dreamborn.ink/images/en/cards/014/02352a920c67987a6a5fd6c8044d3cb73e0c85e1"
     },
     {
       "t": "7 melhores consoles portáteis de todos os tempos (do Game Boy ao Steam Deck)",
@@ -249,33 +275,6 @@
       "data": "2026-11-09T23:15:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/WE5BGWLISRBHZABFRHU3D4ODQI.jpg?quality=80&auth=19ed40d3ff5c8ae8e8c05c45b642d18158abeb8225cb9ede1dde45beab244b92&width=710"
-    },
-    {
-      "t": "Android: 5 jogos grátis em alta para baixar na Play Store esta semana (09)",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/android-5-jogos-gratis-em-alta-para-baixar-na-play-store-esta-semana-09/",
-      "fonte": "TecMundo",
-      "data": "2026-11-09T22:15:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/RFWWFNX5G5JBBPEQSSXOEUDMSQ.jpg?quality=80&auth=d7bb48581f33c294433bca097142fbda5f52f96e6b21ee64f0635504d5d25514&width=710"
-    },
-    {
-      "t": "Hoje no TecMundo (9): CEO da Nvidia admite traição, Vivo lança internet via Starlink e mais",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-9-ceo-da-nvidia-admite-traicao-vivo-lanca-internet-via-starlink-e-mais/",
-      "fonte": "TecMundo",
-      "data": "2026-11-09T22:04:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/DTS72AKJ5ZDGBE2Y5I64AY4FYM.jpg?quality=80&auth=f87085be9570332e5106b789224ad2553456e03be0e2072ba6395b1d59527a62&width=710"
-    },
-    {
-      "t": "GTA Tokyo chegou pertinho de virar realidade",
-      "d": "Você gostaria de GTA Tokyo mais do que de GTA 6?",
-      "link": "https://flowgames.gg/gta-6-rockstar-games-quase-fez-gta-tokyo-ao-inves/",
-      "fonte": "Flow Games",
-      "data": "2026-11-09T21:54:05.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-1.jpg"
     }
   ],
   "videos": [
@@ -443,7 +442,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20378,
+      "views": 20379,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -459,7 +458,7 @@
       "id": "ugGDjTdbvpU",
       "t": "MELHOR ARMA PARA MAELLE APÓS O NERF | EXPEDITION 33!",
       "data": "2025-05-13T17:30:14Z",
-      "views": 5538,
+      "views": 5539,
       "img": "https://i.ytimg.com/vi/ugGDjTdbvpU/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ugGDjTdbvpU"
     },
@@ -1109,7 +1108,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod34q.jpg",
-      "hype": 49,
+      "hype": 50,
       "link": "https://www.igdb.com/games/hela-of-mice-and-magic"
     },
     {
@@ -1504,6 +1503,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod0sp.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/a-game-about-digging-a-hole-together"
+    },
+    {
+      "t": "Orbit 2D",
+      "data": "2026-12-05",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/codcbf.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/orbit-2d"
     },
     {
       "t": "Mik",
@@ -4672,16 +4681,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaccy.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/obitus--1"
-    },
-    {
-      "t": "Bonemarrow",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacsa.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/bonemarrow"
     }
   ],
   "musicas": []
