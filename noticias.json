@@ -1,55 +1,64 @@
 {
-  "atualizadoEm": "2026-11-11T10:14:34.802Z",
+  "atualizadoEm": "2026-11-11T10:44:41.701Z",
   "noticias": [
     {
-      "t": "PlayStation 5 alcança a marca de 100 milhões de unidades vendidas",
+      "t": "GTA 6 chega ao XBOX One via Cloud Gaming na estreia, mas Microsoft bloqueia acesso no PC",
       "d": "",
-      "link": "https://www.gameblast.com.br/2026/11/playstation-5-alcanca-a-marca-de-100-milhoes-de-unidades-vendidas.html",
-      "fonte": "GameBlast",
-      "data": "2026-11-11T10:10:57.000Z",
+      "link": "https://www.tudocelular.com/software/noticias/n266891/gta-6-cloud-gaming-xbox-one-bloqueio-pc.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-11-11T10:41:15.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdFJhS0Q5TTVVaWljRXpSS0VaMTM1MGlrclhvZmt5TWFCMURYcHVWb3AtU2J4eEpSQ3IwUmJKQzdmaXhvWXQzSUdvNGc1NHJTMGEtU0g4V1hnVmUteVhUcE5Ma0NPS3ZZc1dvNTY1Z0V6dmJJTmVIdS1pX2E0MnVPd2hocVhHeHJzbTI1QTBpSmRMZjJwei1mbXNjVEpFN28?oc=5"
+    },
+    {
+      "t": "Logitech dá folga a funcionários para jogar GTA 6 no lançamento",
+      "d": "",
+      "link": "https://canaltech.com.br/games/logitech-da-folga-a-funcionarios-para-jogar-gta-6-no-lancamento/",
+      "fonte": "Canaltech",
+      "data": "2026-11-11T10:33:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://tl.ctcdn.com.br/EbYca351uyEQkyw02B_9ZMeBxMk=/1200x675/smart/filters:format(webp):quality(85)/e64a22b8-eaab-4e73-8124-6167b2c471a3.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWo5OWdWaFprUDNNbWQ1MUg3QkZUY2JrZlp1andOekNROHBueDBYMEZSVGtWQUVYRXo1NkN4UmhINDlXaVVEWjdnVXhCc2JKcjFTd0lDdVVGQkJmVGxnY3ZILVJTRWxUaERIVk1PQ3EzR29sdktNQzhJS20xZnhiTXo5OTlCSjZCMUFsQ0Foc210RFp3cmNGQ2pNTQ?oc=5"
+    },
+    {
+      "t": "GTA VI vai correr na Xbox One oficialmente graças ao Xbox Cloud Gaming",
+      "d": "",
+      "link": "https://geekinout.pt/artigos/gta-vi-vai-correr-na-xbox-one-oficialmente-gracas-ao-xbox-cloud-gaming",
+      "fonte": "Geekinout",
+      "data": "2026-11-11T10:28:46.000Z",
       "c": "Consoles",
       "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0VUNER4ZEVhcXhoM19NcEZReEdybGVkSHR1UlhXczhhMnRPQ0U2R0RhU01aM19ZbXIyTDNiS01JREpDd0x5cnY5emp3ZlFyS0FvOWRIcFZnMTV2WkFsZkJseExrMk81Rno0X01vRk9HMlJRaVZiQTNqdnVaYVJVZmI1UHpkZndod0RZTV9aNWxXMlFnaGJrN2NEOXl0YlNEbXFoak9Ldmg2Ulk?oc=5"
+      "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZG1mNUNCMFZmTkZCMjMyN2xGZERuZTdzV1N1YVhoWTJxVXJtSVJxbkZJb0NyM19qeEhsWFl5U1d3REhlVFM2VDhnR2J0QjlPQ3JjZER2S0VBTW04TE9LRXVIZmVEYzBaWEQ2THpLckE2SGwzYk05RWN1VUxOa0lpWXlnUS1KT2tSeUwydnBhZzlGcVgwc2djMXNvRE45c0k3?oc=5"
     },
     {
-      "t": "Remake de Zelda: Ocarina of Time vende 5,2 milhões de cópias em 4 dias; é a maior estreia para um first-party do Switch 2 – NintendoBoy",
+      "t": "Nintendo vai desativar o login com Google e Apple na Conta Nintendo",
       "d": "",
-      "link": "https://nintendoboy.com.br/2026/11/remake-de-zelda-ocarina-of-time-vende-52-milhoes-de-copias-em-4-dias-e-a-maior-estreia-para-um-first-party-do-switch-2/",
-      "fonte": "NintendoBoy",
-      "data": "2026-11-11T09:30:18.000Z",
+      "link": "https://projectn.com.br/conta-nintendo-fim-login-google-apple-janeiro-2027/",
+      "fonte": "Project N",
+      "data": "2026-11-11T10:17:07.000Z",
       "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbzdyb0lveWdfWGw3Q1B3MVJtdm9zc2FHTVhUMVhVVVJ2MjllOVdPYThrcE9GeVdBa01QUUxqb0ZaaWRscDA5aFVkdjBORzFPT3hCVWRXaGRWTjh5aV9Jd0IxbjZBekM1aFQ1b3dJVjBkNjJCank2QThhUVR6R2F5VHVxQ0tCYVdqOEVmaEFfSVVsZUtjR1ZPNWxRR1hPcE84TGNTVEl0eVY1QzBQdWk2ei1zNnZGc2o5c1J1bjhQTmx4a2VJelgySjV4eDREOXNaN2ROUUFMTHhqNTlyd3hJdW9sd190MUNnUXc?oc=5"
+      "img": "https://projectn.com.br/wp-content/uploads/2026/11/Conta-Nintendo.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcEVqZ2JTSWdQUTZzU21jd3psX0pmeFlOMkNuUDlKT294VFZKVng5UjNyQWE3Q0dsWVpRTndkVl9TWDhxNXk3ejhFRlFZM2pGQzUxSnQ2MjJoVkp4UVZtT2lUc09odzVIZGx3bXUwUEZrRG42bXdOb25zUTBka3VzaQ?oc=5"
     },
     {
-      "t": "PlayStation Plus anuncia novos jogos de novembro com grandes lançamentos",
+      "t": "Doug Bowser revela como a Nintendo testa a diversão dos jogos",
       "d": "",
-      "link": "https://www.terra.com.br/byte/playstation-plus-anuncia-novos-jogos-de-novembro-com-grandes-lancamentos,e2a320160c28062cef5571f3ea83d3b6x7gxne9d.html",
-      "fonte": "Terra",
-      "data": "2026-11-11T09:30:00.000Z",
+      "link": "https://projectn.com.br/doug-bowser-shinya-takahashi-por-que-nao-e-divertido-gamesbeat/",
+      "fonte": "Project N",
+      "data": "2026-11-11T10:15:26.000Z",
       "c": "Consoles",
-      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/11/1513319217-imagem2026-11-11022449135.png",
-      "orig": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRTAwZFF4X3o2a05iMWExX1FVUkFyQkpObzJwU1JjUm9iUmpoeUVwdVRqRXU0S2p3blJ6Y0wyaThEaWY3dkp2aWZOX2g1WGlSbXNHbXE2Qmw5NE8yVXlNTlRKb3BWUHJISHVzRl9nLWNxZDk1Y2RxQWJwWHh0SFB1Q2lZMFFtbjQwdVZZRWpTSHVmMm95TVlka09GTkdmT3U2Q0trQkhnTHcwaDFDOW9xM0tSajlFUDhVcDAwbmFTUHJCdnRMY2pWaFgzWGtIR3pJNWhMdlB4TFFBS0MwOVdyakN3?oc=5"
+      "img": "https://projectn.com.br/wp-content/uploads/2025/09/doug-bowser.jpg1_.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGpuTW1fbU1IYnhEajczYklNSksybG8xQTZzN2k1MXdnVW83UW5iVUJpdlBNWTFRZ0ZQOFhfS281RHBOMlpSOWVsTE45b0FHUDIxME1iZFprWS1ER0R6d3dhamVpLUd1a2hROTUwUlNJM3h1ejY4cEF0b2x2MENKN25OY0ZOQTNhSzd3SFRyZ24?oc=5"
     },
     {
-      "t": "CEO da Take-Two parabeniza Nintendo por remake de Ocarina of Time",
-      "d": "",
-      "link": "https://ovicio.com.br/ceo-da-take-two-parabeniza-nintendo-por-remake-de-ocarina-of-time/",
-      "fonte": "O Vício",
-      "data": "2026-11-11T08:58:15.000Z",
-      "c": "Consoles",
-      "img": "https://ovicio.com.br/wp-content/uploads/2026/11/20261111-gtavi.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRGVqWEJlZFlXc0pNTEVWRTVVeHVyNjNtXzhiNEJVMUV3U0ZnYTU1QUtSTXRCNHYzZVhVTnhNUjlJOWJLMWhwdzczQ3dfbVp0Q1JxNXJPYjhIZlNHUXNsTWM2WkRMQ01La3ZsWFhQZEdFd3J4MWNSN1lPVHpqNzRrd2xGcjd1cTh4YUkycmlJamNNUdIBlwFBVV95cUxOcVhRck9qRGVOUnptU1otdVhYTU9xaUZjNFdQc1k1eWtpSzBVU1pIajQyc2x0NHB5NXNkZWJXTkJWT0pROXpUdGtTM09lamw4REFrM3dwNlBScExpTDc4ZmtmYUdvRFZ5Qm1ENVhJTm1QVDRvdU95MlB5bWVVNk45SmpMZVJzakEyeUNzUXJVOHJZelRnOUpN?oc=5"
-    },
-    {
-      "t": "Nintendo confirma qhe remake de Ocarina of Time vendeu 5.2 milhões de unidades em 4 dias",
-      "d": "",
-      "link": "https://ovicio.com.br/nintendo-confirma-qhe-remake-de-ocarina-of-time-vendeu-5-2-milhoes-de-unidades-em-4-dias/",
-      "fonte": "O Vício",
-      "data": "2026-11-11T08:45:34.000Z",
-      "c": "Consoles",
-      "img": "https://ovicio.com.br/wp-content/uploads/2026/11/20261106-ovicio-ocarina-time-zelda-remake.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFB0aFNyVXIxbjRzd3VZdTYyeFJjbDdVdUFxWUh4X1VXUGZVWDY3Q25GeUVWMHZOTk9PMHFhdi1VZi05T0t2V0ZENnRJOHZrRGo4VTVtbzdEYVo2WUpIRkhNUjRmVmR1MTM5UGZZZG8zN0RuVkNmenFkMDZPTWFLVU9DSFVqLVdVUVhsZGc3TXZFOHpLa3dWLWRnZDRfM1ZwRVBMOTlIRFNWaGhHb1E5WtIBtgFBVV95cUxOcm5QZTJwT3FhQTdQS2cwOEs5Sm9KVDVtaGRsZDc4NUtid0dEaDB6OXJiS2ZSVlZjZWFRM1ZSWFVONmRxTF9NaDAtT2RDVFUxMnd4amRqZ1BlTlJucTN3NWNGd3RmcUxISEJ4cWs1YjAzRnI5RTRPbHpkNklGWkxHR1lDVTZwYlRYcG5HcllSa05sQ3Rmb25XUHgzYXlndy15MmxUenVGVGpyQUlJMFNvWURMUG9XQQ?oc=5"
+      "t": "Apenas 10 linhas de código gerado por IA fizeram os criadores de Big Walk se desculparem pela controvérsia causada",
+      "d": "A House House explicou como a IA que salvou o desempenho do jogo foi usada A equipe enfatizou que não deseja normalizar a IA generativa na indústria: \"apoiamos os esforços daqueles que trabalham...",
+      "link": "https://br.ign.com/big-walk/157523/apenas-10-linhas-de-codigo-gerado-por-ia-fizeram-os-criadores-de-big-walk-se-desculparem-pela-contro",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-11T10:00:41.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_5ere.jpg"
     },
     {
       "t": "R$150 OFF! PS5 do Wolverine de edição limitada com controle e jogo aparece em oferta exclusiva no 11.11 da Amazon",
@@ -170,15 +179,6 @@
       "img": "https://sm.ign.com/ign_br/news/p/playstatio/playstation-cancels-live-service-heist-shooter-fairgames_ax52.jpg"
     },
     {
-      "t": "Esquenta 11.11! Bundle de PS5 Slim com GTA VI está com desconto exclusivo para Prime",
-      "d": "Oferta exclusiva para membros Prime reúne o console, dois jogos da PlayStation e o código de GTA VI, que chega em 19 de novembro",
-      "link": "https://br.ign.com/descontos/157525/esquenta-1111-bundle-de-ps5-slim-com-gta-vi-esta-com-desconto-exclusivo-para-prime",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T22:00:35.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/bundle-gta-vi-playstation-5-slim-digital-825-gb-pacote-astro_366327_exm4.png"
-    },
-    {
       "t": "Eita! Fairgames, jogo live service, é cancelado por PlayStation",
       "d": "Fairgames foi anunciado há anos e rumores apontavam em playtests recentes, mas o jogo foi cancelado",
       "link": "https://flowgames.gg/fairgames-jogo-live-service-cancelado-por-playstation/",
@@ -294,7 +294,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8243,
+      "views": 8244,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -374,7 +374,7 @@
       "id": "zUskua35owE",
       "t": "FARM BRUTAL DE TOM DE LUMINA 1 MILHÃO POR HORA | EXPEDITION 33!",
       "data": "2025-05-23T22:23:39Z",
-      "views": 3535,
+      "views": 3536,
       "img": "https://i.ytimg.com/vi/zUskua35owE/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=zUskua35owE"
     },
@@ -446,7 +446,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20384,
+      "views": 20385,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -470,7 +470,7 @@
       "id": "uOAqwQcFWjs",
       "t": "PICTO INSANO CAUSE 100% DE QUEBRA NO INIMIGO | EXPEDITION 33!",
       "data": "2025-05-12T21:01:03Z",
-      "views": 2439,
+      "views": 2440,
       "img": "https://i.ytimg.com/vi/uOAqwQcFWjs/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=uOAqwQcFWjs"
     },
@@ -605,7 +605,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa07m.jpg",
-      "hype": 3,
+      "hype": 4,
       "link": "https://www.igdb.com/games/derelikt"
     },
     {
@@ -1465,6 +1465,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co94sn.jpg",
       "hype": 7,
       "link": "https://www.igdb.com/games/muri-wildwoods"
+    },
+    {
+      "t": "Mouse Work",
+      "data": "2026-12-07",
+      "plats": [
+        "Switch 2"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n48.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/mouse-work"
     },
     {
       "t": "Sushi on Wheels",
@@ -4673,16 +4683,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coae9v.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/versalis"
-    },
-    {
-      "t": "Cyber Siege",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/codbz1.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/cyber-siege"
     }
   ],
   "musicas": []
