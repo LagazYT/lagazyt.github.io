@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-11-11T01:01:39.672Z",
+  "atualizadoEm": "2026-11-11T01:31:46.458Z",
   "noticias": [
+    {
+      "t": "GDV Festival 2026 reúne desenvolvedores e apaixonados por games em Brasília nos dias 14 e 15 de novembro",
+      "d": "",
+      "link": "https://visitebrasilia.com.br/noticias/gdv-festival-2026-reune-desenvolvedores-e-apaixonados-por-games-em-brasilia-nos-dias-14-e-15-de-novembro",
+      "fonte": "Visite Brasília",
+      "data": "2026-11-11T01:17:59.000Z",
+      "c": "Geral",
+      "img": "https://visitebrasilia.com.br/images/2026/11/20261110221745_s_47b78eb6-7861-45eb-a24d-dae949722b73.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTnYtb1Jwc3RwMUhrT2RlYzRSZnNEc0V5SUM5MXlMS0xmLVVGRVpfNXgtQ3BkR19keUhSdVB2TmVKV3VBX0ZHY2tCc3NRNWp2Q1JaV09kcjNxMjQtOXcteS1WM1JsUmE3T0RUeUJBQnJrX0dpM3FGRF9IcTJuMFJLN091RXpvWEhrUVpXNjBPOUtpaUdOUkJqemgtNkQtbHZkVVpJWkxjSHV0WUE5Xzg1Z2w3VGZYZW8xYlg2eVBBM0h4Ri1oMTFkNTRlaFBZME5Qbm9HUENvUGlYU00?oc=5"
+    },
+    {
+      "t": "Nintendo encerra login pelo Google ou conta Apple",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/nintendo/nintendo-encerra-login-pelo-google-ou-conta-apple/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-11T01:14:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/nintendo-encerra-login-pelo-google-ou-conta-apple-nintendo-encerra-login-pelo-google-ou-conta-apple-cover.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0lJZTdoUkVZcGVqcEdzVHZBNUhScndXZlZvd3ZtRGpUSkdLRHFWT1VUUWtlZ1hjSmtaLTRmVFc0MG9GNXVGWTBoSDhHcTJqVktrc1dueWhLMkJBc0taU2lxcEZfYUtXRm96RWQxakJXZ2ZYNHFDWUpLQjdJRzBzWVdFTFNPT0lTTG1oa2hXTFFrRE5iN2d6enZSZw?oc=5"
+    },
     {
       "t": "GTA 6 terá meta de 30 FPS em todos os consoles, e PS5 Pro ganha ray tracing nas sombras",
       "d": "",
@@ -41,16 +61,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/mouse-gamer-logitech-g203-u5j5_299360_2exa.jpg"
     },
     {
-      "t": "Como grandes marcas usam games para se conectar com a nova geração",
-      "d": "",
-      "link": "https://portal.saladanoticia.com.br/noticia/79579/como-grandes-marcas-usam-games-para-se-conectar-com-a-nova-geracao",
-      "fonte": "Sala da Notícia",
-      "data": "2026-11-10T23:40:09.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX281NjJqOG5LZGdnTFA3Nm1ZVzhNWTJPSnc2U0dCbk4xVzU3U3pCTkwtT3c1dWJOcUo5VEZCQnNkWWlCZ2RLXzRvUGQ1TGRHV3FTZGNUTmtycml2YjZFUDJsWGZYY3ZoeUpvUVlRZW9HMHRKWFY4YTJvODBRZmhNYmNiSzRVbEFZZ1ZqZWxoU2FON2FyRWdKTVBlTTBBUVpMcDFrMlpRZVpzX0NQTHhyYV9yT3p1bVU?oc=5"
-    },
-    {
       "t": "GTA 6 está fazendo tanto sucesso na pré-venda que está atrapalhando outros jogos da Take-Two",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-esta-fazendo-tanto-sucesso-na-pre-venda-que-esta-atrapalhando-outros-jogos-da-take-two/",
@@ -68,16 +78,6 @@
       "c": "PC",
       "img": "https://jeu.video/images/vLAL25A2ih4qHS7GcRuLZ45DA_0gkOA9PqbKwaxCfLg/rs:auto:1600:900:1/g:sm/czM6Ly9qZXV2aWRlby1ib2x0LXN0b3JhZ2UvdXBsb2Fkcy8yMDI2LzExL2Zvb3RiYWxsLW1hbmFnZXItMjctZ2FtZS1wYXNzLW5vdXZlYXV0ZXMuanBn.webp",
       "orig": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVzQybzNSN2ZzWkRVem1xaDZ1c0puMlRsRnc0M3laR0hHd09pSUJ3dmpVSUhyaUtkYU82Nng3Z2stSkpVSHVNYlc4MVZQM09OQ3NxZ3NKTF9tXzJOMkx6ZERNSWFVWVhybFIwV2FBSkYxQlNyMnZTVlNUVExyQ0doWHRQLVdSZw?oc=5"
-    },
-    {
-      "t": "Nintendo acaba com login pelo Google e Apple; veja o que muda",
-      "d": "",
-      "link": "https://www.tudocelular.com/seguranca/noticias/n266873/nintendo-fim-login-google-apple.html",
-      "fonte": "TudoCelular.com",
-      "data": "2026-11-10T23:14:05.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUZwSTFTMjBIUzRqTFhhUE9BSmdvX0M3eUtnZ0dJY0NfRExWWW5hQl81aEhWVWJoM09sQ2JScFpYUVBBMDhGaWUzSGI2a1BOT25DN0hqVzk4Z0VwNmlNRkR2Z1Jzc0FLTnRDNk5vMFRmVThnS05CQmctaTJpU2NtbWg4eGRMaGFYWkRDbTNRNW1UdnEyRWc?oc=5"
     },
     {
       "t": "Presente de Natal! Nintendo Switch OLED está com 30% de desconto no Esquenta 11.11 da Amazon",
@@ -399,7 +399,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3545,
+      "views": 3548,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -447,7 +447,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20379,
+      "views": 20381,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
