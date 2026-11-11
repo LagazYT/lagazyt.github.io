@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T23:17:45.883Z",
+  "atualizadoEm": "2026-11-11T23:47:54.500Z",
   "noticias": [
     {
       "t": "ISA Games: brasileiros avançam em busca de vaga extra nos Jogos de Los Angeles",
@@ -12,13 +12,23 @@
       "orig": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY085d3ptcUpGa3NUamlETkRlb0MwTl93dDNXcGFadm0xOUxKbWotbGN1WVRSYlJId0ozamtBZWg1T200YjRpRlFqWUZQQkRDLTJ6dF82aVNzcUdyelZYSnltVVZKZ3ZJV1BHdktpX1RCUVlUeFFiZ1ByMnJ2Y3ZHZ3JLb3NodGpHOGNQOWhaTUVpWERJU3hTTUY1NFVWTVhaQ0JqdDJlT3lRUjVnMnZlUEtYY0JvNGpJcmd6NzN4Rzhkclk?oc=5"
     },
     {
-      "t": "Terror em oferta! Resident Evil Requiem para PS5 está com 28% de desconto no Esquenta 11.11 da Amazon",
+      "t": "Terror em oferta! Resident Evil Requiem para PS5 está com 28% de desconto na Amazon",
       "d": "Nono jogo da série principal está no precinho com legendas em português e permite alternar entre primeira e terceira pessoa",
       "link": "https://br.ign.com/descontos/157529/terror-em-oferta-resident-evil-requiem-para-ps5-esta-com-28-de-desconto-no-esquenta-1111-da-amazon",
       "fonte": "IGN Brasil",
       "data": "2026-11-11T23:00:37.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/resident-evil-requiem-ps5-dqy2_348361_x8a9.jpg"
+    },
+    {
+      "t": "God of War e Spider-Man devoram 40% da receita first-party da Sony e acendem alerta de concentração",
+      "d": "",
+      "link": "https://radiogeekbr.com.br/god-of-war-spider-man-concentram-receita-playstation/",
+      "fonte": "radiogeekbr.com.br",
+      "data": "2026-11-11T22:47:15.000Z",
+      "c": "Geral",
+      "img": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794438705.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXo4d0kzaFdBNVRSQm9XN2ZtOUVaM3haTjBxUHprdDcyRmE0R0c2SUlqeFhRSWhNZEJueHJLTWNWUkQtZzZzNWF1NmlqUU5fdW5TVElEc0ZlRGFoZVhFS0wxMExvWDN3TDRUSWZVd183MmxCYklZNE9sZDNyY0cwUU0xQm4zLU0?oc=5"
     },
     {
       "t": "Duelo de brasileiros campeões mundiais marca próxima rodada do ISA Games",
@@ -267,15 +277,6 @@
       "data": "2026-11-11T15:15:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/76IKADZYERKPNLPE5T4ODM5JA4.jpg?quality=80&auth=a9bd74958d8e29a80d8f4b0556cd0e1ead909b915cac3de8054fe7dafea9b41f&width=710"
-    },
-    {
-      "t": "The Outer Worlds 2 anuncia primeira DLC para dezembro de 2026",
-      "d": "A DLC de The Outer Worlds 2 terá duas partes, com a 1ª em dezembro e a segunda prevista para 2027",
-      "link": "https://flowgames.gg/the-outer-worlds-2-anuncia-1a-dlc-dezembro-de-2026/",
-      "fonte": "Flow Games",
-      "data": "2026-11-11T14:51:55.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.youtube.com/embed/WjlWK1Wl6dc"
     }
   ],
   "videos": [
@@ -291,7 +292,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8246,
+      "views": 8247,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
