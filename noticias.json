@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-11-11T02:32:00.113Z",
+  "atualizadoEm": "2026-11-11T03:02:08.574Z",
   "noticias": [
+    {
+      "t": "GTA VI no Xbox One? Veja em quais consoles será possível jogar",
+      "d": "",
+      "link": "https://dol.com.br/entretenimento/games/967986/gta-vi-no-xbox-one-veja-em-quais-consoles-sera-possivel-jogar",
+      "fonte": "DOL",
+      "data": "2026-11-11T02:50:57.000Z",
+      "c": "Consoles",
+      "img": "https://cdn.dol.com.br/img/Artigo-Destaque/960000/1200x675/crop331794362849009679860-3.jpg?fallback=https%3A%2F%2Fcdn.dol.com.br%2Fimg%2FArtigo-Destaque%2F960000%2Fcrop331794362849009679860.jpg%3Fxid%3D3357111&xid=3357111",
+      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEZfa2wtZ3VKVVdoY0hVajd0ZlFlNU1oNzl6NGh5Z0JzNlZjejdzVFpnX2VYWl9rNWxnc1hGUnRXZnFpNmRYSjE0MVk5OXNKVWRFVHdzSEpwRE9PanVtWmd3VU94VnlsZG94Q18xa0lYYXZDZnlqUnlycTFjdGlESURVWkJjOTNETGVQMVgzbEpMcGlFdHpYT1hlck5kLVZ3SjQwQjBPMzFrUDdE0gG0AUFVX3lxTE8tUnh4bzZMdWw2VXFKSW1zZlg1Ni1yLUN4Vi00NFN3YVdlcnFGcWFCeTZCYUtRNHhNaTJHcjhIWENIMGs3QVh1THF0SjBWeDFlcFdqTEVmNzRTZW4zWTJ4OWJfUEppdXh4Z083MnQ2VlI5LW16c0VPdGtCdG5aZWd0aDdEaUN5b3FPdXkzNGNBUV9Yb0lkZF9LRi1zUHpCNm1vOW9GVDRxa0k0cXhGSlhfX252bQ?oc=5"
+    },
+    {
+      "t": "Estúdio considerado \"global\", Fortis Games fechou, provocando a demissão de 440 pessoas",
+      "d": "",
+      "link": "https://dropsdejogos.uai.com.br/noticias/industria/estudio-considerado-global-fortis-games-fechou-provocando-a-demissao-de-440-pessoas/",
+      "fonte": "Drops de Jogos",
+      "data": "2026-11-11T02:48:45.000Z",
+      "c": "Geral",
+      "img": "https://dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2026/11/fortis-games-scaled.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZW9OUV9udUgyc3pLN3lVUEc4eS1sdE9zV3NZRVpMV1FYSmNkS1Rqd2wyS2Z1VXFpWC14bzdMX08wdFVmdGxILUNscElZVEc3d2k2OHNFcTRUNWNYYlRSRlBMVU9yaVNnQS1iYWV6M3EyVHBDcDl2OTJRdmJILWUtcUFJVUMySnZBOFRxWUVLazQ4R3IyMXFrczl2WS1UUjhVMFJkNEVVTmsyWVB6Z0diR2xidTVBY0xYUnRlamhPMHh3WngzUFRBLXRGZUhVaklI?oc=5"
+    },
     {
       "t": "Onde o 'GTA 6' é mais barato? Veja ranking de preços do game por país",
       "d": "",
@@ -30,26 +50,6 @@
       "c": "Consoles",
       "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/nintendo-encerra-login-pelo-google-ou-conta-apple-nintendo-encerra-login-pelo-google-ou-conta-apple-cover.jpg",
       "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0lJZTdoUkVZcGVqcEdzVHZBNUhScndXZlZvd3ZtRGpUSkdLRHFWT1VUUWtlZ1hjSmtaLTRmVFc0MG9GNXVGWTBoSDhHcTJqVktrc1dueWhLMkJBc0taU2lxcEZfYUtXRm96RWQxakJXZ2ZYNHFDWUpLQjdJRzBzWVdFTFNPT0lTTG1oa2hXTFFrRE5iN2d6enZSZw?oc=5"
-    },
-    {
-      "t": "GTA 6 terá meta de 30 FPS em todos os consoles, e PS5 Pro ganha ray tracing nas sombras",
-      "d": "",
-      "link": "https://acritica.net/noticias/gta-6-tera-30-fps-nos-consoles-mas-ps5-pro-contara-com-vantagem-grafica-exclusiva/",
-      "fonte": "A Crítica de Campo Grande",
-      "data": "2026-11-11T00:45:00.000Z",
-      "c": "PC",
-      "img": "https://uploads.acritica.net/2026/09/0d59c81b-b4a9-4256-8f54-d7da377cd99a.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzdnY0pGdlNmU3BvQ19SZzFzY1pIT3JMWmQ5Wmk4ZnpudzF0MHBFX0JlN2dBRlFCdWRCcWRjdEo0ZWhqVnZ1Z01XTmVuNERyT0ZJRU5JbVY3Q2NMSEhPOWQ0UUc3cndrQ2d1NnpuMU9nbkhkcTN0Ulh5MkJBSVRLajdUb3J6M2tXUUx2VnBJLXFxSnluWEhJeHFvcGVGb28zNHNYbzd0Zno0cnY2N1lGMXJn?oc=5"
-    },
-    {
-      "t": "GTA 6 quebra recordes históricos na pré-venda do PlayStation e Xbox",
-      "d": "",
-      "link": "https://www.einerd.com/gta-6-quebra-recordes-historicos-pre-venda/",
-      "fonte": "einerd.com",
-      "data": "2026-11-11T00:30:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.einerd.com/wp-content/uploads/2026/11/GTA-6-Jason_and_Lucia_15.0m-_zbmcy2zr.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XV1E3Z1FFOFhKOC1URlc4cy1GUnBibm94RFdhaFRHaHVIQldxUk5BakdnNFdtdnpKdkdyRmNSVTNwcW10XzlTdERULUJUSTJKdGJFZlpXNzlpaDl3Y3pIdUIzamc3UUVrM01WZ0x0TnZvS2xD?oc=5"
     },
     {
       "t": "Mouse gamer Logitech G203 está por menos da metade do preço no Esquenta 11.11 da Amazon",
