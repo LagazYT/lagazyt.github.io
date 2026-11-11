@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-10T23:31:12.697Z",
+  "atualizadoEm": "2026-11-11T00:01:22.328Z",
   "noticias": [
     {
       "t": "GTA 6 está fazendo tanto sucesso na pré-venda que está atrapalhando outros jogos da Take-Two",
@@ -9,6 +9,16 @@
       "data": "2026-11-10T23:15:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/CFHCAQ6RUFB3LGPYIWEFBXAYA4.jpg?quality=80&auth=dae5c425722f6561f8019848040f5b284311c74b3106ce465528ee902660400c&width=710"
+    },
+    {
+      "t": "Football Manager 27 chega ao Game Pass para PC e Xbox",
+      "d": "",
+      "link": "https://jeu.video/pt-br/article/football-manager-27-game-pass-novidades-pc-xbox",
+      "fonte": "jeu.video",
+      "data": "2026-11-10T23:14:31.000Z",
+      "c": "PC",
+      "img": "https://jeu.video/images/vLAL25A2ih4qHS7GcRuLZ45DA_0gkOA9PqbKwaxCfLg/rs:auto:1600:900:1/g:sm/czM6Ly9qZXV2aWRlby1ib2x0LXN0b3JhZ2UvdXBsb2Fkcy8yMDI2LzExL2Zvb3RiYWxsLW1hbmFnZXItMjctZ2FtZS1wYXNzLW5vdXZlYXV0ZXMuanBn.webp",
+      "orig": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVzQybzNSN2ZzWkRVem1xaDZ1c0puMlRsRnc0M3laR0hHd09pSUJ3dmpVSUhyaUtkYU82Nng3Z2stSkpVSHVNYlc4MVZQM09OQ3NxZ3NKTF9tXzJOMkx6ZERNSWFVWVhybFIwV2FBSkYxQlNyMnZTVlNUVExyQ0doWHRQLVdSZw?oc=5"
     },
     {
       "t": "Nintendo acaba com login pelo Google e Apple; veja o que muda",
@@ -270,15 +280,6 @@
       "data": "2026-11-10T17:38:00.000Z",
       "c": "Lançamentos",
       "img": "https://www.estadao.com.br/resizer/v2/UT2SN53IC5BWJJMCMMBV4TJR4A.jpg?quality=80&auth=3660af0d289b1896a36bf5c02bb8145d8c268d193da40a9b39677ff1a39ff590&width=710"
-    },
-    {
-      "t": "5 coleções geeks de peso no Skeelo que você precisa testar para ver se pode resgatar: aprenda como fazer isso em poucos minutos",
-      "d": "O catálogo do Skeelo vai além dos best-sellers de sempre. O acervo do aplicativo de leitura conta com mangás clássicos, como Naruto; light novels em alta, como Diário de uma Apotecária; e até...",
-      "link": "https://br.ign.com/descontos/157511/5-colecoes-geeks-de-peso-no-skeelo-que-voce-precisa-testar-para-ver-se-pode-resgatar-aprenda-como-fa",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-10T17:25:23.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/capa-skeelo-4-1_wjfr.jpg"
     }
   ],
   "videos": [
@@ -492,88 +493,6 @@
     }
   ],
   "lancamentos": [
-    {
-      "t": "Imperial Grace",
-      "data": "2026-11-11",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co43ir.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/imperial-grace"
-    },
-    {
-      "t": "Castlebound",
-      "data": "2026-11-11",
-      "plats": [
-        "Switch 2",
-        "PC",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9jks.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/castlebound"
-    },
-    {
-      "t": "Monomoon",
-      "data": "2026-11-11",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coax94.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/monomoon"
-    },
-    {
-      "t": "Watch Eye",
-      "data": "2026-11-11",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobo4s.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/watch-eye"
-    },
-    {
-      "t": "Wall World Strategy",
-      "data": "2026-11-11",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobxpe.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/wall-world-strategy"
-    },
-    {
-      "t": "Bottled by Bears",
-      "data": "2026-11-11",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocyle.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/bottled-by-bears"
-    },
-    {
-      "t": "Headshot Holdout",
-      "data": "2026-11-11",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxku.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/headshot-holdout"
-    },
-    {
-      "t": "Potions Galore",
-      "data": "2026-11-11",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod3pk.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/potions-galore"
-    },
     {
       "t": "Delve Survivors",
       "data": "2026-11-12",
@@ -4685,6 +4604,86 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaccy.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/obitus--1"
+    },
+    {
+      "t": "Bonemarrow",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coacsa.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/bonemarrow"
+    },
+    {
+      "t": "Punch Lunch: Foodtruck Fighter",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmua.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/punch-lunch-foodtruck-fighter"
+    },
+    {
+      "t": "Dosmic",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coae4d.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/dosmic"
+    },
+    {
+      "t": "Roguebound Pirates",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobw2w.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/roguebound-pirates"
+    },
+    {
+      "t": "Tiny Shop",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coafgb.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/tiny-shop--1"
+    },
+    {
+      "t": "Versalis",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coae9v.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/versalis"
+    },
+    {
+      "t": "Cyber Siege",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/codbz1.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/cyber-siege"
+    },
+    {
+      "t": "Sova",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxa1.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/sova"
     }
   ],
   "musicas": []
