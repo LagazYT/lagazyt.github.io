@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-11T03:02:08.574Z",
+  "atualizadoEm": "2026-11-11T03:32:14.709Z",
   "noticias": [
     {
       "t": "GTA VI no Xbox One? Veja em quais consoles será possível jogar",
@@ -22,16 +22,6 @@
       "orig": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZW9OUV9udUgyc3pLN3lVUEc4eS1sdE9zV3NZRVpMV1FYSmNkS1Rqd2wyS2Z1VXFpWC14bzdMX08wdFVmdGxILUNscElZVEc3d2k2OHNFcTRUNWNYYlRSRlBMVU9yaVNnQS1iYWV6M3EyVHBDcDl2OTJRdmJILWUtcUFJVUMySnZBOFRxWUVLazQ4R3IyMXFrczl2WS1UUjhVMFJkNEVVTmsyWVB6Z0diR2xidTVBY0xYUnRlamhPMHh3WngzUFRBLXRGZUhVaklI?oc=5"
     },
     {
-      "t": "Onde o 'GTA 6' é mais barato? Veja ranking de preços do game por país",
-      "d": "",
-      "link": "https://www.uol.com.br/tilt/noticias/redacao/2026/11/10/gta-6-custa-de-r-345-a-r-560-no-ps5-veja-paises-mais-caros-e-baratos.ghtm",
-      "fonte": "UOL",
-      "data": "2026-11-11T02:06:25.000Z",
-      "c": "Geral",
-      "img": "https://conteudo.imguol.com.br/c/entretenimento/63/2025/05/02/gta-vi-1746195246295_v2_615x300.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMl9JTWJUeXJmZlFVRmFkZkNfZ3NDeG5rNWRpcm9TZ3BIT2daUTJyUGYxTFpwYWl0c0JjX1ZHN0d2WnFxMEk1MWlzSTZtU1laMEpCYjlGcEJpQktHMXJPYmZlYTUxX2wtd0t3QlA3bWFoek1iY2hSelBjU1hYUFl4QUttXzJVZVVUcjIzLTJmZWRVT1VZd2FHeVo4blpxUTBidnRHYzc5TzN0RUxVM3BtZl8zN0JvVU9LaV9oRXJFcXM1eUU4MWlfRA?oc=5"
-    },
-    {
       "t": "GDV Festival 2026 reúne desenvolvedores e apaixonados por games em Brasília nos dias 14 e 15 de novembro",
       "d": "",
       "link": "https://visitebrasilia.com.br/noticias/gdv-festival-2026-reune-desenvolvedores-e-apaixonados-por-games-em-brasilia-nos-dias-14-e-15-de-novembro",
@@ -50,6 +40,16 @@
       "c": "Consoles",
       "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/nintendo-encerra-login-pelo-google-ou-conta-apple-nintendo-encerra-login-pelo-google-ou-conta-apple-cover.jpg",
       "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0lJZTdoUkVZcGVqcEdzVHZBNUhScndXZlZvd3ZtRGpUSkdLRHFWT1VUUWtlZ1hjSmtaLTRmVFc0MG9GNXVGWTBoSDhHcTJqVktrc1dueWhLMkJBc0taU2lxcEZfYUtXRm96RWQxakJXZ2ZYNHFDWUpLQjdJRzBzWVdFTFNPT0lTTG1oa2hXTFFrRE5iN2d6enZSZw?oc=5"
+    },
+    {
+      "t": "GTA 6 terá meta de 30 FPS em todos os consoles, e PS5 Pro ganha ray tracing nas sombras",
+      "d": "",
+      "link": "https://acritica.net/noticias/gta-6-tera-30-fps-nos-consoles-mas-ps5-pro-contara-com-vantagem-grafica-exclusiva/",
+      "fonte": "A Crítica de Campo Grande",
+      "data": "2026-11-11T00:45:00.000Z",
+      "c": "PC",
+      "img": "https://uploads.acritica.net/2026/09/0d59c81b-b4a9-4256-8f54-d7da377cd99a.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONzdnY0pGdlNmU3BvQ19SZzFzY1pIT3JMWmQ5Wmk4ZnpudzF0MHBFX0JlN2dBRlFCdWRCcWRjdEo0ZWhqVnZ1Z01XTmVuNERyT0ZJRU5JbVY3Q2NMSEhPOWQ0UUc3cndrQ2d1NnpuMU9nbkhkcTN0Ulh5MkJBSVRLajdUb3J6M2tXUUx2VnBJLXFxSnluWEhJeHFvcGVGb28zNHNYbzd0Zno0cnY2N1lGMXJn?oc=5"
     },
     {
       "t": "Mouse gamer Logitech G203 está por menos da metade do preço no Esquenta 11.11 da Amazon",
@@ -294,7 +294,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8239,
+      "views": 8242,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -422,7 +422,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 4017,
+      "views": 4018,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -454,7 +454,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4291,
+      "views": 4292,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -478,7 +478,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3108,
+      "views": 3109,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -486,7 +486,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3646,
+      "views": 3647,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
