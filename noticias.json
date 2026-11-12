@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-12T03:18:49.834Z",
+  "atualizadoEm": "2026-11-12T03:48:56.655Z",
   "noticias": [
     {
       "t": "Feito para jogos competitivos, monitor Alienware de 320 Hz e 0,5 ms está com 24% de desconto na Amazon",
@@ -292,7 +292,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8248,
+      "views": 8247,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -324,7 +324,7 @@
       "id": "eC8zHzW_tcc",
       "t": "KANABO LENDÁRIO PILAR VENENOSO COM O DANO INSANO | ASSASSINS CREED SHADOWS",
       "data": "2025-06-18T14:01:06Z",
-      "views": 169,
+      "views": 168,
       "img": "https://i.ytimg.com/vi/eC8zHzW_tcc/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=eC8zHzW_tcc"
     },
@@ -380,7 +380,7 @@
       "id": "gZSUZuB5jJ0",
       "t": "PICTO INSANO MUITO ROUBADO TENHA MAIS TURNOS | EXPEDITION 33",
       "data": "2025-05-22T17:01:01Z",
-      "views": 2379,
+      "views": 2377,
       "img": "https://i.ytimg.com/vi/gZSUZuB5jJ0/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=gZSUZuB5jJ0"
     },
@@ -396,7 +396,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3549,
+      "views": 3548,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -428,7 +428,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6725,
+      "views": 6724,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -436,7 +436,7 @@
       "id": "UB6es2m1dGw",
       "t": "PICTO SECRETO MUITO ROUBADO TENHA VIDA INFINITA | EXPEDITION 33",
       "data": "2025-05-16T22:00:43Z",
-      "views": 5233,
+      "views": 5232,
       "img": "https://i.ytimg.com/vi/UB6es2m1dGw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=UB6es2m1dGw"
     },
@@ -444,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20393,
+      "views": 20392,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -452,7 +452,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4294,
+      "views": 4293,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -484,7 +484,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3651,
+      "views": 3649,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -1138,20 +1138,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa8j6.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/akashic-slingshot"
-    },
-    {
-      "t": "The Road of Dust and Sorrow",
-      "data": "2026-12-03",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob3pt.jpg",
-      "hype": 12,
-      "link": "https://www.igdb.com/games/the-road-of-dust-and-sorrow"
     },
     {
       "t": "Warhammer 40,000: Dawn of War IV",
@@ -4673,6 +4659,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coagk9.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/devoid--1"
+    },
+    {
+      "t": "Eggspedition",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coagqu.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/eggspedition"
     }
   ],
   "musicas": []
