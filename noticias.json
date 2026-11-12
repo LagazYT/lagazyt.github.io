@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-12T06:54:37.911Z",
+  "atualizadoEm": "2026-11-12T07:24:46.220Z",
   "noticias": [
+    {
+      "t": "'Grand Theft Auto 6' se torna o jogo com mais pré-vendas na história do PlayStation e do Xbox",
+      "d": "",
+      "link": "https://hypebeast.com/pt/2026/11/grand-theft-auto-6-becomes-most-preordered-game-playstation-xbox-history-news",
+      "fonte": "Hypebeast",
+      "data": "2026-11-12T06:42:33.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYkVpN0NPN0dpeUxfYko0cnk1S0JIdzRfWUd4a3ZNVVhOeW1GdG55U285N2NLbElVOHNSRW9VZ3ZLZXNzbzZZMW51WXd0NEVrYnRUdENzaGN6UUtKZmtrMjlkMDJFNV81YnlYNF83WkZ2RDUxNmhnVXY1MlBIbEZScEJzVnNMQmF0UkFYS0x5R3lPMXRDM2JsTjFUNTlWdnc4eUQ2cm11RzdzUHNMcE0w?oc=5"
+    },
     {
       "t": "Nintendo vendeu 5,2 milhões de cópias do remake de The Legend of Zelda Ocarina of Time em quatro dias",
       "d": "",
@@ -58,16 +68,6 @@
       "c": "Consoles",
       "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT4B8ehth0mqilTSX1_dAU8HVfg67pC1UAsTR4gLXjJj9PN3cdnGssgkNtucjDAsQd9oGnEjcjzSlMSDytxBnLSKI9bWMDLnCCUcZrRe13zye5ksoJ6Jjx1KorSO97lQgE8cZl3DF5P-EQZvbBT288lvv8vYQqMzshEmm3KJX3FY78aOTYZ54_tfWr5M0/w1200-h630-p-k-no-nu/image.png",
       "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTHNUNWc5ZUlCUzBqdXVhdV9oU08tTG5OcXJjZWJrdkxmWF9zWkIwUHVmS2sxUXRkd1RTVWhGaV95S1MyMEFLRVZON1ZsYk5xMm1rNkF0T0xMTmZuWEliVERubDZGT2VPeVhXM2ZSeHlvTDRhZm0wTzJMR25ldUt1WEVNYU1EaWN5MnlxaElBTFZXamZEbGY5Rw?oc=5"
-    },
-    {
-      "t": "Xbox Cloud Gaming gratuito com anúncios chegou a mais jogadores",
-      "d": "",
-      "link": "https://www.eurogamer.pt/xbox-cloud-gaming-gratuito-com-anuncios-chegou-a-mais-jogadores",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-11-11T23:44:50.000Z",
-      "c": "Ofertas",
-      "img": "https://assetsio.gnwcdn.com/Xbox_2_JMEtbvw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaE83RldXMWJFcXQ0cFNSdVNMLWp5SXFWakF4Z0xiNWJmdzVjWHNrSnBuUzdRQ20tTG5EdF9uamFOVy1uTlVPMXRJRE1vUUNhQi0wWTN0RnpTSVpVcU1LT2FtNUZwampNYW5SN3pUUndhbEhmeklnbUZJcUpDajJXeTJSM09fUlg4VldINjItYmd5UQ?oc=5"
     },
     {
       "t": "Terror em oferta! Resident Evil Requiem para PS5 está com 28% de desconto na Amazon",
@@ -292,7 +292,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8249,
+      "views": 8248,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -396,7 +396,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3549,
+      "views": 3551,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -444,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20393,
+      "views": 20395,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
