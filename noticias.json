@@ -1,44 +1,68 @@
 {
-  "atualizadoEm": "2026-11-12T14:25:56.322Z",
+  "atualizadoEm": "2026-11-12T14:56:06.379Z",
   "noticias": [
     {
-      "t": "Jogo de quebra-cabeças ferroviários Station to Station é anunciado para o Switch 2",
+      "t": "Xbox Pulse Red ou 8BitDo Ultimate: botões extras e conexão em foco",
       "d": "",
-      "link": "https://universonintendo.com/jogo-de-quebra-cabecas-ferroviarios-station-to-station-e-anunciado-para-o-switch-2/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-11-12T14:24:08.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0hEcHk3dGdSNVMwelU5cjhsdnQzWm9JOGhkR1VDZXRGTkkwbk4waG9kM3hHX2xpaV8waHViWnc2cDZONVBYajIxalI5X0s3bnd1OHYyMmJtdmZXNXduMlVObjNEUVZvMm9WZHl5Yml2Mng2UWlNeTZNQVlIeW5jelF3d0N3a2pITW50X2VnQXdaVWd2VS1HeGFWNUpoYm9oMkVQVGhaUWU1MUx4?oc=5",
+      "fonte": "Cabine Celular",
+      "data": "2026-11-12T14:47:00.000Z",
       "c": "Consoles",
-      "img": "https://universonintendo.com/wp-content/uploads/2026/11/Station-to-Station-KEYART.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdlFqS01meWVzYlpaN3VWTnkzUWlRQXMzY1hjVG1RZVVWRTRCTWJaZ1Y4LWFUTlRnRVBLYnNEM0tXalVPR0NMdnNHMlB5RUFSNE5wdjdHTFMxcGsxRXUweDZSSVNReERLM2dUWTdvWkxUZkxnVjJHSzRZYWVKYkIwOVROWTBWR3FuQWpyOHg5alY2bEE2RXBpWDFIVzBEM1k4QWZrVHdnXzRjeFRqcTJEeExn?oc=5"
+      "img": ""
     },
     {
-      "t": "Marvel 1943 Rise of Hydra não foi cancelado, mas terá gameplay minimalista",
-      "d": "Novas reportagens apostam em Marvel 1943 Rise of Hydra sendo jogado com um único botão",
-      "link": "https://flowgames.gg/marvel-1943-rise-of-hydra-nao-foi-cancelado-gameplay/",
+      "t": "Switch 2: Nintendo luta para impedir jailbreak",
+      "d": "A Nintendo tenta impedir até mesmo que jogadores ainda na firmware 23.0.1 façam o jailbreak do Switch 2. Entenda!",
+      "link": "https://flowgames.gg/switch-2-nintendo-luta-para-impedir-jailbreak/",
       "fonte": "Flow Games",
-      "data": "2026-11-12T14:21:33.000Z",
+      "data": "2026-11-12T14:45:08.000Z",
+      "c": "Consoles",
+      "img": "https://flowgames.gg/wp-content/uploads/2025/06/batch_IMG_4848.jpg"
+    },
+    {
+      "t": "É preciso jogar GTA V para começar GTA VI? Entenda a conexão entre jogos da franquia",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1VSZHNtdjdQV25oTE56V0l0TU5Kd3k3UkxmaVpSLVlSWEJ6SGpZQjdZbEZGdnoxM0J1NUJTOHRYYnFlVmNiQ3Q4YTNuZWlVanNkWFE4WXVSd05WWjBiNG5oTV9tRC1CbnlLZS1TMTlmSFdaUXgxVEdObnhKSHNjVXhRZGZ5eko3am4xckZFN2RhY013bDZSM0JacllvQVJoZWNVcUdBUEFxRlZTRG0zbUxHd1V3NHFlN2c?oc=5",
+      "fonte": "Rádio Itatiaia",
+      "data": "2026-11-12T14:42:20.000Z",
       "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/05/Marvel-1943-Rise-of-Hydra-Story-Trailer-00-00-49-1044x445.jpg"
+      "img": ""
     },
     {
-      "t": "Funcionários da Rockstar começam a votar sindicalização antes da chegada de GTA 6; entenda",
+      "t": "The Pokémon Company anuncia distribuições especiais de móveis para Pokémon Pokopia via Mystery Gift",
       "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/funcionarios-da-rockstar-games-comecam-a-votar-sindicalizacao-antes-do-lancamento-de-gta-6/",
-      "fonte": "Estadão",
-      "data": "2026-11-12T14:15:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.estadao.com.br/resizer/v2/ISVFOXW4OFCKZF5WSASPIR5EZQ.jpg?quality=80&auth=a853f41f241e2001200c4254513e4ddebe910270d48a0444c3f970159a11ea98&width=1200&height=630&focal=935,420",
-      "orig": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS29FOS16QnN3SThweC01S3ViemQzbTlOQXJPNW9ocDVnUnpkSXV2dHRrcFp5emVGZkkwQ1M0NjYzOGVfTlJ5dkFxWjI4Y2gxVGM0c2k3QmctajVhTUliakQ0MUJjNmpMZW1fTGRPWHZUWnlfaWxLN241RTlNejBRSjZ5STJSVkF2NUN1angxUlRqSTJHbjltcVJFU2E2Q0RwR3laNFcwM0Q5eEFsa3NnelNaUVFBOTZjTktNanYtUTVDNmdDa29reXNqT0JlQdIB0wFBVV95cUxPeHNLaXBqd2VrNFlZVFB3TTR4cjVPZmt3S1U5LUhXVDB3OTF3WU9vNFdrcFAzZFdDWEQ3Z00wZWdqT0RtcGl1RC1Bc0hfVm04cFJzazhSeEk4ajJlLXgwVnFLZGx3WjRha2NMYW54UU5GTlkwVmV1STZ6ajByMDdfY1hQTXg0SFV1dXNrUG04Q2NhRXBMQkVZb3VRSS1Qc3E3Z2N5RkttV0pZLXdyTDJETnZwQjhmZ3hYTU9VUmFpdVRXc1lDVzc1a2dSV0RBcE5OenFv?oc=5"
-    },
-    {
-      "t": "Pokémon Legends: Z-A recebe distribuição especial de Xerneas Brilhante via Mystery Gift",
-      "d": "",
-      "link": "https://universonintendo.com/pokemon-legends-z-a-recebe-distribuicao-especial-de-xerneas-brilhante-via-mystery-gift/",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdHd3QVdEVjNWNVhVRzRSNHBxcEV3WEFUd2pzbnhCUlk0cXN6NTJmd1Rfc0NWSDloQ19xTFA5VGRjRkhVclAxUEJndm1DUWQzZm1kQUR3bFp6cEJUUlNuMmZUbjN6NGdlQk84clN1QmN2Q0ktdkdfLTllelluODNseWJJSDFGa29IbXhHM2toYTMxWEpkT2dicTF0aGd2VmVqUUh6U2tKLXZxR1NINmlBbU9MQ0JDdGtEb1BYem8yWHN2Um4xRjNUMQ?oc=5",
       "fonte": "Universo Nintendo",
-      "data": "2026-11-12T14:14:26.000Z",
+      "data": "2026-11-12T14:34:16.000Z",
+      "c": "Lançamentos",
+      "img": ""
+    },
+    {
+      "t": "Fé, games e música: conheça o Diácono Ramon Steill, que será ordenado padre nesta sexta em Parobé",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX09KZWFFblUwanRvRVdRaG9zQzgwUWIycjdLRVpMVnJJYXVqMjFONnVVQnZPWjkwT3RIbW5XVnZQSXVvSW5CeUtCSWxTa3QxcExTc3NtanJQbFpVOXM2a1g5Tkc2a056NnJ3akNCMlhjaHhGXzdLZ3M1bWhRckpUOVctT3FJbGJvWTQ5aTVnczRwdUJXM2dFYVE4M1dQbUJ6N2ZRRVNvSVFWeG1WQUloaHVPVmtydi1tME9ZQjJRNHlyb2JEdGJzOXNrVmM?oc=5",
+      "fonte": "Rádio Taquara FM 105.9",
+      "data": "2026-11-12T14:32:50.000Z",
       "c": "Geral",
-      "img": "https://universonintendo.com/wp-content/uploads/2026/11/pokemon-legends-z-a-169-en.png",
-      "orig": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPam51Ry1pUTJESVdXYVR3d3JXNXVGVUxXbE55cUh5SmFGbUp6MjNFSHlFY1UyRnVWc1FsWS1lbndzaVd1WlR5NDB1OXFoaG9jY1BuV01lUEdma1Fka2hnNkNLU1lpSWhycjZCUXZEV0ZHb3FBVmVUSjc1SzdENF96TUZxMkUwWEM5eHdvelNRb3RIUlF3Nlc0QjhXOS1vaFBEYXlSN2xpWmxBQll0WnJrcmFTeUt3cHc?oc=5"
+      "img": ""
+    },
+    {
+      "t": "RPG de fantasia Elements Destiny será lançado para o Switch em 15 de dezembro",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa0VsM1JNTENmUmpTY0FTZGJaNlZKZkwtQ2tiWmVNQWRGNnFPd0preW52ei1qMlFvRmVnMTB5S1JjbjgtS3JtQ2FCVG9Ubzc0M0U2X2EyVmg1cUJ5U3JzYTYtMkdXekpwUFRuX2ZqQ0FDZzl5Ym9LUk0zYTVDeWtwOGNLV2NieXNQVTN6cXZhaDZSZUdTenNDMDdtblN4eUo1eGUzN216RWZjSmc?oc=5",
+      "fonte": "Universo Nintendo",
+      "data": "2026-11-12T14:28:35.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "Jensen Huang deixa Nvidia: confira linha do tempo da fundação até a saída da empresa",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/jensen-huang-deixa-nvidia-linha-do-tempo/",
+      "fonte": "TecMundo",
+      "data": "2026-11-12T14:20:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/7WVPLKGIMVCAJC62QIE7IHCIXM.jpg?quality=80&auth=f67df64b6dd392c1a7472aa0dd9996bb08a07ec5085b465ad08c41a0d6cd2642&width=710"
     },
     {
       "t": "Mapa de GTA 6 vaza em edição de colecionador",
@@ -50,6 +74,15 @@
       "img": "https://flowgames.gg/wp-content/uploads/2025/05/batch_Vice_City_Cartao_Postal_paisagem.jpg"
     },
     {
+      "t": "Marvel 1943 Rise of Hydra não foi cancelado, mas terá gameplay minimalista",
+      "d": "Novas reportagens apostam em Marvel 1943 Rise of Hydra sendo jogado com um único botão",
+      "link": "https://flowgames.gg/marvel-1943-rise-of-hydra-nao-foi-cancelado-gameplay/",
+      "fonte": "Flow Games",
+      "data": "2026-11-12T14:11:33.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2025/05/Marvel-1943-Rise-of-Hydra-Story-Trailer-00-00-49-1044x445.jpg"
+    },
+    {
       "t": "Dá-lhe Brasil! The Expanse: Osiris Reborn terá localização em PT-BR",
       "d": "Ainda sem data, The Expanse Osiris Reborn chegará no 2º trimestre de 2027",
       "link": "https://flowgames.gg/the-expanse-osiris-reborn-tera-localizacao-em-pt-br/",
@@ -57,26 +90,6 @@
       "data": "2026-11-12T14:11:07.000Z",
       "c": "Lançamentos",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/ss_f3c2d19b17a89e00641dd8a610de162028f456a8.1920x1080.jpg"
-    },
-    {
-      "t": "Nintendo explica por que mantém seus jogos exclusivos: o que faz a empresa evitar lançamentos em consoles concorrentes",
-      "d": "",
-      "link": "https://www.correio24horas.com.br/em-alta/nintendo-explica-por-que-mantem-seus-jogos-exclusivos-o-que-faz-a-empresa-evitar-lancamentos-em-consoles-concorrentes-1126",
-      "fonte": "Jornal Correio",
-      "data": "2026-11-12T14:11:00.000Z",
-      "c": "Consoles",
-      "img": "https://midias.correio24horas.com.br/2026/11/09/a-integracao-entre-hardware-e-software-e-um-dos-diferenciais-da-estrategia-da-nintendo-3474943.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWG5MVDZlVGVSVmdicXdXUE03Yi1pZjlNd2JUdnB6ckxOYnJwdm9JVFdMa21TNTN3TTNSUFNselNWZ2djTk1reGtxS2dyNG5IeERmNnM5OWdCY2lWQnRuYmtueWhuQ29oc2NJUUJuWGxvQmlrbTNhZFk3czg3eUt4NC13YWRQRS13d2dZQUJsejRyZnZvZjFhamh0Z3VTT0gtX3NTV1hSdkp3eDFJRmIwOVhnYUFFYk41RTRIV0h1UlQtejk4UDEyRXZ1YVdRNFNUTUlJM2plaERmUUdNM1pjM2MyNXlhUHlneTRjRXlMajhJbEpxOWJv?oc=5"
-    },
-    {
-      "t": "SÓ VOADORA! XBOX E ROCKSTAR JUNTAS E GTA VI TERÁ VANTAGENS EXCLUSIVAS!",
-      "d": "",
-      "link": "https://xboxers.com.br/so-voadora-xbox-e-rockstar-juntas-e-gta-vi-tera-vantagens-exclusivas/",
-      "fonte": "Xboxers",
-      "data": "2026-11-12T14:08:21.000Z",
-      "c": "Consoles",
-      "img": "https://i0.wp.com/xboxers.com.br/wp-content/uploads/2026/11/thumbnail-eyjWLuz8hnQ.jpg?fit=480%2C360&ssl=1",
-      "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY21kN29Yd0lLX3Z3WDNhOUktbjljWFpiM2V4QXN2VzVZWUVndlZEd2VPTklMd2EtdFRMT3lVY1B4Mm5ZY1diZ2tGdG5YTFVnTWZWOUNra2o2NzVxZW9HQUg0UUVoWFVGSjlPWU5sRUN4aUUxeVlGLVU1NmEyRDh5SFphSDVlUzE3X2lFNTlGUFVXSWxwWmt3?oc=5"
     },
     {
       "t": "“É claro que os atrasos me afetaram”: Rockstar Games adiou o próximo jogo da franquia por um motivo muito específico",
@@ -257,24 +270,6 @@
       "data": "2026-11-11T20:27:28.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/image-92.jpg"
-    },
-    {
-      "t": "RE Requiem é GOTY no Golden Joystick Awards 2026: veja os vencedores",
-      "d": "Veja quais foram os jogos vencedores da 44ª edição do Golden Joystick Awards",
-      "link": "https://flowgames.gg/golden-joystick-awards-2026-veja-a-lista-vencedores/",
-      "fonte": "Flow Games",
-      "data": "2026-11-11T20:22:15.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/09/HS1NLW9XIAAeE8_.jpeg"
-    },
-    {
-      "t": "Nvidia contrata escritório para investigar suspeita de espionagem chinesa",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/nvidia-contrata-escritorio-para-investigar-suspeita-de-espionagem-chinesa/",
-      "fonte": "TecMundo",
-      "data": "2026-11-11T19:15:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/DTS72AKJ5ZDGBE2Y5I64AY4FYM.jpg?quality=80&auth=f87085be9570332e5106b789224ad2553456e03be0e2072ba6395b1d59527a62&width=710"
     }
   ],
   "videos": [
@@ -442,7 +437,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20399,
+      "views": 20404,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
