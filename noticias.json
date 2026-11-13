@@ -1,6 +1,83 @@
 {
-  "atualizadoEm": "2026-11-13T12:44:00.174Z",
+  "atualizadoEm": "2026-11-13T13:14:08.720Z",
   "noticias": [
+    {
+      "t": "Nostalgia no PC: 21 clássicos do XBOX original ganham ports oficiais",
+      "d": "",
+      "link": "https://canaltech.com.br/games/nostalgia-no-pc-21-classicos-do-xbox-original-ganham-ports-oficiais/",
+      "fonte": "Canaltech",
+      "data": "2026-11-13T13:10:00.000Z",
+      "c": "PC",
+      "img": "https://tl.ctcdn.com.br/xTJ33ZhmZZ9aUCR6fTF5KYZ44Iw=/1200x675/smart/filters:format(webp):quality(85)/c56c99d7-e22b-4ddd-816c-97d432aec4f0.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ09MQVZWVkxXVW00VnhhSC11OTh3VndYRVA0YTBBczFDa3N2TTZCeEZLM0lMeV9OM1h0ZzFYenRZRTRoS0R4ODNYYW00SzdwbTA4aGd3M0NBb3JiMThvLWVkeF9QYTV5bFdITmNsWEVQRVdEakdGQldXb2Yydkx0TEZfVVhELTNFTFZUZXJhMWJzeFdnOUV6RnF3bHBVaEVz?oc=5"
+    },
+    {
+      "t": "GTA 6 recebe atualização antes do seu lançamento",
+      "d": "Antes mesmo de ser lançado, o GTA 6, ao menos no PlayStation 5, já recebeu uma atualização. Veja os detalhes!",
+      "link": "https://flowgames.gg/gta-6-recebe-atualizacao-antes-do-seu-lancamento/",
+      "fonte": "Flow Games",
+      "data": "2026-11-13T13:02:06.000Z",
+      "c": "Consoles",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-13.jpg"
+    },
+    {
+      "t": "Metaphor: ReFantazio chega ao Xbox Series X|S",
+      "d": "",
+      "link": "https://xboxers.com.br/metaphor-refantazio-chega-ao-xbox-series-xs/",
+      "fonte": "Xboxers",
+      "data": "2026-11-13T13:01:40.000Z",
+      "c": "Consoles",
+      "img": "https://i0.wp.com/xboxers.com.br/wp-content/uploads/2026/11/embed_1-1.png?fit=1200%2C492&ssl=1",
+      "orig": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4MUV2eHFocUlLUk9oem4zRTdpOTIwMkFiUkhubTZqU05qUFpDQ2gzVVUwQ3lSNnZJMkZNa0dDZzZFdkNUSVJfN1B3X2xOTmRIRmVjVWQ2d3UzemV5NTdMUWlIMUNISlEwRzMyR04yMnZ3YVZXdlE?oc=5"
+    },
+    {
+      "t": "Aos 33 anos, um fã de Zelda: Ocarina of Time finalmente entendeu no remake por que o poço estava vazio",
+      "d": "Depois de jogar o game original quando criança, este jogador só entendeu o paradoxo ao jogar o remake Em Zelda: Ocarina of Time, jogamos como Link e podemos viajar no tempo. O que, naturalmente,...",
+      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157613/aos-33-anos-um-fa-de-zelda-ocarina-of-time-finalmente-entendeu-no-remake-por-que-o-poco-estava-vazio",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-13T13:00:34.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_cw33.jpg"
+    },
+    {
+      "t": "Xbox confirma que Wolfenstein 3 está em desenvolvimento",
+      "d": "",
+      "link": "https://www.portaldonerd.com.br/xbox-confirma-wolfenstein-3/",
+      "fonte": "Portal do Nerd",
+      "data": "2026-11-13T12:55:49.000Z",
+      "c": "Consoles",
+      "img": "https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2026/11/Wolfenstein-3.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yaEZocG9lUTd4M01kbE5PUGVKSEY5eml5NWZ2STV0WE5Za1dKLVRfbXhtaFg4NC03Y3hjSndURktJbnhyMlNPZnhVMDF0MDNic3RlME5PTzVneWpSM3VGaFU1N2pFUFotNi1oSg?oc=5"
+    },
+    {
+      "t": "\"Acho que fomos muito longe\": produtor do remake de The Legend of Zelda: Ocarina of Time revela que os Refinados eram ainda mais assustadores nas primeiras versões do game",
+      "d": "Obrigada por renovar o trauma de todos os jogadores, Nintendo Parece até meio inacreditável, mas a Nintendo fez os Refinados (ou ReDeads, se você ainda está se acostumando com o nome em PT-BR) tão...",
+      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157610/acho-que-fomos-muito-longe-produtor-do-remake-de-the-legend-of-zelda-ocarina-of-time-revela-que-os-r",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-13T12:54:31.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/ign_br/news/m/maybe-weve/maybe-weve-gone-a-step-too-far-ocarina-of-time-remake-produc_68qu.jpg"
+    },
+    {
+      "t": "Mais 21 clássicos do Xbox agora podem ser jogados oficialmente no PC – incluindo 11 jogos de Star Wars",
+      "d": "",
+      "link": "https://www.notebookcheck.info/Mais-21-classicos-do-Xbox-agora-podem-ser-jogados-oficialmente-no-PC-incluindo-11-jogos-de-Star-Wars.1449629.0.html",
+      "fonte": "Notebookcheck.info",
+      "data": "2026-11-13T12:53:05.000Z",
+      "c": "PC",
+      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/Xbox-bringt-Klassiker-zurueck.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUWNieHJPcmFhYlJBMmtvcGhPR1pVRDV5RnNxdEViYXhTQnJDdlBrRm9fQno4LWFld3lfdW1UbkJqbzIxb0ZvbGtPSTlwcDRzbFpPd3ZFNUtRd2N3Q1BNTUtTWG1iV2lqWlRQNTB6VjktUHpWdGFpbU53WGM5c2dUWWpiMjltMHpIRzFKTHkxMkR3blJZS0QzdEd3dXN4Um95OGtBbzdsb3A3ZDZkblhZUUVYTW14MkdzSC1NQnI2NWdlVEdfUE9kbi1MWTBvc0xKaUhnNkdKRTNmb3VhRC1v?oc=5"
+    },
+    {
+      "t": "Fable ganha novo gameplay com missão sombria e visuais no Ultra",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/fable-ganha-novo-gameplay-com-missao-sombria-e-visuais-no-ultra/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-13T12:52:00.000Z",
+      "c": "Geral",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Fable-Playground-Games-Gameplay-01.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQW05dVBFcURIeXNsOGdmZEhkd2tBRTZIdFZJSTBGdW9QWGx6eXZuZ3VBYnZfNzlnd1BZektPOElvQUFXUHM0UGRzZFpQTFAwZUZQWU9VQjdMakZUMWQ0OVdyWDAyc0MxY29NZGtqWThfWG5SUThYM011RGlfNW1zVFlCSkRzY2JnUTZsSE5vN0ZZV3Z6aXR6VjBxOVlpWVI3Z3c?oc=5"
+    },
     {
       "t": "Fable apresenta trecho de gameplay com visual sombrio no PC",
       "d": "",
@@ -12,16 +89,6 @@
       "orig": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBdDAyVWRXRHdUX1g5Vk1pN2ZxSngyYXN0UDJvTXlTNmdRVS0zR3NDcDliMEZoWlRzYTY5MzYxVElJYkRnZktCMDJkb2ZYT0lJU1BUM01wSzZRMnZYZzg2OEdiZ0NjUQ?oc=5"
     },
     {
-      "t": "Review | Look Outside",
-      "d": "",
-      "link": "https://nintendoboy.com.br/2026/11/review-look-outside/",
-      "fonte": "NintendoBoy",
-      "data": "2026-11-13T12:21:12.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DdzVMTk8wTlRfWi1qUGp5QnYwcTMwOXVzdkwxNm5WZ2huaFJKMlJtMGt6RlBRdG9mcUMyNU9hZmprVXo3cXJBUi1ack1OLV9hT2xOanNvbzY2SVo5Z2lKTTh6eW5ndw?oc=5"
-    },
-    {
       "t": "Xbox oferece mais 4 jogos para aproveitar grátis no fim de semana",
       "d": "Até domingo (15), os membros do Xbox Game Pass podem aproveitar mais 4 jogos sem nenhum custo adicional",
       "link": "https://flowgames.gg/xbox-oferece-mais-4-jogos-gratis-no-fim-de-semana-2/",
@@ -29,16 +96,6 @@
       "data": "2026-11-13T12:20:49.000Z",
       "c": "Ofertas",
       "img": "https://flowgames.gg/wp-content/uploads/2024/10/pasqualino-capobianco-BhUjORnu8f8-unsplash-1-1044x697.jpg"
-    },
-    {
-      "t": "Xbox divulga 4 minutos de gameplay de Fable e mostra mais detalhes do combate do jogo",
-      "d": "",
-      "link": "https://br.ign.com/fable-2027/157625/xbox-divulga-4-minutos-de-gameplay-de-fable-e-mostra-mais-detalhes-do-combate-do-jogo",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-13T12:12:28.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/t/ign_br/news/f/fable-drop/fable-drops-four-minutes-of-new-gameplay_3n88.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjNKM2hPTHU1bHVDUlNUQWM2VDBFVmdyMjktcUlSd09qNnFaRFZQNHhJTHRvbzFpWWJ4SkdrMnQwcmhtVzBaSlJjcG5fV0ZTRUxDUEtrTGNrR3RQRVhHX3hGYjRWYWRFdlFPYUFrRjl1ZVdDRnVXb1B6czdNbzBYcTFvbXcyQmhYQU9aZjVLTzdkWlFDbHZPc1hyaHllSW94QmJBbFdNR2JhdWJYTjJhVHAteGVwdDRPaG1Pam9VMA?oc=5"
     },
     {
       "t": "Hoje no TecMundo (12): Jensen Huang deixa a Nvidia, Caixa sofre ataque hacker e mais",
@@ -50,34 +107,22 @@
       "img": "https://www.estadao.com.br/resizer/v2/ZEEX5QPH2ZFEPMTHLWVSCNO5LE.jpeg?quality=80&auth=e77ca2f1ba766cf264b7e65cb72c2817518466309367f2841db4c2f3fa79925a&width=1150"
     },
     {
-      "t": "Rocky Mountain Games tem retirada de kits nesta sexta em Campos do Jordão",
-      "d": "",
-      "link": "https://www.netcampos.com/noticias/2026/11/rocky-mountain-games-campos-jordao-kits-13-novembro-2026.html",
-      "fonte": "NetCampos",
-      "data": "2026-11-13T12:03:03.000Z",
-      "c": "Geral",
-      "img": "https://www.netcampos.com/imgs/netcampos-dinos-campos-20261029.webp",
-      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeUp2b2VBOXRBQUloYkVwRGNEZUx6RFdDMDl6cnl4TmNOU1Vyd3lQbHpmUGQ4TXdQY0NBek5rOGNOaFJFVXZ5TEFZREU4Z05TeVp0RmRGNWoxOHhydUs4ZExSY0lEQ0RDdDZRZ3JJbEhUS1AxU2o3Q2NodmVVQnpkb0d0dVkybzh3ZVN3WVJIODJhVWprMWZ2SElUYnY5QmZlNDA0SGZxWQ?oc=5"
+      "t": "Xbox divulga 4 minutos de gameplay de Fable e mostra mais detalhes do combate do jogo",
+      "d": "Falta pouco",
+      "link": "https://br.ign.com/fable-2027/157625/xbox-divulga-4-minutos-de-gameplay-de-fable-e-mostra-mais-detalhes-do-combate-do-jogo",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-13T12:11:16.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/ign_br/news/f/fable-drop/fable-drops-four-minutes-of-new-gameplay_3n88.jpg"
     },
     {
       "t": "De acordo com seu criador, Zelda: Ocarina of Time nunca deveria ter sido lançado em um cartucho para Nintendo 64",
-      "d": "",
+      "d": "Um desenvolvimento turbulento e marcado por ambições técnicas que quase transformaram radicalmente a aventura de Link Considerado um dos jogos mais influentes da história, The Legend of Zelda:...",
       "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-1998/157612/de-acordo-com-seu-criador-zelda-ocarina-of-time-nunca-deveria-ter-sido-lancado-em-um-cartucho-para-n",
       "fonte": "IGN Brasil",
-      "data": "2026-11-13T12:02:03.000Z",
+      "data": "2026-11-13T12:00:34.000Z",
       "c": "Consoles",
-      "img": "https://sm.ign.com/t/ign_br/screenshot/default/ot_y31n.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZ2RSeTAzU1pEczV6b0xmd0JURWRfQUFuSVBYczNXeW12akE0NnVXQjFlQ1VVaDhfeWFEQ01vLWQ5clJjZFEybmJ6c3c1VkZ6d29ERkcyMU5DYl82QkVfMW9NanZlNFd4eWp2RlU2dTJoeHJIUDg3OVlMTWxIV0RVSHFyc0tIVUY2dm1EbXBxZ2szMEhiWHMtTGd1QVl6dGZqcC1sX3gwa2huMEJOenF2M0F0Tm1XREZ3YlVoYkoxa3RCQXlYaFRzcFBRUEI1Ti1EOHlrZXVvVUFiaGR2VVh3dm9YWTRRRjR2ZWh3QTBlT1lSNHNBai1uejVtZw?oc=5"
-    },
-    {
-      "t": "Wolfenstein 3 é confirmado oficialmente pela CEO da Xbox, Asha Sharma",
-      "d": "",
-      "link": "https://arkade.com.br/wolfenstein-3-confirmado-oficialmente-pela-ceo-da-xbox-asha-sharma/",
-      "fonte": "Arkade",
-      "data": "2026-11-13T12:00:00.000Z",
-      "c": "Consoles",
-      "img": "https://arkade.com.br/wp-content/uploads/2026/11/wolfenstein-3-confirmado-oficialmente-pela-ceo-da-xbox-asha-sharma.webp",
-      "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUy05cWdZbHZBa1ZCQTkya2tyZTFtOGJGNmF5WFdUbGVZZi1PQWhvYjRRN1Q5aEtXMTVNMkZfX1pnaVJlcXZ2S1NpTXZLWXI3MzhfNmJ5cU5KLUJlRlJMbDJXa1RzZWdpQ245bmU4MWxoeGtRTmtCN3FTWDhTdXo2ZnZwemZvc2FkYXdOSDFBY2h4eTg?oc=5"
+      "img": "https://sm.ign.com/ign_br/screenshot/default/ot_y31n.jpg"
     },
     {
       "t": "Ex-CEO da Nvidia, Jensen Huang teria tido um terceiro caso com outra funcionária",
@@ -152,24 +197,6 @@
       "c": "Geral",
       "img": "https://cdn.sortiraparis.com/images/80/66131/1303277-endless-legend-2-la-version-1-0-arrive-sur-pc-ps5-et-xbox-series-notre-preview.jpg",
       "orig": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQnBSdHRDNlVYTWFUX0luOHpDclp5MGRiejZVb2VEaTEyQlktX29maHlzNy1KRmNPaHhmZlpERTVqOTBidk1rQVZOQlh0LXp3WG8yblRGV1JYYjJ4dFhZLW45UGloamYySmVPRm5VcDRPN28xWmQ1SFRFOFhyNzNOZklhN2RFaFhOaEFxSUVPSVByZk9vM3cxaG5SWkFuYW9HSGNMZmFtaFViVWF5c3pyRERvZllEMkNkVWhNQi1FaEpycG42dF9lU0lPX2ZnVmowTnJWUE5hVmdJSGRIRkdTYmN4T0s1aDNfTWtObUt3YTFhN1pxelhyaWd6eE1DZEh5SzJ2dGF5ejU2VkE?oc=5"
-    },
-    {
-      "t": "Henry Cavill fala sobre reprisar o papel de Superman, mas há um problema: ele agora pertence ao Imperador",
-      "d": "Apesar de não fechar as portas para um retorno, o ator está 100% focado em outro projeto A saída de James Gunn do universo DC coloca em risco seus personagens e todos os atores envolvidos.",
-      "link": "https://br.ign.com/henry-cavill/157609/henry-cavill-fala-sobre-reprisar-o-papel-de-superman-mas-ha-um-problema-ele-agora-pertence-ao-impera",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-13T10:00:37.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_r7kn.jpg"
-    },
-    {
-      "t": "Antes de O Senhor dos Anéis: kit Grandes Contos de Tolkien sai por menos de R$ 110 na Amazon",
-      "d": "Edição da HarperCollins reúne O Silmarillion, Beren e Lúthien e A Queda de Gondolin em capa dura",
-      "link": "https://br.ign.com/descontos/157604/antes-de-o-senhor-dos-aneis-kit-grandes-contos-de-tolkien-sai-por-menos-de-r-110-na-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-13T01:30:31.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/design-sem-nome-28_e23h.png"
     },
     {
       "t": "Xbox anuncia Wolfenstein 3 após quase uma década sem novos jogos da franquia",
@@ -253,33 +280,6 @@
       "data": "2026-11-12T18:30:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/EXB3K6TGBNOOFDPIANQ4KDYXDI.jpg?quality=80&auth=b688ba6ae35c32e7b26bdc8a90aa6ab0620b2c08dce30537ac1ffadcd93c0889&width=710"
-    },
-    {
-      "t": "GTA 6 quase teve lançamento barrado na Coreia do Sul",
-      "d": "Principalmente devido a nudez, o GTA 6 quase teve seu lançamento barrado na Coreia do Sul. Entenda o que rolou!",
-      "link": "https://flowgames.gg/gta-6-quase-teve-lancamento-barrado-na-coreia-do-sul/",
-      "fonte": "Flow Games",
-      "data": "2026-11-12T16:28:09.000Z",
-      "c": "Lançamentos",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-10.jpg"
-    },
-    {
-      "t": "Qual é o próximo jogo grátis da Epic Games Store? Saiba aqui!",
-      "d": "O Flow Games conta para você qual será a próxima jogatina gratuita da loja da Epic Games",
-      "link": "https://flowgames.gg/saiba-proximo-jogo-gratis-epic-games-store/",
-      "fonte": "Flow Games",
-      "data": "2026-11-12T16:07:51.000Z",
-      "c": "Ofertas",
-      "img": "https://www.youtube.com/embed/EDWeb7r26ao"
-    },
-    {
-      "t": "Retrocompatibilidade do Xbox no PC pode ganhar 16 jogos novos",
-      "d": "Segundo listagem, Morrowind e diversos jogos podem chegar à retrocompatibilidade do Xbox no PC",
-      "link": "https://flowgames.gg/retrocompatibilidade-xbox-pc-pode-ganhar-16-jogos/",
-      "fonte": "Flow Games",
-      "data": "2026-11-12T16:02:12.000Z",
-      "c": "PC",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/image-28-1.jpg"
     }
   ],
   "videos": [
