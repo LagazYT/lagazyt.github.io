@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-13T04:58:16.965Z",
+  "atualizadoEm": "2026-11-13T05:28:24.031Z",
   "noticias": [
+    {
+      "t": "Com alta do dólar, videogames e computadores ficam mais caros",
+      "d": "",
+      "link": "https://noticias.r7.com/brasilia/com-alta-do-dolar-videogames-e-computadores-ficam-mais-caros-13112026/",
+      "fonte": "R7",
+      "data": "2026-11-13T05:00:01.000Z",
+      "c": "Geral",
+      "img": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/RL3GXC2ZINE3BAONMFA63ETKEQ.webp?smart=true&auth=f962e2421134ee9a9a8d03a3b1ba97b8bed9d6138b787ae033374d03a08d50ac&width=1200&height=630",
+      "orig": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTZHVWd0YWF5N3BYc09nMk93ZnpsaUVybDVOR19feUw3WFc4cWVQYldLTzNIekg2RXhrX0NtZmFNMUw5aFV1ODdld3RuazBnQlFTcWZBZ2NmeXNuSTZPVFpyeVlEenhzMmFjeElLbkF2aW8zbmhFcFotWndjams1OHRReTcwdTJ0NG9VVWtoY0tZOVpKY2w2MDJKdTNHWUxKWkxzdk5B?oc=5"
+    },
     {
       "t": "Agradecemos aos jogadores de XBOX pelos 25 anos: veja todos os anúncios",
       "d": "",
@@ -270,15 +280,6 @@
       "data": "2026-11-12T16:00:06.000Z",
       "c": "Ofertas",
       "img": "https://www.youtube.com/embed/feyETAy8Y7w"
-    },
-    {
-      "t": "‘Seria uma honra’: Elon Musk diz que contrataria Jensen Huang, ex-CEO da Nvidia",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/seria-uma-honra-elon-musk-diz-que-contrataria-jensen-huang-ex-ceo-da-nvidia/",
-      "fonte": "TecMundo",
-      "data": "2026-11-12T16:00:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/CDALVVGN6JCADKU36UBD566NBQ.jpg?quality=80&auth=f1288dda297a6c68f41c76e089202e952ad6f3f2104ac385ae33b9e902539905&width=1150"
     }
   ],
   "videos": [
