@@ -1,6 +1,54 @@
 {
-  "atualizadoEm": "2026-11-13T12:13:50.658Z",
+  "atualizadoEm": "2026-11-13T12:44:00.174Z",
   "noticias": [
+    {
+      "t": "Fable apresenta trecho de gameplay com visual sombrio no PC",
+      "d": "",
+      "link": "https://ver-o-fato.com.br/fable-video-gameplay-sombrio/",
+      "fonte": "Ver-o-Fato",
+      "data": "2026-11-13T12:29:20.000Z",
+      "c": "PC",
+      "img": "https://ver-o-fato.com.br/wp-content/uploads/imagens-sociais/250180-736132d624.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBdDAyVWRXRHdUX1g5Vk1pN2ZxSngyYXN0UDJvTXlTNmdRVS0zR3NDcDliMEZoWlRzYTY5MzYxVElJYkRnZktCMDJkb2ZYT0lJU1BUM01wSzZRMnZYZzg2OEdiZ0NjUQ?oc=5"
+    },
+    {
+      "t": "Review | Look Outside",
+      "d": "",
+      "link": "https://nintendoboy.com.br/2026/11/review-look-outside/",
+      "fonte": "NintendoBoy",
+      "data": "2026-11-13T12:21:12.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DdzVMTk8wTlRfWi1qUGp5QnYwcTMwOXVzdkwxNm5WZ2huaFJKMlJtMGt6RlBRdG9mcUMyNU9hZmprVXo3cXJBUi1ack1OLV9hT2xOanNvbzY2SVo5Z2lKTTh6eW5ndw?oc=5"
+    },
+    {
+      "t": "Xbox oferece mais 4 jogos para aproveitar grátis no fim de semana",
+      "d": "Até domingo (15), os membros do Xbox Game Pass podem aproveitar mais 4 jogos sem nenhum custo adicional",
+      "link": "https://flowgames.gg/xbox-oferece-mais-4-jogos-gratis-no-fim-de-semana-2/",
+      "fonte": "Flow Games",
+      "data": "2026-11-13T12:20:49.000Z",
+      "c": "Ofertas",
+      "img": "https://flowgames.gg/wp-content/uploads/2024/10/pasqualino-capobianco-BhUjORnu8f8-unsplash-1-1044x697.jpg"
+    },
+    {
+      "t": "Xbox divulga 4 minutos de gameplay de Fable e mostra mais detalhes do combate do jogo",
+      "d": "",
+      "link": "https://br.ign.com/fable-2027/157625/xbox-divulga-4-minutos-de-gameplay-de-fable-e-mostra-mais-detalhes-do-combate-do-jogo",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-13T12:12:28.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/t/ign_br/news/f/fable-drop/fable-drops-four-minutes-of-new-gameplay_3n88.1200.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjNKM2hPTHU1bHVDUlNUQWM2VDBFVmdyMjktcUlSd09qNnFaRFZQNHhJTHRvbzFpWWJ4SkdrMnQwcmhtVzBaSlJjcG5fV0ZTRUxDUEtrTGNrR3RQRVhHX3hGYjRWYWRFdlFPYUFrRjl1ZVdDRnVXb1B6czdNbzBYcTFvbXcyQmhYQU9aZjVLTzdkWlFDbHZPc1hyaHllSW94QmJBbFdNR2JhdWJYTjJhVHAteGVwdDRPaG1Pam9VMA?oc=5"
+    },
+    {
+      "t": "Hoje no TecMundo (12): Jensen Huang deixa a Nvidia, Caixa sofre ataque hacker e mais",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-12-jensen-huang-deixa-a-nvidia-caixa-sofre-ataque-hacker-e-mais/",
+      "fonte": "TecMundo",
+      "data": "2026-11-13T12:12:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/ZEEX5QPH2ZFEPMTHLWVSCNO5LE.jpeg?quality=80&auth=e77ca2f1ba766cf264b7e65cb72c2817518466309367f2841db4c2f3fa79925a&width=1150"
+    },
     {
       "t": "Rocky Mountain Games tem retirada de kits nesta sexta em Campos do Jordão",
       "d": "",
@@ -25,7 +73,7 @@
       "t": "Wolfenstein 3 é confirmado oficialmente pela CEO da Xbox, Asha Sharma",
       "d": "",
       "link": "https://arkade.com.br/wolfenstein-3-confirmado-oficialmente-pela-ceo-da-xbox-asha-sharma/",
-      "fonte": "arkade.com.br",
+      "fonte": "Arkade",
       "data": "2026-11-13T12:00:00.000Z",
       "c": "Consoles",
       "img": "https://arkade.com.br/wp-content/uploads/2026/11/wolfenstein-3-confirmado-oficialmente-pela-ceo-da-xbox-asha-sharma.webp",
@@ -50,24 +98,13 @@
       "img": "https://sm.ign.com/ign_br/news/d/doctor-doo/doctor-doom-is-not-a-tony-stark-variant-in-avengers-doomsday_wxf7.png"
     },
     {
-      "t": "XBOX celebra 25 anos levando 21 jogos clássicos ao PC por retrocompatibilidade; veja a lista",
-      "d": "",
-      "link": "https://www.tudocelular.com/software/noticias/n267090/xbox-21-jogos-classicos-pc-retrocompatibilidade.html",
-      "fonte": "TudoCelular.com",
-      "data": "2026-11-13T11:19:37.000Z",
-      "c": "PC",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNE0wMExCTjlhVGJUcmdlN1JlTnJSUDQyY0FlV0lSb2NzOWhfdHo4OWNJNDN6d1J0dWwzVGdrNUx4MHlBQ01MZ0hCb0VmSm5ORlRmUmFXVXVwYUtIZGN6cklJSDRqS2JOVGR4RUtvQklib3E1Qk1vc25mcmFiaDdCSk5GM3hOYTFoVGJ6Y0xTcjh0cklyVk5GWFVaMGZZLU04UnRCN2tEcEIzUQ?oc=5"
-    },
-    {
       "t": "Xbox permite jogar videogame pela nuvem sem precisar pagar pelo Game Pass, mas há um porém",
-      "d": "",
+      "d": "Um anúncio para cada 30 minutos de jogo A opção gratuita do Xbox Cloud Gaming permite transmitir jogos compatíveis comprados e alguns títulos gratuitos.",
       "link": "https://br.ign.com/xbox/157611/xbox-permite-jogar-videogame-pela-nuvem-sem-precisar-pagar-pelo-game-pass-mas-ha-um-porem",
       "fonte": "IGN Brasil",
-      "data": "2026-11-13T11:07:28.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/t/ign_br/screenshot/default/imagem_vzt6.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGhCYnlPS19La0c3NGZVYzRGTzNMem5fUGozM0FaaFNuaEhWWFhFeGFobWFSUldveTBlODE5UWJraW1iT2JRRDFiaXp5c1h5dHZDRjh1Qm13NDJ6SklxV3FvYU44T0FmNGpmc3o1cm5mRTF2eWd0enhMWGtQNlZtZmE0VDlrenVSX2tEa19pR3Q3c1BHanRRSHV3d0V1Q1h3NEljdkFCa1RwemNXYy1Qd1FBdU1ERXJ2bHByQw?oc=5"
+      "data": "2026-11-13T11:03:30.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_vzt6.jpg"
     },
     {
       "t": "Elon Musk afirma que “seria uma honra” contratar Jensen Huang, enquanto futuro do ex-CEO da Nvidia permanece incerto",
@@ -145,15 +182,6 @@
       "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDFOT3o1clhHNTRIUjgtRDEtTVM5bUR6UGs3V3d5Um5mNnFRR2pseThTbEtLMVFvSkxsSnB2SE1Bb055WS1XWTBaczg4SXlqdk0zWnUzZXY3M3A2dlFsT3NkTC02NlQ0ZkE3TUFTOTFnSWJUeFUwejk3NDM2NkRSSkRDWHk3d2V2S0pIbDB6bHV6SXFNM2JfUGwyMnJfYWk0U0lkUWc4OVhac2NGdEEzblNrdw?oc=5"
     },
     {
-      "t": "Box premium de Harry Potter com os sete livros em capa dura está com 43% de desconto na Amazon",
-      "d": "Os livros passam de 450 milhões de exemplares vendidos e foram traduzidos para 78 idiomas",
-      "link": "https://br.ign.com/descontos/157603/box-premium-de-harry-potter-com-os-sete-livros-em-capa-dura-esta-com-43-de-desconto-na-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-13T00:00:36.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/design-sem-nome-26_7rr6.png"
-    },
-    {
       "t": "Caso Nvidia: Singapura proíbe suposta espiã chinesa de entrar no país",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/big-techs/caso-nvidia-singapura-proibe-suposta-espia-chinesa-de-entrar-no-pais/",
@@ -180,16 +208,6 @@
       "data": "2026-11-12T22:15:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/XUGLGOOYPRN7BBJUPO2DCEBAGE.jpg?quality=80&auth=fd9b6ef8fb2fb4f97a76ae6f38b868524583216b2399c10f53d21924ae140ae8&width=710"
-    },
-    {
-      "t": "De 13,49 € para 0 €: Epic Games oferece jogo grátis de estratégia para PC",
-      "d": "",
-      "link": "https://4gnews.pt/de-13-49-para-0-epic-games-oferece-jogo-gratis-de-estrategia-para-pc/",
-      "fonte": "4gnews",
-      "data": "2026-11-12T22:00:01.000Z",
-      "c": "Ofertas",
-      "img": "https://cdn.4gnews.pt/imagens/de-13-49-para-0-epic-games-oferece-jogo-gratis-de-estrategia-para-pc-og.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0tURExiWjhtT1ZfSXYxb1ZpdElqRHdLYnFuVFljSThBS3VGOElydDE4M3lpZUZCS2VtUHNwLU54NWlScUZzVlltWXJWcWNsTHZoQW9FV09xVUhTa29jX1V5bmc4NTRXTXlidVdySTFFSERtVzAtLW40X0J6VjFfTFkwcFFqNnVjZkpXczU1cnc?oc=5"
     },
     {
       "t": "Red Bull Ladeira Abaixo 2026 rola neste domingo em São Paulo",
@@ -262,24 +280,6 @@
       "data": "2026-11-12T16:02:12.000Z",
       "c": "PC",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/image-28-1.jpg"
-    },
-    {
-      "t": "Epic Games Store libera jogo de estratégia viciante na faixa!",
-      "d": "Visite a Epic Games Store para baixar o seu novo jogo grátis roguelite de PC agora mesmo",
-      "link": "https://flowgames.gg/epic-games-store-jogo-gratis-pc-12-11-2026/",
-      "fonte": "Flow Games",
-      "data": "2026-11-12T16:00:06.000Z",
-      "c": "Ofertas",
-      "img": "https://www.youtube.com/embed/feyETAy8Y7w"
-    },
-    {
-      "t": "‘Seria uma honra’: Elon Musk diz que contrataria Jensen Huang, ex-CEO da Nvidia",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/seria-uma-honra-elon-musk-diz-que-contrataria-jensen-huang-ex-ceo-da-nvidia/",
-      "fonte": "TecMundo",
-      "data": "2026-11-12T16:00:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/CDALVVGN6JCADKU36UBD566NBQ.jpg?quality=80&auth=f1288dda297a6c68f41c76e089202e952ad6f3f2104ac385ae33b9e902539905&width=1150"
     }
   ],
   "videos": [
