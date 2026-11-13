@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-13T06:58:46.585Z",
+  "atualizadoEm": "2026-11-13T09:43:00.661Z",
   "noticias": [
+    {
+      "t": "GTA VI poderá ser jogado no Xbox One por streaming",
+      "d": "",
+      "link": "https://www.neoteo.com/pt/gta-vi-podera-ser-jogado-no-xbox-one-por-streaming",
+      "fonte": "NeoTeo",
+      "data": "2026-11-13T09:04:01.000Z",
+      "c": "Consoles",
+      "img": "https://www.nitroindex.com/opengraph/www.neoteo.com/og.png?url=https%3A%2F%2Fwww.neoteo.com%2Fpt%2Fgta-vi-podera-ser-jogado-no-xbox-one-por-streaming",
+      "orig": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmluYjZPemhvenhOeHNzXzQxQ2gwOUdodTVfZW54SmhtNVVGaWdQRldmZGFQLTJyMFFBYl9sMEFFUU1TVGpRYnlnYVdqWkUyd1VkZFI4MXJLNnc5TWpFeDI5eHk4a240SEVNaXBFMVpkNzJmS2NDOG01ZGZMSGg1U2V3?oc=5"
+    },
     {
       "t": "Com alta do dólar, videogames e computadores ficam mais caros",
       "d": "",
@@ -16,7 +26,7 @@
       "d": "",
       "link": "https://xboxers.com.br/agradecemos-aos-jogadores-de-xbox-pelos-25-anos-veja-todos-os-anuncios/",
       "fonte": "Xboxers",
-      "data": "2026-11-13T03:00:37.000Z",
+      "data": "2026-11-13T04:00:48.000Z",
       "c": "Consoles",
       "img": "https://i0.wp.com/xboxers.com.br/wp-content/uploads/2026/11/Hero-Alt-1-e015f2b7b4d6c5b7e5f3-36b0a7f67b0b031ed23a.jpg?fit=1920%2C1080&ssl=1",
       "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOM25wdnA2dGQyeUU0LUtiZVI2cWlDT0lFSkZwUVVTSUxVbGZtbGdwN2I3WDBPeVRzMmV3LUtVMG9zVnRQWEhnMm56TGsxU0lWRDdKcUtJZnMtbzc4QkYybU5JNGwyV2RYMDVOcFNsOVZvRjRJS3V2ZHF1VDNiMkxWaFZxRXVrXzJud1c5SUs3dnY3VTMwQ2pDZ05n?oc=5"
@@ -49,26 +59,6 @@
       "data": "2026-11-13T01:30:31.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/design-sem-nome-28_e23h.png"
-    },
-    {
-      "t": "Análise: Pikmin 4 Nintendo Switch 2 Edition + Academia Dandori",
-      "d": "",
-      "link": "https://ultimaficha.com.br/2026/11/12/analise-pikmin-4-nintendo-switch-2-edition-academia-dandori/",
-      "fonte": "Última Ficha",
-      "data": "2026-11-13T01:28:34.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQXzFtd3VEaDFJX254NGtDRnBrbVliOTc1bWZTdHptTE9WamVWcXRXTEhOVjA1TUIwam5mNDhfMU1sSUpOMmduSUlLa2Y1VFpzOElYbzZoaldoRzkzbjB5UGZBck1RbW9qVy01NEpoOG9uQ1d0R2Y0OXQ3SnBfS2lTdjFWMjFaZjFhNlBILTFwLVhiemlzRHFvUzVxOWQxMnM?oc=5"
-    },
-    {
-      "t": "Radeon RX 9070 GRE ganha versão com material térmico PTM7950 para melhorar refrigeração",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/hardware/radeon-rx-9070-gre-ganha-versao-com-material-termico-ptm7950-para-melhorar-refrigeracao/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-13T01:06:00.000Z",
-      "c": "Geral",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/radeon-rx-9070-gre-ganha-versao-com-material-termico-ptm7950-para-melhorar-refrigeracao-cover.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzBnOW9Ub0tCMFFScVFEMW5jcFEwRlIzWnZxaHI2dWwxSXFuZndFdU9FOWludURCeXZvTllPSG8ydTQxcVhsNFBUYTB5QlRhUjB2bVBWZF9NTHppdFpFRUF0a1d0R2c1OFZTQ1NiNG1DRzhIcmZ6V2pfRE4tTW5rdEt1a3ZkVjYzcFQ0LVV0aFF6QXQ4Vnc4dUdDMlZFeDQ3ekdTR21rWklqRzdHRXhEcHBxODQxN2lfVlJDbUFSNWh5TWF2Z2c?oc=5"
     },
     {
       "t": "Xbox anuncia Wolfenstein 3 após quase uma década sem novos jogos da franquia",
@@ -127,16 +117,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/XUGLGOOYPRN7BBJUPO2DCEBAGE.jpg?quality=80&auth=fd9b6ef8fb2fb4f97a76ae6f38b868524583216b2399c10f53d21924ae140ae8&width=710"
     },
     {
-      "t": "Xbox 25 jogos originais chegam ao PC",
-      "d": "",
-      "link": "https://culpadolag.com.br/xbox-25-jogos-originais-chegam-ao-pc",
-      "fonte": "culpadolag.com.br",
-      "data": "2026-11-12T21:22:25.000Z",
-      "c": "PC",
-      "img": "https://culpadolag.com.br/storage/posts/281f70b6-a002-4dde-a218-ec341be2ea5c.webp",
-      "orig": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WeEdkSURHMDd5TUxDbDhvMlhfaGN4QTZXblhtMExLNTRuNnltY2pUdVI0YXpCaHpxUDF3UE1SRDFjRW82dlpwRGd2NENLdGhxNmdPVFJpdmw1Qkx2MHZQTnV3a2RTcVFEWFpnVGwxOA?oc=5"
-    },
-    {
       "t": "Xbox libera 25 jogos do console original para jogar no PC",
       "d": "",
       "link": "https://www.tecstudio.com.br/games/xbox-libera-25-jogos-do-console-original-para-jogar-no-pc/",
@@ -145,6 +125,16 @@
       "c": "PC",
       "img": "https://i0.wp.com/www.tecstudio.com.br/wp-content/uploads/2026/08/CyPGnx26JPMby5q2xRgt2h.webp",
       "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcTF0WXpDcHZTZHBydlVsaUdRcTFodmpET0REOW5ycDVzaFNsbzAycVpQdkVJZXFQck96cFFIVmk0ZnVZd2FQVGJRU0JjWDVIN2E1QlhrclR3MXI2alRBbUlUeTNPVm5kdE9sZ3lHTVlHSmNrX09tcWUyb2VXcW1QbTNMa2xsQTlZVUowQk56Q1lnYUx0N1R1Qg?oc=5"
+    },
+    {
+      "t": "Amazon Luna (Prime Gaming) de novembro traz 7 jogos; veja lista completa!",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/pc-games/amazon-luna-prime-gaming-de-novembro-traz-7-jogos-veja-lista-completa/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-12T21:07:15.000Z",
+      "c": "Geral",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/amazon-luna-prime-gaming-novembro.webp",
+      "orig": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlpscVlYZ3dKYnlNWC1FeHRjSGl5ZDNSWDRoeWppM2tZdzBkemJSZWJBdlZkYjNlZzhqeXVQbTB2ZVdjSnZFbnhTV2tOSnhZVFVFT1BxUURzcm9PM3A5ekQ2NDVtQzVfUXdWbS01WFJrVDZvQ3d2SU42aE9DYnpmWm51X2kwdkNtV29BT081UUlqWldmM3BkLW1JbXFYUE96cWpaRHUteVhIZ2pUejRGbzJjU05lUQ?oc=5"
     },
     {
       "t": "Black Friday: 5 jogos de PS5 que você não pode deixar de jogar com até 52% de desconto",
@@ -208,6 +198,16 @@
       "data": "2026-11-12T18:30:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/EXB3K6TGBNOOFDPIANQ4KDYXDI.jpg?quality=80&auth=b688ba6ae35c32e7b26bdc8a90aa6ab0620b2c08dce30537ac1ffadcd93c0889&width=710"
+    },
+    {
+      "t": "Hookshot no GitHub: como jogar Zelda no PC sem emulador",
+      "d": "",
+      "link": "https://gameoverdrive.com.br/hookshot-github-zelda-ocarina-of-time-pc/",
+      "fonte": "Game Overdrive",
+      "data": "2026-11-12T18:16:33.000Z",
+      "c": "PC",
+      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/nintendo-explains-why-it-chose-to-do-another-the-legend-of-z_dfc5-1600x900.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QdnJhUjByWm1vMzBPRWUycXpmQ2MxcUNDT0Q4bzNneTdpSWtDdjNDZUpySGUzX3JfOWtzVk9ZT19Zc3hRTjNmV1RWblVtNVoxUGpQNlB2SC1ZRGJET2lXemJIYy0xN09rZU80bEl5NWFORWdoOUhMZERR?oc=5"
     },
     {
       "t": "PS5 ganha visual transparente: coleção Prism entra em pré-venda na Amazon",
@@ -295,7 +295,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8258,
+      "views": 8264,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -447,7 +447,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20408,
+      "views": 20413,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -869,6 +869,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9214.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/former-dawn--1"
+    },
+    {
+      "t": "Edenwound",
+      "data": "2026-12-01",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/codd5x.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/edenwound"
     },
     {
       "t": "Silicone Heart",
@@ -4661,16 +4671,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coane5.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/installation-19"
-    },
-    {
-      "t": "Teach My Little Sister How to Drive",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrcz.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/teach-my-little-sister-how-to-drive"
     }
   ],
   "musicas": []
