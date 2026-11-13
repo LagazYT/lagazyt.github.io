@@ -1,25 +1,64 @@
 {
-  "atualizadoEm": "2026-11-13T10:43:19.991Z",
+  "atualizadoEm": "2026-11-13T11:13:33.531Z",
   "noticias": [
     {
-      "t": "Agência de Comunicação - Murilo Alencar delimita a lacuna técnica na formação de desenvolvedores de games",
+      "t": "Xbox permite jogar videogame pela nuvem sem precisar pagar pelo Game Pass, mas há um porém",
       "d": "",
-      "link": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/saftec-digital/murilo-alencar-delimita-a-lacuna-tecnica-na-formacao-de-desenvolvedores-de-games/",
-      "fonte": "Estadão Blue Studio",
-      "data": "2026-11-13T10:34:08.000Z",
-      "c": "Geral",
-      "img": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/wp-content/uploads/2026/11/SFT20261113072508_935922.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMkVwYmc4bVFIWnNMRXZOWllrd2JNUTZDT0hwUkRLaER2VGZRNFA5RkZpYmRlaWtTTm5pVjUwU0V4MXE0WENSbTVTUlZYc2EycDdDdWVIcUNuVW8taW1zYlhnSHhkN2JKTkpIVVJfUHlIRTREVDJVZThOeHFiSVppbHRmTklvNHRST29iMlRiSjVmcUV6bFl0a0FSUmdLd3VpZ21TeVphUDhqYmhqVk5wazhnNGdHUkx4VGdMV0tBeDd0dkRtOU5nXzIyVHpPWG5UZHkxOHU3eXRBU05OVzd0UV9LWE16QjJs?oc=5"
+      "link": "https://br.ign.com/xbox/157611/xbox-permite-jogar-videogame-pela-nuvem-sem-precisar-pagar-pelo-game-pass-mas-ha-um-porem",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-13T11:06:08.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/t/ign_br/screenshot/default/imagem_vzt6.1200.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcGhCYnlPS19La0c3NGZVYzRGTzNMem5fUGozM0FaaFNuaEhWWFhFeGFobWFSUldveTBlODE5UWJraW1iT2JRRDFiaXp5c1h5dHZDRjh1Qm13NDJ6SklxV3FvYU44T0FmNGpmc3o1cm5mRTF2eWd0enhMWGtQNlZtZmE0VDlrenVSX2tEa19pR3Q3c1BHanRRSHV3d0V1Q1h3NEljdkFCa1RwemNXYy1Qd1FBdU1ERXJ2bHByQw?oc=5"
     },
     {
-      "t": "Isa Games: Brasil mantém seis surfista na busca por vaga olímpica em Los Angeles 2028.",
+      "t": "GitHub remove Yuzu e Citron Neo após notificações da Nintendo",
       "d": "",
-      "link": "https://noticiasdaspraias.com/2026/11/13/isa-games-brasil-mantem-seis-surfista-na-busca-por-vaga-olimpica-em-los-angeles-2028/",
-      "fonte": "Notícias das Praias",
-      "data": "2026-11-13T10:30:11.000Z",
-      "c": "Geral",
+      "link": "https://imasters.com.br/noticia/github-remove-yuzu-e-citron-neo-apos-notificacoes-da-nintendo",
+      "fonte": "iMasters",
+      "data": "2026-11-13T11:00:28.000Z",
+      "c": "Consoles",
       "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaEFVdXM4OE9DU3N3bXBOVVQwOVBsSVVKaGZHOXZvb1F4ajVTVHRmdTZjX2NOWnAzT180dmUwaUhHU2hpYjRBdVQtcVlRX0xhWGxadklia2xleHJ4Yjg3UjVrREpuMVNUanNFc0RNdzNiSVkzY293cGhieDUxNm9RN09yZC0yZFhuSTljUmtMZWFxTkhRN3ZtOGpIUk5BdHNJREVUcjVsa1V3ek5RRUFQV3hsb2RNSm1qNDgyem9NRGs0eUVJ?oc=5"
+      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVzBaNk1nc0V3Z1gxcVM0ZEJSRWhGalk1eGJWVGxUUnEyM3VNMng0dE81UUQ2OVRGZTd4ajJFZkszSDBQYnBmV2FlczJidFBKU2Q5UUhxLVJjSi1kVmtFVnduUWlOdFc2dFFrMGp2UTBwamt0NzVoTmswNDhKV0NtS3J5LU52djdTTVJGUHpOWVhQMTI3Mi1GdQ?oc=5"
+    },
+    {
+      "t": "BOMBANANA! chega ao PS5 e Xbox e supera 2 milhões de vendas",
+      "d": "",
+      "link": "https://pizzafria.ig.com.br/news/bombanana-lancamento-ps5-xbox/",
+      "fonte": "Pizza Fria",
+      "data": "2026-11-13T10:55:25.000Z",
+      "c": "Consoles",
+      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/09/BOMBANANA.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtQkQ4WEFYV1k5THVvdnFlZlpjbXJwMWR5bzZuNVJiRmJ1ZmxabzQ1bW8wWV9ibU1ROXVwODBlUjhqYW1sYjNUZHpjUjE4VzhEeHo3MUdNbXZZU0ZPbG5XSkdBdldrUXBwcFdiVzNOanE?oc=5"
+    },
+    {
+      "t": "Xbox adiciona mais 21 jogos à Retrocompatibilidade no PC",
+      "d": "",
+      "link": "https://www.gameblast.com.br/2026/11/xbox-adiciona-mais-21-jogos-retrocompatibilidade-pc.html",
+      "fonte": "GameBlast",
+      "data": "2026-11-13T10:54:09.000Z",
+      "c": "PC",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKinT3F8RRn5UuhEIswNm8vpYzReiJ12C9Jh2nkS12kYnPz-o2-oyi3TMMWKhYpT0Pl-uvZzJ4d_cv9YmC1Nf3qvvWap-51fV8b_lJg6VGCmmsLoF2R63zUQh-g7SWEIXW4kceXE1XD7Z0_jk5qmclqp2Kf_06oTWyMzb9ABL9aQabRz6F0-miqNLBX2Q/w1200-h630-p-k-no-nu/xbox_adiciona_mais_21_jogos_retrocompatibilidade_pc.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUhHWWZObnBQVXpPdnBaQUpNR1NDeU42UUlDaUpDNUJIei1tRWZOWFBOb1dIWE9SQVo3NnRVUkpXeGlPR0pIbzFac0xROS1ueXZDc3U4UDRLWl9vNGVkcWNCQXhVMll6S1hReTkxT2piSW90SjVLT0dFejlKQnFqOUVqSWRHUHhlbHE4ZTVzcjUzQ0ZhTnZfZA?oc=5"
+    },
+    {
+      "t": "Commandos: Origins Deluxe Edition será lançado para Nintendo Switch 2 em 15 de dezembro",
+      "d": "",
+      "link": "https://www.nintendoblast.com.br/2026/11/commandos-origins-deluxe-edition-sera-lancado-para-nintendo-switch2-em-15de-dezembro.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-11-13T10:53:06.000Z",
+      "c": "Consoles",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZUIDvX5nKAnUE8xNt6IE4msCYmo3e8FS896g6xi9KDyPtRWZp0oOLvnlF2xLZdrne3dOH4OrHhPkzXDtz6wz126P0nEJuKYZyB1lMvw_nxzKoSfsZ5GWRn7Z5mb5b1gAkGoTnZeKR-Hpzf_668AumlTeTS9PiwFKUmExwocmPeB3ruKOLxpcWp9Mil4S/w1200-h630-p-k-no-nu/IMG_0596.png",
+      "orig": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSW5MbTFwcXpFNm9pVEl5RXFkN3pBX0NzaGtwVVNsUzVDUkxOdjM4WHFzTl80bWRHb05Ra1lpbjN1Vlc1QlpDTl9DNGVvRkxFS2ljOGIyQVdMdFkwMFU0LWtNWkxGM1kyb3k5UzlPWV92eVNVLTBYTnVNSHpTN196THZXZ2ptYVliY2haTU1SSGNnSjhNUFVRWm9fajVmWnJlSFVZSGFaZlVqSy1HLTZWWlZKSk9QaGNqX0hsbXVwY0V3WDY1T3pGV1lB?oc=5"
+    },
+    {
+      "t": "Elon Musk afirma que “seria uma honra” contratar Jensen Huang, enquanto futuro do ex-CEO da Nvidia permanece incerto",
+      "d": "O proprietário da Tesla afirmou que gostaria de trabalhar com Huang na SpaceX",
+      "link": "https://br.ign.com/nvidia-rtx-5090/157618/elon-musk-afirma-que-seria-uma-honra-contratar-jensen-huang-enquanto-futuro-do-ex-ceo-da-nvidia-perm",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-13T10:47:33.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/news/e/elon-musk-/elon-musk-says-it-would-be-an-honor-to-hire-jensen-huang-as_6fa9.jpg"
     },
     {
       "t": "Steam libera teste grátis de 4 jogos por tempo limitado para animar o seu final de semana",
@@ -50,16 +89,6 @@
       "img": "https://sm.ign.com/ign_br/feature/a/as-nvidia-/as-nvidia-ceo-jensen-huang-resigns-the-future-of-geforce-han_hny4.jpg"
     },
     {
-      "t": "Metaphor: ReFantazio já está disponível para Nintendo Switch 2 - confira o trailer de lançamento",
-      "d": "",
-      "link": "https://www.nintendoblast.com.br/2026/11/metaphor-refantazio-ja-esta-disponivel-para-nintendo-switch-2-confira-o-trailer-de-lancamento.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-11-13T10:11:14.000Z",
-      "c": "Consoles",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-LDf-L2oBJZRPp6w_RLAhyiPrkWWNabfWOJXskfbIOIgZWCIMdIkQH5VHe9wg7c4uatz2MBdlkimbNiXehLsC0GI6Ia1wtsy_7qtFMxiXGH31TDaFlBhtLKRlNtjd1YGgSB5K7ffNyIzMkSL7HBrldKobSRmwKLnCKjsILZDu6vHrKjHBQW4JJRSESLx6/w1200-h630-p-k-no-nu/image.png",
-      "orig": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZU1kTWlmYVo2cmhkWnRVVzRnRjJ2eXd6T1RXVE9Sa3k4ekJtNnFKcFVPZEwwNzU5elVUR3NWaWFDRWlzS1dZTVRRRG0wU1RWREloc3F0RmFBVWRXWnY0WElGRkt1Ui1RbzVEcW51MnJuM1E0ajFEdXFGU25oTmJWSFh2d0EyM3N1Ujd2Nk16UldyNm1sVHBtdzZ1UHVaT1lHT0tWR1hYb3NOZzZfYXBUbEh3VWN0aXNUQUNTN3cySEVQdnlqRVVjblp0QlRqRnBqMzQwNUN3?oc=5"
-    },
-    {
       "t": "Endless Legend II estará disponível em acesso antecipado no verão de 2025! Descobre a nossa antevisão",
       "d": "",
       "link": "https://www.sortiraparis.com/pt/o-que-fazer-em-paris/jogos-gaming/articles/325738-endless-legend-2-o-jogo-de-estrategia-ja-esta-disponivel-para-pc-e-consoles-confira-nossa-analise",
@@ -70,16 +99,6 @@
       "orig": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQnBSdHRDNlVYTWFUX0luOHpDclp5MGRiejZVb2VEaTEyQlktX29maHlzNy1KRmNPaHhmZlpERTVqOTBidk1rQVZOQlh0LXp3WG8yblRGV1JYYjJ4dFhZLW45UGloamYySmVPRm5VcDRPN28xWmQ1SFRFOFhyNzNOZklhN2RFaFhOaEFxSUVPSVByZk9vM3cxaG5SWkFuYW9HSGNMZmFtaFViVWF5c3pyRERvZllEMkNkVWhNQi1FaEpycG42dF9lU0lPX2ZnVmowTnJWUE5hVmdJSGRIRkdTYmN4T0s1aDNfTWtObUt3YTFhN1pxelhyaWd6eE1DZEh5SzJ2dGF5ejU2VkE?oc=5"
     },
     {
-      "t": "Microsoft Flight Simulator 2024 recebe aviões temáticos para celebrar 25 anos do XBOX",
-      "d": "",
-      "link": "https://www.tudocelular.com/curiosidade/noticias/n267083/flight-simulator-recebe-celebra-25-anos-do-xbox.html",
-      "fonte": "TudoCelular.com",
-      "data": "2026-11-13T10:04:33.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHZSSjYwQWwwdHpnWmF3MjM2bGlHOUs4UW5QZE5fZTF0ZjZ6QVZrbTd3cTFldllWUTJNWGkwM0RwVkc3LVo2U3Y5ZlpDeUJQaDlIQ2l5ZEp5NmswYnpNWU5HZWNOdHl2NEhFZDJ0V29fN29pVDMxLV9UeE02azNad2o4bjVhb0E4bGZVencxRkQzcWR1OFktUk1pdFhpSlEwaFoybXVkdi1wSWw5bkE?oc=5"
-    },
-    {
       "t": "Henry Cavill fala sobre reprisar o papel de Superman, mas há um problema: ele agora pertence ao Imperador",
       "d": "Apesar de não fechar as portas para um retorno, o ator está 100% focado em outro projeto A saída de James Gunn do universo DC coloca em risco seus personagens e todos os atores envolvidos.",
       "link": "https://br.ign.com/henry-cavill/157609/henry-cavill-fala-sobre-reprisar-o-papel-de-superman-mas-ha-um-problema-ele-agora-pertence-ao-impera",
@@ -87,16 +106,6 @@
       "data": "2026-11-13T10:00:37.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_r7kn.jpg"
-    },
-    {
-      "t": "Xbox diz que inventou comandos com dois analógicos",
-      "d": "",
-      "link": "https://www.eurogamer.pt/xbox-diz-que-inventou-comandos-com-dois-analogicos",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-11-13T09:51:30.000Z",
-      "c": "Consoles",
-      "img": "https://assetsio.gnwcdn.com/XBOX25_KA_STATIC_16x9-6b7040bd2c8b8ac15ad8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTDhjNXJUM0dwWVQxbUlXNzR5a1FfVDAyQkU0X0lnZzVUanBTeVExM3ZsYUp5cDVoRG80ckd2NzVETlUxLVBoYmRweWNTRUJmLXc5OVhjQUpxTVdmV2x0anVicHE2WUY4eVV4UkdiV3VTbndGU2FBc3luVnZqQlo0cg?oc=5"
     },
     {
       "t": "Antes de O Senhor dos Anéis: kit Grandes Contos de Tolkien sai por menos de R$ 110 na Amazon",
@@ -237,24 +246,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/EXB3K6TGBNOOFDPIANQ4KDYXDI.jpg?quality=80&auth=b688ba6ae35c32e7b26bdc8a90aa6ab0620b2c08dce30537ac1ffadcd93c0889&width=710"
     },
     {
-      "t": "PS5 ganha visual transparente: coleção Prism entra em pré-venda na Amazon",
-      "d": "Nova linha traz controles DualSense e tampas para PS5 Slim em três cores",
-      "link": "https://br.ign.com/ps5/157600/ps5-ganha-visual-transparente-colecao-prism-entra-em-pre-venda-na-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-12T17:46:57.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/ps5-prism-capa-tres-cores-1280x720_5ca2.jpg"
-    },
-    {
-      "t": "22% OFF! Castlevania: Belmont’s Curse – Midnight Edition para Nintendo Switch despenca de preço no Mercado Livre",
-      "d": "A Midnight Edition acompanha o jogo completo, galeria digital de arte e trilha sonora, além de trajes exclusivos e itens bônus. Aproveite os 22% de desconto no Mercado Livre!",
-      "link": "https://br.ign.com/descontos/157597/22-off-castlevania-belmonts-curse-midnight-edition-para-nintendo-switch-despenca-de-preco-no-mercado",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-12T16:52:55.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_vhka.jpg"
-    },
-    {
       "t": "GTA 6 quase teve lançamento barrado na Coreia do Sul",
       "d": "Principalmente devido a nudez, o GTA 6 quase teve seu lançamento barrado na Coreia do Sul. Entenda o que rolou!",
       "link": "https://flowgames.gg/gta-6-quase-teve-lancamento-barrado-na-coreia-do-sul/",
@@ -280,6 +271,15 @@
       "data": "2026-11-12T16:02:12.000Z",
       "c": "PC",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/image-28-1.jpg"
+    },
+    {
+      "t": "Epic Games Store libera jogo de estratégia viciante na faixa!",
+      "d": "Visite a Epic Games Store para baixar o seu novo jogo grátis roguelite de PC agora mesmo",
+      "link": "https://flowgames.gg/epic-games-store-jogo-gratis-pc-12-11-2026/",
+      "fonte": "Flow Games",
+      "data": "2026-11-12T16:00:06.000Z",
+      "c": "Ofertas",
+      "img": "https://www.youtube.com/embed/feyETAy8Y7w"
     }
   ],
   "videos": [
