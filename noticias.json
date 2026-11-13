@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-11-13T21:53:35.512Z",
+  "atualizadoEm": "2026-11-13T22:23:57.701Z",
   "noticias": [
+    {
+      "t": "ChatGPT ganha carteira virtual que faz pagamentos ‘sozinha’ usando agente de IA",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/chatgpt-ganha-carteira-virtual-que-faz-pagamentos-sozinha-usando-agente-de-ia/",
+      "fonte": "TecMundo",
+      "data": "2026-11-13T22:00:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/VTXJQCM7WBAWBCBS6XUZO5UQDU.jpg?quality=80&auth=012baeb8716f3e736ac01dc0f49ec857f52d25ac60f5d2a8ad53814a4d5e0c58&width=1150"
+    },
     {
       "t": "Projetos chineses de IA somam US$ 3,2 bilhões em chips restritos da Nvidia",
       "d": "",
@@ -268,15 +277,6 @@
       "data": "2026-11-13T14:42:34.000Z",
       "c": "Lançamentos",
       "img": "https://www.youtube.com/embed/-E-bOQQhhpg"
-    },
-    {
-      "t": "Wolfenstein 3 é confirmado por Asha Sharma, CEO do Xbox",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/wolfenstein-3-e-confirmado-por-asha-sharma-ceo-do-xbox/",
-      "fonte": "TecMundo",
-      "data": "2026-11-13T13:45:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/B46X7SIZXVPVBKDZHPPYZHANS4.jpg?quality=80&auth=4ccfcdf269f3dc11b2d31692140a6c45753f2bb92fa25accddb8f76e8e445703&width=710"
     }
   ],
   "videos": [
@@ -460,7 +460,7 @@
       "id": "ugGDjTdbvpU",
       "t": "MELHOR ARMA PARA MAELLE APÓS O NERF | EXPEDITION 33!",
       "data": "2025-05-13T17:30:14Z",
-      "views": 5544,
+      "views": 5542,
       "img": "https://i.ytimg.com/vi/ugGDjTdbvpU/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ugGDjTdbvpU"
     },
@@ -484,7 +484,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3659,
+      "views": 3658,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
