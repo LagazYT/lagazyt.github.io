@@ -1,15 +1,109 @@
 {
-  "atualizadoEm": "2026-11-14T11:43:27.079Z",
+  "atualizadoEm": "2026-11-14T14:17:19.373Z",
   "noticias": [
     {
-      "t": "Riot Games revela sedes das próxima edições do First Stand, MSI e Worlds",
+      "t": "Lançamentos e ofertas de games da semana – 9 a 13 de novembro",
       "d": "",
-      "link": "https://www.terra.com.br/esportes/riot-games-revela-sedes-das-proxima-edicoes-do-first-stand-msi-e-worlds,cedc1a1ff497dd6b619786af015752faqqbayxu8.html",
-      "fonte": "Terra",
-      "data": "2026-11-14T11:01:00.000Z",
+      "link": "https://www.gameblast.com.br/2026/11/lancamentos-ofertas-games-da-semana-9-13-novembro.html",
+      "fonte": "GameBlast",
+      "data": "2026-11-14T14:02:48.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3FOaldVUGtQNG1Uak4wUXR5NWdiYUNKYnBYVlZvd1A1RUpja05leEtvcWM0MUVHRXhMM2FfRUdaSVFYSWNOSlI2T2xxQXRWOERmUjB5MklRN3Jlb0FhZy1aR0laUzVmbDhxQm1tTmk4TjBRLWtkbmlGZXlDZW1UMk5fRXk2NDU2ZFliY3BBc3EwR1prdGc?oc=5"
+    },
+    {
+      "t": "Ender Magnolia e mais jogos para PC com até 90% OFF na Steam",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/ender-magnolia-e-mais-jogos-para-pc-com-ate-90-off-na-steam/",
+      "fonte": "TecMundo",
+      "data": "2026-11-14T14:00:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/ID4CNUIEQRNAXDA76BH4F2PJ2Y.jpg?quality=80&auth=9a82e3b2494e0947f55a8c0b820ad6ce5a2cc2256814bfeea3daf4c297ef0ba2&width=710"
+    },
+    {
+      "t": "Versão física de GTA 6 traz erro que revela código do jogo sem ela ser aberta",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/versao-fisica-de-gta-6-traz-erro-que-revela-codigo-do-jogo-sem-ela-ser-aberta/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-14T13:36:00.000Z",
       "c": "Lançamentos",
-      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/14/913231697-5565135915632fbde0953o-2048x1366.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOS1vUmYtSFBWM19MM2dkRWtsZE8wVGp2Zkt1M3BBelhVRVZ4QVdFQTQ2ZXJRem82WG1xMVlrcDA3SEJlSzRSOGo5ci1kWHpwenFiMzF1eVIwWmx0cE14TG93ay1qRExkdGNQcDF0RWt5dmRDaDVQTVNHWS01dVRxdnNybURKbUp3dEJzTko3U3M1Y2FZZkFHVkYxX0xJZ2lSb25aajZ4QVNxREdZMmxnYmhtM3hNQlQ1ODU4WlczWmlpUlpwUDNWWkg4WFFsOXBySWg0ZG96VTRoMmcwSjZxdXhlRW1Pdw?oc=5"
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTA-6-Versao-Fisica-Codigo-Resgate.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmRlR2lPaWdRNmJUUVFHSE8zSjl6MUZCZ3cxOW9nV1RxUDhsM2xKYm85ZGZFOTQ0VlN3ZF9hX0x3WU5SNkFvNVp4Ty1GSUk0cDd3ZE4xckxmVHhLZ29Hd19sTFRuTHFXU0Y0SmZlRUZSQXhxRWtleHUwUG8wam9NV0FNakZvMmFFclAzcEtDX01mQ2EtcWE2MVE4WDI0WDJhdjEwVTg1NVlkVVpUdjUzcmJHX0o?oc=5"
+    },
+    {
+      "t": "GTA VI Chega ao Xbox Cloud Gaming no Lançamento: Uma Virada de Jogo na Sua Semana!",
+      "d": "",
+      "link": "https://www.gamerscore.com.br/gta-vi-chega-ao-xbox-cloud-gaming-no-lancamento-uma-virada-de-jogo-na-sua-semana/",
+      "fonte": "Gamerscore Brasil",
+      "data": "2026-11-14T13:35:05.000Z",
+      "c": "Consoles",
+      "img": "https://www.gamerscore.com.br/wp-content/uploads/2023/12/GTA-VI.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWkh4aW4ycFlqdlRYVmwzT2ZRZ3pzOGVWdkQwU1htclFicmY4QkpUYVdhMDZGSnB6V045cFZaWV9TckpMU0phNmFDa1hSY0NMSnphQXR0UXdNcWRUYUFnZUJZYzBwMHYyRzRjMzVtbnZFRzRhTk41ZnBQZm5CUjJFYVVReXNDREEzTWk1a053TEFPakMwQU9OX3RBVmV4Nm9yTGI5RE5IMjhZLW1XYzBuNw?oc=5"
+    },
+    {
+      "t": "Ex-chefe de Tekken pede à Xbox que não repita o Series S, chamando-o de 'trabalho extra' para os desenvolvedores",
+      "d": "",
+      "link": "https://www.notebookcheck.info/Ex-chefe-de-Tekken-pede-a-Xbox-que-nao-repita-o-Series-S-chamando-o-de-trabalho-extra-para-os-desenvolvedores.1450455.0.html",
+      "fonte": "Notebookcheck.info",
+      "data": "2026-11-14T13:21:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/Xbox-Series-S-Robot-White-Image-Source-XBOX.jpg-1.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS1lPSkJhZXQ2WTBCbUF5WWtrbm91WjRIMGJqOUJNWjdVOHZiMTFKSDJFMWEyZ043a0xTRGhOTHFnQWJ5Z2pKMEVqby1yY2dWYU1QQ1lPU2pVaWc3TnVORlJKZ3V0ZTkzQ25IWkNyT1FVeWx4VFBSWFVlVmVNa3p0LU82Rms1OXFJV0k5OFZ6cGpBREFJWTF6QXRIVkZzYk5YRmZheUxsdTdlTnhkcVRIOUVDQkEtZmZueGtCWnZCc0ZmenlLQnYtaXQyLVNDTVlYSDNiSzhBMkhuNlFHX3BZMFNOYlc2QUJtMm9Z?oc=5"
+    },
+    {
+      "t": "\"Foi uma completa idiotice\": 10 anos antes da CD Projekt fazer história com The Witcher, outro estúdio tentou trazer Geralt para os games",
+      "d": "A ambição dos devs acabou atrapalhando os planos na década de 90 A Metropolis Software chegou a um acordo com Andrzej Sapkowski para adaptar a aventura de Geralt para um jogo bem antes da CD...",
+      "link": "https://br.ign.com/the-witcher-2/157650/foi-uma-completa-idiotice-10-anos-antes-da-cd-projekt-fazer-historia-com-the-witcher-outro-estudio-t",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-14T13:00:34.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/t/the-witche/the-witcher-remake-is-on-hold-until-the-witcher-4s-developme_8x8t.jpg"
+    },
+    {
+      "t": "Review | Cities: Skylines – Expanded Edition",
+      "d": "",
+      "link": "https://nintendoboy.com.br/2026/11/review-cities-skylines-expanded-edition/",
+      "fonte": "NintendoBoy",
+      "data": "2026-11-14T12:35:34.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORFZ2WWYwSElQUzhuNDZ6ZWZDVHlvY2FXZWtiV005NlF5M1V1VVZvdXZRWERCM1lRMHVvaUxlampLb2dJVVlIa1Bmak5pUnM1b3JCeng2dmxaTEZ6Sm9kaHZaaENmYTJobTFxYmcySDRCM3BRYjVDNjUxaFZIVlVOSg?oc=5"
+    },
+    {
+      "t": "Melhores ferramentas de vibe coding: 7 opções para criar sites e apps com IA",
+      "d": "Plataformas transformam descrições em texto em projetos completos com recursos modernos e performance otimizada",
+      "link": "https://br.ign.com/tech/157652/melhores-ferramentas-de-vibe-coding-7-opcoes-para-criar-sites-e-apps-com-ia",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-14T12:00:40.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/capa-vibe-coding-1280x720_y2kp.jpg"
+    },
+    {
+      "t": "Jogador de PC recebe memória RAM novinha da Corsair e se sente \"culpado\" por estar \"roubando\" hardware de Sam Altman",
+      "d": "CEO da OpenAI segue sendo motivo de piada por conta de declaração sobre data center A comunidade segue pegando no pé de Sam Altman em todo post sobre memória RAM na internet.",
+      "link": "https://br.ign.com/tech/157648/jogador-de-pc-recebe-memoria-ram-novinha-da-corsair-e-se-sente-culpado-por-estar-roubando-hardware-d",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-14T12:00:38.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_au77.jpg"
+    },
+    {
+      "t": "Eu não tinha dado este mangá uma chance, até eu ver 4 episódios do anime e ficar completamente obcecada",
+      "d": "Nunca julgue um livro pela capa Alguns meses atrás recebi um exemplar de Casamento dos Vaga-lumes, mas acabei apenas tirando o plástico de proteção que veio junto e deixei largado em algum lugar...",
+      "link": "https://br.ign.com/anime/157564/eu-nao-tinha-dado-este-manga-uma-chance-ate-eu-ver-4-episodios-do-anime-e-ficar-completamente-obceca",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-14T12:00:36.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/fw-20261111-155304-0000_qvzt.jpg"
+    },
+    {
+      "t": "Que fim levou a Atari, a primeira gigante da indústria de games?",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/que-fim-levou-a-atari-a-primeira-gigante-da-industria-de-games/",
+      "fonte": "TecMundo",
+      "data": "2026-11-14T12:00:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/4LJBMSD6ONMBZPOIPI7U2DBO5E.png?quality=80&auth=5ed20b22e3699a8fba8f9767ccc443f7a7f01992bb636fdf78db60f47d9ff993&width=710"
     },
     {
       "t": "A China está construindo um guindaste capaz de levantar impressionantes 14 mil toneladas",
@@ -40,26 +134,6 @@
       "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUhQeDhCd1N0UzJkUW9acVhpNFZZVk01UTdjci05OXVQM1dQcGRrcTRUTDVSV3lRaWRlMGY5c0pKd0d3SGtTTkVteDRrUEt5NWY5UTdDZmZmeW9sWlpVRmdZVnl3UW1VaEd0Tnl3Mkdxa0lfWlhFam9yRmplc2lOckVpTHdwOUQ5Nk9wRUdvWjQ?oc=5"
     },
     {
-      "t": "gamescom latam 2027 terá jogos do PlayStation Hero Project e novidades para profissionais da indústria",
-      "d": "",
-      "link": "https://naoseinada.com.br/2026/11/14/gamescom-latam-2027-tera-jogos-do-playstation-hero-project-e-novidades-para-profissionais-da-industria/",
-      "fonte": "NãoSeiNada",
-      "data": "2026-11-14T09:16:00.000Z",
-      "c": "Consoles",
-      "img": "https://i0.wp.com/naoseinada.com.br/wp-content/uploads/2025/10/gamescom-latam-logo.png",
-      "orig": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNnlYNF9Rc2lXVjNELXQweGpva1EwZ09OVVlqWE5WbnljR2tIRkU2SU9ITS0tLVFia1FyczNBZ3dUS3d1ZlBNR1ZadEUtWWUzbGpJQldqRDVIWGZhLTFsSVdPRjNSa0FneG1mMlBqZlVOLVN0WElQM2ZpYnBzTEhQYVlLbWdCcEI2MVRzLUFiRThpUS13VFIxaGk0cHJRZ1JSVmsyUkVwaGdQaHQ1X2czRkpkTkNKdGV3cVk3MVNDVmp2WUtqNUlBUmhIM1BpNVd2UjI3LWVpaw?oc=5"
-    },
-    {
-      "t": "Pizza Hut cria game para fãs de GTA 6 com recompensas em pizzas",
-      "d": "",
-      "link": "https://fastcompanybrasil.com/games/pizza-hut-cria-game-para-fas-de-gta-6-com-recompensas-em-pizzas/",
-      "fonte": "Fast Company Brasil",
-      "data": "2026-11-14T09:02:06.000Z",
-      "c": "Geral",
-      "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/gta-pixel.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYWJnQzhEMXVfelI0ZUhvOU5GcnM0ZjhSZ0FXMzBFOFNFSlZaT2ZIX055eGVzbkRiZE5IdDBTVGFOM3pCTXlIUFA4Yjh5WHM4Sl9oWmtFamFLd1FOeEhzSWl3OXllY3dENWpnejBGenNBSkZrMVBTbHVBekROM0VKV0lMTkc1RTAzZXNiX2ZWSTF4YmF0YzgtYjg3S09PM0tkdnc?oc=5"
-    },
-    {
       "t": "Ele comprou uma cabana antiga por 3 mil euros e achou uma moeda de 1740 com um detector de metal",
       "d": "Virgilio começou a restaurar uma casa abandonada nas montanhas das Astúrias sem ter a mínima ideia de construção O tempo do confinamento da Covid-19 fez com que muitas pessoas explorassem novos...",
       "link": "https://br.ign.com/tech/157516/ele-comprou-uma-cabana-antiga-por-3-mil-euros-e-achou-uma-moeda-de-1740-com-um-detector-de-metal",
@@ -67,26 +141,6 @@
       "data": "2026-11-14T09:00:36.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_fc42.jpg"
-    },
-    {
-      "t": "Corrida relâmpago: Galactic Racer quebra 1,5 mi de pilotos e redesenha a pista dos games de Star Wars",
-      "d": "",
-      "link": "https://radiogeekbr.com.br/galactic-racer-1-5-milhao-reinventa-jogos-star-wars/",
-      "fonte": "radiogeekbr.com.br",
-      "data": "2026-11-14T07:12:37.000Z",
-      "c": "Geral",
-      "img": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794645773.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWVcyRG9rVUdiTi1KVnp2TjhiUXc3QloyVTdmU1BCS3VBWE5aV0ZGdkJQbXZiSnVxc1hWazB2WFV5M0lvYm5DQmJ6UDBLTzZLX1k4U2g1ZF9JREFNTlJHaGphS0g2dzdJQzAwZ2xhQWpyVExHazZXVjF5eW1DZFJtbjU3Sk4yUQ?oc=5"
-    },
-    {
-      "t": "Portugal some no Xbox Playback e reacende cobrança por atenção da Microsoft",
-      "d": "",
-      "link": "https://radiogeekbr.com.br/portugal-esquecido-xbox-playback-25-anos/",
-      "fonte": "Rádio Geek",
-      "data": "2026-11-14T05:13:02.000Z",
-      "c": "Consoles",
-      "img": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1794540509.png",
-      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03Z3RBNENyYjh1aW0yOTFfci1yVjFuYWRPTmRxQ0Rodm41Yy1MRkw0RFI3OFhRNVUwMXJHdTRMbHQ3RU9RRXliaXVTWl9Jc1QxelVzNmZhWWdxYkZuZ0FRZHFyREw3WHVQa19Rc2xRcTh5Rl9ib3RN?oc=5"
     },
     {
       "t": "33% OFF! Kindle Colorsoft registra queda no valor durante a Black da Amazon",
@@ -182,33 +236,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/QVXD4EATU5FSXDJEBE3H4M2Q6Q.jpg?quality=80&auth=1a9946e8503adaccee050ef070b13c16ca64b213bba7de29bbe4661450b36dbf&width=710"
     },
     {
-      "t": "Erro ou anúncio antes da hora? Nintendo lista jogo de 3DS de The Legend of Zelda como jogável no Switch Online, mesmo que serviço não tenha suporte da família de consoles",
-      "d": "A Link Between Worlds foi lançado em 2013 e continua preso na família 3DS The Legend of Zelda: A Link Between Worlds aparece como um título jogável pelo Nintendo Switch Online, mesmo o serviço não...",
-      "link": "https://br.ign.com/the-legend-of-zelda-a-link-between-worlds/157645/erro-ou-anuncio-antes-da-hora-nintendo-lista-jogo-de-3ds-de-the-legend-of-zelda-como-jogavel-no-swit",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-13T18:53:36.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/albw-20261113-152956-0000_k2t1.jpg"
-    },
-    {
-      "t": "A franquia The Legend of Zelda estava em \"apuros\" antes de Breath of the Wild, dizem veteranos de marketing da Nintendo",
-      "d": "Franquia não estava vendendo tantos jogos A franquia de The Legend of Zelda estava em “apuros” antes de Breath of the Wild , com uma base de jogadores cada vez menor e vendas baixas, de acordo com...",
-      "link": "https://br.ign.com/the-legend-of-zelda-breath-of-the-wild/157640/a-franquia-the-legend-of-zelda-estava-em-apuros-antes-de-breath-of-the-wild-diz-veteranos-de-marketi",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-13T18:25:46.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/news/t/the-legend/the-legend-of-zelda-series-was-in-dire-straights-before-brea_myae.jpg"
-    },
-    {
-      "t": "Mapa final de Crazy Taxi: World Tour é revelado, com a Índia sendo o 5º destino do jogo",
-      "d": "Sim, teremos Bollywood O próximo mapa confirmado para Crazy Taxi: World Tour é a Índia, que conta com três zonas distintas que celebram as diversas culturas e marcas registradas do país — e, sim,...",
-      "link": "https://br.ign.com/crazy-taxi-world-tour/157630/mapa-final-de-crazy-taxi-world-tour-e-revelado-com-a-india-sendo-o-5o-destino-do-jogo",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-13T18:00:36.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/1000081360_dfzx.jpg"
-    },
-    {
       "t": "Funcionários da Nvidia pedem volta de Huang em chat interno",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/big-techs/funcionarios-da-nvidia-pedem-volta-de-huang-em-chat-interno/",
@@ -216,15 +243,6 @@
       "data": "2026-11-13T18:00:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/VLQO2325C5HQJKBUWAQFW5RXCM.jpg?quality=80&auth=fe5ac0a47ef06aa1cefeaa10c7d992849dbb39ed13d6aef633b0fea370717c76&width=710"
-    },
-    {
-      "t": "\"O combate por turnos é uma mecânica atemporal que já provou profundamente sua jogabilidade\": designer-chefe de Honkai Star Rail fala sobre o gênero e celebra chegada de Aeon Aha",
-      "d": "“Esperamos que todos se divirtam muito na nova versão” Honkai Star Rail é um dos pilares da HoYoverse e, assim como muitos títulos da desenvolvedora, explora o gênero de RPG, mas com o adicional...",
-      "link": "https://br.ign.com/honkai-star-rail/157643/o-combate-por-turnos-e-uma-mecanica-atemporal-que-ja-provou-profundamente-sua-jogabilidade-designer",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-13T17:43:08.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/honkai-star-rail-4-7-drip-marketing-speculation-cover_5cym.png"
     },
     {
       "t": "Xbox Playback traz uma retrospectiva completa de sua história com a marca",
@@ -262,24 +280,6 @@
       "data": "2026-11-13T00:00:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/3N3IH6UZMZDJNGYJLRH4Z7DWJM.jpg?quality=80&auth=12c16c8a3b64100b9613542284a4bedb1eb0290c9c5617b1bf46964cb122e6f0&width=710"
-    },
-    {
-      "t": "Silent Hill: Townfall e mais games de PS5 e PS4 com até 90% OFF",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/silent-hill-townfall-e-mais-games-de-ps5-e-ps4-com-ate-90-off/",
-      "fonte": "TecMundo",
-      "data": "2026-11-12T22:15:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/XUGLGOOYPRN7BBJUPO2DCEBAGE.jpg?quality=80&auth=fd9b6ef8fb2fb4f97a76ae6f38b868524583216b2399c10f53d21924ae140ae8&width=710"
-    },
-    {
-      "t": "O que comprar na Black Friday 2026: notebooks para jogos",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-notebooks-para-jogos/",
-      "fonte": "TecMundo",
-      "data": "2026-11-07T11:45:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/5GNT22YQY5HV7JMAL62M3FEJAM.jpg?quality=80&auth=aec4dc59f368caaf18d6e13202aa9c5e44343dc7900c85589dab7a18d0ab036e&width=710"
     }
   ],
   "videos": [
@@ -431,7 +431,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6730,
+      "views": 6731,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -447,7 +447,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20417,
+      "views": 20418,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
