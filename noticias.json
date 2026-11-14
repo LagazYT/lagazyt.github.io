@@ -1,6 +1,24 @@
 {
-  "atualizadoEm": "2026-11-14T22:20:06.175Z",
+  "atualizadoEm": "2026-11-14T22:50:12.751Z",
   "noticias": [
+    {
+      "t": "Yago Dora e Luana Silva vencem duas baterias e seguem vivos no ISA Games",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaFZzUlYzQ21ONGtRMGIxakhtbzV0eHkyNWw5LUJGM1NMTC1iQTRmVlV5VjNVQ3dNd2V1a1ZzbzhUaTRwM0Jrem00cUtWSVRVd0JsSnpvUzNrTFlqR0FtZE1LMkVmeTNaRkQxakxSb2UwVWp0aU1DN1NFU1laOGlzLWl5RWc1V096aEx3TndtOFhxczZ4X3NkLUpYeUE4R2s?oc=5",
+      "fonte": "Olimpíada Todo Dia",
+      "data": "2026-11-14T22:32:40.000Z",
+      "c": "Geral",
+      "img": ""
+    },
+    {
+      "t": "Entenda como Dungeons & Dragons influenciou os jogos eletrônicos",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNHZ1STc5bVN6c0tDMTJ1bzdEWmpZcFl2UHREMVlnZEM5eTJzeVQyVmxIcklHdDZYMEtucTFBaVJ1ejBLTGtpcmwySnNSUVE1bGxDbEo1SFNScG8xc3JvTDVRSHZzMW41dVdEeVExMXBJNGNGZ1dOVGhjM1BWTllldXdmYk5GdVBBVjRDVVVJZ29FM0JKa0F6Rlhud1NxaFk2V3Y4?oc=5",
+      "fonte": "Estadão",
+      "data": "2026-11-14T22:26:38.000Z",
+      "c": "Geral",
+      "img": ""
+    },
     {
       "t": "Stellar Blade Complete Edition está disponível globalmente para Nintendo Switch 2",
       "d": "",
@@ -26,24 +44,6 @@
       "fonte": "Xboxers",
       "data": "2026-11-14T22:01:11.000Z",
       "c": "PC",
-      "img": ""
-    },
-    {
-      "t": "SiN Reloaded recebe atualização 1.2 com melhorias de jogabilidade, multiplayer e compatibilidade de saves",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY3prS0JHZ2VQY0c1dC1IRG5mMVplOTRDUXlPM0VmYm5vUTNjTWJCNXQ0Yk1MODBOTU52RURGZmJNNmpDT3pBOWhBMmJkdU1tQ0VCZGl6d21fU1gwc1ZhOUpvNjVaZ0NGODlnVjE3RVk3REVacG5kdlNSWW9ZRGFHZHh3NFVCbWtsV1F4X0hzVE83cG5PM2YwRG5IdVdjNWRQSVpCMWlGeElJOXVtS0R5dGpBY0hRVjVBM2wyQXM5a1RSMXQ2Ri1QdEpWcnlkbzQ?oc=5",
-      "fonte": "Universo Nintendo",
-      "data": "2026-11-14T20:54:47.000Z",
-      "c": "Geral",
-      "img": ""
-    },
-    {
-      "t": "Japão | Weekly Famitsu No. 1971 – Top 10 jogos mais aguardados pelos leitores",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVowNVUyQ3FoTUQyRF95TDAwOW9pNnliWmE2ZnNpRGRVVHpManI0NXhjMEVzTnFQME1KbzdRTEpiWnhnZzZZUWtaY0xaYlpzN0ZiNnhCNjFHTU5vaW5oSmthajZkSFFlMm45NWJjWjJKaUdhMV9JejlqZzhBWngtRzUyd3lJM2wyTDNWb3pUbk8yR0JMMkJmSHBwWnMwdGw4d05PVA?oc=5",
-      "fonte": "Universo Nintendo",
-      "data": "2026-11-14T20:24:14.000Z",
-      "c": "Geral",
       "img": ""
     },
     {
@@ -416,7 +416,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 4024,
+      "views": 4023,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -472,7 +472,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3115,
+      "views": 3114,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
