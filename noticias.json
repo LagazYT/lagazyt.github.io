@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-11-14T10:13:08.630Z",
+  "atualizadoEm": "2026-11-14T10:43:14.801Z",
   "noticias": [
+    {
+      "t": "\"Não pude aceitar\": há 50 anos, Robert De Niro recusou um dos maiores filmes da história do cinema",
+      "d": "Negativa fez De Niro evitar um tufão, cenário de guerrilha e outros problemas No mesmo momento do convite, De Niro estava em reunião com Martin Scorsese para estrelar um outro grande sucesso do...",
+      "link": "https://br.ign.com/robert-de-niro/157519/nao-pude-aceitar-ha-50-anos-robert-de-niro-recusou-um-dos-maiores-filmes-da-historia-do-cinema",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-14T10:00:39.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_am2g.jpg"
+    },
     {
       "t": "Amazon Prime oferece mais 2 jogos grátis de PC que já podes resgatar",
       "d": "",
@@ -218,15 +227,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_t8dc.jpg"
     },
     {
-      "t": "Parece que Wolfenstein 3 vai finalmente colocar Nazistas onde deveriam sempre estar: na cadeia",
-      "d": "E o retorno da linha do tempo dupla O recente Fanfest de comemoração do 25º aniversário do Xbox finalmente tornou oficial o tão falado Wolfenstein 3 . A MachineGames está desenvolvendo a terceira...",
-      "link": "https://br.ign.com/wolfenstein-2-the-new-colossus/157641/parece-que-wolfenstein-3-vai-finalmente-colocar-nazistas-onde-deveriam-sempre-estar-na-cadeia",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-13T16:15:02.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/feature/i/it-looks-l/it-looks-like-wolfenstein-3-is-putting-nazis-where-they-belo_tqej.jpg"
-    },
-    {
       "t": "Xbox Playback traz uma retrospectiva completa de sua história com a marca",
       "d": "",
       "link": "https://www.adrenaline.com.br/games/xbox-playback-traz-uma-retrospectiva-completa-de-sua-historia-com-a-marca/",
@@ -273,13 +273,14 @@
       "img": "https://www.estadao.com.br/resizer/v2/XUGLGOOYPRN7BBJUPO2DCEBAGE.jpg?quality=80&auth=fd9b6ef8fb2fb4f97a76ae6f38b868524583216b2399c10f53d21924ae140ae8&width=710"
     },
     {
-      "t": "O que comprar na Black Friday 2026: notebooks para jogos",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-notebooks-para-jogos/",
-      "fonte": "TecMundo",
-      "data": "2026-11-07T11:45:00.000Z",
+      "t": "Melhor console para comprar no 11.11 e Black Friday: 5 opções imperdíveis",
+      "d": "Lista reúne consoles de peso para comprar no 11.11 e na Black Friday, com opções que vão desde videogames retrô até aparelhos de última geração; preços a partir de R$ 1.139 ...",
+      "link": "https://www.techtudo.com.br/listas/2026/11/melhor-console-para-comprar-no-1111-e-black-friday-5-opcoes-imperdiveis-bf2026-edqualcomprarjg.ghtml",
+      "fonte": "Bing Notícias – Games",
+      "data": "2026-11-11T04:13:00.000Z",
       "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/5GNT22YQY5HV7JMAL62M3FEJAM.jpg?quality=80&auth=aec4dc59f368caaf18d6e13202aa9c5e44343dc7900c85589dab7a18d0ab036e&width=710"
+      "img": "https://www.bing.com/th?id=ONUT.T0Eujsyze27dB2sqbJLevw&pid=News",
+      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af83b400241406ba0ddef1ca478ff77&url=https%3a%2f%2fwww.techtudo.com.br%2flistas%2f2026%2f11%2fmelhor-console-para-comprar-no-1111-e-black-friday-5-opcoes-imperdiveis-bf2026-edqualcomprarjg.ghtml&c=9416690305663596096&mkt=pt-br"
     }
   ],
   "videos": [
@@ -295,7 +296,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8272,
+      "views": 8273,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -447,7 +448,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20418,
+      "views": 20417,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -1350,6 +1351,18 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7nq.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/cozy-island-cleaner"
+    },
+    {
+      "t": "Don't Fret",
+      "data": "2026-12-08",
+      "plats": [
+        "Xbox",
+        "PC",
+        "PS5"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc6xj.jpg",
+      "hype": 8,
+      "link": "https://www.igdb.com/games/dont-fret"
     },
     {
       "t": "Never Be Alone",
@@ -4661,16 +4674,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coane5.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/installation-19"
-    },
-    {
-      "t": "Teach My Little Sister How to Drive",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrcz.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/teach-my-little-sister-how-to-drive"
     }
   ],
   "musicas": []
