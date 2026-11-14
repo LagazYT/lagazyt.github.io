@@ -1,15 +1,24 @@
 {
-  "atualizadoEm": "2026-11-14T18:48:48.932Z",
+  "atualizadoEm": "2026-11-14T19:18:58.675Z",
   "noticias": [
     {
-      "t": "Shopping de Cuiabá prepara sala temática de GTA 6 com cinco PlayStation 5 | HiperNotícias - Você bem informado",
+      "t": "Os mitos mais estranhos do GTA: a história completa",
+      "d": "As lendas mais estranhas escondidas pelas ruas digitais da Rockstar Grand Theft Auto sempre abrigou um segundo jogo para além dos limites do seu controle: uma caça ao tesouro, colocada em...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157594/os-mitos-mais-estranhos-do-gta-a-historia-completa",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-14T19:00:35.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/feature/g/gtas-stran/gtas-strangest-myths-a-full-history_vytb.jpg"
+    },
+    {
+      "t": "The Best Horror Games to Play in 2026",
       "d": "",
-      "link": "https://www.hnt.com.br/cidades/shopping-de-cuiaba-prepara-sala-tematica-de-gta-6-com-cinco-playstation-5/587061",
-      "fonte": "HiperNotícias - Você bem informado",
-      "data": "2026-11-14T18:41:00.000Z",
-      "c": "Consoles",
-      "img": "https://cdn.hnt.com.br/storage/webdisco/2026/11/14/1200x900/f8bb93dd4ae0f285a58c81919398c725-hnt-com-br.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdXE4cHE1ZmhoSFNOcEMtNlFjeEUtVGxYaE5Oa2RlSTZSREVpWkpLWlBjSXo1YnNXWTQ3WjljenJPR2pPMFBqZnJyakN5ZkVqU1JXLUlvb2NGTzhnVFRtRTFTcjRBclJyRjR5QWhKQW93QTFjMUJsTlk1MDhQYWRxTDJJVnhGQk1WT0txQlhQdTUxVFRYcXBEaElxZjZ4dUdydUNnRFF2UXk0bFBuLTZXNQ?oc=5"
+      "link": "https://www.imdb.com/pt/news/ni66111329/?ref_",
+      "fonte": "IMDb",
+      "data": "2026-11-14T18:53:03.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15bUNUOGgza1pxRFQ4OFhtN0QxNGc1eWNaQjh6czdaUXZOUmxyR1VfYnhCRzFLZ2ZvcUpjLXliLVUxRE1MaUtZcllXZGpNYUl4S0dwRU5wSDlTdUtpQ2NaaEt2YWFJWXg5Y0M4?oc=5"
     },
     {
       "t": "\"Seis anos após seu lançamento, o PS5 continua melhorando\". Confirmados 6 jogos adicionais que receberão a mais recente novidade gráfica do PlayStation",
@@ -20,6 +29,16 @@
       "c": "Consoles",
       "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/14/1717374942-13662000.jpeg",
       "orig": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPR0h3dW5LZVYxR0FwUEZoOV9kaWU5X3Bpc3pDd25NUzFrZzA0N1lUWExxSDRYUXkzTE8yMGtxRWdHWkJQcXIxQlo3NEw0UzkzOXpmTGlMUDFaTUYyNTM5U01BVTZxdGVqc01vVkRkcE9Gc0JsNHRPSzVqb3c3QlV3ckdwVE5mcEtYX3BKaXRkZ2lWQkFjNzQyQldVdXNSQUhOaGl6d0xBRVBjNG5vN0F1eXhONm93cW0wWFRFX0p6bGo2M0t3ZEwxUW5vbUF2SWExRm9Ob0JVd1QxM19MWWN0ZkZ4NTBkU1loYlNqQVFPM3Fmc1hyY1lQaUJfUEI0WWY5UGo1QU45WXh2VGYxa0c2UnlBVlVTUEhCUHFITXQwTVppTGxVTGUzNnVtUFV3S2NyVjZuZVA0eDIyRWFMVmVEOUZwUEJaZw?oc=5"
+    },
+    {
+      "t": "Shopping de Cuiabá prepara sala temática de GTA 6 com cinco PlayStation 5 | HiperNotícias - Você bem informado",
+      "d": "",
+      "link": "https://www.hnt.com.br/cidades/shopping-de-cuiaba-prepara-sala-tematica-de-gta-6-com-cinco-playstation-5/587061",
+      "fonte": "HiperNotícias - Você bem informado",
+      "data": "2026-11-14T18:41:00.000Z",
+      "c": "Consoles",
+      "img": "https://cdn.hnt.com.br/storage/webdisco/2026/11/14/1200x900/f8bb93dd4ae0f285a58c81919398c725-hnt-com-br.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdXE4cHE1ZmhoSFNOcEMtNlFjeEUtVGxYaE5Oa2RlSTZSREVpWkpLWlBjSXo1YnNXWTQ3WjljenJPR2pPMFBqZnJyakN5ZkVqU1JXLUlvb2NGTzhnVFRtRTFTcjRBclJyRjR5QWhKQW93QTFjMUJsTlk1MDhQYWRxTDJJVnhGQk1WT0txQlhQdTUxVFRYcXBEaElxZjZ4dUdydUNnRFF2UXk0bFBuLTZXNQ?oc=5"
     },
     {
       "t": "ROG XBOX Ally ou XBOX Series S: qual vale mais a pena comprar?",
@@ -42,14 +61,13 @@
       "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmpiOUcxdlpnbmlWeTZoTEhneW51UWsyYi1GUDJ0SGpOMkRCR0Z4YTg0VjJzZmpYSHVzZW14bXdJYVZDcWZnVkJMS01rRi1UNVMyUDBlRDVHX094bURTLTUyQnZSMDNmUlA2LThybFZPX1drY19teHdUaUcwcDlwb0lyUXpiZ3R2YjFyaUdiVFV6bkdkdVdwaVVwWWpmRTRhcFR3SExnYWhHUVJ1ZmtJbFNUbFJpWXlWV3AtXzNn?oc=5"
     },
     {
-      "t": "Por que o Xbox perdeu 33% em hardware e tenta reconquistar o Brasil",
-      "d": "",
-      "link": "https://tvsimbrasil.com.br/brasil/tecnologia/noticia/2026/11/14/xbox-perdeu-33-hardware-tenta-reconquistar-brasil",
-      "fonte": "TV Sim Brasil",
-      "data": "2026-11-14T18:24:17.000Z",
-      "c": "Consoles",
-      "img": "https://tvsimbrasil.com.br/_next/image?url=https%3A%2F%2Fapi-news.tvsimbrasil.com.br%2Fstorage%2Farticles%2F3e1333c1-42b0-4946-94fd-54cb1a9b25f3.webp&w=1200&q=75",
-      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWGZ5U2FndHJyTk1lRXlfU25nZTRFYlBEbUZYSFVfRUhEQWtYREJ5eFNoQkhXM2JXTUpyUEpYekdiX2JnZHVWeE15S3dlMHNOZTZOc0lBTENzOHVkMU5mTV9lV3Y5WGVBREtRVDRqV2IxcWVwZURmRkE3d21SU05HTjRieGUydGxfbnVYanQ3RXBPZGN3RnZLVk5zQ1gzTlAwa1JHR2xNVlhpSUtYNkJ0MllHaw?oc=5"
+      "t": "Finalmente! Red Dead Redemption 2 ganha mod com ray tracing",
+      "d": "Quer tornar Red Dead Redemption 2 ainda mais lindo? Mod com ray tracing é bem ambicioso",
+      "link": "https://flowgames.gg/red-dead-redemption-2-ganha-mod-com-ray-tracing/",
+      "fonte": "Flow Games",
+      "data": "2026-11-14T18:00:44.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2022/11/Como_jogar_Red_Dead_Redemption_010.jpg"
     },
     {
       "t": "Jogos de PC em oferta com até 90% de desconto por tempo limitado",
@@ -89,6 +107,15 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/controle-visita-senhor-dos-aneis-v2_u8qm.jpg"
     },
     {
+      "t": "10 jogos com descontos imperdíveis para garantir na Steam",
+      "d": "Disponível por tempo limitado, a Steam oferece descontos tentadores para vários jogos; confira",
+      "link": "https://flowgames.gg/steam-veja-10-jogos-com-descontos-imperdiveis/",
+      "fonte": "Flow Games",
+      "data": "2026-11-14T15:00:35.000Z",
+      "c": "Ofertas",
+      "img": "https://flowgames.gg/wp-content/uploads/2025/03/image-2024-01-08T111144.081-1.jpg"
+    },
+    {
       "t": "Xbox quer reconquistar o Brasil após críticas de jogadores sobre o abandono da marca",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-quer-reconquistar-o-brasil-apos-criticas-de-jogadores-sobre-o-abandono-da-marca/",
@@ -105,6 +132,15 @@
       "data": "2026-11-14T14:00:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/ID4CNUIEQRNAXDA76BH4F2PJ2Y.jpg?quality=80&auth=9a82e3b2494e0947f55a8c0b820ad6ce5a2cc2256814bfeea3daf4c297ef0ba2&width=710"
+    },
+    {
+      "t": "Youtuber recria Gran Turismo 7 dentro da Unreal Engine 5",
+      "d": "Será que essa será a maneira de jogadores aproveitarem Gran Turismo 7 no PC? Confira",
+      "link": "https://flowgames.gg/youtuber-recria-gran-turismo-7-dentro-unreal-engine-5/",
+      "fonte": "Flow Games",
+      "data": "2026-11-14T13:00:35.000Z",
+      "c": "PC",
+      "img": "https://www.youtube.com/embed/Ea7GAn9pN-k"
     },
     {
       "t": "\"Foi uma completa idiotice\": 10 anos antes da CD Projekt fazer história com The Witcher, outro estúdio tentou trazer Geralt para os games",
@@ -198,15 +234,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/kindle-colorsoft-uso-em-viagem-1280x720_9n7z.jpg"
     },
     {
-      "t": "Melhores ferramentas de IA para ganhar dinheiro: 6 opções para criar e vender",
-      "d": "De sites a músicas, plataformas ajudam a desenvolver projetos e prestar serviços em diferentes áreas",
-      "link": "https://br.ign.com/tech/157651/melhores-ferramentas-de-ia-para-ganhar-dinheiro-6-opcoes-para-criar-e-vender",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-14T02:17:18.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/capa-ferramentas-ia-1280x720_f1ar.jpg"
-    },
-    {
       "t": "Jogos na Steam em oferta por menos de R$ 20; até 90% de desconto",
       "d": "",
       "link": "https://www.adrenaline.com.br/games/pc-games/jogos-na-steam-em-oferta-por-menos-de-r-20-ate-95-de-desconto/",
@@ -252,35 +279,6 @@
       "c": "Lançamentos",
       "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/10/GTA-6-Rockstar-Tempo-Desenvolvimento.jpeg",
       "orig": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjRnSG5LeUFCcktJTkd1ZGNiS1VqMUdIVDBlYWxsNzZmbWF0YllMRGZiX2ZuM2hmRGFiSjQtYU92UTJvOWpUQXVIWUxmRHJTcTZsQnBsTTlhZGhsWm9PVkxIakFKQi03THVYdEtudzhGZEhKNlRfME5IX2FObVo4bEFEYw?oc=5"
-    },
-    {
-      "t": "Nvidia consulta CEO da Arm para cargo de Jensen Huang, diz jornal",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/nvidia-consulta-ceo-da-arm-para-cargo-de-jensen-huang-diz-jornal/",
-      "fonte": "TecMundo",
-      "data": "2026-11-13T19:30:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/QVXD4EATU5FSXDJEBE3H4M2Q6Q.jpg?quality=80&auth=1a9946e8503adaccee050ef070b13c16ca64b213bba7de29bbe4661450b36dbf&width=710"
-    },
-    {
-      "t": "ROG Ally X, Switch 2 e mais: Luísa Sonza analisa seus videogames portáteis",
-      "d": "Cantora viralizou por seu gosto gamer. Dessa vez, ela analisou sua coleção de portáteis em novo vídeo, incluindo o ROG Ally X, PlayStation Portal e o Nintendo Switch 2 ...",
-      "link": "https://www.techtudo.com.br/listas/2026/11/rog-ally-x-switch-2-e-mais-luisa-sonza-analisa-seus-videogames-portateis-edjogos.ghtml",
-      "fonte": "Bing Notícias – Games",
-      "data": "2026-11-04T10:49:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.bing.com/th?id=ONUT.w5WsTcFb945IANZcEgQf6w&pid=News",
-      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8ad0c687440529cf00ce60ce1eb86&url=https%3a%2f%2fwww.techtudo.com.br%2flistas%2f2026%2f11%2frog-ally-x-switch-2-e-mais-luisa-sonza-analisa-seus-videogames-portateis-edjogos.ghtml&c=7794047129487287042&mkt=pt-br"
-    },
-    {
-      "t": "Faça login ou crie uma conta para salvar localizações",
-      "d": "Na ordem natural das coisas, tudo tem seu início, meio e fim. Na indústria gamer não é diferente, já que a evolução das tecnologias fez com que os consoles chegasssem até o nível atual de excelência.",
-      "link": "https://www.otempo.com.br/tecnologia-e-games/2025/6/17/nintendo-playstation-e-xbox-os-videogames-ja-caminham-para-a-nova-geracao",
-      "fonte": "Bing Notícias – Games",
-      "data": "2025-06-19T12:48:00.000Z",
-      "c": "Lançamentos",
-      "img": "",
-      "orig": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af8ad0c687440529cf00ce60ce1eb86&url=https%3a%2f%2fwww.otempo.com.br%2ftecnologia-e-games%2f2025%2f6%2f17%2fnintendo-playstation-e-xbox-os-videogames-ja-caminham-para-a-nova-geracao&c=15220045915208673651&mkt=pt-br"
     }
   ],
   "videos": [
@@ -448,7 +446,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20418,
+      "views": 20422,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
