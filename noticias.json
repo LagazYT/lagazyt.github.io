@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-11-14T19:19:20.395Z",
+  "atualizadoEm": "2026-11-14T19:49:27.682Z",
   "noticias": [
+    {
+      "t": "Festival de games em Brasília atraí público e oferece atividades gratuitas",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOTlKVnA1dmFfR3QzaFozZnRLRkVpODJIbEtfcUVGRkd4WWRVQkp2WVFSVVNrU3VaX3pmSXhjUnRkRTdfYnVfcVFTc2VaVHVQZUFsb0VxcmVFd1dicDY0WTVHNk5sQTBaTUNWRHhLTl9UZHZRVzJlR3NIaHQ0YVhXOC1wSXV3bWl1dmQ3b2xfd2R0TXZkemEzZDh5d2ZUOWZXNmdNYmlKb1JMd1lrcy1MaDFXdkRtcnlwQmR3Z3JRMUljeE1sYXdyRlgyUGJYNVUzUmpod21VQQ?oc=5",
+      "fonte": "R7",
+      "data": "2026-11-14T19:35:13.000Z",
+      "c": "Geral",
+      "img": ""
+    },
     {
       "t": "Os mitos mais estranhos do GTA: a história completa",
       "d": "As lendas mais estranhas escondidas pelas ruas digitais da Rockstar Grand Theft Auto sempre abrigou um segundo jogo para além dos limites do seu controle: uma caça ao tesouro, colocada em...",
@@ -53,12 +62,11 @@
     {
       "t": "Xbox Game Pass recebe 5 novos jogos esta semana! Veja os lançamentos (14)",
       "d": "",
-      "link": "https://www.estadao.com.br/em-alta/tecmundo/voxel/xbox-game-pass-recebe-5-novos-jogos-esta-semana-veja-os-lancamentos-14/",
-      "fonte": "Estadão",
-      "data": "2026-11-14T18:25:29.000Z",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-5-novos-jogos-esta-semana-veja-os-lancamentos-14/",
+      "fonte": "TecMundo",
+      "data": "2026-11-14T18:15:00.000Z",
       "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/KWFRCY47Z5I37GTB4YRIWDRS6U.jpg?quality=80&auth=a25434098883a06e6282ffa876a46b775ee3d463d3f69387b327856997ce56b8&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYmpiOUcxdlpnbmlWeTZoTEhneW51UWsyYi1GUDJ0SGpOMkRCR0Z4YTg0VjJzZmpYSHVzZW14bXdJYVZDcWZnVkJMS01rRi1UNVMyUDBlRDVHX094bURTLTUyQnZSMDNmUlA2LThybFZPX1drY19teHdUaUcwcDlwb0lyUXpiZ3R2YjFyaUdiVFV6bkdkdVdwaVVwWWpmRTRhcFR3SExnYWhHUVJ1ZmtJbFNUbFJpWXlWV3AtXzNn?oc=5"
+      "img": "https://www.estadao.com.br/resizer/v2/KWFRCY47Z5I37GTB4YRIWDRS6U.jpg?quality=80&auth=a25434098883a06e6282ffa876a46b775ee3d463d3f69387b327856997ce56b8&width=710"
     },
     {
       "t": "Finalmente! Red Dead Redemption 2 ganha mod com ray tracing",
@@ -269,16 +277,6 @@
       "data": "2026-11-13T21:15:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/EXB3K6TGBNOOFDPIANQ4KDYXDI.jpg?quality=80&auth=b688ba6ae35c32e7b26bdc8a90aa6ab0620b2c08dce30537ac1ffadcd93c0889&width=710"
-    },
-    {
-      "t": "LANÇAMENTOS DA SEMANA | GTA 6 e mais jogos",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/lancamentos-da-semana-gta-6-e-mais-jogos/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-13T21:05:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/10/GTA-6-Rockstar-Tempo-Desenvolvimento.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdjRnSG5LeUFCcktJTkd1ZGNiS1VqMUdIVDBlYWxsNzZmbWF0YllMRGZiX2ZuM2hmRGFiSjQtYU92UTJvOWpUQXVIWUxmRHJTcTZsQnBsTTlhZGhsWm9PVkxIakFKQi03THVYdEtudzhGZEhKNlRfME5IX2FObVo4bEFEYw?oc=5"
     }
   ],
   "videos": [
@@ -294,7 +292,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8275,
+      "views": 8273,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -406,7 +404,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2941,
+      "views": 2940,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
@@ -422,7 +420,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 4023,
+      "views": 4019,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -446,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20421,
+      "views": 20422,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -486,7 +484,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3667,
+      "views": 3666,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
