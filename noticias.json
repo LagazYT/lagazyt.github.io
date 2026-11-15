@@ -1,6 +1,42 @@
 {
-  "atualizadoEm": "2026-11-15T13:43:36.219Z",
+  "atualizadoEm": "2026-11-15T14:13:44.388Z",
   "noticias": [
+    {
+      "t": "Cronograma para as próximas manutenções da Nintendo – Controle Parental",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWTlSbkw0NUpsaEt3YmtUT1NvUnc4Sklkck04TjJCcTZkZnc1WHphRUhrTmZZUzFXUzRKU2xWSFBfVEw1STN2TmpwNDJkZlBodnlpQ3ZSMHZFNUNMUFJhN1ZGMkE0dWtjMHJmT3R5U291UmRrQVJDMFhGRXJ5Tnd5dzRWenI5eVlHdS1SRjVJU3YzbF9aZVRuMjlyT2hZZHo4?oc=5",
+      "fonte": "Universo Nintendo",
+      "data": "2026-11-15T14:10:37.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "\"Uma barata saiu do meu c*\": novo simulador de cortador de grama faz mais sucesso pelas músicas fictícias do que pelo jogo",
+      "d": "Jogo acaba de ser lançado no Steam Tenho certeza de que você clicou nessa matéria por conta do título e está se perguntando: \"o que é isso?\". Para início de conversa, eu apenas traduzi uma parte...",
+      "link": "https://br.ign.com/games/157541/uma-barata-saiu-do-meu-c-novo-simulador-de-cortador-de-grama-faz-mais-sucesso-pelas-musicas-ficticia",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-15T14:00:36.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/oml_sxpw.jpg"
+    },
+    {
+      "t": "Death Stranding 2 na PS Plus, Skyrim Special Edition baratinho e mais! Veja as indicações de games",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/death-stranding-2-na-ps-plus-skyrim-special-edition-baratinho-e-mais-veja-as-indicacoes-de-games/",
+      "fonte": "TecMundo",
+      "data": "2026-11-15T14:00:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/FK2GIPYVMJAB3MV7C2RQXKS7AI.jpg?quality=80&auth=139dd7470838b7ae35c46d1dc0e21b797fe7770134357a58fe6974904a8c4568&width=710"
+    },
+    {
+      "t": "MS Geek terá games, K-pop, cosplay e encontro com dubladora na Capital",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFdkMEU4TjVQcjhYY1kyVklhN015Vzhja3ppUnlEeDFuNnJ5NURyVnpvRVVzMndjUjZKWDg1QVppUFRDVnFGcWpCc2xINlVjaE5oVHVVV2hmdkpMcUJrZ3kydG9YcUdmSUJFbVhJaEJpODBZNFlrMnc5NHE5Uk43czltSlhqTUpBQThwZGdDcTZzdkp2b05UdS1MV2NuTUc1X28tNmoybTU5d2l6bmNvdjEzX3pMMW5MbzFr?oc=5",
+      "fonte": "Campo Grande News",
+      "data": "2026-11-15T13:27:00.000Z",
+      "c": "Geral",
+      "img": ""
+    },
     {
       "t": "Será que GTA 6 marcará o fim desta geração de consoles?",
       "d": "O gigante da Rockstar desencadeia uma onda massiva de compras, ao mesmo tempo que leva nossos consoles atuais ao limite absoluto de sua capacidade",
@@ -56,16 +92,6 @@
       "img": ""
     },
     {
-      "t": "Xbox Series X lenta? Saiba como limpar a cache",
-      "d": "",
-      "link": "https://www.maistecnologia.com/xbox-series-x-lenta-saiba-como-limpar-a-cache/",
-      "fonte": "MaisTecnologia",
-      "data": "2026-11-15T11:37:36.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZkpNZnBKVlpPRzVCMHo4Z2lCS0NNVG9LeUdkSHh2N1paUWMzM0QxLXcxaERNUUduNklLZUpCOHhSbXI1eldDRDg3STFWUWhwRWh2SUxFdkp0WHhGenpLSXJWUENSa19YM003MFFqTUs5NTRtc0RYV1pfbHJvOU1aNG9SSQ?oc=5"
-    },
-    {
       "t": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (15)",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-novo-jogo-gratis-no-celular-resgate-agora-no-android-15/",
@@ -85,13 +111,12 @@
     },
     {
       "t": "Nintendo abre uma nova vaga para preservar e organizar seus jogos antigos",
-      "d": "",
+      "d": "A descrição da vaga apresenta o candidato ideal como alguém com “experiência em arquivos, gestão de metadados, arquitetura da informação e pesquisa”",
       "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-1998/157583/nintendo-abre-uma-nova-vaga-para-preservar-e-organizar-seus-jogos-antigos",
       "fonte": "IGN Brasil",
-      "data": "2026-11-15T10:04:56.000Z",
+      "data": "2026-11-15T10:00:38.000Z",
       "c": "Consoles",
-      "img": "https://sm.ign.com/t/ign_br/news/n/nintendo-o/nintendo-opens-new-job-role-to-preserve-and-organize-its-old_sbt3.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQlVMT2d2WDNtN1NSWEFZbnVjYldPNVFBUWIxcWpHcmMxMFJTSHFIWHJxOUtoNU5Pdm5TSGVxZXIwTFR6c3RETlZFV1pvNjUwZUU4cm5RSUQwczlyQkJaUllsTWoyNzhUTzdxbjBVSHc0OWxYMk1EbExDTWJMbXlOTUh3RDFHNFdrTHQ2QktVMmVFZDRCN0syajI1cy1YcTZETWNBQ2U0TTZQMjRST1ppcU5uanowZHRaNjVwckR4WjhDYXNIdUNYU0thZGduMEl1U1pXNXp5dw?oc=5"
+      "img": "https://sm.ign.com/ign_br/news/n/nintendo-o/nintendo-opens-new-job-role-to-preserve-and-organize-its-old_sbt3.jpg"
     },
     {
       "t": "Jogadores do remake de The Legend of Zelda: Ocarina of Time usam a ocarina do jogo para tocar de tudo, desde músicas do Linkin Park até temas de supermercados japoneses",
@@ -101,16 +126,6 @@
       "data": "2026-11-15T09:00:38.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/news/t/the-legend/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-ga_b5pz.jpg"
-    },
-    {
-      "t": "Como fazer a bateria da Nintendo Switch 2 durar mais",
-      "d": "",
-      "link": "https://www.maistecnologia.com/como-fazer-a-bateria-da-nintendo-switch-2-durar-mais/",
-      "fonte": "MaisTecnologia",
-      "data": "2026-11-15T08:54:36.000Z",
-      "c": "Consoles",
-      "img": "https://www.maistecnologia.com/wp-content/uploads/2026/11/como-fazer-a-bateria-da-nintendo-switch-2-durar-mais-maistecnologia.com.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHRBNjQ4bllDSXNpS1E0TWRQVWVId20zTnpMaWpKb0stUHRxc3RhRXFnbGFfeENGU1V1N2FiQVNpekhpalBpZ2hSbjlNTjY5aUI1REk2ekpWREREbHNOWXNDNnFTaEZuZndyYmZta3Q2T3plQmN1V2ZKaW1RYVJldWF5WEF2SVRPZW1VZQ?oc=5"
     },
     {
       "t": "Entenda como Dungeons & Dragons influenciou os jogos eletrônicos",
@@ -258,24 +273,6 @@
       "data": "2026-11-14T13:00:34.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/news/t/the-witche/the-witcher-remake-is-on-hold-until-the-witcher-4s-developme_8x8t.jpg"
-    },
-    {
-      "t": "Melhores ferramentas de vibe coding: 7 opções para criar sites e apps com IA",
-      "d": "Plataformas transformam descrições em texto em projetos completos com recursos modernos e performance otimizada",
-      "link": "https://br.ign.com/tech/157652/melhores-ferramentas-de-vibe-coding-7-opcoes-para-criar-sites-e-apps-com-ia",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-14T12:00:40.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/capa-vibe-coding-1280x720_y2kp.jpg"
-    },
-    {
-      "t": "Jogador de PC recebe memória RAM novinha da Corsair e se sente \"culpado\" por estar \"roubando\" hardware de Sam Altman",
-      "d": "CEO da OpenAI segue sendo motivo de piada por conta de declaração sobre data center A comunidade segue pegando no pé de Sam Altman em todo post sobre memória RAM na internet.",
-      "link": "https://br.ign.com/tech/157648/jogador-de-pc-recebe-memoria-ram-novinha-da-corsair-e-se-sente-culpado-por-estar-roubando-hardware-d",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-14T12:00:38.000Z",
-      "c": "PC",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_au77.jpg"
     }
   ],
   "videos": [
