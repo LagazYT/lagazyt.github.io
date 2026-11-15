@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-15T05:52:53.715Z",
+  "atualizadoEm": "2026-11-15T06:22:59.851Z",
   "noticias": [
     {
       "t": "Xbox anuncia atualização gratuita de Firefight para Halo: Campaign Evolved",
@@ -3227,6 +3227,16 @@
       "link": "https://www.igdb.com/games/expedition-into-darkness"
     },
     {
+      "t": "Panzer Strike",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9vv.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/panzer-strike--1"
+    },
+    {
       "t": "A Tiny Wander",
       "data": "2026-12-31",
       "plats": [
@@ -4662,16 +4672,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coane5.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/installation-19"
-    },
-    {
-      "t": "Teach My Little Sister How to Drive",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrcz.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/teach-my-little-sister-how-to-drive"
     }
   ],
   "musicas": []
