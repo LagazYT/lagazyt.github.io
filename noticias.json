@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-11-14T23:50:28.692Z",
+  "atualizadoEm": "2026-11-15T00:20:51.262Z",
   "noticias": [
+    {
+      "t": "Xbox Cloud Gaming grátis com anúncios chega a mais jogadores",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdWlSV0Z5ZUgxZUxHQ0YzSnBnQThzcGRENm1LRGh3Z05LMTR2T1VLWHVFT2dlMEljclpjUDlIak9MTm4yb05iU2V6NXI1QnAwY1F6UUNjaUJMdGVTWDlUOHFaWjBSVDBDM0lkVF9Dc05KR2xhdGI0ZUEyTFlNRm1JUHctTDFnR1FXZ2dRS1lHTU4zRzlHVGJmUlpGVW56MUE?oc=5",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-11-14T23:52:24.000Z",
+      "c": "Ofertas",
+      "img": ""
+    },
     {
       "t": "Xerneas Brilhante em Pokémon Legends Z-A já pode ser resgatado",
       "d": "",
@@ -40,11 +49,11 @@
     {
       "t": "Entenda como Dungeons & Dragons influenciou os jogos eletrônicos",
       "d": "",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNHZ1STc5bVN6c0tDMTJ1bzdEWmpZcFl2UHREMVlnZEM5eTJzeVQyVmxIcklHdDZYMEtucTFBaVJ1ejBLTGtpcmwySnNSUVE1bGxDbEo1SFNScG8xc3JvTDVRSHZzMW41dVdEeVExMXBJNGNGZ1dOVGhjM1BWTllldXdmYk5GdVBBVjRDVVVJZ29FM0JKa0F6Rlhud1NxaFk2V3Y4?oc=5",
-      "fonte": "Estadão",
-      "data": "2026-11-14T22:26:38.000Z",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/dungeons-dragons-como-dd-influenciou-os-videogames/",
+      "fonte": "TecMundo",
+      "data": "2026-11-14T22:19:00.000Z",
       "c": "Geral",
-      "img": ""
+      "img": "https://www.estadao.com.br/resizer/v2/3FQMPSRQX5PY3LFRBVS22FMYXE.jpg?quality=80&auth=8a1a99121dbb190afea8c468f8bd7c9bbafce569c59178fb1b302397f60b8fd2&width=710"
     },
     {
       "t": "LoL New Dawn: Riot Games anuncia grande atualização para League of Legends",
@@ -156,6 +165,15 @@
       "img": "https://www.estadao.com.br/resizer/v2/ID4CNUIEQRNAXDA76BH4F2PJ2Y.jpg?quality=80&auth=9a82e3b2494e0947f55a8c0b820ad6ce5a2cc2256814bfeea3daf4c297ef0ba2&width=710"
     },
     {
+      "t": "Versão física de GTA 6 traz erro que revela código do jogo sem ela ser aberta",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmRlR2lPaWdRNmJUUVFHSE8zSjl6MUZCZ3cxOW9nV1RxUDhsM2xKYm85ZGZFOTQ0VlN3ZF9hX0x3WU5SNkFvNVp4Ty1GSUk0cDd3ZE4xckxmVHhLZ29Hd19sTFRuTHFXU0Y0SmZlRUZSQXhxRWtleHUwUG8wam9NV0FNakZvMmFFclAzcEtDX01mQ2EtcWE2MVE4WDI0WDJhdjEwVTg1NVlkVVpUdjUzcmJHX0o?oc=5",
+      "fonte": "Adrenaline",
+      "data": "2026-11-14T13:36:00.000Z",
+      "c": "Lançamentos",
+      "img": ""
+    },
+    {
       "t": "Youtuber recria Gran Turismo 7 dentro da Unreal Engine 5",
       "d": "Será que essa será a maneira de jogadores aproveitarem Gran Turismo 7 no PC? Confira",
       "link": "https://flowgames.gg/youtuber-recria-gran-turismo-7-dentro-unreal-engine-5/",
@@ -254,25 +272,6 @@
       "data": "2026-11-14T02:43:34.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/kindle-colorsoft-uso-em-viagem-1280x720_9n7z.jpg"
-    },
-    {
-      "t": "Jogos na Steam em oferta por menos de R$ 20; até 90% de desconto",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-na-steam-em-oferta-por-menos-de-r-20-ate-95-de-desconto/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-13T23:00:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/01/far-cry-4.webp",
-      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTJ5U3Z0bVVWOEI4YmJLeDVPMDRRUGNzelJGdmRUMW5yYUFvWl9vUDBhcjlCRlEwWXFMYlBDOHdYcU82cVhMc3FVd1N4ZF9VWDkyLS1kbVVCdEM2NmEwZUt4MnNwbGx1OHF5b0N0emU0b2UzY21VQXYybjN4RDlmRGdyN3pzWGxkMThMbDgtc3ZRNGd2dUNhQllmdU5la1JuLV8zcU1Fcld3aWs?oc=5"
-    },
-    {
-      "t": "Dragon Quest VII Reimagined e mais jogos para Switch com até 90% OFF na eShop",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/dragon-quest-vii-reimagined-e-mais-jogos-para-switch-com-ate-90-off-na-eshop/",
-      "fonte": "TecMundo",
-      "data": "2026-11-13T22:30:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/DKZGALGPCJNGNA6H7VLDYFCTNY.jpg?quality=80&auth=c3193361f1e526d00f273d07a05b5e23ff40647304386b9cfe1d4e42db18e09c&width=710"
     }
   ],
   "videos": [
@@ -486,16 +485,6 @@
     }
   ],
   "lancamentos": [
-    {
-      "t": "IWA Fighting Adventure",
-      "data": "2026-11-15",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod5sx.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/iwa-fighting-adventure"
-    },
     {
       "t": "Scopecreep",
       "data": "2026-11-16",
@@ -4666,6 +4655,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coane5.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/installation-19"
+    },
+    {
+      "t": "Teach My Little Sister How to Drive",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrcz.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/teach-my-little-sister-how-to-drive"
     }
   ],
   "musicas": []
