@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-16T01:58:53.649Z",
+  "atualizadoEm": "2026-11-16T02:29:02.562Z",
   "noticias": [
+    {
+      "t": "GTA 6, Spirit Crossing e Motocross The Game: veja os games que chegam na semana",
+      "d": "",
+      "link": "https://acritica.net/noticias/gta-6-estreia-nesta-semana-confira-outros-lancamentos-de-games/",
+      "fonte": "A Crítica de Campo Grande",
+      "data": "2026-11-16T02:00:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://uploads.acritica.net/2026/09/Captura-de-tela-2026-09-21-112029.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUtUdnZjTzg3RTRoR2pCQ2NqR3ZTNTNTRmJsZ1V1Vm9CakVZYnVXUGJqdGNoZ0pNYlMxZWFnZU5zSG9MV1JrT1ZLZEVSMVpocVgxT1N3dHRDYktIbDNiTDhkanFQYUNRT25ydjBFMkhybXZoOTV0cTJHdnpSLVRrZ1ZOWlpINTEyRThQWDNLRTlSbDB6NWJlaA?oc=5"
+    },
     {
       "t": "X1 Arena termina com campeões de três torneios de games; veja vencedores",
       "d": "",
@@ -10,16 +20,6 @@
       "c": "Geral",
       "img": "https://i.metroimg.com/CrCrGcIjmtAYHKRMjcNF_qKQN_pFiZWYu-RPrCZKeI8/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/11/whatsapp-image-2026-11-15-at-18-15-26.jpeg",
       "orig": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM2VtSmh2TE83NUdZdXZGUUFkX3lsT0ppcXQwaHpGUmlUWFhMNHYyNEtXRU5mb05ORGlxZVJ1NFZXWDNiMWQ1OThaZDZhSGFmdkZEaUlleFBiRkhZZGVnV29sRE9NY0RkblVIVmdweTNzdktjYlNUMFJBcXUtNTRFaXlxY0NlZHZNU3BaNi1TOGJrbzMwTDRqcm9JQ1hhbnhEOGRSVlJURzdwaWFCWF9yZm5rbDVwdVBxbHZv?oc=5"
-    },
-    {
-      "t": "Descontos da Black Friday do PlayStation Plus revelados antecipadamente, com o Premium recebendo o maior desconto, de 33%",
-      "d": "",
-      "link": "https://www.notebookcheck.info/Descontos-da-Black-Friday-do-PlayStation-Plus-revelados-antecipadamente-com-o-Premium-recebendo-o-maior-desconto-de-33.1451095.0.html",
-      "fonte": "Notebookcheck.info",
-      "data": "2026-11-16T00:33:56.000Z",
-      "c": "Ofertas",
-      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/PlayStation-Plus-Black-Friday-discount.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOR1JwejYxa09DMjRjMHFBZEVtejZCYmozNjVKNk5nN3ljNUZEVEJrMUxiSFdwaGFCZHNuZWx3QmtSR2VUYURlMUZXSzVsR3ZtcmRCNExoaUhpZ1FYdUxjc3dEV0FoYzZTT05Pbm4zeG8yT1JhUWtjZzVYamZQNEw5NnA2SWxRZjgzWGt2T01XZWpHVnU2dkFnTFN1TjNSWE5qWEYtSzc5dVRpR2FTc2IzeXJ1aUtOZXhOTTdadGpBcEdYMHJrWi15T3VVS2xzNWt0ODlNRkpfdVdBUEVfSGliXzd4NEkwS1h5UDhnNlBGaXhUV3VRV2tz?oc=5"
     },
     {
       "t": "Graphic novel na Black Friday: Na Trilha de Blueberry e O Combate Cotidiano estão com mais de 40% de desconto",
@@ -287,7 +287,7 @@
       "id": "fu7tRT_y3is",
       "t": "GOD OF WAR 3 REMASTERED - NATIVE PC PORT RTX 5070 | 1440P 60 FPS",
       "data": "2026-10-12T17:27:55Z",
-      "views": 1214,
+      "views": 1215,
       "img": "https://i.ytimg.com/vi/fu7tRT_y3is/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=fu7tRT_y3is"
     },
@@ -295,7 +295,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8292,
+      "views": 8293,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -423,7 +423,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 4026,
+      "views": 4027,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -447,7 +447,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20430,
+      "views": 20437,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -471,7 +471,7 @@
       "id": "uOAqwQcFWjs",
       "t": "PICTO INSANO CAUSE 100% DE QUEBRA NO INIMIGO | EXPEDITION 33!",
       "data": "2025-05-12T21:01:03Z",
-      "views": 2441,
+      "views": 2442,
       "img": "https://i.ytimg.com/vi/uOAqwQcFWjs/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=uOAqwQcFWjs"
     },
