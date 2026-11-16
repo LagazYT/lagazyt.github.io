@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-16T07:30:59.183Z",
+  "atualizadoEm": "2026-11-16T08:01:06.146Z",
   "noticias": [
     {
       "t": "Minecraft Dungeons II anuncia The Humblers Awaken, sua primeira DLC, para dezembro",
@@ -431,7 +431,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6738,
+      "views": 6736,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -479,7 +479,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3118,
+      "views": 3119,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -1160,7 +1160,8 @@
       "t": "Heidi's Legacy: Mountains Calling",
       "data": "2026-12-04",
       "plats": [
-        "PC"
+        "PC",
+        "Switch"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9xv6.jpg",
       "hype": 3,
