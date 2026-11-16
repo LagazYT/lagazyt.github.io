@@ -1,55 +1,110 @@
 {
-  "atualizadoEm": "2026-11-16T09:01:21.976Z",
+  "atualizadoEm": "2026-11-16T11:42:51.252Z",
   "noticias": [
     {
-      "t": "EFEITO GTA VI? PLAYSTATION 5 ATINGE NÚMERO HISTÓRICO DE VENDAS",
+      "t": "GTA 6 sem 30 FPS: PlayStation 5 base corre risco de engasgos no desempenho",
       "d": "",
-      "link": "https://24horas.pt/noticia/efeito-gta-vi-playstation-5-atinge-numero-historico-de-vendas",
-      "fonte": "24Horas.pt",
-      "data": "2026-11-16T08:00:00.000Z",
-      "c": "Consoles",
-      "img": "https://cdn.24horas.pt/uploads/1794576446-gb9haem9w8.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRmxBUTZtZDMxZndPNU1ySTc3ZWNodk03LVZjN1RtUGxFOWgzR2JCTWJhN3ROWHgydzIyVFlWVFRHQURPRl91QkphQVRtcG16UjJkZGVqOXJseHA2STJyUERaTzJfbFlBMEhjXzRKV0p1QnNxSm16NmF5UmtoMUlyS3ZLRXhmVkppZ2dDaENmX190dw?oc=5"
+      "link": "https://www.tudocelular.com/curiosidade/noticias/n267210/gta6-ps5base-queda-taxa-quadros-revelada-.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-11-16T11:41:06.000Z",
+      "c": "PC",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdW5ybjc3Q0x1QjBQOEw2UHk0RS1RTUJLV0tLLUhicjVGZlVxU3JHQTJJV2FucU8zR2dURzBLcks5b3FxYlZEQWN6NFFDSHkwMTNQa0VsbTBreEgzYUctWE53ZnFnbTF1bk9HZ3BFZVVLSWJ5X1JGaGc0VVIyamlmOHhHRnNxYXZQdVJtRW9OUzJnUFBDY2tLUnFWLTg1V3RHUGJLS0V3?oc=5"
     },
     {
-      "t": "Minecraft Dungeons II anuncia The Humblers Awaken, sua primeira DLC, para dezembro",
+      "t": "Nintendo Switch 2 tem modelos do DLSS 4 e versões mais leves, revela datamining",
       "d": "",
-      "link": "https://universonintendo.com/minecraft-dungeons-ii-anuncia-the-humblers-awaken-sua-primeira-dlc-para-dezembro/",
+      "link": "https://universonintendo.com/nintendo-switch-2-tem-modelos-do-dlss-4-e-versoes-mais-leves-revela-datamining/",
       "fonte": "Universo Nintendo",
-      "data": "2026-11-16T05:09:42.000Z",
+      "data": "2026-11-16T11:35:14.000Z",
+      "c": "PC",
+      "img": "https://universonintendo.com/wp-content/uploads/2025/01/DLSS-x-Switch-2.png",
+      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRU9JUi00djlCSG1Udk8xMUZsUHJlOEVwRnExRkdRNEo5dUlJY2pOazdIM29za3lfZ0RMRmJMaXh5UTVVMEhTam9iRlpRc3FfNWRIMGV5NEs1VHZaZEIxNjZ6SXgzSmdJMFhqR2twYUV6UTc0MlF1SjF4YU1ELTZJdjFOVTEwLURrSHhkcURTZFVkVlk0cE1tN2RTaGlDUmoza214T3JyTVlYX0NO?oc=5"
+    },
+    {
+      "t": "Dragon Ball FighterZ: Bandai Namco anuncia nova atualização de balanceamento do jogo",
+      "d": "",
+      "link": "https://www.nintendoblast.com.br/2026/11/dragon-ball-fighterz-bandai-namco-anuncia-nova-atualizacao-de-balanceamento-do-jogo.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-11-16T11:34:54.000Z",
       "c": "Lançamentos",
-      "img": "https://universonintendo.com/wp-content/uploads/2026/11/Minecraft-Dungeons-II-DLC-The-Humblers-Awaken.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQREJGem1MTV9ObDNPclFhSmNDVjF4QzRYMzFiMTBRNDVrZ0puRWc4NHBwandRNWJrVkRMejFlLVRlekExM0RPNWJoLTZsOFhiUHBrRENIdHBrWXh3ZzZfNlh5Yk1MLTd1aXJEQVF3YlVSdlZWcmkzQkdVNEVjbmdmWWNyWU9tTERWRV8wRDBjNnhveXhEcVd0UWpNS1g4UThrUnJkUmFIZ0xOcnJtZmZ3?oc=5"
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6RcxV_17rqk9QyDxFNbOim2yVyAfFRnQMORHgiXGtFPsi26zm1epJmqYS1yPQbF94PL90raYnvgT3iSQs8In9e8tbQNGu2G6XG1IUiaLYpZ_PTTTibftEmPjJtxvZqqYH_xjQUYpoFcA650KUKXtlJkOHshymKj3P4sQyruiURRTKLgP-n6H2i2C6MFTs/w1200-h630-p-k-no-nu/db-fighterz-balance-trailer.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVTBZQnZRWkZVYWRMajQxMXV2ZDRHSnlTaHVRa3V5QndvVTJYT29TWmZqSHBFbGtVNjE4MkNuQlhmdERXeEZZWTNOQTQzQUtNZThZNWtTbHVfQXJ3eEp3bWVNbXp5YS1ib05HNWhYeGluck03aXNfNkhvNTk3cTJIUTl1aGQ5bVZYbHk1WUZtRmFKUXlPX09EUDBmSF80c2VkaFlHYzJ5Y1lwZXZVbXFCQUdDOUVCeE9VU18wNlNJS1FwWVpxSzhDOA?oc=5"
     },
     {
-      "t": "Xbox Project Helix foca em preservação de jogos",
+      "t": "Bruno Carvalho conquista título do torneio de EA Games dos Jogos Regionais em Dom Silvério",
       "d": "",
-      "link": "https://ultimaficha.com.br/2026/11/16/project-helix-xbox-preservacao-jogos/",
-      "fonte": "Última Ficha",
-      "data": "2026-11-16T03:23:19.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEN0b0NRY2IzUW9wUG1JaERJYVRLSzJVdFNzXzZjTU5IMDlZbS1NbjRoN1ZHaWJPVjRZNi1FbkktZXdjWkhVd1FqWFFSN2xaQzE2cEFxMzBBRXJ3WDVsaE9HQzVCY3ZpdXMtaDJpN3JPRVhIU1kxS05RMjV5YkUweg?oc=5"
-    },
-    {
-      "t": "Save The Dates: Beast Games Season 3, Claire Danes And Ewan McGregor Hulu Drama, And More",
-      "d": "",
-      "link": "https://www.imdb.com/pt/news/ni66112970/?ref_",
-      "fonte": "IMDb",
-      "data": "2026-11-16T03:21:28.000Z",
+      "link": "https://jornalpanoramaminas.com.br/bruno-carvalho-conquista-titulo-do-torneio-de-ea-games-dos-jogos-regionais-em-dom-silverio/",
+      "fonte": "Jornal Panorama Minas",
+      "data": "2026-11-16T11:34:27.000Z",
       "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04SHl0dHRjS2ZwMHZLdkJXY0JtTkdrbThRRXQtV3FONGgtM3Q5UXVNMHpvUnI0bHduY0xfT2tMWjNRNDJxX3kwbTBlY25neVNzalViWFVFYV96ckF4OHc5WEhwOUota3F4blE?oc=5"
+      "img": "https://jornalpanoramaminas.com.br/wp-content/uploads/2026/11/Foto-1-843.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLXVTN2QydUR6TVhtci1obzVZa1hMd01GUjhXQi1LZ3AyWDczMDNES0JQWDc1aG1JSkZiUzFQdjZuTjZ0RGJNTG16bHlNdEQ0TXRYanNrc0luZF9jSTJ1Mll6ZUxiQkYyXzEtV0d0ZW1sUWg2MlhYLWdvcFo0Rzd4QWQ4c1RnSjVqVVVoS0NEYlVkMmV5TWpJV0tKWlowOUw3LW5palBXaWVkYzhJNFQ3aVhhZzRIWjdwYm5OMVd4N2EtdXhx?oc=5"
     },
     {
-      "t": "Xbox Project Helix: Tudo sobre o novo console da Microsoft",
+      "t": "Mega Man: Dual Override revela Cleanser Man, novo Mestre Robô criado por brasileiro",
       "d": "",
-      "link": "https://ultimaficha.com.br/2026/11/16/xbox-project-helix-console-jogos-pc/",
-      "fonte": "Última Ficha",
-      "data": "2026-11-16T03:18:54.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WT1Y3Mk5RZmNFUUpJLXFiVFl2Snlub2hFS0pvME90aW5TLW8wWFhsRTlVeThrdFJXMGJlN1M1YlVfVWhiYnc0SUNVeW80VnNwbWVJVUdGcHpsT1RuMnRpaGMtWlkxMkdUMmJidDVydloxZUpkLWkya0JGYlpMWlU?oc=5"
+      "link": "https://universonintendo.com/mega-man-dual-override-revela-cleanser-man-novo-mestre-robo-criado-por-brasileiro/",
+      "fonte": "Universo Nintendo",
+      "data": "2026-11-16T11:25:57.000Z",
+      "c": "Lançamentos",
+      "img": "https://universonintendo.com/wp-content/uploads/2026/11/Mega-Man-Dual-Override-16-11-2026.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYnc1Rld2aEhZUEs3bDBoc2NZYV9XY2lYSFYxekpQUUxDUnN5bEMwY09XYVhCZ2dRbFd3RnNNVG9nNUxwU2xsMUwwZ19sblhxUldESnctRHR6aldLRWJGZHBnOEVzRjhZcEhSak05dWhwQ0NpMW43MmZISGhhZ3c0YkIyODA5MVRXNlJBYzRKSU1QWko0N2JRelZDbmFxbDU2UVdXQ084UUU3cWIyNHFsNA?oc=5"
+    },
+    {
+      "t": "Confirmado: Xbox Helix é um console “que roda jogos de PC”",
+      "d": "Celebrando os 25 anos de Xbox, informações adicionais do Xbox Helix foram reveladas",
+      "link": "https://flowgames.gg/confirmado-xbox-helix-e-um-console-que-roda-jogos-pc/",
+      "fonte": "Flow Games",
+      "data": "2026-11-16T11:25:53.000Z",
+      "c": "PC",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/03/Project-Helix.jpg"
+    },
+    {
+      "t": "Project Helix será console Xbox capaz de rodar jogos de PC",
+      "d": "",
+      "link": "https://seriesemcena.com.br/noticias/project-helix-sera-console-xbox-capaz-de-rodar-jogos-de-pc/",
+      "fonte": "Séries em Cena",
+      "data": "2026-11-16T11:05:11.000Z",
+      "c": "PC",
+      "img": "https://seriesemcena.com.br/wp-content/uploads/2026/11/project-helix-sera-console-xbox-capaz-de-rodar-jogos-de-pc.webp",
+      "orig": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeE12c09JNTRJUm53dm1fYkVNdV9wMmEwdGh2a3JIa2F0M1RDVW9ybHIxZktUcU1BbW51VkxpUkZjeDV5VGhSU0N3ck81SHIyRHFmdzNRQy12TkQxdU1JODN5UFkwX3JZS2xISmFiRV9XTDZTN2pIcmxucXlxcVYtbVNMbEM1YXhUMlVHcU9zd0htcnhjYWhjX0pZbmc?oc=5"
+    },
+    {
+      "t": "Fatal Fury COTW: Laocorn ganha trailer e data",
+      "d": "Próximo DLC de Fatal Fury City of the Wolves já tem data para chegar",
+      "link": "https://flowgames.gg/fatal-fury-city-of-the-wolves-laocorn-data-trailer/",
+      "fonte": "Flow Games",
+      "data": "2026-11-16T11:00:26.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.youtube.com/embed/7mnwl9BV7vw"
+    },
+    {
+      "t": "GTA 6 chega nesta semana! TecMundo terá lives diárias até a Black Friday com o game",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-chega-nesta-semana-tecmundo-tera-lives-diarias-ate-a-black-friday-com-o-game/",
+      "fonte": "TecMundo",
+      "data": "2026-11-16T10:15:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/4OUOBD7R2RCYDF5GPBB6MB4TQA.jpg?quality=80&auth=e2ecd155cdc47ae9b552331fc829b88cd660b9224153ea0c444ff6170c742a3f&width=710"
+    },
+    {
+      "t": "Em 1972, o Japão construiu um arranha-céu com 140 apartamentos de cápsulas, mas nenhum deles foi substituído da forma planejada",
+      "d": "Por conta da manutenção cara e difícil, as cápsulas nunca foram substituídas e o prédio foi demolido 50 anos depois Cada cápsula foi projetada para ser destacável e reparável de forma...",
+      "link": "https://br.ign.com/tech/157657/em-1972-o-japao-construiu-um-arranha-ceu-com-140-apartamentos-de-capsulas-mas-nenhum-deles-foi-subst",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-16T10:00:46.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_ssh1.jpg"
+    },
+    {
+      "t": "\"Está prosseguindo conforme o planejado\": Sony garante que PS6 não será afetado por problemas de memória RAM",
+      "d": "Segundo a empresa, o próximo console não deve sofrer com a escassez de componentes Apesar do aumento histórico nos preços da memória e da desaceleração no ritmo de lançamento dos consoles, a Sony...",
+      "link": "https://br.ign.com/playstation-6/157656/esta-prosseguindo-conforme-o-planejado-sony-garante-que-ps6-nao-sera-afetado-por-problemas-de-memori",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-16T09:00:41.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/1200-800_mjy7.jpg"
     },
     {
       "t": "Graphic novel na Black Friday: Na Trilha de Blueberry e O Combate Cotidiano estão com mais de 40% de desconto",
@@ -127,16 +182,6 @@
       "img": "https://www.youtube.com/embed/L4rs51Kv6CE"
     },
     {
-      "t": "Microsoft explica como Project Helix vai integrar Xbox e PC",
-      "d": "",
-      "link": "https://www.gamevicio.com/noticias/2026/11/project-helix-microsoft-console-xbox-jogos-pc/",
-      "fonte": "GameVicio",
-      "data": "2026-11-15T19:42:54.000Z",
-      "c": "PC",
-      "img": "https://www.gamevicio.com/wp-content/uploads/2026/03/Xbox-Project-Helix-e1794771525660.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUFlnVXh6a0Y3OFZsbmxUUTZ0VlhWUEVpT2xfQS0yLVNiSDVBaVVKUENpcG5JMjNENUJaUWk5Ymw0NWcyRl9POVpOQnpJb3VLZUlNWlUweW1Eak5aOEhLQnF3cDVwdHFVWXpDRk1PWUs3eXZVbm1xR3dka2VXX0cwbVVRQTJaRUdzNW9EYTdaMmxHZDQ?oc=5"
-    },
-    {
       "t": "Remake de The Legend of Zelda: Ocarina of Time faz menção sublime a Breath of the Wild e Wind Waker",
       "d": "Ya-ha-ha! Uma conversa peculiar entre Link e Saria no remake de The Legend of Zelda: Ocarina of Time faz uma menção sublime ao destino dos Kokiri em jogos como Wind Waker e Breath of the Wild (e a...",
       "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157632/remake-de-the-legend-of-zelda-ocarina-of-time-faz-mencao-sublime-a-breath-of-the-wild-e-wind-waker",
@@ -153,16 +198,6 @@
       "data": "2026-11-15T18:00:21.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/Samsung-Odyssey-G8-6K.jpg"
-    },
-    {
-      "t": "Better xCloud: como melhorar o Xbox Cloud Gaming",
-      "d": "",
-      "link": "https://arkade.com.br/better-xcloud-ferramenta-gratuita-melhora-o-xbox-cloud-gaming-incluindo-a-versao-com-anuncios-em-pc-celular-e-tv/",
-      "fonte": "Arkade",
-      "data": "2026-11-15T17:00:52.000Z",
-      "c": "Consoles",
-      "img": "https://arkade.com.br/wp-content/uploads/2026/11/better-xcloud-ferramenta-gratuita-melhora-o-xbox-cloud-gaming-incluindo-a-versao.webp",
-      "orig": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmRBR29HZEtWOXdPZ0VpeVNNNC05TjFvNnNJcDc2UnMxTExqR251aU9yNG5TVVF5ZkhVM1prWEJlYjJDYjlRSWw3VVI0OG9rQjBJU0F3V1VMRG52NGZiSVg0U0NWNXVibkhuRzVzN1h6aHNYaWZIMEdLbGtyVnZyVTYxVlh3LXp2Vng5QzQ4V3M2QVpua3pfYmJTaUd5Zk5pZmpWSERMY1V0dkFVSGFmOTFPZ3p2NEVXNnVlYjBSWXFHSklsTnNReWNSVjFpSTRy?oc=5"
     },
     {
       "t": "De um ponto de vista legal, a polícia e o exército japonês teoricamente não poderiam abrir fogo contra zumbis caso um apocalipse acontecesse",
@@ -244,42 +279,6 @@
       "data": "2026-11-15T11:00:38.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/blob_pc2m.png"
-    },
-    {
-      "t": "Nintendo abre uma nova vaga para preservar e organizar seus jogos antigos",
-      "d": "A descrição da vaga apresenta o candidato ideal como alguém com “experiência em arquivos, gestão de metadados, arquitetura da informação e pesquisa”",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-1998/157583/nintendo-abre-uma-nova-vaga-para-preservar-e-organizar-seus-jogos-antigos",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-15T10:00:38.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/news/n/nintendo-o/nintendo-opens-new-job-role-to-preserve-and-organize-its-old_sbt3.jpg"
-    },
-    {
-      "t": "Jogadores do remake de The Legend of Zelda: Ocarina of Time usam a ocarina do jogo para tocar de tudo, desde músicas do Linkin Park até temas de supermercados japoneses",
-      "d": "Talento puro",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157614/jogadores-do-remake-de-the-legend-of-zelda-ocarina-of-time-usam-a-ocarina-do-jogo-para-tocar-de-tudo",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-15T09:00:38.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/t/the-legend/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-ga_b5pz.jpg"
-    },
-    {
-      "t": "Entenda como Dungeons & Dragons influenciou os jogos eletrônicos",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/dungeons-dragons-como-dd-influenciou-os-videogames/",
-      "fonte": "TecMundo",
-      "data": "2026-11-14T22:19:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/3FQMPSRQX5PY3LFRBVS22FMYXE.jpg?quality=80&auth=8a1a99121dbb190afea8c468f8bd7c9bbafce569c59178fb1b302397f60b8fd2&width=710"
-    },
-    {
-      "t": "LoL New Dawn: Riot Games anuncia grande atualização para League of Legends",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/lol-new-dawn-riot-games-anuncia-grande-atualizacao-para-league-of-legends/",
-      "fonte": "TecMundo",
-      "data": "2026-11-14T22:01:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.estadao.com.br/resizer/v2/F2UWO5ULERA2TJN6WJAKW2LOD4.jpeg?quality=80&auth=19ba65f32f1b1000f6c7d2cec7063f9fa7a6acb606ab8c1a9856a4c50f2e08df&width=710"
     }
   ],
   "videos": [
@@ -4272,7 +4271,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaa28.jpg",
-      "hype": 3,
+      "hype": 2,
       "link": "https://www.igdb.com/games/chumaky"
     },
     {
