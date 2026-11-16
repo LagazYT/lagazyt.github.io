@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-16T08:01:06.146Z",
+  "atualizadoEm": "2026-11-16T08:31:14.142Z",
   "noticias": [
+    {
+      "t": "EFEITO GTA VI? PLAYSTATION 5 ATINGE NÚMERO HISTÓRICO DE VENDAS",
+      "d": "",
+      "link": "https://24horas.pt/noticia/efeito-gta-vi-playstation-5-atinge-numero-historico-de-vendas",
+      "fonte": "24Horas.pt",
+      "data": "2026-11-16T08:00:00.000Z",
+      "c": "Consoles",
+      "img": "https://cdn.24horas.pt/uploads/1794576446-gb9haem9w8.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRmxBUTZtZDMxZndPNU1ySTc3ZWNodk03LVZjN1RtUGxFOWgzR2JCTWJhN3ROWHgydzIyVFlWVFRHQURPRl91QkphQVRtcG16UjJkZGVqOXJseHA2STJyUERaTzJfbFlBMEhjXzRKV0p1QnNxSm16NmF5UmtoMUlyS3ZLRXhmVkppZ2dDaENmX190dw?oc=5"
+    },
     {
       "t": "Minecraft Dungeons II anuncia The Humblers Awaken, sua primeira DLC, para dezembro",
       "d": "",
@@ -40,16 +50,6 @@
       "c": "Consoles",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WT1Y3Mk5RZmNFUUpJLXFiVFl2Snlub2hFS0pvME90aW5TLW8wWFhsRTlVeThrdFJXMGJlN1M1YlVfVWhiYnc0SUNVeW80VnNwbWVJVUdGcHpsT1RuMnRpaGMtWlkxMkdUMmJidDVydloxZUpkLWkya0JGYlpMWlU?oc=5"
-    },
-    {
-      "t": "Quando será lançado GTA VI? Veja data e horário de estreia do novo jogo",
-      "d": "",
-      "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/16/quando-sera-lancado-gta-vi.ghtml",
-      "fonte": "G1",
-      "data": "2026-11-16T03:00:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://s2-g1.glbimg.com/x_AOOc413yGQUw8DcskIK_KJhhk=/4161x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/a/9YSeAXQmm7V3ZIbSxLzw/omif33u4zr0axnfpppnde3dsstlkozv8tchwkyiolj7qwyzrj-iotggyvoyeqonfkrtogcck-0ae0iqqbnydw3os01dvh1z-4-myfocmfegdaqyt-b9m9uwa7of8igpuw-sdqlzysz8giflcympxudxbvy-xlyo2b3j36iag9olffmo5nmddlqn966hnsvi.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2NobjlucGtoYmJvd1d3TkJFZVVKbTZoWU9Femsya0pDZEpua3RjOWhXSTBjWFRvNUpXRzdabjFLbnk3X0p2R3hRQ2g3SlVTQ3BqcFp1T1QzZVV3WTJSbW5XTE5VQnhPQmwtNEtyYndCdm96MGRFa0hTM051SGh0SVBxbFpqVlM3Qy1POEtNcFrSAZ8BQVVfeXFMTV9KS1l2VUZjcThUVHBZRmdHdU9wZ1I2NGdWN2xqY3FjdXNVcDNyTnlRa0hrZ3Rjb3Vvd19rMjRSWFRCTmxWQWlUZ29idlR0ZnVNVUhOUUZMUFJjMW5hejQ1cXN5U0VYZHdCa1pnbXNSd1JBd3NHWVRFMkJMTnFPQy1DWDVibEdEQkFudC11OXE3TUx0QWlaVE9TSWJoUDZF?oc=5"
     },
     {
       "t": "Graphic novel na Black Friday: Na Trilha de Blueberry e O Combate Cotidiano estão com mais de 40% de desconto",
@@ -431,7 +431,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6736,
+      "views": 6738,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -479,7 +479,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3119,
+      "views": 3118,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
