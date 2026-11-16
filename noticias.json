@@ -1,55 +1,91 @@
 {
-  "atualizadoEm": "2026-11-16T14:13:50.531Z",
+  "atualizadoEm": "2026-11-16T14:44:18.912Z",
   "noticias": [
     {
-      "t": "The Legend of Zelda: Ocarina of Time tem principais causas de \"Game Over\" reveladas pelo Zelda Notes",
+      "t": "Rainbow Six Siege recebe Operação Vital Signal com grandes mudanças",
       "d": "",
-      "link": "https://www.nintendoblast.com.br/2026/11/the-legend-of-zelda-ocarina-of-time-tem-principais-causas-de-game-over-reveladas-pelo-zelda-notes.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-11-16T14:07:12.000Z",
-      "c": "Lançamentos",
+      "link": "https://alternativanerd.com.br/games/rainbow-six-siege-recebe-operacao-vital-signal-com-grandes-mudancas/",
+      "fonte": "Alternativa Nerd",
+      "data": "2026-11-16T14:42:30.000Z",
+      "c": "Geral",
+      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/11/AN_Ubisoft-anuncia-Operacao-Vital-Signal-a-temporada-4-do-ano-11-de-Rainbow-Six-Siege.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEhvQzVZdTN6clduN0FoUGlHN3lZQmdTTUNKak9DQ1BocnhxSFhPSzRMcjZLUGhPWmV6UEZ5MnJBeVgzcFBiRjhpcGtMOWpUMVpxc1pwN3V5MnJlVGdEZU5Td1lWYjlDRUMwUFNmM2I5NVlieWxyTzZIMFJIT3ZhSGNfb3BQeEJUS0ZKU0p4QWxpRUVVUmJ5VWhZbzVsRFFlMmppNXNqUDM?oc=5"
+    },
+    {
+      "t": "GTA 6 terá carros inspirados em Lamborghini, Ferrari e Porsche. Veja fotos",
+      "d": "",
+      "link": "https://www.metropoles.com/colunas/metropoles-games/gta-6-tera-carros-inspirados-em-lamborghini-ferrari-e-porsche-veja-fotos",
+      "fonte": "Metrópoles",
+      "data": "2026-11-16T14:39:00.000Z",
+      "c": "Geral",
       "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbl85dTVvY1piOS1ZVEhpcTBmTmJkNUFoZXM0blhRaldPVm4welU4dTdMOTVRV054eU9qXzYyYksxek01NG5RUDdVRVlyMjdWelpuOGZhOGM4TGpiTnVBczRLdWNIQnlOdFFCU3liSXFmbHF0eG5mdlpNMW4yd0VfdnViOXkwTDZnS253czUxbkdzdWlCcDQxQ2tTNHEtN2NjdTVSU1VIaW8teklTbEtubXpZQWtReXdxNVJjUDEzTHV5Qk96Q0N1YjJQRjBOVC1ud1pJaHV2M2lVaUk?oc=5"
+      "orig": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT3U3QjlrVW5ZUFE0SGNxZ1Z4ZWhWNzhLOElZZTZCcUVEVWY0QTZ3VDUzMkZmZU5uZEJ4QUhFaFBidkVuWkhCaEJRcDRjNi03SDlsWjRuZjVEdW5Sei1sSnNPRVQxYkRWLUY2aEpfN3A3bXhvWGVqdC1jRTJlMUdnY1l4NXE4OUdSTHhNWjJ1UFN5R2V2QVZ3WU5NTF9Ed2tXNEVlOUc2YUdxZllPZ2s3SmxSZ3FYeWNsdlBpWllDY3F4UQ?oc=5"
+    },
+    {
+      "t": "Patches de Segurança em Consolas: Switch 2 até 2028 [2026]",
+      "d": "",
+      "link": "https://shattered.io/pt/atualizacoes-seguranca-consolas-ps5-xbox-switch-2-steamos-2026/",
+      "fonte": "shattered.io",
+      "data": "2026-11-16T14:35:15.000Z",
+      "c": "Consoles",
+      "img": "https://shattered.io/pt/wp-content/uploads/sites/10/2026/11/atualizacoes-seguranca-consolas-ps5-xbox-switch-2-steamos-2026-img13.webp",
+      "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUW84aTRYdHN4VnJ5MHF0Y3BtWXhRaC11alhpc25qLW1YRlFTbDJMOG16ckZjODdaSURNSTNwODFQTUFGcUtYYWlENHhRb3AySTFwdTdDZExsZlNMSnJaazdyZVdJdm82YnQxU2FTeEtTbzdNZlBMdm1sS2VQVFVKWGl5MlBEbUZSZGgtZ2FhRHc?oc=5"
+    },
+    {
+      "t": "GTA 6 terá Twitch Drops no lançamento; veja como resgatar",
+      "d": "GTA 6 vai celebrar lançamento com recompensas exclusivas na Twitch",
+      "link": "https://flowgames.gg/gta-6-tera-twitch-drops-no-lancamento/",
+      "fonte": "Flow Games",
+      "data": "2026-11-16T14:31:41.000Z",
+      "c": "Lançamentos",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-15.jpg"
+    },
+    {
+      "t": "Wolfenstein 3 É Real! Xbox Celebra 25 Anos com Bethesda e Novidades de DOOM e Fable",
+      "d": "",
+      "link": "https://www.gamerscore.com.br/wolfenstein-3-e-real-xbox-celebra-25-anos-com-bethesda-e-novidades-de-doom-e-fable/",
+      "fonte": "Gamerscore Brasil",
+      "data": "2026-11-16T14:30:45.000Z",
+      "c": "Consoles",
+      "img": "https://www.gamerscore.com.br/wp-content/uploads/2026/11/XBOX25_KA_STATIC_16x9-6b7040bd2c8b8ac15ad8-1536x864-1.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVG00OVE3ZFVVcVV4MEJsNG41NUxSTkpISDlKNnpWdzI0OWExNXV1TXFBaUZWWHI0TTRUZWpXWTcxRl9VbXR4UDVldWxUTi1nc3ZCMGlHSW9mS3hlSkloMzVRNWgxaF9HUElKRFpjSUlWUjhQUFA4eVBSRlFKRFp4RHdKdkhmUzFVbzZKbnF0eDhWQnhXZW9nQjhhVWFvWkxDb3pXZURXaXBkNWFIc1l5TkZ0MA?oc=5"
+    },
+    {
+      "t": "Convergence Games Showcase retorna em 18 de fevereiro de 2027",
+      "d": "",
+      "link": "https://pizzafria.ig.com.br/news/convergence-games-showcase-fevereiro-2027/",
+      "fonte": "Pizza Fria",
+      "data": "2026-11-16T14:20:36.000Z",
+      "c": "Eventos",
+      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/07/Convergence-Games-Showcase.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWlVBY1BxOGJRaGJhY2hFbnlmcHU3VDJpbnUyaHh5VU1SVFVETU94TXRhZi0wR3hnWVdwLS1MSGllLWNwWHJhVFpyNDNqV2hXLUVsdUozRzVHZm04R1ZZWkstcVZ3MDNNdk4zM1EwdGpBWV9pMWxRRFo4TnIxQ1RCTQ?oc=5"
+    },
+    {
+      "t": "Os lançamentos de jogos desta semana (16 a 22/11)",
+      "d": "Em uma semana com alguns jogos prestes a serem lançados, é claro que o destaque fica com a chegada de GTA 6",
+      "link": "https://flowgames.gg/os-lancamentos-de-jogos-desta-semana-16-a-22-11/",
+      "fonte": "Flow Games",
+      "data": "2026-11-16T14:16:18.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.youtube.com/embed/3JUboYgqIxc"
+    },
+    {
+      "t": "The Game Awards 2026 anunciará indicados antes do lançamento de GTA 6! Veja onde assistir",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/the-game-awards-2026-anunciara-indicados-antes-do-lancamento-de-gta-6-veja-onde-assistir/",
+      "fonte": "TecMundo",
+      "data": "2026-11-16T14:15:00.000Z",
+      "c": "Eventos",
+      "img": "https://www.estadao.com.br/resizer/v2/WEL7XWWCJFAZDMRUR4BLADXKRQ.jpg?quality=80&auth=670b0cc071d92c0d5e2f28cd46befa7af3c2b476e61e7e288aac5024ef5f83f6&width=710"
     },
     {
       "t": "Xbox confirma que Project Helix é “um console capaz de rodar jogos do seu PC”",
-      "d": "",
+      "d": "A próxima geração",
       "link": "https://br.ign.com/xbox-next-generation/157665/xbox-confirma-que-project-helix-e-um-console-capaz-de-rodar-jogos-do-seu-pc",
       "fonte": "IGN Brasil",
-      "data": "2026-11-16T14:04:43.000Z",
+      "data": "2026-11-16T14:01:23.000Z",
       "c": "PC",
-      "img": "https://sm.ign.com/t/ign_br/news/x/xbox-confi/xbox-confirms-project-helix-is-a-console-capable-of-playing_8vph.1200.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdDNnc29IazY4QmNMZ3hpcEg4QlVuR1ZJS2xvalM4UzVxRVJlSkpTUUpyXy1GQmlwYTB0SWRpTzFOcHNsbHpXUlVCN1dqaHdabWxINVdVNEFmMWJnRm9NRzl4LXYxcTdIOU9wNVRQOUFBTVVqQkR6d0VXMVdkQ0VjdWRCcHJyWUR0Z0FJSjdZb1BxeDFZaGNzVVdrOXF2YV9aelNzdDlDWGVoME5OS0ZIS2pmbnNkeFFVR09EdHNQNA?oc=5"
-    },
-    {
-      "t": "TerranLands ganha demo renovada no Steam",
-      "d": "",
-      "link": "https://alternativanerd.com.br/games/terranlands-ganha-demo-renovada-no-steam/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-11-16T13:54:42.000Z",
-      "c": "PC",
-      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/11/AN_TerranLands.webp",
-      "orig": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNlFwZlZCMjRuQmhxVVpnYTV2NXkwbmpsX3NhdC1DR2l3MVBqcVh4WTFubHdOeENqV1QzUnlCMU9sOHcwYmU0bnVzdWpWMjc5OWNzVzhCellmN1I4bmxDbm5LM2wxVEtGbUE5X0VPZXhCY2hwSXdpMlprUUR0cy1rUXFhYWM?oc=5"
-    },
-    {
-      "t": "O que o gaming competitivo ensina sobre o futuro dos periféricos",
-      "d": "",
-      "link": "https://www.oficinadanet.com.br/games/74191-gaming-competitivo-ensina-futuro-perifericos",
-      "fonte": "Oficina da Net",
-      "data": "2026-11-16T13:54:33.000Z",
-      "c": "Geral",
-      "img": "https://www.oficinadanet.com.br/imagens/post/74191/mulheres-gamers.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWJZaHltSzZubnVhUWNHQXhBYU9NWVpfa2Q0NU9vaTFLUnpZUHJiZF9XMlZMX3pGekNFdHFNay1DT0ZabXk1eGJDWGpmb2I4WFlrWWFSRTRJZzhxM1lWV1kyeDE4dkJVQ3I1M3Vlb09TRW1qQkJKUnVPRnh1djN1Q1hVZktzbm9sN0dkakdrUmNNQQ?oc=5"
-    },
-    {
-      "t": "GTA 6 pode proibir até “roubo de carros” durante transmissões na China",
-      "d": "",
-      "link": "https://www.hardware.com.br/games/gta-6-proibir-roubo-de-carros-china/",
-      "fonte": "Hardware.com.br",
-      "data": "2026-11-16T13:49:57.000Z",
-      "c": "Geral",
-      "img": "https://www.hardware.com.br/wp-content/uploads/2026/11/GTA12-scaled.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sUW1WLWVKSWlUX3ZlWDBPTDkyYnRiN09FN25xLUtQVlB1QkFpWEJGRHBhdzJDaktmRFRqYWJ3dUI4U1JUMWp4QnRoWEhtc3NISUszQlZpcHVKWlpxWTlYaUx3bVlvcDN4SWtLTWRYWGN0ZVpKVzdNM3FR?oc=5"
+      "img": "https://sm.ign.com/ign_br/news/x/xbox-confi/xbox-confirms-project-helix-is-a-console-capable-of-playing_8vph.jpg"
     },
     {
       "t": "Segundo relatos, Jensen Huang estaria avaliando a possibilidade de retornar como CEO da Nvidia com apoio de aliados",
@@ -242,43 +278,6 @@
       "data": "2026-11-15T21:00:55.000Z",
       "c": "PC",
       "img": "https://www.youtube.com/embed/5w6N7xvSWXI"
-    },
-    {
-      "t": "Xbox Helix será um console capaz de rodar jogos de PC e aposta em Neural Rendering",
-      "d": "",
-      "link": "https://www.hardware.com.br/games/xbox-helix-sera-um-console-capaz-de-rodar-jogos-de-pc/",
-      "fonte": "Hardware.com.br",
-      "data": "2026-11-15T20:54:50.000Z",
-      "c": "PC",
-      "img": "https://www.hardware.com.br/wp-content/uploads/2026/05/Xbox-Project-Helix.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWk8zX1BtdXY0Q1ZRS0VleUlsSUs1MFFMM2pQVVEtZWdZVkJ4MnlBS1BjUlVLeVNBZ00wbHQzWFNrb3BUSlhQZzF6UnkyQ3dSMzVRejJoZXk3VF9BZUlIOXMwbHlUU0UxNEFEbThON18za2Q5RHNldzNmUXBBSGVSZVdGTG43V3NvbUhzei10RmRKdw?oc=5"
-    },
-    {
-      "t": "Dragon Quest IV de Nintendo DS foi traduzido para português!",
-      "d": "Agora você pode jogar o clássico Dragon Quest 4 no nosso idioma quando quiser",
-      "link": "https://flowgames.gg/dragon-quest-4/",
-      "fonte": "Flow Games",
-      "data": "2026-11-15T20:00:07.000Z",
-      "c": "Consoles",
-      "img": "https://www.youtube.com/embed/L4rs51Kv6CE"
-    },
-    {
-      "t": "Remake de The Legend of Zelda: Ocarina of Time faz menção sublime a Breath of the Wild e Wind Waker",
-      "d": "Ya-ha-ha! Uma conversa peculiar entre Link e Saria no remake de The Legend of Zelda: Ocarina of Time faz uma menção sublime ao destino dos Kokiri em jogos como Wind Waker e Breath of the Wild (e a...",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157632/remake-de-the-legend-of-zelda-ocarina-of-time-faz-mencao-sublime-a-breath-of-the-wild-e-wind-waker",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-15T19:03:34.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/feature/2/29-new-cha/29-new-changes-in-the-zelda-ocarina-of-time-remake-redesigne_tw6s.jpg"
-    },
-    {
-      "t": "Review: Odyssey G8 6K é um ótimo monitor para esports",
-      "d": "O Odyssey G8 6K entrega resoluções e taxas de atualização altíssimas ao mesmo tempo em que entrega uma excelente imagem",
-      "link": "https://flowgames.gg/review-odyssey-g8-6k-e-um-otimo-monitor-para-esports/",
-      "fonte": "Flow Games",
-      "data": "2026-11-15T18:00:21.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/Samsung-Odyssey-G8-6K.jpg"
     }
   ],
   "videos": [
