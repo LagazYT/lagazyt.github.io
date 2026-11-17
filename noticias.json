@@ -1,71 +1,209 @@
 {
-  "atualizadoEm": "2026-11-17T09:37:23.749Z",
+  "atualizadoEm": "2026-11-17T14:37:59.445Z",
   "noticias": [
     {
-      "t": "DualSense a 54$ na Black Friday: Steam e Xbox Comparados",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjQtbC1BVVUza3dILTBXWmYyLXo4elFNd1NRVVl3Tk5wQWRDUnB2dUlZVjU2ZzVzQ0d1R2xDMjZKaGNkbTdhZXlJdUpncFdDV3lJSzd4OFR3WndFT1l4d1VqeTlGX1lwd3F6b1daUE5XVFVQcXpFM1F0ZkNuNGtTNTZMTEQ?oc=5",
-      "fonte": "shattered.io",
-      "data": "2026-11-17T09:20:02.000Z",
-      "c": "Ofertas",
-      "img": ""
+      "t": "Pré-vendas de GTA 6 podem ter gerado US$ 1,4 bilhão em receitas",
+      "d": "GTA 6 deve reduzir consideravelmente o número de jogadores ativos em outros jogos",
+      "link": "https://flowgames.gg/gta-6-pre-vendas-podem-gerado-us-14-bilhao-receita/",
+      "fonte": "Flow Games",
+      "data": "2026-11-17T14:21:36.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-5.jpg"
     },
     {
-      "t": "Para PC e mobile, IMC Games abre pré-registro para o lançamento global de Tree of Savior M",
+      "t": "Akira Kurabayashi, veterano da indústria de games no Japão, falece aos 56 anos",
       "d": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0daX05saUdPSjBlaVpwSk9xUW1SRVBYVVdLazhnRVFTeWZwX1YwdUlnRU5mR3pxMnQtb3ltaWp1N0dqWE5XRzRmMjZrdnExcmUwQVNMWlNtRkxja3Fud0g2M0kwS0loLXVUZ2plZDB2RGpDcXN4UWZrUkdMd0hFUFRCY0VTX0ptX1RXMmdoWDNka3BPYzMtZDB2ZnY0Y282eFlaTkZaaWtEdFFRbjRRclVGSVo?oc=5",
-      "fonte": "mmorpgbr",
-      "data": "2026-11-17T09:06:00.000Z",
+      "link": "https://www.gameblast.com.br/2026/11/akira-kurabayashi-veterano-industria-games-japao-falece-56-anos.html",
+      "fonte": "GameBlast",
+      "data": "2026-11-17T14:15:55.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa09ubmVQS1BYbDZkdGhiTlBkbmN1ZV9vai1iUzR1ZExTcmNHLVRJMXBIVndCS2JJTmFTbGFSSWp3c1ppR0d4bV9tMDl0THN6NWxEY3A4ZTdiREdHQVR4WnNyT292Uzd0Vm1VZVhtU0gtZmdJUERpRHM1eGRyS2dMY180UDhuU2wwaC1NbmdjNjVEQzhkXzFKaTZMMjVpTWMxcDJLa3lWNXY?oc=5"
+    },
+    {
+      "t": "Crazy Taxi: World Tour ganha novo trailer com mapa da Índia",
+      "d": "",
+      "link": "https://cromossomonerd.com.br/games/crazy-taxi-world-tour-revela-mapa-da-india-em-novo-trailer/",
+      "fonte": "Cromossomo Nerd",
+      "data": "2026-11-17T14:12:41.000Z",
+      "c": "Lançamentos",
+      "img": "https://cromossomonerd.com.br/wp-content/uploads/2026/11/unnamed-80.png",
+      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWd3OF9uMGlUZDNuUXFHcmtRWGFTcVlRNUlkVHh5SFdneFZYQ09zWlN3Q2xpVW5KaHkyamFlb0FyT2tQZDNZb1BXcGtNd1FnY3AyU0tuVWFPTVFyMUZHN180b2FramJQRHRrUlBYUF9fTEVscUJoWUJVU1RTbklnaFJIMS1sMUN6UHZ2aG50R19QVm5VOXJFUXBaSQ?oc=5"
+    },
+    {
+      "t": "GTA VI pode aumentar faltas no trabalho? Entenda a história do chamado ‘GTA Flu’",
+      "d": "",
+      "link": "https://fastcompanybrasil.com/games/gta-vi-pode-aumentar-faltas-trabalho-entenda-historia-chamado-gta-flu/",
+      "fonte": "Fast Company Brasil",
+      "data": "2026-11-17T14:10:14.000Z",
+      "c": "Geral",
+      "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/GTA-lancamento.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0pSNExUM0VBWVBqZFBUQTVKeUNVVFdtWVRnRW4tSmhtb29qTkJld2YyaHJIdDhSelBNeURzSTBMQ2k1Y3NsYmZ6R0xNd2VSd2JyOG1mbEY4THZEMEQ3eExLMjRoZmJqU21HbmFjcmFUU1RJbEpremd1Tnh5ZW5KTnpxUXIxTmp3ZEFnaHdab2pEUnVEZGV2NENZaXJDb01lbnp5eGsyY3lzZw?oc=5"
+    },
+    {
+      "t": "LOL | Atualização 'Nova Alvorada' é anunciada pela Riot Games",
+      "d": "",
+      "link": "https://cromossomonerd.com.br/games/league-of-legends-2-apresentado-oficialmente/",
+      "fonte": "Cromossomo Nerd",
+      "data": "2026-11-17T14:04:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://cromossomonerd.com.br/wp-content/uploads/2026/11/unnamed-79.png",
+      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlZGTzVCYnN5d3Y2VUVadkdzMmJ1R1dzNk1YVzJXS0poRjJUUjFwV3A0RkhocVQzeS1TY0FZakZ1aklzdHppVk5fRmxyWkJzREo3bDZCRzF4dWNQdVppVFd5RXR1N2RqcWtmT3NWc01MU1pGVFczQmtKMzcwUHNCejlNdFhiZ0tX?oc=5"
+    },
+    {
+      "t": "League of Legends: Nova Alvorada promete renovar o MOBA da Riot Games em 2027",
+      "d": "",
+      "link": "https://www.jwave.com.br/2026/11/league-of-legends-nova-alvorada-promete-renovar-o-moba-da-riot-games-em-2027/",
+      "fonte": "jwave.com.br",
+      "data": "2026-11-17T14:02:07.000Z",
+      "c": "Geral",
+      "img": "https://www.jwave.com.br/wp-content/uploads/2026/11/55651773437_dd121dadb3_k-900x605.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOF9OZElWcmVpUkpjWms2aUpxMHJfUEFQWnpFQlVwRWdpd09zMWV3Mm1hbGdGR2FtSmc1ZTg3cmtBZ3BVX1VETzZkUm9MT2NrS3NKeGNoY0JxUjJxOWRvNURSeFRXaUZKTG1xSXEwY1VHOFg1UlZ3eHZHejljSWpRRVlaR0xCMDBNQjdxd25jUFB5WHRUN2JodmcxUGxrNU5HZzBpa1BYYWwySmpJZFVN?oc=5"
+    },
+    {
+      "t": "GTA 6: pré-venda inclui a chance de testar NBA 2K27 grátis",
+      "d": "Quem comprou GTA 6 poderá curtir até um mês de NBA 2K27",
+      "link": "https://flowgames.gg/gta-6-pre-venda-teste-gratis-de-nba-2k27/",
+      "fonte": "Flow Games",
+      "data": "2026-11-17T14:01:33.000Z",
+      "c": "Ofertas",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/gta-6-acesso-a-nba-2k27-vice-city.jpg"
+    },
+    {
+      "t": "Jogos Vorazes: Amanhecer Na Colheita resgata escala épica de Em Chamas com história poderosa",
+      "d": "Novo filme da saga Jogos Vorazes foca em Haymitch Abernathy e estreia em 19 de novembro",
+      "link": "https://br.ign.com/jogos-vorazes-amanhecer-na-colheita/157687/jogos-vorazes-amanhecer-na-colheita-resgata-escala-epica-de-em-chamas-com-historia-poderosa",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-17T14:00:33.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_c9qr.jpg"
+    },
+    {
+      "t": "GTA 6 ganha 6 novas imagens incríveis; confira",
+      "d": "O The Weather Channel revelou 6 novas imagens do GTA 6 que mostram como o seu tempo pode mudar drasticamente. Confira!",
+      "link": "https://flowgames.gg/gta-6-ganha-6-novas-imagens-incriveis-confira/",
+      "fonte": "Flow Games",
+      "data": "2026-11-17T13:45:28.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-Leonida-Keys.jpg"
+    },
+    {
+      "t": "Conselho da Nvidia estaria rejeitando volta de Jensen Huang como CEO da Nvidia",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/conselho-da-nvidia-estaria-rejeitando-volta-de-jensen-huang-como-ceo-da-nvidia/",
+      "fonte": "TecMundo",
+      "data": "2026-11-17T13:30:00.000Z",
       "c": "PC",
-      "img": ""
+      "img": "https://www.estadao.com.br/resizer/v2/3B4KDPBW25B7BLQXAYY7XEC7CY.jpg?quality=80&auth=b7660fcb93b80765e0754cf5feae9f8e01c9e7db082ffa31fed351ab26bf1ca8&width=710"
     },
     {
-      "t": "O novo reboot de uma das maiores sagas de ficção científica de todos os tempos será o primeiro thriller da sua história",
-      "d": "Star Trek terá um novo filme, mas dessa vez de suspense Boas notícias para os fãs de Jornada nas Estrelas: os criadores de Dungeons & Dragons estão preparando um filme que promete resgatar algo...",
-      "link": "https://br.ign.com/star-trek/157686/o-novo-reboot-de-uma-das-maiores-sagas-de-ficcao-cientifica-de-todos-os-tempos-sera-o-primeiro-thril",
+      "t": "Em preparação para GTA 6, o Serviço Nacional de Saúde do Reino Unido está orientando os jogadores a protegerem as mãos",
+      "d": "\"Tente fazer pausas regulares, obviamente\" O Serviço Nacional de Saúde (NHS) do Reino Unido está oferecendo orientações aos jogadores para ajudá-los a evitar sobrecarregar as mãos quando GTA 6 for...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157701/em-preparacao-para-gta-6-o-servico-nacional-de-saude-do-reino-unido-esta-orientando-os-jogadores-a-p",
       "fonte": "IGN Brasil",
-      "data": "2026-11-17T09:00:35.000Z",
+      "data": "2026-11-17T13:13:01.000Z",
       "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_m7fs.jpg"
+      "img": "https://sm.ign.com/ign_br/news/u/uks-nation/uks-national-health-service-is-urging-gamers-to-protect-thei_c9pm.jpg"
     },
     {
-      "t": "The Quickest Movie Franchise Reboots",
-      "d": "",
-      "link": "https://br.ign.com/star-trek-3/76431/the-quickest-movie-franchise-reboots",
+      "t": "O jogo mais vendido do mundo no Steam atualmente foi ressuscitado graças ao modo Zombies",
+      "d": "Após a atualização, Bodycam viu seu número de jogadores crescer quase 10 vezes Mas não para por aí, porque os criadores do game querem transformá-lo em uma experiência independente e substancial.",
+      "link": "https://br.ign.com/bodycam/157695/o-jogo-mais-vendido-do-mundo-no-steam-atualmente-foi-ressuscitado-gracas-ao-modo-zombies",
       "fonte": "IGN Brasil",
-      "data": "2026-11-17T09:00:35.000Z",
+      "data": "2026-11-17T13:00:33.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_zh1a.jpg"
+    },
+    {
+      "t": "Pokemon Go Snapshot: Instructions and Photobombs",
+      "d": "",
+      "link": "https://br.ign.com/gallery/157700/pokemon-go-snapshot-instructions-and-photobombs",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-17T12:57:07.000Z",
       "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/gallery/t/the-quicke/the-quickest-movie-franchise-reboots_6v53.jpg"
+      "img": "https://sm.ign.com/ign_br/gallery/p/pokemon-go/pokemon-go-snapshot-instructions-and-photobombs_ksj5.jpg"
     },
     {
-      "t": "Pré-download de GTA 6 no PS5 e Xbox: horários e preparo",
+      "t": "Não há como escapar da Coruja do Duolingo, já que ela chegará ao Pokémon GO em evento limitado",
+      "d": "Evento começa a partir de hoje (17) Não satisfeito em atormentar a tela de bloqueio do seu celular, Duo, a coruja do Duolingo, agora vai aparecer em Pokémon GO . Foi anunciado um crossover entre...",
+      "link": "https://br.ign.com/pokemon-go/157699/nao-ha-como-escapar-da-coruja-do-duolingo-ja-que-ela-chegara-ao-pokemon-go-em-evento-limitado",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-17T12:57:07.000Z",
+      "c": "Eventos",
+      "img": "https://sm.ign.com/ign_br/news/t/there-real/there-really-is-no-escape-from-the-duolingo-owl-who-will-soo_xc2b.jpg"
+    },
+    {
+      "t": "GTA 6 Dynamic Weather Screenshots",
       "d": "",
-      "link": "https://www.neoteo.com/pt/como-preparar-o-pre-download-de-gta-6-no-ps5-e-xbox",
-      "fonte": "NeoTeo",
-      "data": "2026-11-17T08:42:32.000Z",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157703/gta-6-dynamic-weather-screenshots",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-17T12:48:59.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/gallery/g/gta-6-dyna/gta-6-dynamic-weather-screenshots_shwb.jpg"
+    },
+    {
+      "t": "Novas imagens de GTA 6 detalham o dinamismo da mudança de tempo de Leonida",
+      "d": "Olha a chuva!!! Já passou... A Rockstar revelou uma nova leva de capturas de tela de GTA 6 — incluindo até uma previsão do tempo ao estilo \"Weather Channel\" — que destacam o clima dinâmico de...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157702/novas-imagens-de-gta-6-detalham-o-dinamismo-da-mudanca-de-tempo-de-leonida",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-17T12:48:59.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6-gets/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-wea_g9md.jpg"
+    },
+    {
+      "t": "PlayStation 5 tem firmware atualizado mais uma vez antes do lançamento de GTA 6",
+      "d": "Às vésperas do lançamento de GTA 6, a Sony libera mais uma atualização de firmware para o PlayStation 5",
+      "link": "https://flowgames.gg/playstation-5-ganha-novo-firmware-antes-gta-6-lancar/",
+      "fonte": "Flow Games",
+      "data": "2026-11-17T12:32:02.000Z",
       "c": "Consoles",
-      "img": "https://www.nitroindex.com/opengraph/www.neoteo.com/og.png?url=https%3A%2F%2Fwww.neoteo.com%2Fpt%2Fcomo-preparar-o-pre-download-de-gta-6-no-ps5-e-xbox",
-      "orig": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzNtRkpqRXEyTzctaHVST0NTN3hDZ3Q5OWRVTzdmNUtXM2J2RVFEODE2SVhZV0JnUTJaNTdxNTIzOVk4bFFtS2lxMTNSbVprT3p6RHJ2bHVGdmhDaHE3ZWxYRGFBN3ZfaHd4Tmw2NEZmeXJGUUdsbnYtcjZoTjJkTXNVQQ?oc=5"
+      "img": "https://flowgames.gg/wp-content/uploads/2024/03/PlayStation-5-2.jpg"
     },
     {
-      "t": "A Xbox está incentivando os jogadores a tirar um dia de folga do trabalho para jogar GTA 6",
+      "t": "Jogos de PC em oferta na Steam durante o Festival de RPGs com Batalha Automática",
       "d": "",
-      "link": "https://www.notebookcheck.info/A-Xbox-esta-incentivando-os-jogadores-a-tirar-um-dia-de-folga-do-trabalho-para-jogar-GTA-6.1451832.0.html",
-      "fonte": "Notebookcheck.info",
-      "data": "2026-11-17T06:03:12.000Z",
-      "c": "Consoles",
-      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/Microsoft-GTA-6-campaign.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTzRNN0drSkxSRjV3VFk5ZjF6WVVWYm9wQ1g5R25wLXktZXItNWFVdi1Ra3JEbG8xd1RDOUhpRmNSUFJXMlJnRno0cTlyQ0ZpWnpBSk5pallvODZvNTI0Mlp1dkMyTmMzQmd2YlFtUXcxY0huV1RMWXRRT1JCNFB5UWlnSWJjR19sSzhrcEFKSVBLZkJPdjVqd1BFejR1dHZITGxJc1NzRzh0VEdDTmg0M3pMT2ZJY3Z6S2xidFlNeF9tTHRzRUtEci1KaWlhYURYaGc?oc=5"
-    },
-    {
-      "t": "Control Resonant: Um dos melhores jogos de ação de 2026 entra em promoção no PlayStation pela primeira vez",
-      "d": "",
-      "link": "https://www.notebookcheck.info/Control-Resonant-Um-dos-melhores-jogos-de-acao-de-2026-entra-em-promocao-no-PlayStation-pela-primeira-vez.1452242.0.html",
-      "fonte": "Notebookcheck.info",
-      "data": "2026-11-17T05:22:00.000Z",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-na-steam-durante-o-festival-de-rpgs-com-batalha-automatica/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-17T12:15:00.000Z",
       "c": "Ofertas",
-      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/control-resonant-psn.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaHh3UnRMQ3Zwd0V5aERjTkdLSE8zeDBiWmE5YlFKMF9PNzBUcjlKeEJMWmRHT0NYQXVBTXZTU0J3ek1DR1RpVkhvaDU3eUt6dzVYSUl4X0ZHdkkwYkV1VDlJZkZLNDNnTGF3M2ZBRE5WYzVsSklLUzQzVUU1WUJxSlNXOGNDYVFpTTRvQjBWc19TZkFtRkVqODZ1Zkw1OExack1hcFZ2SVhaOEQtVnZDV1dvSVExa1VXbFlScEhXVkF1bUxqSmx6LWdqRE5PcmkwUlJMSk50S0tYZnFJMFRLYVh5cnAtQQ?oc=5"
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/9-kings.webp",
+      "orig": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSGpSQnRjVlRIZDJnSlhibFA0LVpncDhRWlQ1Sm1hUE1mdGYybHBsUXdlaUp5a3Q5MDdxNWdGSGNCcTExdmVnY1NTeWlwWHVSeklORXZkVFlaTUtESkJ1TkxNY3FQWEJweVQzODZXRFFBRTktdy1NX2lja2FCekI4LXUycHpxSVNiVWVmaHNoWXJ0bGYyM1ladVpacGxPdExJMThyUTBGR2RTMi1TZWFRa0xJZWpScUFibXN4TXdPaGN4eDFw?oc=5"
+    },
+    {
+      "t": "Hyperia City: como os ink drops funcionam em Disney Lorcana",
+      "d": "Hyperia City já está nas lojas. Veja como os ink drops funcionam em Disney Lorcana e as jogadas com Mickey, Madam Mim e Baymax que eles permitem.",
+      "link": "https://flowgames.gg/hyperia-city-ink-drops-disney-lorcana/",
+      "fonte": "Flow Games",
+      "data": "2026-11-17T12:02:38.000Z",
+      "c": "Geral",
+      "img": "https://cdn.dreamborn.ink/images/en/cards/014/ff843cb110ed041e1bf06b37c44e0ee739f79e8c"
+    },
+    {
+      "t": "\"Provocar desconforto\": a CD Projekt quis deixar o jogador inquieto com um comportamento estranho de V em Cyberpunk 2077",
+      "d": "Paweł Sasko explicou a razão por trás de um drama do protagonista Um fã de Cyberpunk 2077 apontou um detalhe discreto que esconde um significado muito mais profundo. Diretor do game confirmou a...",
+      "link": "https://br.ign.com/cyberpunk-2077/157694/provocar-desconforto-a-cd-projekt-quis-deixar-o-jogador-inquieto-com-um-comportamento-estranho-de-v",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-17T12:00:37.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_usqh.jpg"
+    },
+    {
+      "t": "“Quase um gênero à parte”: Desenvolvedora de Saros enaltece seus jogos como uma experiência própria e não simples roguelikes e roguelites",
+      "d": "Housemarque deseja trilhar um caminho semelhante ao da FromSoftware",
+      "link": "https://br.ign.com/saros/157689/quase-um-genero-a-parte-desenvolvedora-de-saros-enaltece-seus-jogos-como-uma-experiencia-propria-e-n",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-17T12:00:35.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/gallery/s/saros-game/saros-gameplay-screenshots_6mry.jpg"
+    },
+    {
+      "t": "Melhor qualidade e FPS mais alto: rival do DLSS acaba de nascer e transcende gerações e jogos exclusivos",
+      "d": "Apex Neural Rendering funciona até em placas mais antigas A Apex Compute um conjunto de ferramentas que abrange desde o redimensionamento de imagens até a geração de quadros.",
+      "link": "https://br.ign.com/games/157693/melhor-qualidade-e-fps-mais-alto-rival-do-dlss-acaba-de-nascer-e-transcende-geracoes-e-jogos-exclusi",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-17T11:00:34.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_5jdq.jpg"
     },
     {
       "t": "4 Jogos Grátis na Steam Misturam Terror, RPG e Simulação",
@@ -142,142 +280,6 @@
       "c": "Geral",
       "img": "https://files.tecnoblog.net/wp-content/uploads/2026/11/gta-06-04-2048x1152.jpg",
       "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc1ZEQi1iVEFBZG1qV1R1WndfSjVyWkRkREFvenF4dXlTMXdKaHFqSC1fVjNUQWhqVnhQc2djV1BVRTV3TVVDalNSWmp4NkhUVDVSaHhrdDJabzB1ZWg4ZWJSVU8tWFRQX3hsNDYtdVI1dDBIa0RpNjY4bm9BR19kb0p6X21wUDZTZ3AtMmpuOTZnZw?oc=5"
-    },
-    {
-      "t": "Fã de Zelda: Ocarina of Time encontra mapa feito à mão pelo pai há 28 anos, e isso o ajuda a zerar o remake",
-      "d": "Uma forma raiz de explorar o Bosque Perdido Há detalhes que permanecem tão especiais mesmo depois de quase três décadas.",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157682/fa-de-zelda-ocarina-of-time-encontra-mapa-feito-a-mao-pelo-pai-ha-28-anos-e-isso-o-ajuda-a-zerar-o-r",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-16T21:00:34.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_yexa.jpg"
-    },
-    {
-      "t": "Xbox explica proposta do Project Helix para jogos de PC",
-      "d": "",
-      "link": "https://www.spacemoney.com.br/entretenimento/xbox-project-helix-console-jogos-pc/",
-      "fonte": "SpaceMoney",
-      "data": "2026-11-16T20:44:35.000Z",
-      "c": "PC",
-      "img": "https://www.spacemoney.com.br/wp-content/uploads/2026/11/pexels-photo-12719130-11.webp",
-      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEpsdTltVnlmWnZId1FEVlpnZHhoVHZVaWpucFdVYTI5RWVUaHhyODEyLS1PTHN6NnFKajNGQ0NUbDFHdHJWbWtpN040UUdBV0tVbGp4TEZRaXVGel9LUlI1dHA1QkFoZDR3d2pPLVR2UEh0b1RSNWN5bEFjUkdRRWJqQkZhSi1Z?oc=5"
-    },
-    {
-      "t": "Xbox afirma que Project Helix é um console capaz de rodar jogos de PC — e não o contrário",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-afirma-que-project-helix-e-um-console-capaz-de-rodar-jogos-de-pc-e-nao-o-contrario/",
-      "fonte": "TecMundo",
-      "data": "2026-11-16T20:15:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/OPQCGCYTOFNWXNHI3GUQ4CSVDI.jpg?quality=80&auth=096dc4b5c854a7b8da8a6a3f893e5e155bafa8e56efa9d9a5b608358cad13faf&width=710"
-    },
-    {
-      "t": "Mais de 15 mil pessoas marcaram presença no Red Bull Ladeira Abaixo 2026",
-      "d": "O feriadão de 15 de novembro em São Paulo ficou marcado pela divertida competição.",
-      "link": "https://br.ign.com/games/157685/mais-de-15-mil-pessoas-marcaram-presenca-no-red-bull-ladeira-abaixo-2026",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-16T20:11:04.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_3vbf.jpg"
-    },
-    {
-      "t": "GTA 6 quer que você pense antes de causar destruição e, pela primeira vez, a Rockstar criou mecanismos para incentivar a empatia",
-      "d": "Jogo oferecerá novas possibilidades para quem não quer causar caos o tempo todo Chefe da Rockstar North, Rob Nelson, falou um pouco dos mecanismos inéditos na série Grand Theft Auto que chegarão...",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157681/gta-6-quer-que-voce-pense-antes-de-causar-destruicao-e-pela-primeira-vez-a-rockstar-criou-mecanismos",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-16T20:00:34.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/photo/default/jason-and-lucia-18-1793891731334_3np4.jpg"
-    },
-    {
-      "t": "Senadora dos EUA acusa governo Trump de facilitar acesso da China a chips de IA da Nvidia",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/senadora-dos-eua-acusa-governo-trump-de-facilitar-acesso-da-china-a-chips-de-ia-da-nvidia/",
-      "fonte": "TecMundo",
-      "data": "2026-11-16T19:45:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/GB5GC4EIAZAYPBQM44YXIQNO4E.jpg?quality=80&auth=65483af6fa6d472907cd7ab8dc4772cef7c9182c87d7d99be96e3fba54e0a8e6&width=710"
-    },
-    {
-      "t": "Executivos confiam duas vezes mais na IA do que no próprio julgamento",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/executivos-confiam-duas-vezes-mais-na-ia-do-que-no-proprio-julgamento/",
-      "fonte": "TecMundo",
-      "data": "2026-11-16T19:31:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/QT5INLII5FPDDCI7H5BVOH3GUM.jpg?quality=80&auth=0c3340f7b552042100969d648776f8d78cf53a412dd16c6dae850c73b74b78a6&width=710"
-    },
-    {
-      "t": "Call of Duty quase teve jogo medieval com espadas e arcos",
-      "d": "De acordo com um dos roteiristas, um protótipo de Call of Duty na era medieval chegou a existir",
-      "link": "https://flowgames.gg/call-of-duty-quase-teve-jogo-medieval-espadas-e-arcos/",
-      "fonte": "Flow Games",
-      "data": "2026-11-16T19:05:04.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/image-27-2.jpg"
-    },
-    {
-      "t": "Três gigantes da tecnologia são processadas por limitar deliberadamente a produção de memória RAM e elevar os preços",
-      "d": "Samsung, SK Hynix e Micron tentaram arquivar o processo, mas a acusação segue de pé Com o preço das memórias subindo quase 700%, um tribunal da Califórnia rejeitou uma moção para arquivar o...",
-      "link": "https://br.ign.com/tech/157679/tres-gigantes-da-tecnologia-sao-processadas-por-limitar-deliberadamente-a-producao-de-memoria-ram-e",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-16T19:00:35.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_61pm.jpg"
-    },
-    {
-      "t": "Dona de GTA 6 critica OpenAI e Anthropic por “clones” de IA de jogos",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/dona-de-gta-6-critica-openai-e-anthropic-por-clones-de-ia-de-jogos/",
-      "fonte": "TecMundo",
-      "data": "2026-11-16T18:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/SOWJ3WMJ5NGNRLUQAN6LLN36NA.jpg?quality=80&auth=57f83665c924e53723c0c2c8dbf35ffbce9c2a5a73c9c7cf8846a67d6a6d50e2&width=710"
-    },
-    {
-      "t": "“A única razão para sair da cama todos os dias é correr riscos e surpreender as pessoas”: Vingadores Guerras Secretas será diferente de tudo o que os fãs já viram, diz Marvel",
-      "d": "“Um mundo realmente único”",
-      "link": "https://br.ign.com/avengers-doomsday/157678/a-unica-razao-para-sair-da-cama-todos-os-dias-e-correr-riscos-e-surpreender-as-pessoas-vingadores-gu",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-16T18:09:18.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/a/avengers-s/avengers-secret-wars-will-be-a-different-genre-to-doomsday-a_gvvw.jpg"
-    },
-    {
-      "t": "Jensen Huang pode estar costurando acordos para voltar à NVIDIA",
-      "d": "Apoio de figurões públicos a Jensen Huang pode ajudar o ex-CEO a retomar o seu posto",
-      "link": "https://flowgames.gg/jensen-huang-pode-voltar-a-ser-ceo-da-nvidia/",
-      "fonte": "Flow Games",
-      "data": "2026-11-16T17:39:17.000Z",
-      "c": "PC",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/nvidia-acao-coletiva-acionistas-jensen-huang-alice-huang-megaspeed-queda-190-bilhoes-congresso-18-novembro-1029x642-1.jpg"
-    },
-    {
-      "t": "Remake de Ocarina of Time contém raro momento da franquia de The Legend of Zelda em que Link vocaliza uma palavra — e obviamente todos estão surtando",
-      "d": "Nintendo nos deu migalhas da voz de Link ao longo das décadas Link é considerado por muitos um protagonista mudo. Desde 1986, quando o primeiro The Legend of Zelda chegou aos sistemas NES,...",
-      "link": "https://br.ign.com/the-legend-of-zelda-ocarina-of-time-2026/157677/remake-de-ocarina-of-time-contem-raro-momento-da-franquia-de-the-legend-of-zelda-em-que-link-vocaliz",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-16T17:25:52.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/image/i/inside-gan/inside-ganondorfs-castle-dungeon-walkthrough_ydfz.jpg"
-    },
-    {
-      "t": "Aniversário de Halo: como Master Chief construiu uma comunidade no Brasil",
-      "d": "“Acredito que esse seja um dos maiores diferenciais de Halo: cada pessoa encontra uma razão diferente para se apaixonar pela franquia”",
-      "link": "https://br.ign.com/halo-3/157674/aniversario-de-halo-como-master-chief-construiu-uma-comunidade-no-brasil",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-16T17:00:43.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_2r31.png"
-    },
-    {
-      "t": "Os lançamentos da Netflix desta semana (16 a 22/11)",
-      "d": "Para esta semana, o destaque da Netflix fica com a chegada da série \"Estrada das Lágrimas\". Confira os demais lançamentos!",
-      "link": "https://flowgames.gg/os-lancamentos-da-netflix-desta-semana-16-a-22-11/",
-      "fonte": "Flow Games",
-      "data": "2026-11-16T16:26:34.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.youtube.com/embed/WiZfAUc8cPA"
     }
   ],
   "videos": [
@@ -293,7 +295,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8302,
+      "views": 8305,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -445,7 +447,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20449,
+      "views": 20450,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -485,7 +487,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3686,
+      "views": 3687,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -1096,7 +1098,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod36z.jpg",
-      "hype": 3,
+      "hype": 2,
       "link": "https://www.igdb.com/games/sombras-negative-frames"
     },
     {
