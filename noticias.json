@@ -1,56 +1,6 @@
 {
-  "atualizadoEm": "2026-11-17T05:35:58.451Z",
+  "atualizadoEm": "2026-11-17T06:06:07.450Z",
   "noticias": [
-    {
-      "t": "Metrópoles Games prepara gameplay ao vivo para estreia de GTA 6",
-      "d": "",
-      "link": "https://www.metropoles.com/colunas/metropoles-games/metropoles-games-prepara-gameplay-ao-vivo-para-estreia-de-gta-6",
-      "fonte": "Metrópoles",
-      "data": "2026-11-17T05:00:00.000Z",
-      "c": "Geral",
-      "img": "https://i.metroimg.com/TER48CtABesaXD3H6BV-3K6Zn0IcNHhU4-fd40Knj28/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/11/ananda-leonel-em-gta-6.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTER6YUJHN0tSbUZpcHZ3QUhQNGVNRmc0end3eEtIel9zdHAxWmlnZVBhdlh5bG9oMjFZbnFsQWJNR0loSkNNUUJjX3hSX2JBZjJXQV8tdVBYZEJLd3Bnc3Rhel9ZemJORlZLT2FwQ3JnTVJUZHcyQjU2SDFqQm5wRnUxby1vazJhVjREWmRvZkxUNHgtOE1FOVk1Qk9uNFhnMGs5bEFjVTBxNXhFdDBHVVRaRTlzQQ?oc=5"
-    },
-    {
-      "t": "Splatoon Raiders: Demo disponível agora no Nintendo Switch 2",
-      "d": "",
-      "link": "https://ultimaficha.com.br/2026/11/17/splatoon-raiders-demo-switch-2/",
-      "fonte": "Última Ficha",
-      "data": "2026-11-17T04:05:38.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zbUp5RkEtbjBkQzBOZkhxZTBuQmhZYUQ0U0RsZ0NwQURiSnpYNFlRa18xUGhBMlRYOUJhWWZ5QmtlR0dXUjJacEhtVmRRYUxLck84X2RORENyTFNKZmg3Wm9ydWE3bWJ2V1ZOS01LeTc4blJ4WUtXbQ?oc=5"
-    },
-    {
-      "t": "Nintendo disponibiliza versão demo para Splatoon Raiders",
-      "d": "",
-      "link": "https://projectn.com.br/nintendo-disponibiliza-versao-demo-para-splatoon-raiders/",
-      "fonte": "projectn.com.br",
-      "data": "2026-11-17T02:36:49.000Z",
-      "c": "Consoles",
-      "img": "https://projectn.com.br/wp-content/uploads/2026/06/splatoonraiders-2.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSzcxbGlxWHdGcVBJWGdpelowN2dHNkVLSVFfSERlMFdobloyN2cyVDlmUy13ajhNbzVOcjkwOEZPYld6QXBRT2pOS0ZNOXpEODRKbWs4alBBSjFXel91VFhXXzVBMlMxMi0tSzJ4eDZabGVvV3ZIQThCMndNZEtlSGhLV3F1UFFM?oc=5"
-    },
-    {
-      "t": "KuloNiku: Bowl Up! para Nintendo Switch 2 - Site Oficial da Nintendo para Brasil",
-      "d": "",
-      "link": "https://www.nintendo.com/pt-br/store/products/kuloniku-bowl-up-switch-2/",
-      "fonte": "Nintendo",
-      "data": "2026-11-17T02:31:20.000Z",
-      "c": "Consoles",
-      "img": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto/f_auto/dpr_2.0/store/software/switch2/70010000127686/6657bcbbf696ce61331991a2d9b5b4cba8476afa58c9890671f2a4a759d8f750",
-      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHRGFINGZLSi1mOVVhYmphZmY4ekw3UUFtT1ZXU2RnUmMyM1pUMzdROF9PeUlLZUVRNEY3NHdzZkhxQUJreXFadG9oNGgxbnRDeWdWbG9Yb2xMcUNPM3FKMTFKb002R1hKMm55aXVzR2VWX3l1S1R5RGdNakY?oc=5"
-    },
-    {
-      "t": "GTA 6 vai rodar no PlayStation 4? Veja em quais consoles o jogo vai funcionar",
-      "d": "",
-      "link": "https://www.terra.com.br/byte/gta-6-vai-rodar-no-playstation-4-veja-em-quais-consoles-o-jogo-vai-funcionar,9685611aa31675644399ac3336990d7790drae40.html",
-      "fonte": "Terra",
-      "data": "2026-11-17T01:35:00.000Z",
-      "c": "Consoles",
-      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/1513319217-imagem2026-11-11022449135.png",
-      "orig": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcHI3ZmhzazNBVFdCV1hkNnByMS1sel9jZ1I0eWd5dHJCcjdNT3podUNXaTN4TDBNR3o2N2JOcXhIUkwzY2hOVGNwNjdsTXhyNG00RGZfbzVVcFlOQWZtNENWaU9aeXBCSzU2TFAxTlZCa3Q4QlJHWFZHS1FibXRTYlFkWXFIWDRvNHhadVBTU2dReUJoaEZRaElHa2ZxZHVWVVlvTkU4LUVmZU5RbXBScy12SDBrQjltLUszU2gyUmdFN1NQTnNwUHVzQ3JoQUgtZFFWeFBhU0JxX3lfaEduWEdfNnk4OWs?oc=5"
-    },
     {
       "t": "Videogame com bomba explode e polícia investiga tentativa de assassinato",
       "d": "",
@@ -275,6 +225,51 @@
       "data": "2026-11-16T15:25:03.000Z",
       "c": "Consoles",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/image-25-2.jpg"
+    },
+    {
+      "t": "Os filmes mais pirateados da semana via torrent (09 a 16/11)",
+      "d": "Veja quais são os 10 filmes que mais foram pirateados durante a última semana via torrent",
+      "link": "https://flowgames.gg/filmes-mais-pirateados-semana-via-torrent-09-a-16-11/",
+      "fonte": "Flow Games",
+      "data": "2026-11-16T15:24:15.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/Y-Dcn-qnnjs"
+    },
+    {
+      "t": "Anthony Mackie insiste que não revelou spoilers de Vingadores: Doutor Destino ao divulgar um personagem ainda não anunciado",
+      "d": "“Ele não estava no filme... acho”",
+      "link": "https://br.ign.com/avengers-doomsday/157669/anthony-mackie-insiste-que-nao-revelou-spoilers-de-vingadores-doutor-destino-ao-divulgar-um-personag",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-16T15:16:10.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/news/a/anthony-ma/anthony-mackie-insists-he-didnt-spoil-avengers-doomsday-by-r_tr7e.jpg"
+    },
+    {
+      "t": "Pokémon: jogo oficial perdido de 20 anos atrás ressurge",
+      "d": "Colecionador consegue resgatar PokéPark Fishing Rally DS, a lost media de Pokémon",
+      "link": "https://flowgames.gg/pokemon-pokepark-fishing-rally-ds-lost-media-recupera/",
+      "fonte": "Flow Games",
+      "data": "2026-11-16T15:00:13.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/Et8k1VMGuw8"
+    },
+    {
+      "t": "GTA 6 terá Twitch Drops no lançamento; veja como resgatar",
+      "d": "GTA 6 vai celebrar lançamento com recompensas exclusivas na Twitch",
+      "link": "https://flowgames.gg/gta-6-tera-twitch-drops-no-lancamento/",
+      "fonte": "Flow Games",
+      "data": "2026-11-16T14:31:41.000Z",
+      "c": "Lançamentos",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-15.jpg"
+    },
+    {
+      "t": "Xbox confirma que Project Helix é “um console capaz de rodar jogos do seu PC”",
+      "d": "A próxima geração",
+      "link": "https://br.ign.com/xbox-next-generation/157665/xbox-confirma-que-project-helix-e-um-console-capaz-de-rodar-jogos-do-seu-pc",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-16T14:01:23.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/news/x/xbox-confi/xbox-confirms-project-helix-is-a-console-capable-of-playing_8vph.jpg"
     }
   ],
   "videos": [
