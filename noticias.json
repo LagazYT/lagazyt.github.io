@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-17T23:59:11.354Z",
+  "atualizadoEm": "2026-11-18T00:29:20.953Z",
   "noticias": [
+    {
+      "t": "GTA 6 lidera o Game Awards com 8 indicações dois dias antes de lançar",
+      "d": "",
+      "link": "https://espacodopovo.com.br/game-awards-2026-gta-6-8-indicacoes-votacao/",
+      "fonte": "Espaço do Povo",
+      "data": "2026-11-18T00:10:56.000Z",
+      "c": "Eventos",
+      "img": "https://espacodopovo.com.br/wp-content/uploads/2026/11/capa-game-awards.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81MDc1T1k4YzdIRzBQck12SURBSlpQSzF4UXptSDYwNnk2V2VDUmNTRUhLR01iLU8wMlpFaG5kdno4TWE2bzVmajIzT1JMcUtSNzBrN3VaNTUyUTVJR1dZUEJ4RDQxSmRGUV9tcllVMXRCVy0xSE1OeF9ldnA?oc=5"
+    },
     {
       "t": "Conheça os jogos independentes que movimentaram o Bairro do Recife durante o Rec’n’Play",
       "d": "",
@@ -40,16 +50,6 @@
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/U4BXRKOKOBDDXC477K23GYDWHQ.jpg?quality=80&auth=952b52e297fc2f72c57426c7f7994d777651e5a9937658ee03035c7b18f8f8e9&width=1200&height=630&focal=636,415",
       "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF3a3B5WVplVG9QbFV3QUFRSjlNdFRIX090d3Nwc1l1NWZ5dmJ2MFdTWGxyLWR3TEZlMFpKQW1td2s3a2dvbUtJanpWdUFlMzlBOFFpT2R2UnpQTE81TWJzZDYtdWRvYWtBTmxxcExzcXIxTnZmRFpaMVdPTUJoYUdXekNRMHdhZ3A1azllVGFybVdjdFFXbEdCUGRidGtV0gGmAUFVX3lxTFB4VjNGMnJDRlA3MjJfU3E0bXJydmtfazZDU2JRM2lxZUd6U1RFSlFEdy1ZZnhKTnB3MncyVFRBVFU3UHhENTZjOFdsdmo3UjllejBoc2psc3dRQU9wdmxXUjBYQzBiUDZlRjQta213R3FxSndMdHVlS3pfNkQ0Z1RzUEFuZVgtTFZJMXF3VlNfYlkzXzFLY0h0dFIyMVpNOEl2LVB1LWc?oc=5"
-    },
-    {
-      "t": "AGORA! GTA VI RECEBE ATUALIZAÇÃO GRÁFICA SURPRESA NO XBOX E MICROSOFT VOLTA AO BRASIL!",
-      "d": "",
-      "link": "https://xboxers.com.br/agora-gta-vi-recebe-atualizacao-grafica-surpresa-no-xbox-e-microsoft-volta-ao-brasil/",
-      "fonte": "Xboxers",
-      "data": "2026-11-17T22:54:07.000Z",
-      "c": "Consoles",
-      "img": "https://i0.wp.com/xboxers.com.br/wp-content/uploads/2026/11/thumbnail-EuhHRM1iZv0.jpg?fit=480%2C360&ssl=1",
-      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaGdPYU8zenZMWXpzSW50YWpuT2ViMDZYVFR6RnNkZWpKX3M0eGtjd0dzM3pjb0lFUkJtSVlqek8xdVo2X01zR3JiX3g3NGo2OVd6c2c5dEczVW5Wd0pZalBZU3pKWjNZU3pOcFZkSjR0c250d1hrVHZHYzJvRUtSTEs0bjFFbFgzdUhGVmE2aDRLUHZMWnNWTXZnODhYMFRvZURKYjZ6UjJibVlN?oc=5"
     },
     {
       "t": "4 itens de Pokémon que todo treinador vai querer na estante com até 57% de desconto",
@@ -492,40 +492,6 @@
     }
   ],
   "lancamentos": [
-    {
-      "t": "Don Memo",
-      "data": "2026-11-18",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobgev.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/don-memo"
-    },
-    {
-      "t": "Toto's Journey",
-      "data": "2026-11-18",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cock5e.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/totos-journey"
-    },
-    {
-      "t": "Disney Dreamlight Valley: The Keepsake Sea",
-      "data": "2026-11-18",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocvat.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/disney-dreamlight-valley-the-keepsake-sea"
-    },
     {
       "t": "Grand Theft Auto VI",
       "data": "2026-11-19",
@@ -4671,6 +4637,36 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapnr.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/gladiators-of-roma-revixit"
+    },
+    {
+      "t": "Cairn: Stone Towers",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapog.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/cairn-stone-towers"
+    },
+    {
+      "t": "Plantverk: Perfectly Plantastic Plant Simulator",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauc6.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/plantverk-perfectly-plantastic-plant-simulator"
+    },
+    {
+      "t": "Project Sara",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapw8.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/project-sara"
     }
   ],
   "musicas": []
