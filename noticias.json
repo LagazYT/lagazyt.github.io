@@ -1,6 +1,26 @@
 {
-  "atualizadoEm": "2026-11-18T08:03:11.744Z",
+  "atualizadoEm": "2026-11-18T08:33:28.596Z",
   "noticias": [
+    {
+      "t": "Fora do Oscar dos games, Sony escancara buraco estratégico no calendário de blockbusters",
+      "d": "",
+      "link": "https://radiogeekbr.com.br/sony-fora-do-goty-buraco-estrategico-no-calendario/",
+      "fonte": "radiogeekbr.com.br",
+      "data": "2026-11-18T08:15:23.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR29TS1lIWldyQ29PTDVoWGlHaWFXNHJCSEFjWXM5Umpsa2Q5aDhjYlBqTzFYb2habWZwZmNnV3BpTkZxQjNSWW15OU1rOXZSazdvc0FpNEdDTzRheXdRZVF5bm0wZUkteG9xVEplMEN1S0RrMDZibTJQekw4TnJVcjFpMkU?oc=5"
+    },
+    {
+      "t": "Super Age Games: evento nos EUA mede longevidade em 8 provas",
+      "d": "",
+      "link": "https://tvsimbrasil.com.br/brasil/saude/noticia/2026/11/18/super-age-games-evento-eua-mede-longevidade-8-provas",
+      "fonte": "TV Sim Brasil",
+      "data": "2026-11-18T08:08:36.000Z",
+      "c": "Eventos",
+      "img": "https://tvsimbrasil.com.br/_next/image?url=https%3A%2F%2Fapi-news.tvsimbrasil.com.br%2Fstorage%2Farticles%2F4c8432c8-544a-4a30-868d-d7fad82d5f91.webp&w=1200&q=75",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQanJ5Um0xY0ItWnZkaXRSRmQzNHZ2SmVTZENST0phajc0V0JEQ3lkUFV4RS1yNkhYNVZtRG9vQXJRNjVPWVE4clJZOWYzR1AtUDhmYUlPajFrRDVPalNTRHpGaEFhNFl6V3h0bE9pN0V2MmpXNFZCRUF0cVJDRXhnZm9TM3VuV3dGMV9KcUJJXzlSbWloUmNwNFdMUXEyVWlZWlZzRnBjZEhfR1d2anNlMQ?oc=5"
+    },
     {
       "t": "Dos bilhões de GTA VI aos laços reais: a força dos games",
       "d": "",
@@ -32,16 +52,6 @@
       "orig": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2cycy1nUlRYeGFuMmRESG9GNmtsYzBjNlJCMl9TQ2xucXc5X2pDNGkwaFJHTzJERW1kUnBzbzJ0a3RDeFZfN0JWUWY1R0VVVzhMRnJYNV9OVGQ3V3EyWlBDNm8wWmUxVmVVb2ZCc0lESk9mUXRHeThfemdZaGE5S0F1cDkzMFUtWkNB?oc=5"
     },
     {
-      "t": "Jogos nos EUA reúnem provas para medir longevidade dos participantes",
-      "d": "",
-      "link": "https://www1.folha.uol.com.br/equilibrio/2026/11/jogos-nos-eua-reunem-provas-para-medir-longevidade-dos-participantes.shtml",
-      "fonte": "Folha de S.Paulo",
-      "data": "2026-11-18T07:00:00.000Z",
-      "c": "Geral",
-      "img": "https://f.i.uol.com.br/fotografia/2026/11/17/17949373936afc92318930f_1794937393_3x2_rt.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXJ1RElQRFhEcEN3YXhWdHhNSFMzYXhfdzEwWHlxOUhDNnBRZHJBekROVGNWVWY5cnpETHoyWVgtWi13RTctX2tFMlh4VjJJU3FNT0tUMXdueU1rNVB2Qm1MY1JBZVR5ejg3dm9yUG9YaFpQV0Jyd0ZiMm9VVDRVY1NxX01Hb2RqZkxMcDhHbjZ5OHlnQUVDWVVqbTh1UTRvWXhYUlNGNjhWTURUVUQ0cVRnWDk0RUI0TVVMUjFBZXc?oc=5"
-    },
-    {
       "t": "GTA 6 chega nesta semana! TecMundo terá lives diárias até a Black Friday com o game",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-chega-nesta-semana-tecmundo-tera-lives-diarias-ate-a-black-friday-com-o-game/",
@@ -50,16 +60,6 @@
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/4OUOBD7R2RCYDF5GPBB6MB4TQA.jpg?quality=80&auth=e2ecd155cdc47ae9b552331fc829b88cd660b9224153ea0c444ff6170c742a3f&width=1200&height=630&focal=926,366",
       "orig": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ2hLQ2o1ckhXdWJRR0tMYzR6T2xhN1FUNmpxY2ZVdDN5RUkwVXBubXFUYUFxVGNPOE9jUkstOVY5ZkdhZzhONVlpOTk4SkJ5TTV6b3dlTWNoYkk5S2lLbW45MU45YnF2N3Z4MFJZNGVReU41QS1JeXZYUV9PcGhqSEhMVGlXZkZGVVh1U0VJWEpyNW1oVVNVMkZVNC1hUHZDN3dRYUxRbF9IQlVoQXB6bVVyWVdabU9tU190YWNYdklCTFnSAcgBQVVfeXFMUDJTS2x2UF9MNk4zMklweERncUJQd0lCS3BUUWZlQUZMeTZINXZTb2xlYk55dTBjclBvb2h6aTVUcjNyRk5ubkkxWFhJZ0F6a3NBNm42ZURqNGJqbEdBTC1zaVJSQk12QjE0c1Z4ZEY1R2N1bDV5N244VnVhOGcwbWZSUm5kSFBKU2lRM0pxVkwzejNpNDZHbXlsN0lTd0t5TUVsOHI2UFlxVGNST1JXREUwWWdROEV5UkwxeEtzTzNndHNYQlNWYnc?oc=5"
-    },
-    {
-      "t": "GTA VI chega amanhã: veja tudo que você precisa saber sobre o jogo",
-      "d": "",
-      "link": "https://g1.globo.com/pop-arte/games/noticia/2026/11/18/gta-vi-chega-amanha-veja-tudo-que-voce-precisa-saber-sobre-o-jogo.ghtml",
-      "fonte": "G1",
-      "data": "2026-11-18T05:00:10.000Z",
-      "c": "Lançamentos",
-      "img": "https://s2-g1.glbimg.com/5DZruDjrYAHGZWFaGAnx3_wosP8=/1858x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/E/3kUgGWQ4ClO89jfRVBOg/captura-de-tela-2025-05-02-093420.png",
-      "orig": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0hpblktWVVlZWVTWm43OFBXSUNVYTctakVmUE9neHVJZlo1b01WQ3ZhZkNQTzlaalI4eHdhT3pteE1CbUVMcVh2Y3FWNDRQVVYyN0Z1aS1SUmFJTy1SMVlaeXJJbVRNVU9KbXFaNHFpbXdTRWRaX3RuZy1zSWY4YW1WOUdGdk4xNGYwUVkxS2M0TEI4SEpIa2plbHB0ZWxjdmdtby1kZHMyOXRrR2hmSnBtT1VTQ0dnd1hOckRYVlYyb1g50gHTAUFVX3lxTE1FcXRkTG9qSnlrNE84VTJIMmVHU1RNd2dMLVRBUDFFTE53QmsxWU1jWDNsbFRIb2lEcU5iWC13YTFQcHgxeHlpcEVqOEhBT1owSmdFMlk0S2IxeXJya1V5VUpNUG02SVp6cmhTNnRmUU9HRVhJR1BodGVOTTdGb0xXTWNYUF8weGRFeXoxUElwekZGSmEwVDBDMmlxeUxpUC1CQ1hiUHhmdHJ4Zk5NRXk1eW1UV0VGQmVWWVdCc2lVTmR5TktlWkJNaDBaRnBtVTFNRzg?oc=5"
     },
     {
       "t": "Xbox anuncia 9 novos jogos que chegam ao Game Pass este mês",
@@ -319,7 +319,7 @@
       "id": "-4zg_Y74HoA",
       "t": "KUSARIGAMA LENDARIA FLOR DA MORTE é MUITO DANO | ASSASSINS CREED SHADOWS!",
       "data": "2025-06-19T20:00:00Z",
-      "views": 260,
+      "views": 261,
       "img": "https://i.ytimg.com/vi/-4zg_Y74HoA/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=-4zg_Y74HoA"
     },
@@ -391,7 +391,7 @@
       "id": "-LBS0DccBKw",
       "t": "ESSA BUILD É MUITO ROUBADA VIRE UMA ARTÍFICE | EXPEDITION 33",
       "data": "2025-05-22T14:00:01Z",
-      "views": 2290,
+      "views": 2291,
       "img": "https://i.ytimg.com/vi/-LBS0DccBKw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=-LBS0DccBKw"
     },
@@ -487,7 +487,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3694,
+      "views": 3696,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
