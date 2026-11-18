@@ -1,55 +1,221 @@
 {
-  "atualizadoEm": "2026-11-18T09:33:50.932Z",
+  "atualizadoEm": "2026-11-18T14:15:03.375Z",
   "noticias": [
     {
-      "t": "Preservação de jogos no Project Helix: plano do Xbox",
+      "t": "GTA 6 chega aos consoles nesta quinta-feira; veja horário, preços e plataformas",
       "d": "",
-      "link": "https://www.neoteo.com/pt/xbox-diz-que-preservacao-orienta-o-desenho-do-project-helix",
-      "fonte": "NeoTeo",
-      "data": "2026-11-18T09:02:28.000Z",
-      "c": "Consoles",
-      "img": "https://www.nitroindex.com/opengraph/www.neoteo.com/og.png?url=https%3A%2F%2Fwww.neoteo.com%2Fpt%2Fxbox-diz-que-preservacao-orienta-o-desenho-do-project-helix",
-      "orig": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjlWTEI2WG9kbEREdkRYNUVQeWhOcm1PTExwQVpDR3gwNVBUb25ja1d5elgyUTdTS3I1c1VjS19zYTE4WEpwU1ZvQWcwV2FrbDFOR2NnSWNRbXRweU5hbVBGY1BleTlsdkJBVUdqT3F5Wjl5SDhpeERvc1h5dFFsaUpHNWgyNGlBNV80VUJ3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2ZkRmVVS3gtamYzUHlEU2FtSVprMDdoZ0NxZFp6UGNDZHJNUGpCbFR2a2REb0xHV3kxa1kzZjhLSWxaUXNPU0pBUG9lNkJYc0N2WmVJc0I3Wnk4OW8tLXhUajV4VjhlRDNjR1FaQzMxRzFYWHpNNkRDYV9GN096MnlzbWdYQi1oSkxGQWRON2F4TjNqMm1tTUhjWlZPYTZ3YnQ3dnNVNA?oc=5",
+      "fonte": "Jornal Brasília Capital",
+      "data": "2026-11-18T14:09:00.000Z",
+      "c": "Lançamentos",
+      "img": ""
     },
     {
-      "t": "GTA 6 é uma vitória para fabricantes de videogames pressionados por custos",
+      "t": "Lançamento de 'GTA 6' aquece varejo e empresas dão folgas para funcionários",
       "d": "",
-      "link": "https://www.infomoney.com.br/business/gta-6-e-uma-vitoria-para-fabricantes-de-videogames-pressionados-por-custos/",
-      "fonte": "InfoMoney",
-      "data": "2026-11-18T09:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaDN3Z3lmdjJKc2ZVbmVpNWVselpCY2Z3UHZhdGxqWlNvTWV0bGp0aXlqbEV2c2s0ZkRMVG1IWUxzcUF5SXU1MDN5SDlreDlMWUFoNVBCLUhfT3NtQzg5QVpQcEx6U2hRME13RHZFT1RJWVppd1lGa3g5UEZNUDEyUElFNUw2QzNiR0RTQnJJZUIxaldXdjFSQW9CcG9QcGVlcE5pZTRpbzhqRlFUbnFCd2hpVks1dGFyZ0M0VEo2ekdXc3N1YXhzZQ?oc=5",
+      "fonte": "Folha de S.Paulo",
+      "data": "2026-11-18T13:58:00.000Z",
+      "c": "Lançamentos",
+      "img": ""
+    },
+    {
+      "t": "GTA 6 roda a 1440p upscale para 4K no PS5 e Xbox Series X usando TAA próprio da Rockstar",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY1l0N3ZrMnhTQ3dScjJUVjdRY1hEYVQxc1huWEh5dDhxZlJLNU9NMTVvM1U2d1lFdkd0YU9mYnF5SnFYYXhfWnloZGVVX2xsRl9yeXNvb2E4bzRXZXdkeWh1ZWJTNW1FemR2blV6YkFqNTJ4YjVJd2VJcWYtRVhUek1QaElTNGNxR3Bnd3kydEJOdlFSeXVNZk1ZNklob1dsTi1FczFDLW5LTlVwS2h4V2ZNdkU1ZnBESWJQQ1dINzhBYzJfX0ZZ?oc=5",
+      "fonte": "Gamer Point",
+      "data": "2026-11-18T13:54:54.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "GTA 6 chega amanhã; tudo o que você precisa saber sobre o lançamento do jogo",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEZjUk9HQzNEMjJtWHRkSDU0eG9KdkdKRlk1bXk3emR4NVQxWEd1VXA0R0xfSDJkOVB0azBTdXN6S0xnWS03am9JdXA4M19KS1ZUSU9iNFN4Sk5zZG1mbFhqMDU5dFVFZEFYNDNXb041RkszT3hTZ2d2OHFlbXFlZlJtdUZNbjExa0pQc1NJSTFQcWxhWFYzSkllYkdrYlVhV3BvMTVrVmhUV0trN05KVjdn?oc=5",
+      "fonte": "Fast Company Brasil",
+      "data": "2026-11-18T13:51:52.000Z",
+      "c": "Lançamentos",
+      "img": ""
+    },
+    {
+      "t": "GTA 6: pré-venda já soma US$ 1,54 bi antes de estreia",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY1hXN0pBbFNYRlh4YzhxWmJlT192VkNheGtsZzZyNWFOQ0tDWm9RSjVaV24ySEc0VnExNnN6MFZUOXlCX1BVVW1ibnZlSUt0REl1cEpuUDlmWWFVdTlGTVczTkY5anJTZG5DTHF6Um5rVkxXUy12WUs3b2xFSkF5ZURrbjdGdTVUb0hqaFVuZnctTDI4aHJxX3o5N2pnZw?oc=5",
+      "fonte": "BPMoney",
+      "data": "2026-11-18T13:41:49.000Z",
       "c": "Geral",
-      "img": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-17T175037Z_232006942_RC2TPOAEKJD3_RTRMADP_3_GAMING-GTA-VI-USA.jpg?fit=4712%2C3141&quality=70&strip=all",
-      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZUlHU1gwMlJ5VnlKczdja3VVYmM3b3diMklOWkw3UlJlM1lyazRQdGxibGxXR3lRdi1hdkREM2Nva0pRbUZmLU82Nk5Bd05FRFZNOWN0Zk1QTlNMMVVicWxidHppOG1sSGRsd3NPdGNhYUdSay1landyenZ4ckhxTEtlYzN2VjZZaVpocTh4TWZsWUFFdnAtakFuVUFTMk1vcFNxMndLaDR3RXpHS3J2aDFqNNIBuAFBVV95cUxQRVdGOHZwOGczYWxvOUlrQXZFMmJ1RXVKdS1JRllTM3c2X3QtUVBUVDRoMVJuVzcxSXNqWE54TlZqRW5pNnJJX01aVFkweU9CMC1vaWlCNjYtWDB6NjlTb2dNdnRjeGFCMFFmVndTS0VYYUN2Y1Q3cVdJcHF0aVpaSzQtdnA3QUk5VWJuRTJKYmFSaFV1elJpZlhuWjYtcW9TNHlRVmtvY1c1YTJKZVdxZjZYTVhVVTBy?oc=5"
+      "img": ""
     },
     {
-      "t": "Projeto em Sorocaba mostra oportunidades profissionais no mercado de games",
-      "d": "",
-      "link": "https://sorocaba.com.br/sorocaba-hoje/projeto-em-sorocaba-mostra-oportunidades-profissionais-no-mercado-de-games",
-      "fonte": "Portal Sorocaba.com",
-      "data": "2026-11-18T08:55:00.000Z",
+      "t": "GTA 6: lista de atividades secundárias para fazer em Leonida",
+      "d": "Além da história principal e missões opcionais, o GTA 6 possui muitas atividades secundárias para serem realizadas. Veja quais são!",
+      "link": "https://flowgames.gg/gta-6-lista-de-atividades-secundarias-fazer-leonida/",
+      "fonte": "Flow Games",
+      "data": "2026-11-18T13:30:18.000Z",
       "c": "Geral",
-      "img": "https://supabase.pandahub.com.br/storage/v1/object/public/sorocaba-noticias/2026/11/projeto-em-sorocaba-mostra-oportunidades-profissionais-no-mercado-de-games.webp",
-      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOW9nMlRqQnVTRkVKRTVHN0xCQjgzSUU2NWZuS0dQV1dJMlpDLXNfck5wajUxWFBfQTNZN3YzY05xdUlwbUtzSWVGYllfU2E5YmFmMnlYYkNUenNDOXlkZko3NnNTRk9yS2Fxc1A0ejlqT1FwMzhlUlFDZ2k1YjRtSjRDT1FBUFJQaUE0dVdIbHN3Z2RpUE85djBreV9pTWR1bkZGU2RKU2hvRERVakJpbFB3?oc=5"
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-27.jpg"
     },
     {
-      "t": "Opinião | GTA 6 lidera o Game Awards; a Nintendo leva o prêmio do negócio",
-      "d": "",
-      "link": "https://www.estadao.com.br/em-alta/economia/camila-farani/gta-6-lidera-o-game-awards-a-nintendo-leva-o-premio-do-negocio/",
-      "fonte": "Estadão",
-      "data": "2026-11-18T08:34:59.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/G6UDCIGBBNHARHRSTATWC62M3I.jpg?quality=80&auth=05ed31207428ecdb8b83e9f4b536adcbe33aa06358d42f285d2e96221d325b10&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeGRkckpKR1NSWVEtLWc5MUVKUGZadFkwQjNMMm93ZVNXWENOZEk2N3U5aGo1ci1uUDRvLWlJc21fVEpoOUxpV3VXenNZS1k0dFNpSWlzN040YnhvZHZiYV9vcmhsVmpCQmZ3UXRLU1dhMEJZNTQ0Q2x5QWJkVGF2UlAtSU9pQURQbFpHMUplQ29zaElTbTdZa0N4VmZCUjZzX21zdEJtV1lZS01pd1dFbWJiX1Q3U0hhX1R6OElB?oc=5"
+      "t": "Mate suas esperanças: GTA 6 nunca ganhará uma atualização para rodar a 60 FPS no PlayStation 5 Pro",
+      "d": "Mesmo o console mais poderoso da Sony não iria aguentar rodar GTA 6 nessas condições Há más notícias para os fãs de GTA 6 que ainda esperam por uma opção de 60 fps no PlayStation 5 Pro. Embora o...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157742/mate-suas-esperancas-gta-6-nunca-ganhara-uma-atualizacao-para-rodar-a-60-fps-no-playstation-5-pro",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-18T13:28:01.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6-will/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-it_a23g.jpg"
     },
     {
-      "t": "GTA 6 lidera o Game Awards; a Nintendo leva o prêmio do negócio",
-      "d": "",
-      "link": "https://www.estadao.com.br/economia/camila-farani/gta-6-lidera-o-game-awards-a-nintendo-leva-o-premio-do-negocio/",
-      "fonte": "Estadão",
-      "data": "2026-11-18T08:30:00.000Z",
+      "t": "GTA 6 surpreende no Xbox Series S com Ray Tracing",
+      "d": "A Rockstar Games revelou detalhes de como o GTA 6 roda nos consoles, incluindo Ray Tracing no Xbox Series S",
+      "link": "https://flowgames.gg/gta-6-surpreende-no-xbox-series-s-com-ray-tracing/",
+      "fonte": "Flow Games",
+      "data": "2026-11-18T13:27:21.000Z",
       "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/G6UDCIGBBNHARHRSTATWC62M3I.jpg?quality=80&auth=05ed31207428ecdb8b83e9f4b536adcbe33aa06358d42f285d2e96221d325b10&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXl3RGpITV80MW92NnZqWTIweDlfS0dDSXZEWEp1RUpBeFBYZEU2MUdtRUdkQ0JPQ0NfZXZDV2g0ZF90VHo4NnFlY3NnYV9BWWFvRWlYcERVSmlzQ1NQMTg5bjlrSGxEZWFlbnA1cFlHMW5OZnBrTHY4ZW1sMFBtcGl5Xzh3V0VTXzJvRkptUGxwWVB6dmlmYm5YSUJTeXJOOG5Qd2IzUHN6WW96UzZpcXdVb9IBuAFBVV95cUxPYmw4U2pqdlEtdS1hRkRqZUtPc3dRS3Zvb2NQRDBwNEZWa2hYNFBWZ3YxU1BWYWwtM0dBMDFUc0MzVzQtX3Y3N29Sem1qVVFCMm9ldE1saVRlS2hhbkpESG94WWJCcjNGdnJxS2pRUHk4WWRXWWM4LVBWdnVuSE91YWJORDdmeHVESW9xNzdQYTZwQ0xoYktVbnpFNkpRNi16b21maDFhd3pndWphWjEyWEhNQzdLSmZ1?oc=5"
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-34.jpg"
+    },
+    {
+      "t": "O que comprar na Black Friday: jogos para Playstation 5",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-jogos-para-playstation-5/",
+      "fonte": "TecMundo",
+      "data": "2026-11-18T13:15:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/IDDQJL6VZ5DHPF5VSZPBMYCUOA.jpg?quality=80&auth=fb74af03dd3e405109c5bab5617cf92dce453d9d1f7dec70115fd316732c67a3&width=710"
+    },
+    {
+      "t": "Rockstar presenteia time do Miami Heat com PS5 Pro de GTA 6",
+      "d": "Jogadores do Miami Heat ganham presente nada modesto da Rockstar Games",
+      "link": "https://flowgames.gg/gta-6-jogadores-miami-heat-ganham-ps5-tematico-jogo/",
+      "fonte": "Flow Games",
+      "data": "2026-11-18T13:09:01.000Z",
+      "c": "Consoles",
+      "img": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f92f.png"
+    },
+    {
+      "t": "\"Persistência teimosa\": foi assim que GTA 6 foi criado na Rockstar North",
+      "d": "\"Acho que é preciso muita obstinação, na verdade\" O atual co-estúdio e chefe de desenvolvimento da Rockstar North, Rob Nelson, parece relaxado para um homem na ponte da Rockstar North,...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157736/persistencia-teimosa-foi-assim-que-gta-6-foi-criado-na-rockstar-north",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-18T12:58:57.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/h/how-gta-6-/how-gta-6-came-together-at-rockstar-north_vft2.jpg"
+    },
+    {
+      "t": "Quanto tempo leva para terminar GTA 6?",
+      "d": "Espere boas horas de jogatina Falta pouco para que milhares dde jogadores ao redor do mundo possam andar pelas ruas de Vice City e o condado de Leonida, mas quanto tempo exatamente você ficará...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157741/quanto-tempo-leva-para-terminar-gta-6",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-18T12:25:05.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_3tk3.png"
+    },
+    {
+      "t": "GTA 6 não deixará você rejogar missões de história do jogo",
+      "d": "Faça boas escolhas Você acha que vai querer repetir algumas das missões mais emocionantes do GTA 6 ? Bem, você não poderá simplesmente fazer isso em nenhum de seus menus. Agora, nem todo jogo...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157734/gta-6-nao-deixara-voce-rejogar-missoes-de-historia-do-jogo",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-18T12:09:03.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/feature/g/gta-6-does/gta-6-doesnt-let-you-replay-story-missions-heres-why_855g.jpg"
+    },
+    {
+      "t": "Como ensinar Disney Lorcana na primeira partida",
+      "d": "Como ensinar Disney Lorcana sem aula interminável: o que explicar antes da primeira carta, deck pronto, mão aberta e onde quem ensina costuma escorregar.",
+      "link": "https://flowgames.gg/como-ensinar-disney-lorcana-primeira-partida/",
+      "fonte": "Flow Games",
+      "data": "2026-11-18T12:08:43.000Z",
+      "c": "Geral",
+      "img": "https://i.imgur.com/oSx1qKm.jpeg"
+    },
+    {
+      "t": "GTA 6 confirma Modo Foto no lançamento do jogo",
+      "d": "Faça vários cliques em Leonida GTA 6 é um jogo lindo, então, naturalmente, você sentirá vontade de fazer uma pausa regularmente para ver tudo. Felizmente, a Rockstar sabe disso e incluiu um modo...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157739/gta-6-confirma-modo-foto-no-lancamento-do-jogo",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-18T12:00:37.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6-phot/gta-6-photo-mode-confirmed-at-launch_731m.jpg"
+    },
+    {
+      "t": "GTA 6: Photo Mode Gallery",
+      "d": "",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157737/gta-6-photo-mode-gallery",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-18T12:00:37.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/gallery/g/gta-6-phot/gta-6-photo-mode-gallery_1sww.jpg"
+    },
+    {
+      "t": "GTA 6 alcança Ocarina of Time e tira nota 99 no Metacritic",
+      "d": "O embargo dos reviews de GTA 6 já caiu e ele estreou com a maior nota do Metacritic, ficando empatado apenas com Zelda Ocarina of Time",
+      "link": "https://flowgames.gg/gta-6-alcanca-ocarina-of-time-e-tira-nota-99-no-metacritic/",
+      "fonte": "Flow Games",
+      "data": "2026-11-18T11:35:10.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-29.jpg"
+    },
+    {
+      "t": "Depois de 28 anos, GTA 6 iguala Zelda: Ocarina of Time e se torna o jogo mais bem avaliado da história do Metacritic",
+      "d": "Feito histórico!",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157733/depois-de-28-anos-gta-6-iguala-zelda-ocarina-of-time-e-se-torna-o-jogo-mais-bem-avaliado-da-historia",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-18T11:33:19.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/jason-and-lucia-13_py1c.jpg"
+    },
+    {
+      "t": "GTA 6: quanto tempo leva para zerar o jogo?",
+      "d": "O Flow Games conta exatamente, sem contar spoilers, quanto tempo leva para zerar o GTA 6. Confira!",
+      "link": "https://flowgames.gg/gta-6-quanto-tempo-leva-para-zerar-o-jogo/",
+      "fonte": "Flow Games",
+      "data": "2026-11-18T11:30:58.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-37.jpg"
+    },
+    {
+      "t": "15 Minutes of GTA 6 PS5 Pro Gameplay (First Mission)",
+      "d": "Check out 15 minutes of GTA 6 gameplay on the PS5 Pro from the first proper GTA 6 mission, which takes place after a short prologue. This is how the best version of GTA 6 looks at launch, using...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157743/15-minutes-of-gta-6-ps5-pro-gameplay-first-mission",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-18T11:30:00.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/ign_br/video/1/15-minutes/15-minutes-of-gta-6-ps5-pro-gameplay-first-mission_23nt.jpg"
+    },
+    {
+      "t": "Review: GTA 6 é um convite para viver o extraordinário",
+      "d": "Para muitos, GTA 6 é um sonho; na vida real, trata-se de um ápice técnico da atual geração de consoles",
+      "link": "https://flowgames.gg/review-gta-6-um-convite-para-viver-o-extraordinario/",
+      "fonte": "Flow Games",
+      "data": "2026-11-18T11:00:39.000Z",
+      "c": "Geral",
+      "img": "https://www.youtube.com/embed/tJbzMqJGH4k"
+    },
+    {
+      "t": "Se a Bethesda decepcionou no aniversário de 15 anos de Skyrim, os fãs deram o melhor presente com uma atualização de um dos melhores mods do game",
+      "d": "Beyond Skyrim: Bruma está maior, melhor e mais estável Sem muitas notícias sobre Sentinel, os fãs pelo menos podem curtir uma grande atualização para um mod de The Elder Scrolls 5.",
+      "link": "https://br.ign.com/the-elder-scrolls-v-skyrim/157725/se-a-bethesda-decepcionou-no-aniversario-de-15-anos-de-skyrim-os-fas-deram-o-melhor-presente-com-uma",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-18T11:00:34.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_rhtm.jpg"
+    },
+    {
+      "t": "GTA 6 é o jogo mais pessoal da franquia e demonstra que o absurdo é pouco para a Rockstar",
+      "d": "Uma bela história de amor em um mundo muito mais do que imersivo",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157712/gta-6-e-o-jogo-mais-pessoal-da-franquia-e-demonstra-que-o-absurdo-e-pouco-para-a-rockstar",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-18T11:00:12.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6-caus/gta-6-causes-17-spike-in-time-off-requests-on-games-release_xcwx.jpg"
+    },
+    {
+      "t": "GTA 6 usa história de amor para entregar o ápice da Rockstar no mundo dos games",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-e-o-apice-de-30-anos-de-evolucao-da-rockstar-no-mundo-dos-games/",
+      "fonte": "TecMundo",
+      "data": "2026-11-18T11:00:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/P6YOTTBBRRDY3IQ64SLDB5UAGM.jpg?quality=80&auth=ff0f490abc0b98e4bf8f7a9387920f8f2710c3373705c2ca9a56b459a39dce1d&width=710"
     },
     {
       "t": "GTA 6 chega nesta semana! TecMundo terá lives diárias até a Black Friday com o game",
@@ -72,15 +238,6 @@
       "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaER3ejFpeFF2T1ZNQzhNc1ZFSEZnSmtOelFkTERzcUQzUHhBMHZENEJfQjBHcjFwN0NmNGJFZkk3WkItQ1ZZS19ydXVLaXNSRlU3d0RTNmdXUTRQOXZydTJrY090MnV3MmVSTDMxTHA0aGlZN2h6UGZNUExJczVmWjBuNVF1YU56cF85UFRHWTZ6LU9OQjBCd3FNeXl0R0UtRC10ckFCQ3E?oc=5"
     },
     {
-      "t": "4 itens de Pokémon que todo treinador vai querer na estante com até 57% de desconto",
-      "d": "Seleção reúne figura articulada, boneco colecionável, pelúcia com som e pacote de miniaturas para fãs de várias idades",
-      "link": "https://br.ign.com/descontos/157726/4-itens-de-pokemon-que-todo-treinador-vai-querer-na-estante-com-ate-57-de-desconto",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-17T22:30:35.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/design-sem-nome-31_wz35.png"
-    },
-    {
       "t": "Control Resonant e mais jogos da Steam com até 95% OFF na Nuuvem",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/control-resonant-e-mais-jogos-da-steam-com-ate-95-off-na-nuuvem/",
@@ -99,15 +256,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-24.jpg"
     },
     {
-      "t": "Headset Havit compatível com PS4 e Xbox One sai por menos de R$ 140 na Amazon",
-      "d": "Modelo traz microfone destacável, arco ajustável e controle de volume, com conexão por cabo de 3,5 mm",
-      "link": "https://br.ign.com/descontos/157724/headset-havit-compativel-com-ps4-e-xbox-one-sai-por-menos-de-r-140-na-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-17T21:00:39.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/headset-havit_kzeh.jpg"
-    },
-    {
       "t": "25 anos de Xbox: como a Microsoft transformou para sempre a indústria dos games",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/25-anos-de-xbox-como-a-microsoft-transformou-para-sempre-a-industria-dos-games/",
@@ -124,162 +272,6 @@
       "data": "2026-11-17T20:20:40.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2025/04/psplus_black.jpg"
-    },
-    {
-      "t": "Epic Games Store oferece jogos de PC com até 95% de desconto",
-      "d": "",
-      "link": "https://criticalhits.com.br/games/epic-games-store-oferece-jogos-de-pc-com-ate-95-de-desconto/",
-      "fonte": "Critical Hits",
-      "data": "2026-11-17T20:02:44.000Z",
-      "c": "Ofertas",
-      "img": "https://criticalhits.com.br/wp-content/uploads/2026/11/epic-games-store-oferece-jogos-de-pc-com-ate-95-de-desconto-featured.webp",
-      "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFJ3c1lOME52MEQwZk4yWm9Mbk91NHdSS01jc1c0SVI0Rmc2Yjh0U3FhRXFEUDJTUnJCMFdyd3Fobi1Sd3RoMmpRYTJaaG5lV2ZaTjdWVzZHZk1zWVF6YnpVMEwyeThza3hhMnFobXByZ3lZU0xONlFhbXZGUzRVOGxVaVUwQmk2bkcxMWg5VUFwTzc5MTFZdkt3?oc=5"
-    },
-    {
-      "t": "Game Pass se despede de mais 8 jogos no fim de novembro; veja a lista",
-      "d": "Serviço perderá mais uma seleção de jogos em 30 de novembro; veja quais são",
-      "link": "https://flowgames.gg/game-pass-se-despede-de-mais-8-jogos-fim-de-novembro/",
-      "fonte": "Flow Games",
-      "data": "2026-11-17T19:43:52.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/04/TGA-2023-Xbox-Game-Pass-1.jpg"
-    },
-    {
-      "t": "Game Pass ganha High on Life 2 e mais jogos até o início de dezembro",
-      "d": "Xbox turbina catálogo do Game Pass com novas adições; veja a lista",
-      "link": "https://flowgames.gg/game-pass-tem-high-on-life-2-e-mais-8-jogos-novembro/",
-      "fonte": "Flow Games",
-      "data": "2026-11-17T19:25:33.000Z",
-      "c": "Consoles",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/05/image-2023-07-12T112747_288-tran.jpg"
-    },
-    {
-      "t": "TGA 2026: veja quais foram os jogos mais indicados",
-      "d": "GTA 6 lidera com 8 indicações no The Game Awards 2026; veja outros jogos que se destacaram",
-      "link": "https://flowgames.gg/the-game-awards-2026-quais-foram-mais-indicados/",
-      "fonte": "Flow Games",
-      "data": "2026-11-17T18:41:14.000Z",
-      "c": "Eventos",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/12/01KC45PRK3TY9NNFBKZ2A7XDN8.jpg"
-    },
-    {
-      "t": "Atriz de Lucia Caminos em GTA 6 é confirmada pelo The Game Awards",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/atriz-de-lucia-caminos-em-gta-6-e-confirmada-pelo-the-game-awards/",
-      "fonte": "TecMundo",
-      "data": "2026-11-17T18:26:00.000Z",
-      "c": "Eventos",
-      "img": "https://www.estadao.com.br/resizer/v2/DSCXPX5KSJB43MVWQHQCHEADIY.jpg?quality=80&auth=8ad08dc0e35918ca9e4bdbd8ea15214456f19df6317d19f478b60c31a3cb804f&width=710"
-    },
-    {
-      "t": "Jensen Huang diz que voltaria à Nvidia se o conselho de administração lhe pedisse",
-      "d": "A saga continua",
-      "link": "https://br.ign.com/nvidia/157722/jensen-huang-diz-que-voltaria-a-nvidia-se-o-conselho-de-administracao-lhe-pedisse",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-17T18:01:21.000Z",
-      "c": "PC",
-      "img": "https://sm.ign.com/ign_br/news/j/jensen-hua/jensen-huang-says-he-would-return-to-nvidia-if-its-board-of_gak9.jpg"
-    },
-    {
-      "t": "Jensen Huang assume erros e diz que aceitaria voltar para a Nvidia",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/big-techs/jensen-huang-assume-erros-e-diz-que-aceitaria-voltar-para-a-nvidia/",
-      "fonte": "TecMundo",
-      "data": "2026-11-17T17:40:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/XNPVCRGJJ5DLJJSPDCNF6UJWZY.jpg?quality=80&auth=b1aa399085d1079d146dcc170aadff2397db89ca0d571e21b62c17af8725193f&width=710"
-    },
-    {
-      "t": "Atriz que interpreta Lucia em GTA 6 é finalmente revelada",
-      "d": "E sim, é quem você provavelmente imaginou",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157720/atriz-que-interpreta-lucia-em-gta-6-e-finalmente-revelada",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-17T17:25:13.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/news/g/grand-thef/grand-theft-auto-6-lucia-actress-finally-revealed-and-yes-it_8fec.jpg"
-    },
-    {
-      "t": "GTA 6, The Legend of Zelda: Ocarina of Time e mais: todos os indicados ao The Game Awards 2026",
-      "d": "GTA 6 domina premiação antes mesmo de ser lançado",
-      "link": "https://br.ign.com/the-game-awards/157706/gta-6-the-legend-of-zelda-ocarina-of-time-e-mais-todos-os-indicados-ao-the-game-awards-2026",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-17T17:22:10.000Z",
-      "c": "Eventos",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/image-17_ev3q.png"
-    },
-    {
-      "t": "GTA 6: Manni L. Perez é confirmada como Lucia Caminos",
-      "d": "Antes do lançamento do GTA 6, o The Game Awards 2026 revelou que Manni L. Perez é Lucia. Veja os detalhes!",
-      "link": "https://flowgames.gg/gta-6-manni-l-perez-e-confirmada-como-lucia/",
-      "fonte": "Flow Games",
-      "data": "2026-11-17T17:18:28.000Z",
-      "c": "Eventos",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/05/batch_Lucia_Caminos_02.jpg"
-    },
-    {
-      "t": "The Game Awards 2026 anuncia indicados à premiação! Confira a lista completa",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/the-game-awards-2026-anuncia-indicados-a-premiacao-confira-a-lista-completa/",
-      "fonte": "TecMundo",
-      "data": "2026-11-17T17:13:00.000Z",
-      "c": "Eventos",
-      "img": "https://www.estadao.com.br/resizer/v2/PN6K6VLXZJBVLMCHUGP6P4S6JA.jpg?quality=80&auth=281cbc50c159d472fc0b2ed6c93e2e3765390263fb43486ad7371beeb8d87b3c&width=710"
-    },
-    {
-      "t": "The Game Awards 2026: veja a lista completa de indicados ao Jogo do Ano",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/the-game-awards-2026-indicados-categorias/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-17T17:09:00.000Z",
-      "c": "Eventos",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/the-game-awards-2026-revela-indicados.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPekFNR3lVM1U0NzZOaVk0XzVtOXlBZWxyX0lsYWJhN0NESmNvRGZtQi01TW5mc2E5dkJKbnc5dFYyLW5VM1FKZ3l2Q3dRSXl0bjhQMmpvaGd1cm9yMEl4V2ZXUkh3U2dmQ3Jibmhpc2xuMnJlMmdtSnZyUUpRTzIzNVcxanI?oc=5"
-    },
-    {
-      "t": "The Game Awards 2026: veja lista de todos os jogos indicados",
-      "d": "A The Game Awards (ou TGA 2026) revelou todos os indicados, incluindo ao GOTY! Confira",
-      "link": "https://flowgames.gg/the-game-awards-2026-lista-todos-jogos-indicados-goty/",
-      "fonte": "Flow Games",
-      "data": "2026-11-17T17:06:40.000Z",
-      "c": "Eventos",
-      "img": "https://www.youtube.com/embed/_e0oJSfmIFU"
-    },
-    {
-      "t": "Jogos da SEGA em oferta na Steam com até 85% de desconto",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-da-sega-em-oferta-na-steam-com-ate-85-de-desconto-4/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-17T17:00:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/sonic-racing-crosswords.webp",
-      "orig": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOW16dW0xVG1mcVBDZXA1Y201WXBicTRpLXJrWnNNRTJQc3FpNW4zQlVhUWpZMDA2ejMwSTJpV19KUXF1a1hTY2RhOXZINzh4YS1uNlhXSWhPMnhMVUZBRjFtNURYMG8yVGFwWU5MV1RoTzJxMnV6ZVRmN3NNQXJlb095RG9ULU1jb0puR3o4RHcwZVBEc0VjRkhjeTdzZWdtRlVYcjNR?oc=5"
-    },
-    {
-      "t": "GTA 5: ex-dev revela detalhe que ninguém encontrou",
-      "d": "Segundo Matt Freedman, ex-dev da Rockstar, ele colocou um segredo em GTA 5 que os jogadores não acharam",
-      "link": "https://flowgames.gg/gta-5-ex-dev-revela-detalhe-que-ninguem-encontrou/",
-      "fonte": "Flow Games",
-      "data": "2026-11-17T16:53:16.000Z",
-      "c": "Lançamentos",
-      "img": "https://flowgames.gg/wp-content/uploads/2023/11/image-2023-11-09T114809.714.jpg"
-    },
-    {
-      "t": "Star Wars Galactic Racer terá multiplayer com tela dividida em 2027",
-      "d": "Ainda sem data, o novo modo permitirá até 3 jogadores em tela dividida",
-      "link": "https://flowgames.gg/star-wars-galactic-racer-tera-modo-tela-dividida-2027/",
-      "fonte": "Flow Games",
-      "data": "2026-11-17T16:17:13.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/02/star-wars-galactic-racer-gameplay-trailer-feature_da451192.jpg"
-    },
-    {
-      "t": "“Tenho certeza de que ninguém percebeu isso”: ex-desenvolvedor da Rockstar revela pequeno detalhe de GTA 5 que jogadores talvez tenham deixado passar despercebido",
-      "d": "O designer Matt Freedman era um perfeccionista",
-      "link": "https://br.ign.com/grand-theft-auto-v/157716/tenho-certeza-de-que-ninguem-percebeu-isso-ex-desenvolvedor-da-rockstar-revela-pequeno-detalhe-de-gt",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-17T16:10:02.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/news/i/im-certain/im-certain-no-one-noticed-this-former-rockstar-developer-exp_zjvp.jpg"
     }
   ],
   "videos": [
