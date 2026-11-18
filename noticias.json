@@ -1,22 +1,58 @@
 {
-  "atualizadoEm": "2026-11-18T16:15:37.719Z",
+  "atualizadoEm": "2026-11-18T16:45:46.449Z",
   "noticias": [
     {
-      "t": "Grand Theft Auto VI chega amanhã, dia 19 de novembro",
+      "t": "Jogos de Playstation 5 para ficar de olho na Black Friday",
       "d": "",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeU5manVydld1bktWa3NSTE1IZmp1TTJQQmI0YTcwVnV0OXNoM3hPNFhqT1hMMFJTME00X3dGOFFNWk9QM2pjXzFJY0lWRkZmX0dVZGVnRTJkWGd5RlNDcXNpMDVIbGVJYi0ybjlWTW1qSGU0U0JaVzZRdjBVMElXa2s1TndnaGw3QlRwZUdyOGZQRjkyUW4wc1d6SQ?oc=5",
-      "fonte": "PlayStation.Blog BR",
-      "data": "2026-11-18T16:04:20.000Z",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnNGOEY2VnVhc3BmcHhxaXUyMkZ0dTJRMlFVRHRIeUp3bUJjQUNmOGdyU0FLUWtzVkI1MnpYZGxHX3p2dDVHcTBadWFDODhRV2dIYjBtNUlyWFZfS0k3UGtBUnZ4UWhyTVljRG5PVTJEWG5DTTMxX0Y2MmRiTUpHSndSUkxZQUNRRC1DdDg5LU5oZjRyVWgzVjc0UEJiZFZQbFZUNWtrTGs3SW81VDUwZ2VkLTJuZw?oc=5",
+      "fonte": "Estadão",
+      "data": "2026-11-18T16:42:06.000Z",
+      "c": "Ofertas",
+      "img": ""
+    },
+    {
+      "t": "Vasalius: Human Error inicia campanha no Kickstarter para Nintendo 64",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtZkx3d0J3QmdmVFczNnczTXhuRjFXTkd5eXZEdkEyQmVWSFBfOUtCaHpjQmVEazhwd1pVU2hiV2s1QmJDVWNsaGxYVUlWNHVQNGNwN21WYWhzZWdMZzR0RVVVY3dRc2llajR2dFpFSWdIZ3Fz?oc=5",
+      "fonte": "Pizza Fria",
+      "data": "2026-11-18T16:32:51.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "GTA 6: veja todos os códigos de trapaça, dicas e cheats do jogo",
+      "d": "Confira com o Flow Games quais são os códigos de trapaça do GTA 6 para deixa a sua vida ainda mais divertida em Leonida",
+      "link": "https://flowgames.gg/gta-6-veja-todos-os-codigos-de-trapaca-dicas-jogo/",
+      "fonte": "Flow Games",
+      "data": "2026-11-18T16:32:34.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/10/HUlUVkGXcAATJrb.jpg"
+    },
+    {
+      "t": "GTA 6 já lançou? Veja onde o jogo está disponível e quando chega ao Brasil",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeEJiM1pJamtMc1dVOGpVWTVzalhiR3N5ZWgzVXVwaTJqWVJXWURrMXFvQnRhaDI5MlFLaGlVY090RVE2b3JpUlJJMUpDWG5qalU3OHNpN1dIdl92aFgyOVMxb19ibjBZNXkxZVRiQWFpSlV6YjlZcnBMTUZBc0lTM25uLTY1YWV2cExpLUpWMHN5RU1qOTd2WWRMODd5anNYYUhjZGgtQWg3WVQ5NTI5ZEttMnY0NDBHa2pOYmtCck9xX21zcm5EWjhOVmhrcmM?oc=5",
+      "fonte": "UOL",
+      "data": "2026-11-18T16:30:00.000Z",
       "c": "Lançamentos",
       "img": ""
     },
     {
-      "t": "‘GTA 6’: Anitta interpreta médica que apresenta podcast sobre sexo",
+      "t": "8BitDo anuncia controle inspirado no GameCube para Nintendo Switch 2",
       "d": "",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTTRETGFWNnpNaWcxMFFodm1vZlVOX1VIbVJZOElZcHlsWkx5ZVQ2VUVncEktZmhPU0FEVnZpSjk5dTdfRkdXMVNlMEhyUHJHTWw5X3E4Z3JJY3hOczZXSHBLYjlSSFhWdVRMdm5raTZGWnpLWFp6a1EzREtlVWNZRG9aNG5Pb2RRSE9ZbElaem0zazNFMUlwdGpmdlRudUgyZ0hKdw?oc=5",
-      "fonte": "Rolling Stone Brasil",
-      "data": "2026-11-18T16:02:36.000Z",
-      "c": "Geral",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZms2d0hBVERMNFFmU2pVZXBXb1BMUmF0RGxHMWpvX0ExamFQaUdPVHdIVHFrc1JfcWY5dXpfRmhWc01wZkUtWHlQM3MxUGpFSVJBM0xURktKZmNYcWxKMmdsaDVwY3hocDQzbl9MQ1A5T1dYQnBtVEFReHRPeVdjSHR5aEpXOTdMZ0o1SUlRcGJqMmtpMUdudA?oc=5",
+      "fonte": "Project N",
+      "data": "2026-11-18T16:23:06.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "GTA 6: portal divulga lista de cheats e códigos para PS5 e Xbox Series X|S",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS0stek4yLTZydG96QTd6aDFncUxyd2lxaHR3UGRNUHZSaTdweUVUWU1jN1VLdmJUQ2NpQ0NGTWtaMk53QjNrbWo0RzN1NkhfY0J2VnpDSnEyM29CZHFGVEt6ZlZ3NEZSNVFTVVZRZ1htR05pb3VHY2JaT0ZmY3pjZC04N2F3RGdSRE0zc3J3Mjk4Q2hkRTJZeHN2dXIycGFIMlhMaWp4MGxqUQ?oc=5",
+      "fonte": "Quero Bolsa",
+      "data": "2026-11-18T16:21:01.000Z",
+      "c": "Consoles",
       "img": ""
     },
     {
@@ -27,33 +63,6 @@
       "data": "2026-11-18T15:57:51.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/2-20261118-124410-0000_pcsy.jpg"
-    },
-    {
-      "t": "Talaka, jogo baseado na mitologia afro-brasileira, é anunciado para o Nintendo Switch 2",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeXk3SlVIQTlRZzVqT3IwUkhUMTIzbWVaXzJZU3BVelN1anMwb2Jva3F3MFJ3Y2dub2k1Q1ZZdG5rRkxlQjh2T2ppZVg2aTd1V0ZFSEZxM0dqeW9aMnN5Z0NQeG1TQnNuaEZQMGRMSTI4R2dKdldQZ2l2NUdra2Z3V2NoN2Z3V2l5LXk4RW1rZUsxTzc3MkhyREFWM3hBR1lwU0ZJRDk2WFhmRXpkRkhV?oc=5",
-      "fonte": "Project N",
-      "data": "2026-11-18T15:55:42.000Z",
-      "c": "Consoles",
-      "img": ""
-    },
-    {
-      "t": "CHEGOU! TESTANDO GTA VI NO XBOX SERIES S COM FSR 4.1! CALOU GERAL!!!",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWEd4YWpJRHBJNDhwakk0cjZHSTZDVVFRZDAxX2NidzduQkktRlM2Rm5WdWl1NGhLa2pZWWJ2cC1VekVONS05UU1WaUpOSWRCbW9PaXJ2Tm5CMlM1TTlRbS12NFNZWlVQeUp3eDlvQnNSUDRnNk16bU5RbE9PUVdmNzdTemtlNE5kSVc5LXpKVGU?oc=5",
-      "fonte": "Xboxers",
-      "data": "2026-11-18T15:53:27.000Z",
-      "c": "PC",
-      "img": ""
-    },
-    {
-      "t": "GTA 6 redefine a geração atual, decreta Digital Foundry",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSDNZZV9PUFB1Nkp6dlRWVlZKbDFaRHVHelp6bWRiejFVbnhQVHo1MEhFTzNGQWVQRnpWREpMeWRKS3Q3Y01GRnlNZnZLbjU0Smo2cUhOc0p5empXVDdSd0VfUmV0YXpZb3BQNXFnengtLXhVQnRpVHMzV0t3dWlfd2JONjFKdmZYR21NeUtQWFp6N0pfV2c?oc=5",
-      "fonte": "Adrenaline",
-      "data": "2026-11-18T15:52:00.000Z",
-      "c": "Geral",
-      "img": ""
     },
     {
       "t": "GTA 6 retorna com os códigos e trapaças; saiba como elas funcionam",
@@ -252,15 +261,6 @@
       "data": "2026-11-18T11:33:00.000Z",
       "c": "Geral",
       "img": ""
-    },
-    {
-      "t": "GTA 6: quanto tempo leva para zerar o jogo?",
-      "d": "O Flow Games conta exatamente, sem contar spoilers, quanto tempo leva para zerar o GTA 6. Confira!",
-      "link": "https://flowgames.gg/gta-6-quanto-tempo-leva-para-zerar-o-jogo/",
-      "fonte": "Flow Games",
-      "data": "2026-11-18T11:30:58.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-37.jpg"
     },
     {
       "t": "GTA 6 usa história de amor para entregar o ápice da Rockstar no mundo dos games",
