@@ -1,50 +1,77 @@
 {
-  "atualizadoEm": "2026-11-18T14:15:03.375Z",
+  "atualizadoEm": "2026-11-18T14:45:12.856Z",
   "noticias": [
     {
-      "t": "GTA 6 chega aos consoles nesta quinta-feira; veja horário, preços e plataformas",
+      "t": "Do PlayStation 2 às quebradas de São Paulo: como GTA se tornou parte da cultura das periferias brasileiras",
       "d": "",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU2ZkRmVVS3gtamYzUHlEU2FtSVprMDdoZ0NxZFp6UGNDZHJNUGpCbFR2a2REb0xHV3kxa1kzZjhLSWxaUXNPU0pBUG9lNkJYc0N2WmVJc0I3Wnk4OW8tLXhUajV4VjhlRDNjR1FaQzMxRzFYWHpNNkRDYV9GN096MnlzbWdYQi1oSkxGQWRON2F4TjNqMm1tTUhjWlZPYTZ3YnQ3dnNVNA?oc=5",
-      "fonte": "Jornal Brasília Capital",
-      "data": "2026-11-18T14:09:00.000Z",
-      "c": "Lançamentos",
-      "img": ""
-    },
-    {
-      "t": "Lançamento de 'GTA 6' aquece varejo e empresas dão folgas para funcionários",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaDN3Z3lmdjJKc2ZVbmVpNWVselpCY2Z3UHZhdGxqWlNvTWV0bGp0aXlqbEV2c2s0ZkRMVG1IWUxzcUF5SXU1MDN5SDlreDlMWUFoNVBCLUhfT3NtQzg5QVpQcEx6U2hRME13RHZFT1RJWVppd1lGa3g5UEZNUDEyUElFNUw2QzNiR0RTQnJJZUIxaldXdjFSQW9CcG9QcGVlcE5pZTRpbzhqRlFUbnFCd2hpVks1dGFyZ0M0VEo2ekdXc3N1YXhzZQ?oc=5",
-      "fonte": "Folha de S.Paulo",
-      "data": "2026-11-18T13:58:00.000Z",
-      "c": "Lançamentos",
-      "img": ""
-    },
-    {
-      "t": "GTA 6 roda a 1440p upscale para 4K no PS5 e Xbox Series X usando TAA próprio da Rockstar",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY1l0N3ZrMnhTQ3dScjJUVjdRY1hEYVQxc1huWEh5dDhxZlJLNU9NMTVvM1U2d1lFdkd0YU9mYnF5SnFYYXhfWnloZGVVX2xsRl9yeXNvb2E4bzRXZXdkeWh1ZWJTNW1FemR2blV6YkFqNTJ4YjVJd2VJcWYtRVhUek1QaElTNGNxR3Bnd3kydEJOdlFSeXVNZk1ZNklob1dsTi1FczFDLW5LTlVwS2h4V2ZNdkU1ZnBESWJQQ1dINzhBYzJfX0ZZ?oc=5",
-      "fonte": "Gamer Point",
-      "data": "2026-11-18T13:54:54.000Z",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcE5GRWw3UTJnQ0dYSDUtT1pXQ2JIQlUyakRTa3NzSW1BQnJHUjhmMzViUXBjeUFuS2ctbmJSNjExSGJYMklCVDhGdkZ2ZU9uZlh2QUR1Q3dhdkYtMGcxbWhXRklhaXFUT3pyN2pGTDQtdDVyT2RHaTdwdDUwamsyMzJ3VXFfa2VMWmZwdlNpeVZoZlNPZm5fckpGRW5kYXNHcmpvUGxBdkVCcko1Z3BjUl9FaGZZQmJxRUZOUDh4UlB2TDBCN3JReERZMVdqRXM?oc=5",
+      "fonte": "Espaço do Povo",
+      "data": "2026-11-18T14:39:26.000Z",
       "c": "Consoles",
       "img": ""
     },
     {
-      "t": "GTA 6 chega amanhã; tudo o que você precisa saber sobre o lançamento do jogo",
+      "t": "GTA 6 usa o AMD FSR 4 para rodar no Xbox Series S com Ray Tracing",
       "d": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEZjUk9HQzNEMjJtWHRkSDU0eG9KdkdKRlk1bXk3emR4NVQxWEd1VXA0R0xfSDJkOVB0azBTdXN6S0xnWS03am9JdXA4M19KS1ZUSU9iNFN4Sk5zZG1mbFhqMDU5dFVFZEFYNDNXb041RkszT3hTZ2d2OHFlbXFlZlJtdUZNbjExa0pQc1NJSTFQcWxhWFYzSkllYkdrYlVhV3BvMTVrVmhUV0trN05KVjdn?oc=5",
-      "fonte": "Fast Company Brasil",
-      "data": "2026-11-18T13:51:52.000Z",
-      "c": "Lançamentos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONmFuZXNjWUcxanc0S1Z4cjdjankza0xYU0dFb08wUEVQSjd2WTJJcDhNZV9WM0gyVEFEeWliZU81TFh6dzQ4RUZGbGxid3ZyV0oxQjhySDhtVW1qZkoxLVB6Y2FQd0x6bGVLOVNpcUZlZ0Qzbmk0OG5xSFpPaFRnODl6ZmY2N0ZwbTdEclZ5azl1QU92NVdnWl8ybmNDVklfRDc2QQ?oc=5",
+      "fonte": "Adrenaline",
+      "data": "2026-11-18T14:37:00.000Z",
+      "c": "PC",
       "img": ""
     },
     {
-      "t": "GTA 6: pré-venda já soma US$ 1,54 bi antes de estreia",
+      "t": "Vai dar para jogar GTA 6 no PC? O que a Rockstar confirmou até agora",
       "d": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY1hXN0pBbFNYRlh4YzhxWmJlT192VkNheGtsZzZyNWFOQ0tDWm9RSjVaV24ySEc0VnExNnN6MFZUOXlCX1BVVW1ibnZlSUt0REl1cEpuUDlmWWFVdTlGTVczTkY5anJTZG5DTHF6Um5rVkxXUy12WUs3b2xFSkF5ZURrbjdGdTVUb0hqaFVuZnctTDI4aHJxX3o5N2pnZw?oc=5",
-      "fonte": "BPMoney",
-      "data": "2026-11-18T13:41:49.000Z",
-      "c": "Geral",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZExENTFackJuMzZmdzh5Y1YwWWt3Vk9Zd0RDZU5TWk1LdjVMOWphRG4wZkg4YlhHOGNjWnJHX2ZNUk00czBZR0RpQ3JrazZvRkcyTUYyOElSQUtDUzc1VmhyU2x2cHlUV2dreHVVWFlIYTlDeGxibER1WjdBdkZDRFBaT0RJdHhMdTFDY3NxdlpGVmw3?oc=5",
+      "fonte": "Exame",
+      "data": "2026-11-18T14:26:29.000Z",
+      "c": "PC",
       "img": ""
+    },
+    {
+      "t": "Todos os cheats e códigos de GTA 6 para PS5 e Xbox Series S|X! Confira lista e como usar",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/todos-os-cheats-e-codigos-de-gta-6-para-ps5-e-xbox-series-sx-confira-lista-e-como-usar/",
+      "fonte": "TecMundo",
+      "data": "2026-11-18T14:25:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/LTNHZ37GYJA6PHYW3FUMT4W7IU.jpg?quality=80&auth=5c5befa13526ee29ecf5aa113c85e7bba62154a1170d2d8f252a7cff83eb36fa&width=710"
+    },
+    {
+      "t": "GTA 6 chega nesta quinta-feira (19): confira os consoles confirmados e como jogar no Xbox One",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSTlfZXdTbGJhbHRTSWdRQU5kS2xBc2l3ejFSZGlMMmo2Tkh4dld1QklLSWptVVVTbDFSVXotckhSbnUxY1hHMmtjeEswQnhPS3J3Wjk2MVB5SEJHLUlES1dWdHpMcm04Z182dWNTTTQ0SXFqY2VVUXk2NmdwQnhsbEdTZ1Q3MG0wXzRwbzVReFJoM1ZxWUU0Y0p2S3IxV0dNUWNSbFRlMzJYRXdobzBtSFJyZ0F5ek5UY1VRMzZlV1Q4amV0TkNEOUItbVByZkN0QWEwTDhldjRmMm9uVXpyeXdFY1o?oc=5",
+      "fonte": "O Imparcial",
+      "data": "2026-11-18T14:21:00.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "GTA 6: membros do GTA+ ganham benefícios opcionais no jogo",
+      "d": "Benefício de GTA+ concede veículo, descontos em lojas e mais em GTA 6",
+      "link": "https://flowgames.gg/gta-6-membros-do-gta-ganham-beneficios-opcionais/",
+      "fonte": "Flow Games",
+      "data": "2026-11-18T14:19:16.000Z",
+      "c": "Ofertas",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-21.jpg"
+    },
+    {
+      "t": "Vale a pena comprar a edição Ultimate de GTA 6?",
+      "d": "A pergunta de 100 reais, respondida",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157740/vale-a-pena-comprar-a-edicao-ultimate-de-gta-6",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-18T14:13:18.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6-how-/gta-6-how-the-ultimate-edition-content-works_mw7b.jpg"
+    },
+    {
+      "t": "GTA 6: a cobertura completa do Flow Games!",
+      "d": "Confira a lista com todas as dezenas de matérias do Flow Games sobre GTA 6",
+      "link": "https://flowgames.gg/gta-6-tudo-sobre-o-jogo-ps5-xbox-series/",
+      "fonte": "Flow Games",
+      "data": "2026-11-18T13:59:44.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-24.jpg"
     },
     {
       "t": "GTA 6: lista de atividades secundárias para fazer em Leonida",
@@ -102,7 +129,7 @@
     },
     {
       "t": "Quanto tempo leva para terminar GTA 6?",
-      "d": "Espere boas horas de jogatina Falta pouco para que milhares dde jogadores ao redor do mundo possam andar pelas ruas de Vice City e o condado de Leonida, mas quanto tempo exatamente você ficará...",
+      "d": "Espere boas horas de jogatina Falta pouco para que milhares de jogadores ao redor do mundo possam andar pelas ruas de Vice City e o condado de Leonida, mas quanto tempo exatamente você ficará...",
       "link": "https://br.ign.com/grand-theft-auto-vi/157741/quanto-tempo-leva-para-terminar-gta-6",
       "fonte": "IGN Brasil",
       "data": "2026-11-18T12:25:05.000Z",
@@ -164,6 +191,15 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/jason-and-lucia-13_py1c.jpg"
     },
     {
+      "t": "É o jogo do ano? Confira as notas de GTA 6 pela imprensa mundial",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMkltaG5ITVpWT0dtb0dPZkRqeFdKY1FWcFk4ajZkenJ2R1NqWndGUXJxbVNJSy1mT0x4bExPRXBYYzhWb1czLWs5NVdHd3pYV3B1VGgxaWhxNnZJSU5kV0p2R2tiSXhHU1NTWklod1Y2V01Sbjh5b1NXcnkwaGxjMDF2aVllYmtJbFNuMkFidXk5Qjg1RFJoZjV3M2pnU2o1MGc?oc=5",
+      "fonte": "Adrenaline",
+      "data": "2026-11-18T11:33:00.000Z",
+      "c": "Geral",
+      "img": ""
+    },
+    {
       "t": "GTA 6: quanto tempo leva para zerar o jogo?",
       "d": "O Flow Games conta exatamente, sem contar spoilers, quanto tempo leva para zerar o GTA 6. Confira!",
       "link": "https://flowgames.gg/gta-6-quanto-tempo-leva-para-zerar-o-jogo/",
@@ -198,15 +234,6 @@
       "data": "2026-11-18T11:00:34.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_rhtm.jpg"
-    },
-    {
-      "t": "GTA 6 é o jogo mais pessoal da franquia e demonstra que o absurdo é pouco para a Rockstar",
-      "d": "Uma bela história de amor em um mundo muito mais do que imersivo",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157712/gta-6-e-o-jogo-mais-pessoal-da-franquia-e-demonstra-que-o-absurdo-e-pouco-para-a-rockstar",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-18T11:00:12.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/g/gta-6-caus/gta-6-causes-17-spike-in-time-off-requests-on-games-release_xcwx.jpg"
     },
     {
       "t": "GTA 6 usa história de amor para entregar o ápice da Rockstar no mundo dos games",
@@ -245,33 +272,6 @@
       "data": "2026-11-17T22:30:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/AH3P7T2LBNK67BMAF74RGUBWOI.jpg?quality=80&auth=d41c38e49128439b379ea4f5a29a74b4b37a40872dd427de751da54451574e40&width=710"
-    },
-    {
-      "t": "GTA 6: a cobertura completa do Flow Games!",
-      "d": "Confira a lista com todas as dezenas de matérias do Flow Games sobre GTA 6",
-      "link": "https://flowgames.gg/gta-6-tudo-sobre-o-jogo-ps5-xbox-series/",
-      "fonte": "Flow Games",
-      "data": "2026-11-17T21:31:44.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-24.jpg"
-    },
-    {
-      "t": "25 anos de Xbox: como a Microsoft transformou para sempre a indústria dos games",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/25-anos-de-xbox-como-a-microsoft-transformou-para-sempre-a-industria-dos-games/",
-      "fonte": "TecMundo",
-      "data": "2026-11-17T21:00:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/CC2S5MZGG5HEBK2I3Z3JLQW3AE.jpeg?quality=80&auth=a992e65a53dda1bf232b941db61e807964e1b0fb283d46935ed9992c9f330921&width=710"
-    },
-    {
-      "t": "PS Plus perderá Granblue Fantasy: Relink e mais 5 jogos em dezembro",
-      "d": "Confira a lista dos jogos que serão removidos da PS Plus em dezembro",
-      "link": "https://flowgames.gg/ps-plus-perdera-mais-6-jogos-em-dezembro/",
-      "fonte": "Flow Games",
-      "data": "2026-11-17T20:20:40.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/04/psplus_black.jpg"
     }
   ],
   "videos": [
