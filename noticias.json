@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-18T23:06:35.019Z",
+  "atualizadoEm": "2026-11-18T23:36:46.585Z",
   "noticias": [
+    {
+      "t": "Jogos de PC em oferta por menos de R$ 15 na Black Friday da Epic Games",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-por-menos-de-r-15-na-black-friday-da-epic-games/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-18T23:14:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2024/03/need_for-speed-heat.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3JuNE9sZmdfZWRUa29pWnFNSDUxQTJVZlBXUW91Q3YxN0tiVF9lTnFFMUUtaXlXdDhOY0xZMHBlSHJESThkdTI5SlBBR3NNdGhOMWdJaTdnUnhsbTJhdzVyZjQ1ZzlvX0ROS3BjcmpnQWZIX2R6OEtYelJpdC10bGx5c3h2WWNLTjM5Q1gycnlmblFzMVQ1MkxOWGNPYW9IXzd1d3k0LWd5QkQzWFV6RjdBUHpLQQ?oc=5"
+    },
     {
       "t": "Quanto custa produzir GTA 6? Os números por trás do maior lançamento da história dos games",
       "d": "",
@@ -39,16 +49,6 @@
       "c": "Consoles",
       "img": "https://cdn.ome.lt/aRAo9sYWSCpuevYLPf5gO9hOuaI=/1200x630/smart/filters:format(webp)/extras/conteudos/CGIVO6KO25ATTAK6YAQ5HJQW34.webp",
       "orig": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQelRYdUF6UW9pX3ljMHB5dmJ5OEVRT243NlM2OTh4T3FIODU4M29qaXd0UnYzb05XeEhqWVpWaG95T3pjMnpoLTJCVjNTZ3Q3M3FnbWxTX1BjV3lMNjJfNzl4N21RQXE5YlZKcHVGc08yTkNoMmJjb3hjamNuakhZdGtyZEoxdTN5RGxtYjNBUTdtTVhmVXc?oc=5"
-    },
-    {
-      "t": "GTA 6 usa história de amor para entregar o ápice da Rockstar no mundo dos games",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-e-o-apice-de-30-anos-de-evolucao-da-rockstar-no-mundo-dos-games/",
-      "fonte": "Estadão",
-      "data": "2026-11-18T22:04:04.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/BIXOM3IIQREZ5LE5XM7PYS2S5A.jpg?quality=80&auth=9f8f905f1288deb615794683b2b128bfd83dc88b312ed8e04eb127a4a0e25ba2&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa1FLS1pKM2hsYXhQbHJmT3JTdGhQZXFEWXcxQWlzd1dhUmFxNGRCQ1p1bVZ0RHZNazNzUjZDNHpRNnNOeE9ZZUhXaDZOU3FMdTR3Q1FsLVdLLUdUSldVbGVFalIyaWxSZ0U3QzRqT0w2bDNRa0VvcDg0NVloekNONmRSclloM3RiLUJQNkhVam1JODNrNUJRVXEwUVN0ZHo0b0hvTTNZSVpVVk90bUdUMkVR0gG3AUFVX3lxTE1FZ0I4Mk9hWnZ1Yjl5RVdaZF9TVV9UekFlX0J5VUJrQ19wT2FUbGpCWTdWc3RqMXZ4X2NXUTdYejZSSnAyejFvekMwWENxWkZZNVRKR1VVajlQNkZRbDdidEMwbElQSE42bzh1dUxhbldxZEg5dDhwU2FObUU2TC0wVkJoNW5hT3VGZ0xaU2ZyekI3WEdYb2Q0VzFFQ2hLZVZST29BanhMZXZiS0tBa3JsSmc3WW84TQ?oc=5"
     },
     {
       "t": "🎮 UM TAJ MAHAL DOS GAMES | 'GTA VI' conta com um dos enredos mais maduros da franquia. Protagonizada pelo casal de criminosos Jason Duval e Lucia Caminos –em interpretação fabulosa de Manni L. Perez–, a história conta com personagens intere",
@@ -444,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20464,
+      "views": 20467,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -937,7 +937,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gem.jpg",
-      "hype": 20,
+      "hype": 19,
       "link": "https://www.igdb.com/games/edge-of-memories"
     },
     {
