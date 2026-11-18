@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-18T01:29:46.950Z",
+  "atualizadoEm": "2026-11-18T01:59:56.110Z",
   "noticias": [
     {
       "t": "IFCE oferta 500 vagas em curso de games com bolsa de R$ 700",
@@ -294,7 +294,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8310,
+      "views": 8311,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -430,7 +430,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6742,
+      "views": 6745,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -544,6 +544,16 @@
       "link": "https://www.igdb.com/games/lord-of-undead"
     },
     {
+      "t": "Salt of the Earth",
+      "data": "2026-11-19",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocv2q.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/salt-of-the-earth--1"
+    },
+    {
       "t": "Goat Simulator 3: Ticket to Dizzyworld",
       "data": "2026-11-19",
       "plats": [
@@ -565,6 +575,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod8mx.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/iconyx"
+    },
+    {
+      "t": "Resequence: The Orchard",
+      "data": "2026-11-20",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawjl.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/resequence-the-orchard"
     },
     {
       "t": "Light of Atlantis",
@@ -2823,7 +2843,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co933b.jpg",
-      "hype": 2,
+      "hype": 1,
       "link": "https://www.igdb.com/games/junxions"
     },
     {
@@ -4647,26 +4667,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapog.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/cairn-stone-towers"
-    },
-    {
-      "t": "Plantverk: Perfectly Plantastic Plant Simulator",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauc6.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/plantverk-perfectly-plantastic-plant-simulator"
-    },
-    {
-      "t": "Project Sara",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapw8.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/project-sara"
     }
   ],
   "musicas": []
