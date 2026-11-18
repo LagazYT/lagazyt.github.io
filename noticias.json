@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-18T02:30:05.239Z",
+  "atualizadoEm": "2026-11-18T03:00:16.523Z",
   "noticias": [
+    {
+      "t": "PS5 registra 100 milhões de vendas com títulos marcantes e expectativas em cima do GTA 6",
+      "d": "",
+      "link": "https://timesbrasil.com.br/empresas-e-negocios/tecnologia-e-inovacao/playstation-alcanca-marca-historica-apos-seis-anos-de-lancamento/",
+      "fonte": "Times Brasil | CNBC",
+      "data": "2026-11-18T02:30:00.000Z",
+      "c": "Consoles",
+      "img": "https://storage.googleapis.com/bucket.timesbrasil.com.br/sites/2026/11/3c7d28cb-ps5-registra-100-milhoes-de-vendas-com-titulos-marcantes-e-expectativas-em-cima-do-gta-6.webp",
+      "orig": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMTVybDlrOU1QVndwNC02ZFpkMnRPNkNjT0lFX3dXTTNrLV8yQ0xhenhDSXp5MkFJaENzNzZib0VuSUdfbkxvemFrOEhiTlg0RDQ0Vy05R0J2WWNjdkJHeGYyQUFVY3BIcnJOY0hnSnV6LXotRU11djFDamozZ0xkVm5QT1VuNmV0cTRrQkVMS09IZlBGa3Zzc01yYzcxeXZ4MXAwUHJVaGp1MGZadnBpY0p6WnFseERwVjFwZDRhT1F2b2hrNmhnTUVQTTQ0Rkk?oc=5"
+    },
     {
       "t": "IFCE oferta 500 vagas em curso de games com bolsa de R$ 700",
       "d": "",
@@ -40,16 +50,6 @@
       "c": "Eventos",
       "img": "https://espacodopovo.com.br/wp-content/uploads/2026/11/capa-game-awards.jpg",
       "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81MDc1T1k4YzdIRzBQck12SURBSlpQSzF4UXptSDYwNnk2V2VDUmNTRUhLR01iLU8wMlpFaG5kdno4TWE2bzVmajIzT1JMcUtSNzBrN3VaNTUyUTVJR1dZUEJ4RDQxSmRGUV9tcllVMXRCVy0xSE1OeF9ldnA?oc=5"
-    },
-    {
-      "t": "Conheça os jogos independentes que movimentaram o Bairro do Recife durante o Rec’n’Play",
-      "d": "",
-      "link": "https://www.diariodepernambuco.com.br/tecnologia/2026/11/11729394-conheca-os-jogos-independentes-que-movimentaram-o-bairro-do-recife-durante-o-rec-n-play.html",
-      "fonte": "Diario de Pernambuco",
-      "data": "2026-11-17T23:38:00.000Z",
-      "c": "Geral",
-      "img": "https://www.diariodepernambuco.com.br/_midias/jpg/2026/11/17/600x400/1_whatsapp_image_2026_11_13_at_18_23_15-995351.jpeg?20261117203807?20261117203807",
-      "orig": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRlFXQTYzb1czZXRuMnl5ZVRlMTZzVl9wSmloSGVvNldOSHhyU0I1SVV6dzdJNWUtQUZGR2FZRUkyRDBUczVZTUcwWDRMcUZYYTJybHNZNmRBRjIydU5rT2YzbnZ6RloyNTN3R2k1bEU1dWhVZ1FrREdLNzZBT0s3UDBsTk5BZU5tS3lMMFlMUFN5T3JHMmZyVWJoMkdKc1ZIc3BkUERIT3YzOXpyNXNJb0FLUkpfYnNGR1VwaEMycWlCTWpSX2NqaXA1eEZuczFaQV82dzVBNmNWSXRIaVhGZXN6RHhQNU5RNUhkQUZJZw?oc=5"
     },
     {
       "t": "4 itens de Pokémon que todo treinador vai querer na estante com até 57% de desconto",
@@ -294,7 +294,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8310,
+      "views": 8313,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -430,7 +430,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6742,
+      "views": 6745,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -446,7 +446,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20456,
+      "views": 20461,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
