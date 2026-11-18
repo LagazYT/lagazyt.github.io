@@ -1,50 +1,59 @@
 {
-  "atualizadoEm": "2026-11-18T17:15:57.304Z",
+  "atualizadoEm": "2026-11-18T17:46:07.375Z",
   "noticias": [
+    {
+      "t": "Como o XBOX Series S roda GTA 6? Rockstar usa AMD FSR 4 inédito e mantém Ray Tracing",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXhtQ1pJTkJxSkxTYU1YVkJzUDc3UlJyemp2VWo5ZDUwUEJUaUtLRGRrMHBxSlhEMzBsbXNwRFMzMkZuNXJLN1VTeDNDYnBoRjV6TURJS1JLNlFOb0NZMjZDQ1hvUjRoTW9Jc1ZzUTdFQi16VDg3N1FjQkxoa0c0X0JVQXRMWVpmeV9yc0ZxQkZIRDl3SW1OODRma2pZWmhlTFBabUZOb2tYZ0haY19YQ3ZwOUhjdw?oc=5",
+      "fonte": "Canaltech",
+      "data": "2026-11-18T17:41:44.000Z",
+      "c": "PC",
+      "img": ""
+    },
+    {
+      "t": "GTA 6 funciona no PS4 ou Xbox One? Veja quais consoles rodam o novo jogo",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUtvY1BFeS0yd29jc0c2VjVCOGdYLV8yZUJRd3J4S2h6Z0RGYWFQbnhJM1VjSlJIZ1JFSWJFV3NPNVNoTnN1Tkt6Z0tMRmh6NjJudHk4SDlRdkdKelAyWHNBc3FGZXI1Y1BLVC11ZE1GMF9HVWlBWnY4U29NbnQyc0dtMmZ1R1U2LWhIMkNUVUltTHM3Q3hBUmNmTW5fOG9jTkE?oc=5",
+      "fonte": "Espaço do Povo",
+      "data": "2026-11-18T17:40:45.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "O que ‘GTA 6’ mostra sobre o poder dos games na cultura",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeGkyWjZkZzFTdC1IMnVDZDAzcmllTkxUYXBaOVlGQWl0WUM1Rk9JU200S29ZekdLaGg4VDlSYUR5cy1uNXN6dXYxV2dfcEc0UzR2Ty1OOHBNSEJOVVBqcmVKV3Zvai1zSFRLa0xUMjBFSm5uZ0NPd2Y5MlpFNVBtSG1odS15MVFmQ1hKSDk3N19VdmdRYVFWM1ZWOG9sTWc?oc=5",
+      "fonte": "Nexo Jornal",
+      "data": "2026-11-18T17:32:46.000Z",
+      "c": "Geral",
+      "img": ""
+    },
+    {
+      "t": "The Game Awards 2026: veja os jogos indicados a melhor do ano",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0JqaGhjUkktcC01SGY2X1VKa244TVNZNHJkbEhlT2xwVnBYQnlYNDRNMW5rMzR4dkJzOS1aOS1iV0otS2hIdkd5TExUdklDT1lnX0k1RmE1Y3BWMTgtTjhLckt6SEg1WjQzUU9IWlpqMzNlSlkySE1VSFdDdHVnWkRacUdfSlUydUdtX3R3NlM?oc=5",
+      "fonte": "Fast Company Brasil",
+      "data": "2026-11-18T17:32:38.000Z",
+      "c": "Eventos",
+      "img": ""
+    },
+    {
+      "t": "OPINIÃO ✍️ Camila Farani: Enquanto a Rockstar, responsável pelo GTA, aposta em lançamentos escassos e impactantes, a Nintendo foca em tecnologia acessível e personagens icônicos; descubra como essas abordagens moldam o mercado. 🔗 Leia a col",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaV3B6NUlyTDhBZC16dDZiczNXQWJ4d2pPTzhOdENRLWJ2M3JzLVlTb05vNXhZRWEzNGtjakpLb3lFeER2SmJqZWNTYUNIMk84eHc?oc=5",
+      "fonte": "Instagram",
+      "data": "2026-11-18T17:30:22.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
     {
       "t": "GTA 6 tem presença de Anitta e mais brasileiros",
       "d": "Anitta, Sepultura e mais famosos brasileiros brilham em GTA 6",
       "link": "https://flowgames.gg/gta-6-anitta-mais-artistas-brasileiros-descobertos/",
       "fonte": "Flow Games",
-      "data": "2026-11-18T17:15:00.000Z",
+      "data": "2026-11-18T16:51:00.000Z",
       "c": "Geral",
       "img": "https://www.youtube.com/embed/j4Lg8VZ53EE"
-    },
-    {
-      "t": "GTA 6 roda em 720p no XBOX Series S, mas mesmo assim tem queda de desempenho",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDdfRWFYdUJSSDVHbW85aU1ZVklXU2JaVDRLMC1zQm1KSWx6R2dJWU5qc1duQ0V3Q3luYW9CVmY1REFUelFlV3VmX0JUS3lUM1FySk9BOVU3em4xSi1CZWt0bTd2dTRvWHMyZXJnNTE1ZXpxZENxT3JjOU9XeW04VXVsQlZuZEp4RkhfbmlfX0lZeFpra2VGLW50cjgtajA?oc=5",
-      "fonte": "TudoCelular.com",
-      "data": "2026-11-18T17:12:20.000Z",
-      "c": "Consoles",
-      "img": ""
-    },
-    {
-      "t": "Xbox Series S roda GTA 6? Veja o que a Rockstar confirmou",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOTQ3ZjNCYlgwU003ZU9pMk1kUUpQVzdoZTBBc1lRRF90bEh5QlFzMWU0enlmTENOeE9sOGVselh6Qmp2dlVFTW4zTFktcjh3MFZXZmFielZzeVN5VU54OGRpUTlCOHZ4QTFpVk1RcE9RbFg4cEJtMk5TNWdaazNST0FrbHZnRTNKTUJXMTM1RDlqWEhrMGN2RHhIZU1JaFFvNUJIRERVdmRkeW1ibG1JLVBTbDIwbVZZ?oc=5",
-      "fonte": "UOL",
-      "data": "2026-11-18T17:00:00.000Z",
-      "c": "Consoles",
-      "img": ""
-    },
-    {
-      "t": "Jogos de Playstation 5 para ficar de olho na Black Friday",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnNGOEY2VnVhc3BmcHhxaXUyMkZ0dTJRMlFVRHRIeUp3bUJjQUNmOGdyU0FLUWtzVkI1MnpYZGxHX3p2dDVHcTBadWFDODhRV2dIYjBtNUlyWFZfS0k3UGtBUnZ4UWhyTVljRG5PVTJEWG5DTTMxX0Y2MmRiTUpHSndSUkxZQUNRRC1DdDg5LU5oZjRyVWgzVjc0UEJiZFZQbFZUNWtrTGs3SW81VDUwZ2VkLTJuZw?oc=5",
-      "fonte": "Estadão",
-      "data": "2026-11-18T16:42:06.000Z",
-      "c": "Ofertas",
-      "img": ""
-    },
-    {
-      "t": "Vasalius: Human Error inicia campanha no Kickstarter para Nintendo 64",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtZkx3d0J3QmdmVFczNnczTXhuRjFXTkd5eXZEdkEyQmVWSFBfOUtCaHpjQmVEazhwd1pVU2hiV2s1QmJDVWNsaGxYVUlWNHVQNGNwN21WYWhzZWdMZzR0RVVVY3dRc2llajR2dFpFSWdIZ3Fz?oc=5",
-      "fonte": "Pizza Fria",
-      "data": "2026-11-18T16:32:51.000Z",
-      "c": "Consoles",
-      "img": ""
     },
     {
       "t": "GTA 6: veja todos os códigos de trapaça, dicas e cheats do jogo",
@@ -56,13 +65,13 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/10/HUlUVkGXcAATJrb.jpg"
     },
     {
-      "t": "Unicamp terá evento gratuito com games, cinema e atrações culturais; veja a programação",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQzRFLS00dmxZaG9UR0JpMU03R2tCZmJsNUJjaGZIYndGQUdmelVPQ0VpbEx1Wk9HZ2EyVUdLdzFweEJia01HaWVXR1MxRGlBd2JESktVdVdYWU1BWlgtc09zdjhVaWdkUzl6YXpuM05uMExtdGtjNGJWX21EYkZXMGxPVDJtbTlBaFhBQXpDZlpqZmpfc2s5WXZtWlozd2V3OWVadmRWXzFhTWFHTkxwTjg0ak9adk44X0h4Ml9rUVQ2VU9EYUVCMVBaaEhaNm5nRzdj0gHYAUFVX3lxTFB2amhtT0tCU3ZldHptU0lMT1VqS0x0VVFvY1BGRkNjR3BfclVIMDZOQ1U5VEpPRG1qX1RuMm4wQ0E4cWZCaFBzVXlEUUZQVFRMa0hCcEVxdk9GUzc4NDFCeWFhVHVRZjBCcUZUcHhBemJERm5DNTFfTzd6Y29hTV9GU2JBLXFsYUNKRjk4cnJGdWd1Y1dXZnVELTJHbFVfbUlqbnV6dEZkcXJ1RGdicWZBOC03YUp1dEJkSHBLWGRMQXF1OGxuTGRoa3FBN2hTeXQ1OHk1eDZwbg?oc=5",
-      "fonte": "ACidade ON",
-      "data": "2026-11-18T16:32:12.000Z",
-      "c": "Ofertas",
-      "img": ""
+      "t": "Pré-carregamento, horários de lançamento global e tamanho de instalação de GTA 6 são confirmados; Rockstar anuncia pôster com a arte da capa física e mapa de Leonida",
+      "d": "De volta a Vice City!",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157256/pre-carregamento-horarios-de-lancamento-global-e-tamanho-de-instalacao-de-gta-6-sao-confirmados-rock",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-18T16:11:00.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6-prel/gta-6-preload-global-release-times-and-install-size-confirme_rhh7.jpg"
     },
     {
       "t": "Doomscrolling é necessário no GTA 6 se você quiser descobrir tudo que Leonida tem a oferecer",
@@ -243,15 +252,6 @@
       "data": "2026-11-18T12:00:37.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/gallery/g/gta-6-phot/gta-6-photo-mode-gallery_1sww.jpg"
-    },
-    {
-      "t": "Depois de 28 anos, GTA 6 iguala Zelda: Ocarina of Time e se torna o jogo mais bem avaliado da história do Metacritic",
-      "d": "Feito histórico!",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157733/depois-de-28-anos-gta-6-iguala-zelda-ocarina-of-time-e-se-torna-o-jogo-mais-bem-avaliado-da-historia",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-18T11:33:19.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/jason-and-lucia-13_py1c.jpg"
     },
     {
       "t": "É o jogo do ano? Confira as notas de GTA 6 pela imprensa mundial",
