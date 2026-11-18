@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-18T06:02:30.059Z",
+  "atualizadoEm": "2026-11-18T06:32:41.001Z",
   "noticias": [
+    {
+      "t": "GTA 6 chega nesta semana! TecMundo terá lives diárias até a Black Friday com o game",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-chega-nesta-semana-tecmundo-tera-lives-diarias-ate-a-black-friday-com-o-game/",
+      "fonte": "Estadão",
+      "data": "2026-11-18T06:10:48.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/4OUOBD7R2RCYDF5GPBB6MB4TQA.jpg?quality=80&auth=e2ecd155cdc47ae9b552331fc829b88cd660b9224153ea0c444ff6170c742a3f&width=1200&height=630&focal=926,366",
+      "orig": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ2hLQ2o1ckhXdWJRR0tMYzR6T2xhN1FUNmpxY2ZVdDN5RUkwVXBubXFUYUFxVGNPOE9jUkstOVY5ZkdhZzhONVlpOTk4SkJ5TTV6b3dlTWNoYkk5S2lLbW45MU45YnF2N3Z4MFJZNGVReU41QS1JeXZYUV9PcGhqSEhMVGlXZkZGVVh1U0VJWEpyNW1oVVNVMkZVNC1hUHZDN3dRYUxRbF9IQlVoQXB6bVVyWVdabU9tU190YWNYdklCTFnSAcgBQVVfeXFMUDJTS2x2UF9MNk4zMklweERncUJQd0lCS3BUUWZlQUZMeTZINXZTb2xlYk55dTBjclBvb2h6aTVUcjNyRk5ubkkxWFhJZ0F6a3NBNm42ZURqNGJqbEdBTC1zaVJSQk12QjE0c1Z4ZEY1R2N1bDV5N244VnVhOGcwbWZSUm5kSFBKU2lRM0pxVkwzejNpNDZHbXlsN0lTd0t5TUVsOHI2UFlxVGNST1JXREUwWWdROEV5UkwxeEtzTzNndHNYQlNWYnc?oc=5"
+    },
     {
       "t": "GTA VI chega amanhã: veja tudo que você precisa saber sobre o jogo",
       "d": "",
@@ -269,15 +279,6 @@
       "data": "2026-11-17T16:02:16.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/galaxy-fit3-branca-e-grafite-produto-1280x720_fstw.jpg"
-    },
-    {
-      "t": "Fable ganha detalhes do mapa de Bowerstone (que é enorme)",
-      "d": "Revelado como celebração de 25 anos do Xbox, o mapa Bowerstone de Fable é gigantesco",
-      "link": "https://flowgames.gg/fable-ganha-detalhes-mapa-de-bowerstone-que-e-enorme/",
-      "fonte": "Flow Games",
-      "data": "2026-11-17T15:37:10.000Z",
-      "c": "Consoles",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/01/Fable-dedb47fd25b95e9693f6.jpg"
     }
   ],
   "videos": [
@@ -293,7 +294,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8313,
+      "views": 8314,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -421,7 +422,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 4030,
+      "views": 4032,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -445,7 +446,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20461,
+      "views": 20462,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
