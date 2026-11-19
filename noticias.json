@@ -1,55 +1,164 @@
 {
-  "atualizadoEm": "2026-11-19T08:41:26.547Z",
+  "atualizadoEm": "2026-11-19T13:28:20.193Z",
   "noticias": [
     {
-      "t": "GTA VI dispara vendas de consoles e soma R$ 563 mi em 1 mês",
-      "d": "",
-      "link": "https://tvsimbrasil.com.br/brasil/tecnologia/noticia/2026/11/19/gta-vi-dispara-vendas-consoles-brasil-563-milhoes",
-      "fonte": "TV Sim Brasil",
-      "data": "2026-11-19T07:49:31.000Z",
+      "t": "Mouse gamer Logitech G PRO X SUPERLIGHT 2 despenca de preço na Amazon",
+      "d": "Mouse gamer sem fio da Logitech oferece sensor HERO 2 de até 44.000 DPI, tecnologia LIGHTSPEED e design ultraleve de apenas 60 gramas, voltado para quem busca desempenho competitivo",
+      "link": "https://br.ign.com/descontos/157769/mouse-gamer-logitech-g-pro-x-superlight-2-despenca-de-preco-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-19T13:19:07.000Z",
       "c": "Geral",
-      "img": "https://tvsimbrasil.com.br/_next/image?url=https%3A%2F%2Fapi-news.tvsimbrasil.com.br%2Fstorage%2Farticles%2Fab798384-6ad6-49f6-b857-8666880af6b5.webp&w=1200&q=75",
-      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTElsRzk1WmVyUW13d2pBUmZEV0Y0VTlDaWFoYWdWN0ZzclhMTlBGRDJRU3g1RXF5NnNPendfWXlCeFJ3djlSbEFYakwtYXhwclJiejBoWUZEOThqVnlsRm9peUVwc25VV0NxMXpMc0ZuYnJtZzE2WEVndWhidmV0RUplSzRGTFNHMmtpOHd4ZVNiNWdfU2hVWGVodlRfNEQweDlsQVdvb0RFeFJ0TTl1X1dVcw?oc=5"
+      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_wgvt.jpg"
     },
     {
-      "t": "GTA 6 no Xbox One pela nuvem: acesso anunciado",
+      "t": "GTA 6 é o jogo com a melhor avaliação de todos os tempos e o único do século XXI com nota 99",
       "d": "",
-      "link": "https://www.neoteo.com/pt/gta-6-no-xbox-one-pela-nuvem-acesso-anunciado",
-      "fonte": "NeoTeo",
-      "data": "2026-11-19T07:18:33.000Z",
-      "c": "Consoles",
-      "img": "https://www.nitroindex.com/opengraph/www.neoteo.com/og.png?url=https%3A%2F%2Fwww.neoteo.com%2Fpt%2Fgta-6-no-xbox-one-pela-nuvem-acesso-anunciado",
-      "orig": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RWXU2ajNBay1tMUFWeF9HdFp6cmJSR0kwdWs2d0lYdUNMc01ScXJKektaVmw3X1dhcTF3SnljVFNRc1Z5VmVHNGRDd0c2ODZma2hXdC1lemJMSTYyS091MXJKWUxvOHAwZnZ3bDQ5Qnc3MU5jNWJZQTdDOA?oc=5"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-e-o-jogo-com-a-melhor-avaliacao-de-todos-os-tempos-e-o-unico-do-seculo-xxi-com-nota-99/",
+      "fonte": "TecMundo",
+      "data": "2026-11-19T13:18:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/XSHWUWTLSFAFHJASEAFLZGNBWY.jpg?quality=80&auth=1a93431183ea6df2c62295f93e0152ae8b519d4c8355bec30bfbff8509e0424e&width=710"
     },
     {
-      "t": "Procura por consoles cresce no Brasil às vésperas do lançamento de 'GTA 6'",
+      "t": "Estima-se que GTA 6 tenha atingido 20 milhões de pré-vendas antes do lançamento",
+      "d": "Dados indicam que o jogo já ultrapassou 1,6 bilhão de dólares em receita",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157774/estima-se-que-gta-6-tenha-atingido-20-milhoes-de-pre-vendas-antes-do-lancamento",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-19T13:16:30.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/news/g/gta-6-esti/gta-6-estimated-to-have-reached-20-million-preorders-ahead-o_yfta.jpg"
+    },
+    {
+      "t": "Anitta estreia em GTA 6; relembre outras participações da cantora em videogames",
       "d": "",
-      "link": "https://www1.folha.uol.com.br/tec/2026/11/procura-por-consoles-cresce-no-brasil-as-vesperas-do-lancamento-de-gta-6.shtml",
+      "link": "https://gpsbrasilia.com.br/anitta-estreia-em-gta-6-relembre-videogames/",
+      "fonte": "GPS Brasília Portal de Notícias do DF",
+      "data": "2026-11-19T13:15:03.000Z",
+      "c": "Geral",
+      "img": "https://gpsbrasilia.com.br/wp-content/uploads/2026/11/gps-brasilia-entretenimento-anitta.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QekFkVmNqYTdYbERxZk5Ua0hzMk1Nd1pIUTNpdHg4NWd2QzRtc2tYUmd1UkpyaUF1aTgyUnY1aWI2N2d0V2c1aTlxdWdHRERoc2NZOVFrcy04cjNFTnEyOGVPaDF1M3dySFF5UndCMjhFUzFFUm5HMC1TMA?oc=5"
+    },
+    {
+      "t": "Vendas no Japão | 09/Nov a 15/Nov – Zelda: Ocarina of Time permanece na liderança, mais",
+      "d": "",
+      "link": "https://universonintendo.com/vendas-no-japao-09-nov-a-15-nov-zelda-ocarina-of-time-permanece-na-lideranca-mais/",
+      "fonte": "Universo Nintendo",
+      "data": "2026-11-19T13:11:16.000Z",
+      "c": "Geral",
+      "img": "https://universonintendo.com/wp-content/uploads/2026/10/Zelda-Ocarina-of-Time-ALT-1.png",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdnhVb2NMV251emNMOG1qby1yczdPLTF5d0VfNDlldmNlZWdPSXZVVF9XSm1DUjNrcmpIR3hMQ285bTd5REZGRkVrQThuZENVNUs3NnlnQnAyVDhUWUs5enpMS0ViNFlwWnB6WURNOTNjdFo2RTd4LS0yaVE4ZnVMbGpZWTVXQjBlNXh5SHN2XzBDZnJGTWdhaV9aZG9zM3ExcjVyX3ZqUUZPQmlMZ21JUQ?oc=5"
+    },
+    {
+      "t": "Modders conseguem aplicar DLSS 5 em GTA 6 usando Remote Play do PS5",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/modders-conseguem-aplicar-dlss-5-em-gta-6-usando-remote-play-do-ps5/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-19T13:08:00.000Z",
+      "c": "PC",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/28-gta-vi-no-pc.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdlpzZlBndGh3T0NnTzNmWmk4TGVFMkkzMEhaMkpyNzM1RktIaWotOHg3VkhqNjRPeV91NmZ0Sk5aeE1rMTZQM3ZkMkRqR0FzLWVWdzVUM0dHRHpFcFY1aEd4TnFxaGwyZ3ZCNENDUWstQTJnVFV4dWhEdEJUc1BmLWg0WEVuVS1Va3JISGxNdDVva1Y5ZGlDUUR4V2djakl1R1MzeXlLcw?oc=5"
+    },
+    {
+      "t": "GTA 6 estreia com nota histórica, recorde de audiência e problemas na PSN",
+      "d": "",
+      "link": "https://fastcompanybrasil.com/games/gta-6-estreia-nota-historica-recorde-audiencia-problemas-psn/",
+      "fonte": "Fast Company Brasil",
+      "data": "2026-11-19T13:07:51.000Z",
+      "c": "Geral",
+      "img": "https://fastcompanybrasil.com/wp-content/uploads/2026/11/gta-estreia.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnByRG1zMnBMRGYxZDBZLURKVmFNX3BvbTdSdHc1a0ZQUXluU2RKTzRKU2lKUF9ubU5CQm56OGdSRDA4QW5Lc0I1Yjd1MXNYdUl0OWx3OFI4NzEtS0Y2aHlLQzA0dnZwNEJiVDA2VlNQM05hdU03M1FzSXVNQ2tSbjlXSnVaMVhaS01nQ1hNVEJCenNkNXBWcmZ1aHpOUQ?oc=5"
+    },
+    {
+      "t": "Com custo bilionário, GTA VI supera Hollywood como maior lançamento do ano",
+      "d": "",
+      "link": "https://www.cnnbrasil.com.br/economia/money/negocios/com-custo-bilionario-gta-vi-supera-hollywood-como-maior-lancamento-do-ano/",
+      "fonte": "CNN Brasil",
+      "data": "2026-11-19T13:01:43.000Z",
+      "c": "Lançamentos",
+      "img": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Imagem-mostra-capa-oficial-do-GTA-VI.jpg?w=1200&h=630&crop=1",
+      "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcTZ2R0VrN0c5NVBkTHFpMGliR3Z6Z0dSc0xMSlo3SDFEa3oyaVFTUUx1bkNJYnQ1S3ZLMlBVZDJVbTgtSjNqZFlJMmdpYi1oc2xWNjFyWE1OQXQzalZ5QUpJTFd2Y2kwYXFvV0ItLTVPV0dmRi1GTXVNM3BxR24zMDlMeFU0ZFJEUGN5U0hZRTZrMlNVaXg4RzVibjQwUmFYMFVvU1d6V3VxTWhRcjd4N0EtQTBQc0trWW1hNG9oTjVaMnhMd1E?oc=5"
+    },
+    {
+      "t": "'GTA 6' supera recordes com 17 mi de unidades vendidas e US$ 1,5 bi arrecadado",
+      "d": "",
+      "link": "https://www1.folha.uol.com.br/tec/2026/11/gta-6-supera-recordes-com-17-mi-de-unidades-vendidas-e-us-15-bi-arrecadado.shtml",
       "fonte": "Folha de S.Paulo",
-      "data": "2026-11-19T07:00:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://f.i.uol.com.br/fotografia/2026/11/17/17949549276afcd6af5b6bf_1794954927_3x2_rt.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVTd3VkEtSjRRbURMX1ZVc3Frcmh3YVdZdEpRSm8xMXEzek9fVzNfT3A0N0dXejlqdl9xcG4zWjV1cnJ6SVJNZVZvNjB0T2NiQ25kaXNpQzJLZ1hyYVQtWkw3cXN4WkRjSDUtZjJrSUpGLURXU3hfSk9kN0UtY3hvemNERndMWkVBTmJpZm1iLVhrTkhISVlHLVNVZzJLTUkxbVVRTEhtUFZLOFhhcE84Vmxkd01EMG91ODF6dw?oc=5"
+      "data": "2026-11-19T13:01:00.000Z",
+      "c": "Geral",
+      "img": "https://f.i.uol.com.br/fotografia/2026/11/19/17950915976afeec8db9767_1795091597_3x2_rt.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX0g1Y2tsWEtEZk1CdkhhS01DVjBUU21CX0ozUDl2bTRpZGZfUEhINEdadG9xT2NIdHZFOUtZVHBDUUxXRGF5LUU5bTVjeld5c2dRc21SYkUtVnZyRmgtS3c4NmNndHFuQVFKZlFNRWx0QWk4dGdDc0U5c3c0amNmQVA1RmR0NWY1NjVIbGh2VzJqdWQ4Uk43VFd2cm42bUpaMlhvamxuWmNmaldLSGVlTjZ1aWxxZ2VYRXliNmFnSQ?oc=5"
     },
     {
-      "t": "GTA 6 chega ao Brasil por R$ 449,90 após 13 anos de espera",
-      "d": "",
-      "link": "https://tvsimbrasil.com.br/brasil/tecnologia/noticia/2026/11/19/gta-6-chega-ao-brasil-449-90-apos-13-anos-espera",
-      "fonte": "TV Sim Brasil",
-      "data": "2026-11-19T05:36:11.000Z",
-      "c": "Lançamentos",
-      "img": "https://tvsimbrasil.com.br/_next/image?url=https%3A%2F%2Fapi-news.tvsimbrasil.com.br%2Fstorage%2Farticles%2F361782df-97ec-4148-bc66-55885497a9b7.webp&w=1200&q=75",
-      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVHhSUk1QYWZsVVJOS0ROYnctSFVYb29DRi0zcU9CTTVEN1d0ajUwTEFtNUVPRks1MjdLRHFLM2pWWVFTWG1ocG1fWE5vN1dXTmxjVHpfcGFpeXd2bUo2MzU0TEo1RUc2bUZvM21TR3JCSzgwSXliRmJVSURGZVRmS2RGU0R3NkFrWV84bHpBMkxidnoyd18xamVvTEI3TUJqX29SRmRFUkdYdnVYaldYZnJR?oc=5"
+      "t": "GTA 6: PlayStation 5 Pro não aguenta o jogo com 60 FPS",
+      "d": "A Rockstar Games confirmou que o PlayStation 5 Pro não é potente o suficiente para rodar o GTA 6 com 60 FPS",
+      "link": "https://flowgames.gg/gta-6-playstation-5-pro-nao-aguenta-o-jogo-com-60-fps/",
+      "fonte": "Flow Games",
+      "data": "2026-11-19T12:48:24.000Z",
+      "c": "PC",
+      "img": "https://www.youtube.com/embed/qsBU0bcpONA"
     },
     {
-      "t": "PlayStation Network apresenta problemas de acesso em diferentes países durante o início do lançamento internacional de GTA VI.",
+      "t": "O Pé-Grande está de volta em GTA 6 (e ele fede)",
+      "d": "Bem, pelo menos ele fede dentro do jogo, mas eu não gostaria de imaginar esse cheiro Uma lenda na franquia GTA , o Pé-Grande esteve presente desde San Andreas, quando rumores de que a criatura...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157768/o-pe-grande-esta-de-volta-em-gta-6-e-ele-fede",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-19T12:34:41.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/1-1_hjsm.png"
+    },
+    {
+      "t": "LEGO Minecraft custa menos de R$ 50 em oferta de Black Friday na Amazon",
+      "d": "LEGO Minecraft A Batalha de Lava no Nether tem 99 peças, personagens icônicos do game e mecanismo interativo, com 45% de desconto na Amazon",
+      "link": "https://br.ign.com/descontos/157767/lego-minecraft-custa-menos-de-r-50-em-oferta-de-black-friday-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-19T12:16:10.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_31my.jpg"
+    },
+    {
+      "t": "Como ganhar dinheiro em GTA 6?",
+      "d": "Money, money, money Grand Theft Auto 6 finalmente está disponível em todas as partes do mundo. Com a história de Jason e Lucia apenas começando, este casal, a lá Bonnie e Clyde, precisa de uma...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157766/como-ganhar-dinheiro-em-gta-6",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-19T12:06:00.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/photo/default/vice-city-25-1793891731329_wjgy.jpg"
+    },
+    {
+      "t": "O prólogo de GTA 6 pode ser bem diferente dependendo de suas ações",
+      "d": "É possível brigar com a Lei, mas ela sempre tem um jeito de retornar O texto foi mantido em 1ª pessoa. Embora possa parecer que você está sendo cercado por todos os lados pela polícia após o...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157765/o-prologo-de-gta-6-pode-ser-bem-diferente-dependendo-de-suas-acoes",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-19T11:43:13.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/feature/g/gta-6s-pro/gta-6s-prologue-can-go-way-more-differently-than-you-might-t_tpkt.jpg"
+    },
+    {
+      "t": "\"Um marco técnico fundamental\": Digital Foundry diz que GTA 6 é uma obra-prima em termos de imersão, liberdade, narrativa e aspectos técnicos",
+      "d": "A Rockstar fez de novo! O artigo dos especialistas oferece uma análise mais aprofundada dos aspectos visuais e das tecnologias envolvidas na recriação de Vice City.",
+      "link": "https://br.ign.com/grand-theft-auto-vi/157755/um-marco-tecnico-fundamental-digital-foundry-diz-que-gta-6-e-uma-obra-prima-em-termos-de-imersao-lib",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-19T10:00:35.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/photo/default/grand-theft-auto-vi-20261113200241-1794995516102_h23e.jpg"
+    },
+    {
+      "t": "Google exigirá apps e jogos adaptados para dobráveis a partir de 2027",
       "d": "",
-      "link": "https://www.portalviu.com.br/geek/psn-registra-instabilidade-mundial-as-vesperas-da-estreia-de-gta-vi/attachment/copia-de-site-portal-viurebate-2026-11-18t184010-544",
-      "fonte": "www.portalviu.com.br",
-      "data": "2026-11-19T04:04:15.000Z",
-      "c": "Consoles",
-      "img": "https://www.portalviu.com.br/geek/psn-registra-instabilidade-mundial-as-vesperas-da-estreia-de-gta-vi/attachment/copia-de-site-portal-viurebate-2026-11-18t184010-544",
-      "orig": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNblBEV2VMSjZia29zVFJUY2MxeEV5Y0tDMXFoWUh5MnBOSmJDWmtoZ3UyV3R5TWh4c3JpV3FZdTFrSFhjQUhfNjdNV2RxVmVocUFLdXROV2pPTUk1aUlXNTI1SG9wMENVVjZhRjdUS0oydkRIM0tGWmJzTHEtUVRUczFXdVQxOGpIU2xyeHhZN1U1MXJRb2I2N2phcHEzdEo1TGM0U2R6N3NYcnJOTk5XNm0zTU5hMm9qSWxEU244X0c4MHRvVVVyRmtQUENrVWprMlhReG10UjhBX2J4ZFBoZzhJV1hjUDJSQWcxbTJQSUV6WFIwbXA2bg?oc=5"
+      "link": "https://www.estadao.com.br/tecmundo/produto-e-review/google-exigira-apps-e-jogos-adaptados-para-dobraveis-a-partir-de-2027/",
+      "fonte": "TecMundo",
+      "data": "2026-11-19T10:00:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/W5Q54I2IBBDC5FBF3QQFPE4C4I.png?quality=80&auth=68c731526e70b151371ea3b81ff50459820e6aeb3ccb48f0c49d78c2c05e78f2&width=710"
+    },
+    {
+      "t": "A Epic Games tenta competir com a Steam há anos, mas a realidade é dura: ainda não é o suficiente, mesmo sem cobrar comissão",
+      "d": "Desenvolvedor de Tiny Terraces faturou quase 150 vezes mais no Steam mesmo com as comissões O desenvolvedor de um jogo indie abordou a questão da porcentagem retida por ambas as empresas e os...",
+      "link": "https://br.ign.com/steam/157753/a-epic-games-tenta-competir-com-a-steam-ha-anos-mas-a-realidade-e-dura-ainda-nao-e-o-suficiente-mesm",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-19T09:00:35.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_1rn8.jpg"
     },
     {
       "t": "Jogos da UBISOFT em oferta na Steam com até 85% de desconto",
@@ -109,15 +218,6 @@
       "img": "https://sm.ign.com/ign_br/news/g/gta-6-how-/gta-6-how-the-ultimate-edition-content-works_mw7b.jpg"
     },
     {
-      "t": "Não espere prostitutas em GTA 6: Rockstar retira mecânica para focar exclusivamente no relacionamento de Jason e Lucia",
-      "d": "Mecânica estava presente na franquia desde GTA 3 A franquia de Grand Theft Auto nunca teve pudor com seus conteúdos, principalmente os sexuais. Desde o terceiro jogo da franquia, jogadores podiam...",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157760/nao-espere-prostitutas-em-gta-6-rockstar-retira-mecanica-para-focar-exclusivamente-no-relacionamento",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-18T20:48:16.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/photo/default/port-gellhorn-07-1793891731328_yuft.jpg"
-    },
-    {
       "t": "Jogos na Steam em oferta por menos de R$ 5; até 90% de desconto",
       "d": "",
       "link": "https://www.adrenaline.com.br/games/pc-games/jogos-na-steam-em-oferta-por-menos-de-r-5-ate-90-de-desconto/",
@@ -146,15 +246,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-24.jpg"
     },
     {
-      "t": "“Procuramos criar uma experiência que supere suas expectativas”: presidente da Rockstar, Sam Houser faz rara declaração para comemorar lançamento de GTA 6",
-      "d": "“Somos imensamente gratos a vocês e por tudo o que fazem para celebrar os jogos”",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157754/procuramos-criar-uma-experiencia-que-supere-suas-expectativas-presidente-da-rockstar-sam-houser-faz",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-18T19:49:57.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/news/r/rockstar-p/rockstar-president-sam-houser-issues-rare-statement-to-celeb_1xyt.jpg"
-    },
-    {
       "t": "Após 11 anos, Sony não emplaca um candidato sequer ao GOTY do TGA",
       "d": "Depois de mais de uma década batendo ponto, a Sony flopou feio no The Game Awards 2026",
       "link": "https://flowgames.gg/the-game-awards-2026-sony-fica-fora-do-goty/",
@@ -162,52 +253,6 @@
       "data": "2026-11-18T19:42:25.000Z",
       "c": "Eventos",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/HXBikZXa4AEn0lL.jpg"
-    },
-    {
-      "t": "GTA 6 quebra recordes de streaming antes mesmo de ser lançado mundialmente",
-      "d": "Sucesso",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157751/gta-6-quebra-recordes-de-streaming-antes-mesmo-de-ser-lancado-mundialmente",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-18T19:34:24.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/news/g/gta-6-shat/gta-6-shatters-streaming-records-before-it-even-launches-glo_dqqj.jpg"
-    },
-    {
-      "t": "Principal roteirista de Clair Obscur: Expedition 33 sai da Sandfall para ajudar desenvolvedores a contar histórias melhores",
-      "d": "Após vencer prêmio pela narrativa do game, Jennifer Svedberg-Yen quer ajudar outros jogos A principal roteirista de Clair Obscur: Expedition 33 deixou Sandfall para ajudar outros desenvolvedores...",
-      "link": "https://br.ign.com/clair-obscur-expedition-33/157749/principal-roteirista-de-clair-obscur-expedition-33-sai-da-sandfall-para-ajudar-desenvolvedores-a-con",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-18T18:34:00.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/c/clair-obsc/clair-obscur-expedition-33s-lead-writer-has-left-sandfall-to_wzpf.png"
-    },
-    {
-      "t": "GTA 6 – Xbox Series S Screenshots",
-      "d": "",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157748/gta-6-xbox-series-s-screenshots",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-18T17:45:33.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/gallery/g/gta-6-xbox/gta-6-xbox-series-s-screenshots_suas.jpg"
-    },
-    {
-      "t": "Jogamos 30 minutos de GTA 6 em todos os consoles; saiba qual tem a melhor performance",
-      "d": "A resposta é meio óbvia GTA 6 já saiu em certas partes do mundo esta manhã, e aproveitamos a oportunidade para mergulhar e ver como o jogo se comporta em todos os quatro consoles da geração atual....",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157746/jogamos-30-minutos-de-gta-6-em-todos-os-consoles-saiba-qual-tem-a-melhor-performance",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-18T17:45:33.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/feature/i/ive-played/ive-played-the-first-30-minutes-of-gta-6-on-every-console-he_spqf.jpg"
-    },
-    {
-      "t": "Jogos da CAPCOM em oferta na Nuuvem com até 87% de desconto + cupom limitado de 15%",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-da-capcom-em-oferta-na-nuuvem-com-ate-87-de-desconto-cupom-limitado-de-15/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-18T16:54:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/resident-evil-requiem-5.webp",
-      "orig": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2dXeE1UN2w0VFZWSTdKZkQ2UUVPZVc1MjBTdkdoVVNBbnNYMG8wbDJhNzlmYmx1TENOeDZHNXI2RTZtRGYzTjE1d3JseHVlY3pGWHV3NTFDQzBSRzUtbkMwMkxVU1BJRGlXejl1Q2FjalVWQzF5OXNlM0dWZEp0b0E1Rkk2dG5BZFR6dUEtYlBhRFlrdUVhSzlXY19oN1N2Z0l0YU55cWg0T0kwMEkyRWl6NFJoaTBUNFVrRVJsSjMxS00?oc=5"
     },
     {
       "t": "GTA 6 tem presença de Anitta e mais brasileiros",
@@ -228,24 +273,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/10/HUlUVkGXcAATJrb.jpg"
     },
     {
-      "t": "Pré-carregamento, horários de lançamento global e tamanho de instalação de GTA 6 são confirmados; Rockstar anuncia pôster com a arte da capa física e mapa de Leonida",
-      "d": "De volta a Vice City!",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157256/pre-carregamento-horarios-de-lancamento-global-e-tamanho-de-instalacao-de-gta-6-sao-confirmados-rock",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-18T16:11:00.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/news/g/gta-6-prel/gta-6-preload-global-release-times-and-install-size-confirme_rhh7.jpg"
-    },
-    {
-      "t": "Doomscrolling é necessário no GTA 6 se você quiser descobrir tudo que Leonida tem a oferecer",
-      "d": "Quem disse que horas rolando o feed na vida real não valeriam a pena? Sabe quando você percebe que está há horas rolando o feed das redes sociais e fica imaginando o que você poderia ter feito...",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157745/doomscrolling-e-necessario-no-gta-6-se-voce-quiser-descobrir-tudo-que-leonida-tem-a-oferecer",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-18T15:57:51.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/2-20261118-124410-0000_pcsy.jpg"
-    },
-    {
       "t": "Como GTA 6 roda no Xbox Series X, S, PS5 e PS5 Pro? A Rockstar explica",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/como-gta-6-roda-no-xbox-series-x-s-ps5-e-ps5-pro-a-rockstar-explica/",
@@ -253,33 +280,6 @@
       "data": "2026-11-18T15:15:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/5ADKJRFK2FELRLP3GRX7GNPDEY.jpg?quality=80&auth=78c5991023e96f2def74a8e6f5d94ebee4a483ca3f6c40a3708587376df133d4&width=710"
-    },
-    {
-      "t": "Bora platinar! GTA 6 terá 55 troféus para alcançar os 100%",
-      "d": "A platina de GTA 6 promete ser um tanto trabalhosa para os jogadores",
-      "link": "https://flowgames.gg/bora-platinar-gta-6-tera-55-trofeus-para-alcancar-100/",
-      "fonte": "Flow Games",
-      "data": "2026-11-18T15:13:52.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/08/GTA-6.jpg"
-    },
-    {
-      "t": "GTA 6: é possível revisitar as missões da campanha?",
-      "d": "Veja como fazer para acessar antigos cenários de GTA 6 e driblar as limitações o game",
-      "link": "https://flowgames.gg/gta-6-e-possivel-revisitar-missoes-da-campanha-ou-nao/",
-      "fonte": "Flow Games",
-      "data": "2026-11-18T14:37:32.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-33.jpg"
-    },
-    {
-      "t": "Todos os cheats e códigos de GTA 6 para PS5 e Xbox Series S|X! Confira lista e como usar",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/todos-os-cheats-e-codigos-de-gta-6-para-ps5-e-xbox-series-sx-confira-lista-e-como-usar/",
-      "fonte": "TecMundo",
-      "data": "2026-11-18T14:25:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/LTNHZ37GYJA6PHYW3FUMT4W7IU.jpg?quality=80&auth=5c5befa13526ee29ecf5aa113c85e7bba62154a1170d2d8f252a7cff83eb36fa&width=710"
     }
   ],
   "videos": [
@@ -295,7 +295,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8320,
+      "views": 8321,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
