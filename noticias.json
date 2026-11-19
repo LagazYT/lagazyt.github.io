@@ -1,6 +1,25 @@
 {
-  "atualizadoEm": "2026-11-19T23:17:07.287Z",
+  "atualizadoEm": "2026-11-19T23:47:17.979Z",
   "noticias": [
+    {
+      "t": "Livros sobre franquias da Nintendo entram em oferta na Amazon",
+      "d": "",
+      "link": "https://projectn.com.br/livros-sobre-franquias-da-nintendo-entram-em-oferta-na-amazon/",
+      "fonte": "projectn.com.br",
+      "data": "2026-11-19T23:40:36.000Z",
+      "c": "Ofertas",
+      "img": "https://projectn.com.br/wp-content/uploads/2026/04/zelda-livro.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSFFKSnFmVzdxUXhuSTBtS2ZGaTFRNm1ndUxmY0V1eDZWNnN3LVlnTGlOajhSNXpaeWNZakRBNjkwOXlpNC12SlZHVlpJVlJHSVBYQWxEWHByRE5hcEh3NG5OV1dYYjJPWG00UWNDYkZuaTVyeHlmT3hyUTNWeU0tMV93Tm1yQTZWM1B5N3kzTQ?oc=5"
+    },
+    {
+      "t": "Xbox Game Pass de novembro recebe High on Life 2 e mais jogos! Veja a lista",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-de-novembro-recebe-high-on-life-2-e-mais-jogos-veja-a-lista/",
+      "fonte": "TecMundo",
+      "data": "2026-11-19T23:15:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/W5ADT4ZQQBB35BPGPRYDMXY3WQ.jpg?quality=80&auth=e7fe977bf6266cf25e75ae4c61161cfb3d1694c3b5603b231f23a92f5044c4f3&width=710"
+    },
     {
       "t": "Jogos de Nintendo Switch 1 & 2 em oferta de Black Friday; até 80% de desconto",
       "d": "",
@@ -30,16 +49,6 @@
       "c": "Geral",
       "img": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
       "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXkzenl3ZFUtb3dyclNGdW5HRVo4M1hwbGR4aFp0ZmFiUFd5UTByVjYtQ3d5NjVUeWU0eFUyVy1aRzFHMl9jdlNGcFRCWTAtT2ctUHFOb0pya2R5Tld6czFvM1c5N0M3LVFsdDhJUDV0MWk4N0h2Y1F1dkQ2WE1xS2Exakd1R1VOWnhkMC1VNEk3cFBpdGVmTWlqaw?oc=5"
-    },
-    {
-      "t": "De Vice City a Campinas, Cadeia Produtiva Global de Games quer conectar empresas paulistas a mercado global de jogos",
-      "d": "",
-      "link": "https://www.agenciasp.sp.gov.br/desenvolvimento/de-vice-city-a-campinas-cadeia-produtiva-global-de-games-quer-conectar-empresas-paulistas-a-mercado-global-de-jogos/",
-      "fonte": "www.agenciasp.sp.gov.br",
-      "data": "2026-11-19T22:30:33.000Z",
-      "c": "Geral",
-      "img": "https://www.agenciasp.sp.gov.br/wp-content/uploads/2026/11/whatsapp-image-2026-11-19-at-16-18-47.webp",
-      "orig": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOelBNMjE5NUsydVFnMXpfQ0tnb3E2QkpWQXJxakxMQzE3MUNWQ01tTmF1ZW1fZzY3d0lBcnpEYlJoZWhkSDF2cHAyV2pqa0tPQUZ6VkdxZGx1emNnRUVuN2w2amJMOXZUa2s1YkRqX0dqMGdJbk1DQlkyVjBKS1RXdTNVbUl3N0M1RlozbDRnNGdBS096bmw0TnVidDRacGpJZlZEcjA5S2ZuRHNiSFh3U29heUtCamVhV2dGWXM3Z1pwaG82aC1iT2VKN29LZ0laOEJTNkFqVndSZXl1UnZrV2dDNUV4b2k5VU05eS1DMFlHUG1ocUlJ?oc=5"
     },
     {
       "t": "Saros e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
@@ -266,15 +275,6 @@
       "data": "2026-11-19T15:44:25.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2025/05/batch_Jason_Duval_06.jpg"
-    },
-    {
-      "t": "GTA 6 pode ter updates de DLCs de conteúdo no futuro",
-      "d": "No mapa de GTA 6, há diversas áreas e prédios que não podemos acessar (mas eles podem chegar no futuro)",
-      "link": "https://flowgames.gg/gta-6-pode-ter-updates-de-dlcs-de-conteudo-no-futuro/",
-      "fonte": "Flow Games",
-      "data": "2026-11-19T15:41:30.000Z",
-      "c": "Lançamentos",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-15.jpg"
     }
   ],
   "videos": [
@@ -3040,7 +3040,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa6o1.jpg",
-      "hype": 29,
+      "hype": 30,
       "link": "https://www.igdb.com/games/haunted-by-femboy"
     },
     {
