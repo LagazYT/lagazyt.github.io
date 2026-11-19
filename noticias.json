@@ -1,6 +1,55 @@
 {
-  "atualizadoEm": "2026-11-19T22:16:50.509Z",
+  "atualizadoEm": "2026-11-19T22:46:58.307Z",
   "noticias": [
+    {
+      "t": "Conheça Samus Aran, a destemida caçadora de recompensas",
+      "d": "",
+      "link": "https://www.nintendo.com/pt-br/whatsnew/conheca-samus-aran-a-destemida-cacadora-de-recompensas/",
+      "fonte": "Nintendo",
+      "data": "2026-11-19T22:41:18.000Z",
+      "c": "Geral",
+      "img": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXkzenl3ZFUtb3dyclNGdW5HRVo4M1hwbGR4aFp0ZmFiUFd5UTByVjYtQ3d5NjVUeWU0eFUyVy1aRzFHMl9jdlNGcFRCWTAtT2ctUHFOb0pya2R5Tld6czFvM1c5N0M3LVFsdDhJUDV0MWk4N0h2Y1F1dkQ2WE1xS2Exakd1R1VOWnhkMC1VNEk3cFBpdGVmTWlqaw?oc=5"
+    },
+    {
+      "t": "De Vice City a Campinas, Cadeia Produtiva Global de Games quer conectar empresas paulistas a mercado global de jogos",
+      "d": "",
+      "link": "https://www.agenciasp.sp.gov.br/desenvolvimento/de-vice-city-a-campinas-cadeia-produtiva-global-de-games-quer-conectar-empresas-paulistas-a-mercado-global-de-jogos/",
+      "fonte": "www.agenciasp.sp.gov.br",
+      "data": "2026-11-19T22:30:33.000Z",
+      "c": "Geral",
+      "img": "https://www.agenciasp.sp.gov.br/wp-content/uploads/2026/11/whatsapp-image-2026-11-19-at-16-18-47.webp",
+      "orig": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOelBNMjE5NUsydVFnMXpfQ0tnb3E2QkpWQXJxakxMQzE3MUNWQ01tTmF1ZW1fZzY3d0lBcnpEYlJoZWhkSDF2cHAyV2pqa0tPQUZ6VkdxZGx1emNnRUVuN2w2amJMOXZUa2s1YkRqX0dqMGdJbk1DQlkyVjBKS1RXdTNVbUl3N0M1RlozbDRnNGdBS096bmw0TnVidDRacGpJZlZEcjA5S2ZuRHNiSFh3U29heUtCamVhV2dGWXM3Z1pwaG82aC1iT2VKN29LZ0laOEJTNkFqVndSZXl1UnZrV2dDNUV4b2k5VU05eS1DMFlHUG1ocUlJ?oc=5"
+    },
+    {
+      "t": "Saros e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/saros-e-mais-jogos-para-ps4-e-ps5-com-ate-90-off-na-ps-store-2/",
+      "fonte": "TecMundo",
+      "data": "2026-11-19T22:30:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/4TXTVFAVRRI4BCYIVY5G32TJCI.jpg?quality=80&auth=298d01a8a7df7d7513c6b2cdccd2c0892e09e68eb28dd2755682c5e2768ed874&width=710"
+    },
+    {
+      "t": "THYSIASTERY será lançado para PS5, PS4, Xbox Series, Xbox One e Switch em 3 de dezembro",
+      "d": "",
+      "link": "https://www.gameblast.com.br/2026/11/thysiastery-lancado-ps5-ps4-xbox-series-xbox-one-switch-3-dezembro.html",
+      "fonte": "GameBlast",
+      "data": "2026-11-19T22:27:16.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3hGbWQxdWhJcVdKblN1QmFJR0lvTDhBSFFIZlllcUtzdGxMR2hyY21MSS12XzIxMU1yYTFZbldiRGVjYXVoQnoxOUdpNlJGNUdNZDgyWG52WFJnLWtLNUJSY2NYb1F2R3A3aXdCUzJmNGVCR1hXT2s1QVowZ3Z4Wmd3a1BEMVZ1MTMtOEpVWUhpaWV0NnZrZXplakxiN3ZjVGZfOF9hcnprZnZR?oc=5"
+    },
+    {
+      "t": "GTA 6 tem cheats, mas você vai ter que suar para liberá-los",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/gta-6-tem-cheats-mas-voce-vai-ter-que-suar-para-libera-los/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-19T22:19:00.000Z",
+      "c": "Geral",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTA-6-Cheats-Desbloqueaveis.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVJFZVMzTHhja0RpdGhzVXdtcGhIZUhXd1FuanhVTmxQY090TnNlaUppWHlaOTctOTg4MmlWQi1aaXpiaDBzdmxpb3JPNGpQV3lQY3lqZXJoOXFVZmUtRF9RQ0FRcnhGc2wyMmNucEpXZjAxNTdycHFkOHBfM3JyQzhNUDFxclZDSFBwRDgyVWpJZlBVdlBLVzhLSQ?oc=5"
+    },
     {
       "t": "GTA 6: veja 7 maneiras de ganhar dinheiro rápido no início",
       "d": "O dinheiro não é fácil em GTA 6 e, como nos demais jogos da franquia, é crucial para progredir",
@@ -20,16 +69,6 @@
       "img": "https://sm.ign.com/ign_br/feature/g/gta-6s-pro/gta-6s-prologue-can-go-way-more-differently-than-you-might-t_tpkt.jpg"
     },
     {
-      "t": "Nova Lei garante que jogos comprados funcionem \"para sempre\"",
-      "d": "",
-      "link": "https://canaltech.com.br/games/nova-lei-garante-que-jogos-comprados-funcionem-para-sempre/",
-      "fonte": "Canaltech",
-      "data": "2026-11-19T21:18:00.000Z",
-      "c": "Geral",
-      "img": "https://tl.ctcdn.com.br/5oAAvNCcchSQvv6JHZ6mEBqXGRE=/1200x675/smart/filters:format(webp):quality(85)/7ad75e1c-ce7c-4695-bcf0-59b4f890a00d.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ1Vtay1sbEdHeDJnR0dzMjJOWHE0a2lrQXY0U0RZNWJ1dklaY1kzd3lFTi1PdDRfLUYybEV5ZDhlV01sczF5cHY0TXFpNW5fcVNtYWljZ1pMWGdMa24yZFdkXzNFSEFxUGNzdEpNQ0ZNMjhSMGFMUFBrYVkwS1owLWtxQy1wUjBZRzdUd2hHYWQ5Xy10?oc=5"
-    },
-    {
       "t": "Comunidade Furry está dividida com sátira em GTA 6",
       "d": "uwu :3 Atenção! Spoilers de GTA 6 abaixo A franquia Grand Theft Auto é conhecida por parodiar aspectos da cultura americana, mas um elemento satírico específico em GTA 6 está gerando divergências...",
       "link": "https://br.ign.com/grand-theft-auto-vi/157798/comunidade-furry-esta-dividida-com-satira-em-gta-6",
@@ -37,46 +76,6 @@
       "data": "2026-11-19T21:03:31.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/news/f/furry-comm/furry-community-divided-by-gta-6-parody_7p6q.jpg"
-    },
-    {
-      "t": "Jogos de PlayStation em oferta por menos de R$ 25 na Black Friday",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/playstation/jogos-de-playstation-em-oferta-por-menos-de-r-25-na-black-friday/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-19T21:00:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/07/the-outlast-trials.webp",
-      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT09FamF1WklINkVyUU9lZDJqRjEzRF9EY195TmVHcDRjeWdXaGpZbHM4bmV1bzI0TXFnaV9DaUNoZ0dsLWN3YkMxemk4NDRDNHE1U2xKSXNteTMzdWlHVHJFR1RabmsxYXhGV2pYSkZKeVNiWFpRaWRDWWVKbE1QN2JJeUJRUVBWd01FdFlIbl9zWThrRmF0YVpCbk5sV2pYT24xU3RPMzNfdnZ0ZG1BbEhiYw?oc=5"
-    },
-    {
-      "t": "Parceria do YouTube com a Rockstar Games para o lançamento de GTA 6 redefine monetização de jogos",
-      "d": "",
-      "link": "https://brasilinovador.com.br/parceria-do-youtube-com-a-rockstar-games-para-o-lancamento-de-gta-6-redefine-monetizacao-de-jogos/",
-      "fonte": "Brasil Inovador",
-      "data": "2026-11-19T20:52:35.000Z",
-      "c": "Lançamentos",
-      "img": "https://brasilinovador.com.br/wp-content/uploads/2026/11/brasil-inovador-2026.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGhTcFVVVWlWczF2YUpYc2NlTW51R1ZOdXdtOGw4T3g2dm1Tck5pUElhM0NYZWRlemVKOHkzMUNsa1laaDZHVVRyTmN4M1pXVWNKUkw4clE3SzVIR1NLai1aUTI0Q2lVa2JBellYV1UybTFsd25WTjVSZDI4Y0xTVFNGSW5KZWdzYUwxV1FELUNsQXRZYXpwUU12NVJTb3VXLVZKU0NRTUFJSnlXQWFvOEVBU1dMcGhiYmcxeEZ2UEJ5bWpfSWkw?oc=5"
-    },
-    {
-      "t": "Estratégia da TIM integra lançamento de GTA VI e PlayStation 5 para acelerar planos de alto valor",
-      "d": "",
-      "link": "https://brasilinovador.com.br/estrategia-da-tim-integra-lancamento-de-gta-vi-e-playstation-5-para-acelerar-planos-de-alto-valor/",
-      "fonte": "Brasil Inovador",
-      "data": "2026-11-19T20:42:14.000Z",
-      "c": "Consoles",
-      "img": "https://brasilinovador.com.br/wp-content/uploads/2026/09/brasil-inovador-11.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzhsVUdNVWFJS2tEYW9nZTVrSGpaVUhfQzA0R0VFeEsydEZhT0k0V1BMN1YxYTVKLThrSkRmc2hUbUdsWk5tNHdWOWRYMFpTZXlrRGVhVUJSV2FTX2JEcmNCc3hsU2FXS3dQLVpkbUVKQmRBOXhIZDAzVlNzTVJwNWJFZ24wTk81LUdNU0pCX2Vwby1FNkNFR2FpU21nSDFROWpNY0U3SUFSVDZYZVFyT3hwOXFPbVFiejNDRk5nM2NLVzRaRmgw?oc=5"
-    },
-    {
-      "t": "Mercado brasileiro de games deve movimentar US$ 3,1 bi até 2030, estima PwC; salto poderia ser maior",
-      "d": "",
-      "link": "https://www.estadao.com.br/economia/negocios/mercado-brasileiro-de-games-deve-movimentar-us-31-bi-ate-2030-estima-pwc-salto-poderia-ser-maior/",
-      "fonte": "Estadão",
-      "data": "2026-11-19T20:18:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/XVOARZELMJH7LMTW3SXRCKJAIY.jpeg?quality=80&auth=2f8f4ec1d5ba9167d42df22278290eb572d543f696eb89c14071bce716cffb0a&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZTFGTTl0TmRoRHJkMHdId0JRM2x3ejFpWnpaRTNVLV93V3V4U1lwenJaOHhreWo1bzFIdGdPNnhTN2pySVJhUi15c0NPYVJFRnQzb09NNDJxNnRkZFdqcGxzTi1WYTRoWi13Z2FMX05FN0dKUExlTWZvZ1RCNDROVTNIQ0ZzWG8wY2RhTXcwcVpHaUdad1JiYU1CVUk3bHBiNmxlZktraGxLeldpdFF5RWhTWkFIT3RDd2prZ0ZMa1FlbVYxTUM0LWMtTzFPR29nd1l3UGhOOG9uZ9IB3wFBVV95cUxPOUZJVlJ1ZXZybVJ5dEdhZW1JSExldUJSUFowVHJhN3dBc0ZLTUJKVGtfcUtidzdHblVUX0NrLXJNT1JLbzVMM1FRR2psZjVJaG5YZjZKM0N0eGRnNHNiNDYtTjA2aGxiWkRLcWhCbFpod3NHcElZN01tajdva2dQUU90Y2tRQ2JRZXVpcS1vT1ZPdVZfbUsxd05xUHdZSWlOaW1iay1Qb1p5aVUwdWk4dWxKSlF1QUlFalF6YnFJUkJhSjFzXzdsYlRtTVl4MXRYYWx1amVUcEdzdnhDWjln?oc=5"
     },
     {
       "t": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (19)",
