@@ -1,12 +1,57 @@
 {
-  "atualizadoEm": "2026-11-19T14:28:35.277Z",
+  "atualizadoEm": "2026-11-19T14:58:44.097Z",
   "noticias": [
     {
-      "t": "Vendas nos Estados Unidos | Hardware em Out/2026 – Nintendo Switch 2 lidera em unidades e receita",
+      "t": "Star Wars: Galactic Racer vai ganhar multiplayer local com tela dividida",
       "d": "",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2ppaXRNWFo3UldobzhHbm5RU3MtVUVrRkZRdjl6Y1FYMC1nSml5dE1TbklFbWhiY0ZzY0tPUllEQUVQUWx2ckRmT3pHR3c5eFlscVk5M3V1c3FWZlRVUUYxT3pXdk5reFdRdmhxazhCWWV6Ny1JOURuNXZEV2FOVHFHT3VKNDV2bzJKTjQ1SEs2aDZYMVowN2FYSVJNcF9PQ3p4WklEaUZnVUQtWTBlcTUtYnRJQUlBcFdQLVAxTmU?oc=5",
-      "fonte": "Universo Nintendo",
-      "data": "2026-11-19T14:21:23.000Z",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRUdMTmIzU2w5VXQxczJnRkY2NHFEMk5hUHc1SVMtRlRTOGtMSWFtRlNJWTRjdnpVMFFhSEw0bE9vRTdGNElZM0VRSnJReUl5ZTQwM1JBNUsyX0NLTndlNEgyak44T2NDOXFRNGY4WlBqa2huOW02OVhBdGU3WmNxLTF3NHJmaUlKZmJNQ3Itd05hOXQtU2JEei1JcWNWRWJSZDFUVkJnSEs3ZVlsYjNRNS0wZUVpemZZdFRXenA1NGswV0RpWEh5UTBsNA?oc=5",
+      "fonte": "Adrenaline",
+      "data": "2026-11-19T14:53:00.000Z",
+      "c": "Geral",
+      "img": ""
+    },
+    {
+      "t": "Thysiastery chega ao Nintendo Switch em 3 de dezembro",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOHNpdThNSzkxQ2NUcVUyYzRSVmhkeVBvdFlDNFdNb1dIR2hvTzcyeFVxeXlrM194bEhwUXZQelFtTnJITFgxcnlZZHlvTlRGc21lN1JZZTBMUWp2S2hWem54MnhqNnZBaHJta2VXUkliMVFIUnBFTEZsYVMzQlFWUHFVekRXQTF1LWV5c0g1SE5icU5Z?oc=5",
+      "fonte": "Nintendo Blast",
+      "data": "2026-11-19T14:46:49.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "Rayman Legends Retold revela novo mapa musical com BTS",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0UzYW5IS0VMb2d2UFVUSmdFUjlqczJKYVRZb1lydm5KOFdiSUJKNkFOUTB1QmdxWHFDRVo1aVROdzdEMkFmLTBUOW9aaHZvU0NDMGVpSU5vTVRhQzg3MktjYXRLRjRyWUNFRExHSFR4S1A2Qjg5ak16UkxkR3l1TlNONU9KMHV6MHJya3cwX2NOYnBVSGc?oc=5",
+      "fonte": "Cromossomo Nerd",
+      "data": "2026-11-19T14:37:35.000Z",
+      "c": "Lançamentos",
+      "img": ""
+    },
+    {
+      "t": "GTA 6: desenvolvedores não quiseram colocar internet no jogo",
+      "d": "Time de GTA 6 achou que o seu mundinho já funcionava sem precisar de internet",
+      "link": "https://flowgames.gg/gta-6-desenvolvedores-explicam-falta-internet-jogo/",
+      "fonte": "Flow Games",
+      "data": "2026-11-19T14:34:09.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/08/GTA-6-3.jpg"
+    },
+    {
+      "t": "The First Zombie será lançado para Nintendo Switch em 17 de dezembro",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzNGQ2xJZ2R5MFg1VDlsUjdZaDhqU204bDNfRnZWTk9PT3ltY2ZDMUdIS3otdEtkMTltWjMwN3lxNXdfYXNnVTFqUWgtc0NsOUNadWpuTDNhOVRSd2RhaDQzcU1CUGJya1pySkFJMWpPR05QcnZweFkwejlNa1JWQ3pKa3pmbi1qdjk1VkxxelVMNkdSNm5uaG5fQ0lQVHZ5MTBhdFJDVzY0N2FfQm5GQ2ZXRUg?oc=5",
+      "fonte": "Nintendo Blast",
+      "data": "2026-11-19T14:33:40.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "Chegou o grande dia: Grand Theft Auto VI já está disponível mundialmente para PS5 e Xbox Series X|S",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOT3hEWXZrR1kwanJyQjhna0IxaVZuc3ZLNzUwam1sbWNJX0J4MzNEdnBJV28tRlZFQ0UxaWZ4MklLeXEzMi1kZ1k4aVpQamwxY2VNRG5sNEJuNjNaT21DSmlUb1dCR3BKanFnel9EYWlVM3lQQUNRNTNRSGRFcG1uNmRFQXFwX2Z3RGFocVJHWmYtQ2JpX3QwQ05uUE45UVJYVmh3Tk0tRmVGRm9xR1lMNWd5QkFNWThRbXJjNFBNWEJmR1h0M3NVRTYzRDU0bms4THk4?oc=5",
+      "fonte": "Gamer Point",
+      "data": "2026-11-19T14:31:32.000Z",
       "c": "Consoles",
       "img": ""
     },
@@ -20,24 +65,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2025/05/batch_Jason_e_Lucia_02_paisagem.jpg"
     },
     {
-      "t": "Anitta está no GTA 6; relembre outras participações da cantora em games",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1lTNzZIekRWZzVpazJsMVhKLXJETUVkcFc5cHYwNk9TVk5lRURqWFZJZTJpeEg4WWZoTWVBVDBmZ21EUTdwWHY2a2RPY1FrRzA3Nko3QnJDTkNfdHJHNXBFTDJfTWU0NnEtM21hZ0pEcGpxdHVHbkE3WDVjcElNTnFzRUFaSkFqdHFfYkZ4SnhIRklVLUM3VW9FbTRBTWZxOWl0SUd6aFF3MVpuTWMzTndSd2dwR2QzUEhsMU5SNA?oc=5",
-      "fonte": "www.band.com.br",
-      "data": "2026-11-19T14:07:46.000Z",
-      "c": "Geral",
-      "img": ""
-    },
-    {
-      "t": "Homura Hime será lançado para PlayStation 5 em 2027",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1NiMlZVVzlhTnpmd1VLTnp5V2tqOU1aazkwTUt0dW1Za3g4SG9BNGJJTGIxY3NXZndwNnR3bTN0d2h2WjdoSnJfSXY5REJaRlkwUWUtdFZRQ0FsVnhvcU1Va2FqTk9uZ2JlVkFveUNKU3MwYk5TZzM2dWNNMWdTSVRDc3ZHVTh0M1pwTVBHOHc4S1daSEpZUA?oc=5",
-      "fonte": "GameBlast",
-      "data": "2026-11-19T14:06:48.000Z",
-      "c": "Consoles",
-      "img": ""
-    },
-    {
       "t": "Jogos indicados ao GOTY ficam mais baratos em saldão de Black Friday na Amazon",
       "d": "Jogos indicados ao GOTY aparecem com descontos em saldão de Black Friday da Amazon!",
       "link": "https://br.ign.com/descontos/157775/jogos-indicados-ao-goty-ficam-mais-baratos-em-saldao-de-black-friday-na-amazon",
@@ -45,24 +72,6 @@
       "data": "2026-11-19T14:02:32.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_uyg6.jpg"
-    },
-    {
-      "t": "GTA 6 é lançado após 13 anos e movimenta mercado de games no Brasil",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdURKblprMUxHX2ZPZkpsbm1tZ2p5cWZmajdrNm01cVNNNHd1TlVNeDIxdkZNazFrRElJd2N0emwtUXNjdzJlX2hEeWVucVVIZ1NxTi1pSjlOQnplUXJuNThkU3dpN005Qkh3OGh5Slp2cVJWRkU5VXdjSTRCTHRXX3Vn?oc=5",
-      "fonte": "IstoÉ",
-      "data": "2026-11-19T13:56:01.000Z",
-      "c": "Lançamentos",
-      "img": ""
-    },
-    {
-      "t": "O PS5 Pro não consegue rodar GTA 6 a 60 quadros, e a Rockstar explica o motivo",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlZqXzQ4eXZqbEo3RmpPakVIRS1heVJfOTY2bFJtX1dOTUFNaUVJZzhWQXVwZmV4b1lQbEpUSTVhZW9kTUQ0cGswM2pvUlRXdG1hV1ZkN1NNMTJHQ2lwNk1ic1JWdHJTUUFTcXNoaTgwekZFd1Q0QnJLcU1ieFJzNGd4OUpaUC1JRWxzWC1Nc1Y1MWRadkZsRnZ6VzRhWmdFdTdPdm5kQnc5Q0FaWktGTjgtdzI?oc=5",
-      "fonte": "Adrenaline",
-      "data": "2026-11-19T13:53:00.000Z",
-      "c": "Consoles",
-      "img": ""
     },
     {
       "t": "É preciso virar um completo psicopata para alcançar um nível de procurado de 6 estrelas em GTA 6",
@@ -266,15 +275,6 @@
       "data": "2026-11-18T19:42:25.000Z",
       "c": "Eventos",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/HXBikZXa4AEn0lL.jpg"
-    },
-    {
-      "t": "GTA 6 tem presença de Anitta e mais brasileiros",
-      "d": "Anitta, Sepultura e mais famosos brasileiros brilham em GTA 6",
-      "link": "https://flowgames.gg/gta-6-anitta-mais-artistas-brasileiros-descobertos/",
-      "fonte": "Flow Games",
-      "data": "2026-11-18T16:51:00.000Z",
-      "c": "Geral",
-      "img": "https://www.youtube.com/embed/j4Lg8VZ53EE"
     }
   ],
   "videos": [
