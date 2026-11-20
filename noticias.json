@@ -1,16 +1,6 @@
 {
-  "atualizadoEm": "2026-11-20T05:00:12.136Z",
+  "atualizadoEm": "2026-11-20T05:30:23.161Z",
   "noticias": [
-    {
-      "t": "Cyberleek lança versão de GTA 6 para Xbox, tornando mais viável uma adaptação jogável para PC",
-      "d": "",
-      "link": "https://www.notebookcheck.info/Cyberleek-lanca-versao-de-GTA-6-para-Xbox-tornando-mais-viavel-uma-adaptacao-jogavel-para-PC.1454810.0.html",
-      "fonte": "Notebookcheck.info",
-      "data": "2026-11-20T03:39:26.000Z",
-      "c": "PC",
-      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/GTA6XboxBuildPC.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUXlJVURDeWpET0duZTN5b3dFS0xna0I0d243TDItbVN6WFZrV0FxTi1CbHlIUEc1SGNiUlVaZUVWbWV0Nk9RYXNzR2dxWkRIUG95Y19zcFVENkpLREthVnhjV0YxT3ZzNWpiLUZLQ1RoZy15dVZSd3cyX3U2V1Q1UDZlZnZSXzJlNGoyUG5uWGoyNWZPRnhIYlVmcEdmVThDS0tGd09jRlAwYTlVOGFZVGpncnZyaURZNUYydmdwMkdEaHNxMnhHZTF5dkZfZGw1Ul85aA?oc=5"
-    },
     {
       "t": "Nintendo não vai repor o estoque do console Switch 2 de Zelda até 2027, frustrando as expectativas para a Black Friday",
       "d": "",
@@ -50,6 +40,16 @@
       "c": "Consoles",
       "img": "https://projectn.com.br/wp-content/uploads/2026/09/xenoblade_chonicles_3.jpg",
       "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1NpY1lQLS01cl84OHpUNTFlZ2lpVFNkbm9RcjdpSGV4enQtcXhOVUkwQ2s4SWRkcWtMSUZKZ1hodEVSbFdaYy1jS19UaHVZc1dteEc0eWdSRTFJdlRfdGdzdGl1VHczOWlhamxLdlNPNTN2VTZoZ0t0SXlUak53MkFDdHpSU0RNc0J2SjBXQWNIVWREOTRHSHRGZ1QyUnFoVVpfRnM5OTd6Z3du?oc=5"
+    },
+    {
+      "t": "Como resgatar os benefícios da Ultimate Edition de GTA 6? Veja o guia",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-resgatar-os-beneficios-da-ultimate-edition-de-gta-6-veja-o-guia/",
+      "fonte": "Estadão",
+      "data": "2026-11-20T00:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/YUXNAO5LA5AWRO6HZRFX2NPYIA.jpg?quality=80&auth=1418e677c753bd587331fe8d4a378e79f8c9ae9c5620686cf3bdf51a26ba0a12&width=1200&height=630&focal=1138,488",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFdRZ09HM1I0clFFdDctdDEzRGIzX3dXRWdBUUtfZkdMT3hJSUdpa3N5aUcwN3ZVQllSQU1kYjVUUFJZcms5RmM0ZHJsTlRjeEswNnZrSWJwUV9YZ0RlbHFqZDFpSEhxSGF0TGhrUU9mcjdRbWRLUWEzME1mNlpCUG01cXIyTEtFNjZ0dzJ4TzYtdTM4U1hEZnBCbGZaWXRleEN4THY1SFEwNUJ3dUF5Y9IBtgFBVV95cUxPY01GWVdReDhRSnozMmhHT21hQ1FESklCaEZ1UUdQMkFRWTl3WUE3T3puV2g2SFpuSy1UY0Myd3BsRG5ZY0pDcXRabjdYUnBEMDYtMTFCb0FYZ05VbzI0T24wNC1iaWlNcVM2WXU5NjV4VWdxajBUcXBuZm1RSUdJcUE2bERUc1NQV1N3VE1LNGtRcm1LRFE4WnpMazFlYnBGLUVtZWdZZVhLUmFSbk5HM19hZkk2Zw?oc=5"
     },
     {
       "t": "Xbox Game Pass de novembro recebe High on Life 2 e mais jogos! Veja a lista",
@@ -420,7 +420,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 4034,
+      "views": 4035,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -444,7 +444,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20482,
+      "views": 20483,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -927,7 +927,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5tb.jpg",
-      "hype": 61,
+      "hype": 62,
       "link": "https://www.igdb.com/games/rayman-legends-retold"
     },
     {
