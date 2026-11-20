@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-20T01:17:53.878Z",
+  "atualizadoEm": "2026-11-20T01:48:04.732Z",
   "noticias": [
+    {
+      "t": "Xenoblade Chronicles 3 recebe atualização que prepara jogo para o Nintendo Switch 2",
+      "d": "",
+      "link": "https://projectn.com.br/xenoblade-chronicles-3-recebe-atualizacao-que-prepara-jogo-para-o-nintendo-switch-2/",
+      "fonte": "Project N",
+      "data": "2026-11-20T01:21:20.000Z",
+      "c": "Consoles",
+      "img": "https://projectn.com.br/wp-content/uploads/2026/09/xenoblade_chonicles_3.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1NpY1lQLS01cl84OHpUNTFlZ2lpVFNkbm9RcjdpSGV4enQtcXhOVUkwQ2s4SWRkcWtMSUZKZ1hodEVSbFdaYy1jS19UaHVZc1dteEc0eWdSRTFJdlRfdGdzdGl1VHczOWlhamxLdlNPNTN2VTZoZ0t0SXlUak53MkFDdHpSU0RNc0J2SjBXQWNIVWREOTRHSHRGZ1QyUnFoVVpfRnM5OTd6Z3du?oc=5"
+    },
     {
       "t": "De Vice City a Campinas, cadeia produtiva local de games quer conectar empresas paulistas a mercado global de jogos",
       "d": "",
@@ -266,15 +276,6 @@
       "data": "2026-11-19T15:45:00.000Z",
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/MJ4JD4353FOAHHPWTS7UKHGX2Y.jpg?quality=80&auth=d7591a2e7aecbe38330acda29ca5169e228b9a22e652b58db6205449dab3dc69&width=710"
-    },
-    {
-      "t": "GTA 6: Japão censura partes íntimas de Jason e NPCs",
-      "d": "O Japão aplicou uma censura nas partes íntimas de Jason e de outros NPCs no GTA 6. Veja como ficou!",
-      "link": "https://flowgames.gg/gta-6-japao-censura-partes-intimas-de-jason-e-npcs/",
-      "fonte": "Flow Games",
-      "data": "2026-11-19T15:44:25.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/05/batch_Jason_Duval_06.jpg"
     }
   ],
   "videos": [
@@ -290,7 +291,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8328,
+      "views": 8322,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -442,7 +443,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20475,
+      "views": 20482,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -474,7 +475,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3131,
+      "views": 3130,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -482,7 +483,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3704,
+      "views": 3703,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -1206,7 +1207,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobz6d.jpg",
-      "hype": 6,
+      "hype": 5,
       "link": "https://www.igdb.com/games/drunken-goddess-reflux"
     },
     {
@@ -2066,7 +2067,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lw1.jpg",
-      "hype": 10,
+      "hype": 9,
       "link": "https://www.igdb.com/games/surviving-deponia"
     },
     {
