@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-19T23:47:17.979Z",
+  "atualizadoEm": "2026-11-20T00:17:30.078Z",
   "noticias": [
     {
       "t": "Livros sobre franquias da Nintendo entram em oferta na Amazon",
@@ -10,6 +10,16 @@
       "c": "Ofertas",
       "img": "https://projectn.com.br/wp-content/uploads/2026/04/zelda-livro.jpg",
       "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSFFKSnFmVzdxUXhuSTBtS2ZGaTFRNm1ndUxmY0V1eDZWNnN3LVlnTGlOajhSNXpaeWNZakRBNjkwOXlpNC12SlZHVlpJVlJHSVBYQWxEWHByRE5hcEh3NG5OV1dYYjJPWG00UWNDYkZuaTVyeHlmT3hyUTNWeU0tMV93Tm1yQTZWM1B5N3kzTQ?oc=5"
+    },
+    {
+      "t": "Estratégia da TIM integra lançamento de GTA VI e PlayStation 5 para acelerar planos de alto valor",
+      "d": "",
+      "link": "https://brasilinovador.com.br/estrategia-da-tim-integra-lancamento-de-gta-vi-e-playstation-5-para-acelerar-planos-de-alto-valor/",
+      "fonte": "Brasil Inovador",
+      "data": "2026-11-19T23:25:59.000Z",
+      "c": "Consoles",
+      "img": "https://brasilinovador.com.br/wp-content/uploads/2026/09/brasil-inovador-11.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzhsVUdNVWFJS2tEYW9nZTVrSGpaVUhfQzA0R0VFeEsydEZhT0k0V1BMN1YxYTVKLThrSkRmc2hUbUdsWk5tNHdWOWRYMFpTZXlrRGVhVUJSV2FTX2JEcmNCc3hsU2FXS3dQLVpkbUVKQmRBOXhIZDAzVlNzTVJwNWJFZ24wTk81LUdNU0pCX2Vwby1FNkNFR2FpU21nSDFROWpNY0U3SUFSVDZYZVFyT3hwOXFPbVFiejNDRk5nM2NLVzRaRmgw?oc=5"
     },
     {
       "t": "Xbox Game Pass de novembro recebe High on Life 2 e mais jogos! Veja a lista",
@@ -39,16 +49,6 @@
       "c": "Geral",
       "img": "https://tvsimbrasil.com.br/_next/image?url=https%3A%2F%2Fapi-news.tvsimbrasil.com.br%2Fstorage%2Farticles%2F4f505a3b-6c12-461a-b1f4-6965c45ab4f1.webp&w=1200&q=75",
       "orig": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHlxaXpaTW5xOVJvdUZwTnBWcDJmcEZCX0NiRUxRRVJtYlZER0tMUEdIMTZyWTIzaGh5WlVqN29JdmF4T3owRVR1M3RiYUVMMUVrVkgxVGNzS0s1dExVd1BibnFfQ0Y2SVljdm0wc05qUkY0OU44dWhKa2JtNHVEMktxM1hPUGdmZk1kY0ZIVzcxakdnTUU4UDhGMTU0TkZyNkpxN0hzYXdKdXh2N0hyTGI4c2ZmMmRWR1E?oc=5"
-    },
-    {
-      "t": "Conheça Samus Aran, a destemida caçadora de recompensas",
-      "d": "",
-      "link": "https://www.nintendo.com/pt-br/whatsnew/conheca-samus-aran-a-destemida-cacadora-de-recompensas/",
-      "fonte": "Nintendo",
-      "data": "2026-11-19T22:41:18.000Z",
-      "c": "Geral",
-      "img": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXkzenl3ZFUtb3dyclNGdW5HRVo4M1hwbGR4aFp0ZmFiUFd5UTByVjYtQ3d5NjVUeWU0eFUyVy1aRzFHMl9jdlNGcFRCWTAtT2ctUHFOb0pya2R5Tld6czFvM1c5N0M3LVFsdDhJUDV0MWk4N0h2Y1F1dkQ2WE1xS2Exakd1R1VOWnhkMC1VNEk3cFBpdGVmTWlqaw?oc=5"
     },
     {
       "t": "Saros e mais jogos para PS4 e PS5 com até 90% OFF na PS Store",
@@ -488,16 +488,6 @@
     }
   ],
   "lancamentos": [
-    {
-      "t": "Resequence: The Orchard",
-      "data": "2026-11-20",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawjl.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/resequence-the-orchard"
-    },
     {
       "t": "Light of Atlantis",
       "data": "2026-11-24",
@@ -4663,6 +4653,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobssm.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/brainshell"
+    },
+    {
+      "t": "Descent Of Lunaris",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarch.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/descent-of-lunaris"
     }
   ],
   "musicas": []
