@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-20T01:48:04.732Z",
+  "atualizadoEm": "2026-11-20T02:18:11.634Z",
   "noticias": [
+    {
+      "t": "3ª edição do Space Today Experience reúne ciência, games e cultura geek",
+      "d": "",
+      "link": "https://www.metropoles.com/colunas/metropoles-games/space-today-experience-ciencia-games-geek",
+      "fonte": "Metrópoles",
+      "data": "2026-11-20T01:57:00.000Z",
+      "c": "Geral",
+      "img": "https://i.metroimg.com/H-S8ctztsDmWmoc3udSk25tOYmaSAQWohHBXhsihGm4/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/11/sergio-sacani.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNemd6TGV0ZGt0RVRYREVMaTFfczhuLTA0TDNlV3IwUWMwcXBLUkg1S0hjbkE1bnBGbnBURkZRSXhxU1R3RThJV3FLQlNLS0FSU2NaQ29lZURBdXVnTGhhMUNvbHFNVmpnZ2RXY20zenhXWnVUQ05Ia1VscHQ5UlEyRk54S05MYmJBa3ZNRjBqS0laVm85N3BKMg?oc=5"
+    },
     {
       "t": "Xenoblade Chronicles 3 recebe atualização que prepara jogo para o Nintendo Switch 2",
       "d": "",
@@ -40,16 +50,6 @@
       "c": "Ofertas",
       "img": "https://projectn.com.br/wp-content/uploads/2026/04/zelda-livro.jpg",
       "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSFFKSnFmVzdxUXhuSTBtS2ZGaTFRNm1ndUxmY0V1eDZWNnN3LVlnTGlOajhSNXpaeWNZakRBNjkwOXlpNC12SlZHVlpJVlJHSVBYQWxEWHByRE5hcEh3NG5OV1dYYjJPWG00UWNDYkZuaTVyeHlmT3hyUTNWeU0tMV93Tm1yQTZWM1B5N3kzTQ?oc=5"
-    },
-    {
-      "t": "Estratégia da TIM integra lançamento de GTA VI e PlayStation 5 para acelerar planos de alto valor",
-      "d": "",
-      "link": "https://brasilinovador.com.br/estrategia-da-tim-integra-lancamento-de-gta-vi-e-playstation-5-para-acelerar-planos-de-alto-valor/",
-      "fonte": "Brasil Inovador",
-      "data": "2026-11-19T23:25:59.000Z",
-      "c": "Consoles",
-      "img": "https://brasilinovador.com.br/wp-content/uploads/2026/09/brasil-inovador-11.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzhsVUdNVWFJS2tEYW9nZTVrSGpaVUhfQzA0R0VFeEsydEZhT0k0V1BMN1YxYTVKLThrSkRmc2hUbUdsWk5tNHdWOWRYMFpTZXlrRGVhVUJSV2FTX2JEcmNCc3hsU2FXS3dQLVpkbUVKQmRBOXhIZDAzVlNzTVJwNWJFZ24wTk81LUdNU0pCX2Vwby1FNkNFR2FpU21nSDFROWpNY0U3SUFSVDZYZVFyT3hwOXFPbVFiejNDRk5nM2NLVzRaRmgw?oc=5"
     },
     {
       "t": "Xbox Game Pass de novembro recebe High on Life 2 e mais jogos! Veja a lista",
@@ -291,7 +291,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8322,
+      "views": 8328,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -395,7 +395,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3560,
+      "views": 3561,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -475,7 +475,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3130,
+      "views": 3131,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -483,7 +483,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3703,
+      "views": 3704,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -4406,7 +4406,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coagk9.jpg",
-      "hype": 2,
+      "hype": 1,
       "link": "https://www.igdb.com/games/devoid--1"
     },
     {
