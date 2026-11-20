@@ -1,15 +1,14 @@
 {
-  "atualizadoEm": "2026-11-20T22:16:40.001Z",
+  "atualizadoEm": "2026-11-20T22:46:48.560Z",
   "noticias": [
     {
-      "t": "GTA VI ganha álbum estrelado com Lana Del Rey e Dua Lipa",
+      "t": "Orbitals e mais jogos para Switch na eShop com até 90% OFF",
       "d": "",
-      "link": "https://alternativanerd.com.br/games/gta-vi-ganha-album-estrelado-com-lana-del-rey-e-dua-lipa/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-11-20T21:52:23.000Z",
-      "c": "Geral",
-      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/06/AN_GTA-6-garota.webp",
-      "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejhEQjh0TkU5Ul9xX0hhSGJvSEMwVGVuVWZGZnpvX2thN1Z5RENXWjl5OFItT0YtRmRTZHVpakF4bEdMMG96dW9NdC1uZnJNeE1DZjQwZHk0S3ZfWHNyOFhDWnNKZ2NlSVRkemFxNjVKVjRMdWZRWGg4d2I4Ymp4Q25qbUtFNElWWEJzdngyR2Y5STVMa3NoY2ln?oc=5"
+      "link": "https://www.estadao.com.br/tecmundo/voxel/orbitals-e-mais-jogos-para-switch-na-eshop-com-ate-90-off/",
+      "fonte": "TecMundo",
+      "data": "2026-11-20T22:30:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/L7UWRSUXJJPONBHWRF4BEO34GU.jpg?quality=80&auth=9217a5b3dc48098a68987b258b65d73ac4f7b447c2ae076b7a7c961251381a88&width=710"
     },
     {
       "t": "Box com os dois artbooks oficiais de Elden Ring está com 50% de desconto na Amazon",
@@ -325,7 +324,7 @@
       "id": "-4zg_Y74HoA",
       "t": "KUSARIGAMA LENDARIA FLOR DA MORTE é MUITO DANO | ASSASSINS CREED SHADOWS!",
       "data": "2025-06-19T20:00:00Z",
-      "views": 262,
+      "views": 263,
       "img": "https://i.ytimg.com/vi/-4zg_Y74HoA/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=-4zg_Y74HoA"
     },
@@ -389,7 +388,7 @@
       "id": "gZSUZuB5jJ0",
       "t": "PICTO INSANO MUITO ROUBADO TENHA MAIS TURNOS | EXPEDITION 33",
       "data": "2025-05-22T17:01:01Z",
-      "views": 2384,
+      "views": 2385,
       "img": "https://i.ytimg.com/vi/gZSUZuB5jJ0/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=gZSUZuB5jJ0"
     },
@@ -405,7 +404,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3561,
+      "views": 3562,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -437,7 +436,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6746,
+      "views": 6748,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -611,16 +610,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coddx7.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/core-valley"
-    },
-    {
-      "t": "RoadHouse Manager",
-      "data": "2026-11-30",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaxlo.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/roadhouse-manager"
     },
     {
       "t": "GrimKeep",
@@ -4670,6 +4659,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1li.jpg",
       "hype": 9,
       "link": "https://www.igdb.com/games/object-impermanence"
+    },
+    {
+      "t": "It's Always Happy at Chubby's",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarr2.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/its-always-happy-at-chubbys"
     }
   ],
   "musicas": []
