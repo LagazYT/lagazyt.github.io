@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T07:30:58.909Z",
+  "atualizadoEm": "2026-11-20T08:01:09.325Z",
   "noticias": [
     {
       "t": "Grand Theft Dortmund! Niko Kovac admite não entender de PlayStation enquanto astros do BVB enlouquecem com o novo GTA VI",
@@ -32,14 +32,14 @@
       "orig": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNemd6TGV0ZGt0RVRYREVMaTFfczhuLTA0TDNlV3IwUWMwcXBLUkg1S0hjbkE1bnBGbnBURkZRSXhxU1R3RThJV3FLQlNLS0FSU2NaQ29lZURBdXVnTGhhMUNvbHFNVmpnZ2RXY20zenhXWnVUQ05Ia1VscHQ5UlEyRk54S05MYmJBa3ZNRjBqS0laVm85N3BKMg?oc=5"
     },
     {
-      "t": "Xenoblade Chronicles 3 recebe atualização que prepara jogo para o Nintendo Switch 2",
+      "t": "Códigos GTA 6: lista completa de cheats e trapaças para PS5 e Xbox",
       "d": "",
-      "link": "https://projectn.com.br/xenoblade-chronicles-3-recebe-atualizacao-que-prepara-jogo-para-o-nintendo-switch-2/",
-      "fonte": "Project N",
-      "data": "2026-11-20T01:25:23.000Z",
+      "link": "https://www.adrenaline.com.br/artigos/codigos-gta-6-lista-completa-de-cheats-e-trapacas-para-ps5-e-xbox/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-20T01:57:00.000Z",
       "c": "Consoles",
-      "img": "https://projectn.com.br/wp-content/uploads/2026/09/xenoblade_chonicles_3.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1NpY1lQLS01cl84OHpUNTFlZ2lpVFNkbm9RcjdpSGV4enQtcXhOVUkwQ2s4SWRkcWtMSUZKZ1hodEVSbFdaYy1jS19UaHVZc1dteEc0eWdSRTFJdlRfdGdzdGl1VHczOWlhamxLdlNPNTN2VTZoZ0t0SXlUak53MkFDdHpSU0RNc0J2SjBXQWNIVWREOTRHSHRGZ1QyUnFoVVpfRnM5OTd6Z3du?oc=5"
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTAVI-35.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXYyU1IxampodkZlQ3dqdXBTeVE3dTBBTEVzTTN0ejBiTUFtdkZSSUJudmRFU004N3ZWMHYxYjBaakxnV0kzbkVfeUNmT3N4UTZtRGx0TFpUbGF1OVRvU3g5YWx5eHVaUHJvbnBQazB0ZW1rUGQ3QzloVS1ZcUtHeGpBUktqWkFrdXpubnExcHUzTk5sZFdLMTJsRHRvZzY2ZEpBUTZMYw?oc=5"
     },
     {
       "t": "Como resgatar os benefícios da Ultimate Edition de GTA 6? Veja o guia",
@@ -292,7 +292,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8330,
+      "views": 8332,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -484,7 +484,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3705,
+      "views": 3706,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
@@ -4104,16 +4104,6 @@
       "link": "https://www.igdb.com/games/frostliner"
     },
     {
-      "t": "Warfactory",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob20t.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/warfactory"
-    },
-    {
       "t": "My Bookshop Dreams",
       "data": "2026-12-31",
       "plats": [
@@ -4665,6 +4655,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarch.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/descent-of-lunaris"
+    },
+    {
+      "t": "Under Heaven or Hell",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazw3.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/under-heaven-or-hell"
     }
   ],
   "musicas": []
