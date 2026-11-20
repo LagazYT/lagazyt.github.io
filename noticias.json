@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-20T23:16:56.398Z",
+  "atualizadoEm": "2026-11-20T23:47:05.085Z",
   "noticias": [
+    {
+      "t": "Ugly Within é anunciado para PS5, Xbox Series, Switch 2 e PC",
+      "d": "",
+      "link": "https://pizzafria.ig.com.br/news/ugly-within-anunciado-ps5-switch-2-pc/",
+      "fonte": "Pizza Fria",
+      "data": "2026-11-20T23:16:14.000Z",
+      "c": "PC",
+      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/Ugly-Within.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QbW5MUUhRVE9aNE1vUERjSWp2VFlFeGdfeHNYR0tNYlJtS21sT1pQblZ4dERNQllHVWRtdWkxTjc5Q0tjZUthUHdxb0ZnMDVOWGZDeXY0eWFxcEJSVTFMX2dlQ0txV09MR183OXA0dzgxb3BPWU9IZGJyZw?oc=5"
+    },
     {
       "t": "AnimeIngá 2026 volta a Maringá com entrada gratuita e atrações para fãs da cultura pop",
       "d": "",
@@ -50,24 +60,14 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/imagem-2026-11-20-155051121_sf3c.jpg"
     },
     {
-      "t": "Black Friday: confira 10 ofertas imperdíveis de games, livros, carros e muito mais",
+      "t": "PlayStation anuncia ofertas de Black Friday e fim de ano no Brasil",
       "d": "",
-      "link": "https://veja.abril.com.br/comportamento/black-friday-confira-10-ofertas-imperdiveis-de-games-livros-carros-e-muito-mais/",
-      "fonte": "VEJA",
-      "data": "2026-11-20T20:34:29.000Z",
+      "link": "https://agitosp.com.br/playstation-anuncia-ofertas-de-black-friday-e-fim-de-ano-no-brasil/",
+      "fonte": "AgitoSP",
+      "data": "2026-11-20T20:46:37.000Z",
       "c": "Ofertas",
-      "img": "https://veja.abril.com.br/wp-content/uploads/2026/11/playstation.jpg?quality=70&strip=info&resize=1200,630&crop=1",
-      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOFNHZ0FfTGpEMmhxZ2JHdUZ3U055MmVSZ1ZhMDVoOW14RzZRZG5hTktCTHd6U0J5M190TWdyaGlIYm1iMHdMaW54RXZhRXNidFU5MTBNbjdtNjluUmRYYzIzdFhjaTFrWWVoaEwwWE53U0tOX1hrUDZ0RVBsaWpLVVNOSC1Pd2tfM0U0ejJqN2VkMEtWR2I0ODVJN3NKUmZYa3QtZUc5dnFjU05jZ1NNSU5LdUlvYTdhNUNaLQ?oc=5"
-    },
-    {
-      "t": "Windows 11 KB5132057: Busca de Arquivos e XBOX Mode Melhorados",
-      "d": "",
-      "link": "https://ultimaficha.com.br/2026/11/20/windows-11-kb5132057-busca-rapida/",
-      "fonte": "Última Ficha",
-      "data": "2026-11-20T20:33:22.000Z",
-      "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIYWpzU0tfZzFQaHJXa2FpcDkweVlpR2xkVzB1bWlwRXdFOWRrRGNad2Zna09ncEUxbElLQW16R3pQd2tRVmhuWGxrVWI2Y3d5UXJGeDRlTVJvSENmN2FxQ3VOMXVtZVlwQ2tBUVFvUjhjUS1kcVV2LUN4M3k?oc=5"
+      "img": "https://agitosp.com.br/wp-content/plugins/agitosp-editorial-engine/assets/social-fallback/viva-sp.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV0ZZeTdOWVFLaE9TX2dLckxRXzRsRk1DdFBlOTBEYmFPMHVzeEZUckpaTHhha2VTTFFRT0I2OXplZzdTNjE5V09UclBFNk9UU05YOGZLUmZJdkRIakpjODJyMWFKdlRienMxU0NPLVE3dFpwMXhsRGd1c0ItV3hiUjBKazVqOTdMVHpERDJlSVktXzFM?oc=5"
     },
     {
       "t": "MSI apresenta RTX 5080 de COD MW4 e confirma lançamento para o Brasil",
@@ -405,7 +405,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3561,
+      "views": 3562,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -581,6 +581,26 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/codcm9.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/fishing-nooks-beavers-pond"
+    },
+    {
+      "t": "BPM Boy",
+      "data": "2026-11-27",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ul0.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/bpm-boy"
+    },
+    {
+      "t": "Dreadwinter",
+      "data": "2026-11-27",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9bj.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/dreadwinter"
     },
     {
       "t": "Am I Nima",
@@ -2099,16 +2119,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6m2g.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/dread-pilots"
-    },
-    {
-      "t": "Dreadwinter",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc9bj.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/dreadwinter"
     },
     {
       "t": "Cyber Paradise",
@@ -4660,16 +4670,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazw3.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/under-heaven-or-hell"
-    },
-    {
-      "t": "Object Impermanence",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1li.jpg",
-      "hype": 9,
-      "link": "https://www.igdb.com/games/object-impermanence"
     }
   ],
   "musicas": []
