@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T11:23:27.038Z",
+  "atualizadoEm": "2026-11-21T11:53:35.073Z",
   "noticias": [
     {
       "t": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile! (21)",
@@ -86,6 +86,16 @@
       "data": "2026-11-21T02:24:11.000Z",
       "c": "Consoles",
       "img": "https://sm.ign.com/ign_br/blogroll/h/h3death-st/h3death-stranding-directors-cuth3brdeath-stranding-is-making_u8hb.jpg"
+    },
+    {
+      "t": "GTA 6 roda a 60 fps com DLSS 5 no PC via Remote Play do PS5",
+      "d": "",
+      "link": "https://www.gamevicio.com/noticias/2026/11/gta-6-60fps-dlss-5-remote-play-ps5/",
+      "fonte": "GameVicio",
+      "data": "2026-11-20T22:57:41.000Z",
+      "c": "PC",
+      "img": "https://www.gamevicio.com/wp-content/uploads/2026/11/gta-6-60fps-dlss-5-remote-play-ps5.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejZ0c0lvSUh6aXRyc05RX295OW5NbnVQN1RBamgwOHk4TDBGUjBPRW1ZM3JyMGQwV3RMMmF3QjU3QkI1VXJoeHFkRXpMTzBzdkZuSnRfUVR6QkNidGNocXB0R240V1JqYXVWMTVWUlozejMwWE9JZGpwMXJ5cngzRUI4WTU?oc=5"
     },
     {
       "t": "Orbitals e mais jogos para Switch na eShop com até 90% OFF",
@@ -268,15 +278,6 @@
       "data": "2026-11-20T15:00:30.000Z",
       "c": "Lançamentos",
       "img": "https://www.youtube.com/embed/DqCdA1B0cUA"
-    },
-    {
-      "t": "GTA 6 pirata? Hacker Cyberleek está de volta com build ilegal do jogo",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-pirata-hacker-cyberleek-esta-de-volta-com-build-ilegal-do-jogo/",
-      "fonte": "TecMundo",
-      "data": "2026-11-20T14:14:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/M2ZQDJK4INKQFDVBHR43ME7V5M.jpg?quality=80&auth=130f2befce38fe571dfa47701805272bab3554298a287fc25fd4539629160722&width=710"
     }
   ],
   "videos": [
@@ -284,7 +285,7 @@
       "id": "3oZewmz2Wjk",
       "t": "I Found an ALIEN SPACESHIP in GTA 6",
       "data": "2026-11-20T13:23:57Z",
-      "views": 70,
+      "views": 73,
       "img": "https://i.ytimg.com/vi/3oZewmz2Wjk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3oZewmz2Wjk"
     },
@@ -300,7 +301,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8345,
+      "views": 8346,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
