@@ -1,6 +1,35 @@
 {
-  "atualizadoEm": "2026-11-21T11:53:35.073Z",
+  "atualizadoEm": "2026-11-21T12:23:43.055Z",
   "noticias": [
+    {
+      "t": "GTA 6 corre a 60fps na Xbox Series X com um glitch",
+      "d": "",
+      "link": "https://www.eurogamer.pt/gta-6-corre-a-60fps-na-xbox-series-x-com-um-glitch",
+      "fonte": "Eurogamer.pt",
+      "data": "2026-11-21T12:16:00.000Z",
+      "c": "Consoles",
+      "img": "https://assetsio.gnwcdn.com/Brian_Heder_04_NnC3mGN.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUFxcjZvdmx4N3p6Z1dRejFIU3VONXVRQmlqVUdkYlBGS0lBZzdnNE9jVXVicHBvV2l6SGFqbDBONHRnS1ctbTRxdndrTG9XUXdaTndvUEw0MEJRbnp2SUw0dl9FY29oY0xremJndnhTenNSNjlHaTl0Zm9tR2NPbA?oc=5"
+    },
+    {
+      "t": "Why Effie Trinket From The Hunger Games: Sunrise On The Reaping Looks So Familiar",
+      "d": "",
+      "link": "https://www.imdb.com/pt/news/ni66121959/?ref_",
+      "fonte": "IMDb",
+      "data": "2026-11-21T12:14:58.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IaTl3amphZllFOWtCMl9vSGljbllzc0JBMmF0OEh3Q2pGOEQtSFdpelJKcEM4dVVJTlJXelNwcUdwTGZqbjRLcDFOSndoSHlqZnNGQjZTMGZGVjI1XzF2RGJlcG8yQThjVXc?oc=5"
+    },
+    {
+      "t": "Masashi Kishimoto trará uma das batalhas mais aguardadas pelos fãs em novo mangá de Naruto",
+      "d": "Com Masashi Kishimoto no comando de um novo mangá de Naruto, os fãs de longa data podem esperar grandes momentos",
+      "link": "https://br.ign.com/naruto-1/157794/masashi-kishimoto-trara-uma-das-batalhas-mais-aguardadas-pelos-fas-em-novo-manga-de-naruto",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-21T12:00:35.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_sv94.png"
+    },
     {
       "t": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile! (21)",
       "d": "",
@@ -57,26 +86,6 @@
       "data": "2026-11-21T09:00:41.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/news/r/resident-e/resident-evil-requiem-star-hopes-grace-ashcroft-has-a-long-w_gjuz.jpg"
-    },
-    {
-      "t": "Ofertas de Black Friday para consoles chegam com PlayStation, Xbox e Nintendo",
-      "d": "",
-      "link": "https://gamepad.com.br/p/lpolee",
-      "fonte": "gamepad.com.br",
-      "data": "2026-11-21T08:10:12.000Z",
-      "c": "Ofertas",
-      "img": "https://images.gamepad.com.br/og/431bffd1-170e-4989-9203-7df5119a77d3.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xeWNOWXlKXzBLZC1wNmJGTkhqczJYZ2hHdklsTzR2OWFyTVViR2J3LU5sYmhVTkZXVkVtemFubGp5OTFNVXc?oc=5"
-    },
-    {
-      "t": "Xsolla conecta jogadores, marcas e públicos de videogames por meio de engajamento recompensado",
-      "d": "",
-      "link": "https://realnews.com.br/341124-xsolla-conecta-jogadores-marcas-e-publicos-de-videogames-por-meio-de-engajamento-recompensado/",
-      "fonte": "realnews.com.br",
-      "data": "2026-11-21T04:55:01.000Z",
-      "c": "Geral",
-      "img": "https://realnews.com.br/wp-content/uploads/2026/06/realnews-default-MHM0iN.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGNUTG9BMTUzNWQzT2JIWUxYMHR1dkdwV3NBcXk0Y2ZmUm1VU0VjeVFLQlY5WFZzb0pQZGY0YzVvZ25QVS10a1VaR0NoRF8xZGhGNW5yWTdpQWkxaEZHRWNKd09JaGR1ZVJGSFd6NnJBYnhCSVlGdThNYWpCTHJVTFVmdUJWV3FGV0U2cU16VEZLY3JDSjJ5ODM4ZEt2Wk5MeDA3SG9jYnZ2WjZIYjdNRVlLRE9kamZJYzc5a1BfQzFFSjg?oc=5"
     },
     {
       "t": "Death Stranding para PS4 e PS5 despenca de preço na Black da Amazon",
@@ -260,15 +269,6 @@
       "data": "2026-11-20T15:15:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/FIE7AKJTPVETNCQNUHYJY6RDQM.jpg?quality=80&auth=5f66b7d76763fcc5942bfdb2353879ef7b7cc1f2a8a2cecbdfed9927b01c5ba6&width=710"
-    },
-    {
-      "t": "GTA 6 Bikini Girl Screenshots",
-      "d": "",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157822/gta-6-bikini-girl-screenshots",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-20T15:07:10.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/gallery/g/gta-6-biki/gta-6-bikini-girl-screenshots_7qk3.jpg"
     },
     {
       "t": "Exodus: trailer revela versão feminina do protagonista Jun",
