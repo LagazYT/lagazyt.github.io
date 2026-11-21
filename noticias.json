@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-21T15:54:33.451Z",
+  "atualizadoEm": "2026-11-21T16:24:39.180Z",
   "noticias": [
+    {
+      "t": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (21)",
+      "d": "",
+      "link": "https://www.estadao.com.br/em-alta/tecmundo/voxel/xbox-game-pass-recebe-6-novos-jogos-esta-semana-veja-os-lancamentos-21/",
+      "fonte": "Estadão",
+      "data": "2026-11-21T16:18:58.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/OE66IO4QJVLG5CDNZDQNFVAR3Q.jpg?quality=80&auth=2ce9fd99b5bd6a6061a0b74db1883873b6542fba91bdc509073d08fb0428cebe&width=1200&height=630&smart=true",
+      "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOS1MZXl5WHoyVmdfdWxfcnJqSlNvTmhwN1FScUFTeC0zVi1JbS1sWEVwMFRCRW5iWk54OGVTbzdrdDhSbW12TXc3NFhmeElKM21JcDZsWG4xaVByOWwwN2lWem1xc1FzcGhhTXVZQVAyZkc1dktCM2JxX0tLbzl2MnBTMWNPMlg3ZWVJTzlXME1CNlJZRC02dVBzc3loT3hFenNKSXhrOG1oVHhmNFNxN1ZKYmt2aW01UFM1a0dB?oc=5"
+    },
     {
       "t": "Kitsune Zero, plataforma com raposa e yōkai, sai de surpresa no Switch",
       "d": "",
@@ -49,16 +59,6 @@
       "data": "2026-11-21T15:10:52.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/lg-ultragear-25g523b-capa-1280x720_ujk7.jpg"
-    },
-    {
-      "t": "Volvy’s Adventure: Reslimed | Review",
-      "d": "",
-      "link": "https://alternativanerd.com.br/games/volvys-adventure-reslimed-review/",
-      "fonte": "Alternativa Nerd",
-      "data": "2026-11-21T15:03:19.000Z",
-      "c": "Geral",
-      "img": "https://uploads.alternativanerd.com.br/wp-content/uploads/2026/08/AN_Volvys-Adventure-Reslimed.webp",
-      "orig": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fb1RBTGx2YmF1Q2hpOWVINC0ycU03WWszYkNZXzZSTktNSFZPQlNrYUJLZ2RvYnVuazloUkd3WC1sN2Vxem1vRzlVN2FkLUJQSEJFTEx1S0F5XzUtS0FRdkxGUVkwZVMxRFVfSkxDZzNCZ3daRnkzb0pR?oc=5"
     },
     {
       "t": "Mais leve e resistente: veja a nova coleção Carbon Fiber da Razer",
@@ -389,7 +389,7 @@
       "id": "gZSUZuB5jJ0",
       "t": "PICTO INSANO MUITO ROUBADO TENHA MAIS TURNOS | EXPEDITION 33",
       "data": "2025-05-22T17:01:01Z",
-      "views": 2388,
+      "views": 2389,
       "img": "https://i.ytimg.com/vi/gZSUZuB5jJ0/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=gZSUZuB5jJ0"
     },
@@ -437,7 +437,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6748,
+      "views": 6752,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -453,7 +453,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20487,
+      "views": 20488,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -469,7 +469,7 @@
       "id": "ugGDjTdbvpU",
       "t": "MELHOR ARMA PARA MAELLE APÓS O NERF | EXPEDITION 33!",
       "data": "2025-05-13T17:30:14Z",
-      "views": 5549,
+      "views": 5550,
       "img": "https://i.ytimg.com/vi/ugGDjTdbvpU/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ugGDjTdbvpU"
     },
