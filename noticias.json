@@ -1,52 +1,73 @@
 {
-  "atualizadoEm": "2026-11-21T12:53:51.116Z",
+  "atualizadoEm": "2026-11-21T13:23:57.620Z",
   "noticias": [
+    {
+      "t": "‘GTA 6’ se torna o “maior lançamento da história do entretenimento” com quase US$ 4 bilhões em vendas",
+      "d": "",
+      "link": "https://rollingstone.com.br/rs-gaming/gta-6-se-torna-o-maior-lancamento-da-historia-do-entretenimento-com-quase-us-4-bilhoes-em-vendas/",
+      "fonte": "Rolling Stone Brasil",
+      "data": "2026-11-21T13:19:10.000Z",
+      "c": "Lançamentos",
+      "img": "https://rollingstone.com.br/wp-content/uploads/2026/11/gta-6-jason-e-lucia-foto-reproducao-rockstar.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZDZlQXRWS0tNM1NFUXlsUEpiSXVxRkRSMGwyd29PYTZseG9oTzFuRzFrNEdpa1ktamFCZzFtZUdIeWhrMzBYODJTai1lalo2Y0txYTBUTE5wTm16bl9zTTZkSko5Zzk1RU9aZGs1d3ZrQmNEVjhVQS1fZ0QzQkNjWTR1dFlNWHZ5ck9VM0NiYkctWnZJb3A0akE1TmRWUFdzUG8xcFdxSkhocDhvdW1sVGV1UFkwSG5ubUxyWnNZeVBuYWhKNVpuaDIxVVNDaklp?oc=5"
+    },
+    {
+      "t": "Dreadmoor traz aventura sombria com pesca",
+      "d": "Pouco tempo após ter sido lançado, Dreadmoor tem conquistado os jogadores na Steam com uma pesca diferenciada",
+      "link": "https://flowgames.gg/dreadmoor-traz-aventura-sombria-com-pesca/",
+      "fonte": "Flow Games",
+      "data": "2026-11-21T13:00:41.000Z",
+      "c": "PC",
+      "img": "https://www.youtube.com/embed/pcZFq3vk36U"
+    },
+    {
+      "t": "“Gabe Newell nos protege de empresas parasitárias como a Microsoft”: veterano de DOOM vê cofundador da Valve como um herói",
+      "d": "Gabe Newell é uma das figuras mais reconhecidas no mundo dos jogos, tanto por seus elogios quanto por suas críticas",
+      "link": "https://br.ign.com/doom/157796/gabe-newell-nos-protege-de-empresas-parasitarias-como-a-microsoft-veterano-de-doom-ve-cofundador-da",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-21T13:00:36.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_86yp.png"
+    },
+    {
+      "t": "Nem Marvel’s Wolverine salvou: Sony fica fora do Jogo do Ano após 12 anos",
+      "d": "",
+      "link": "https://www.hardware.com.br/games/sony-fica-fora-goty-2026/",
+      "fonte": "Hardware.com.br",
+      "data": "2026-11-21T12:53:51.000Z",
+      "c": "Geral",
+      "img": "https://www.hardware.com.br/wp-content/uploads/2026/11/Nem-Marvels-Wolverine-salvou-Sony-fica-fora-do-Jogo-do-Ano-apos-12-anos.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDMER6NmJVN1hlLW1IVjhQUmg0b0dXd3NXMzdDZ3dlb1R5WU0zMXdJSExqWTVYcHBCV1ZqbU1vc1NOTWJqcVZycU9DT2xKZzE5OHBETnNzRnFidWlaTFV3aEU5WTZLWDZwbkNn?oc=5"
+    },
     {
       "t": "Spirit Crossing ganha trailer de lançamento no Nintendo Switch e Switch 2",
       "d": "",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVlaa2VLTnd0OXNQbzdOTkVEZXh4aEdhaTFiR2RHdVFxS0pVTVo3SHBzZ3lyeVZzazdwUElHXzU0VzdtMXVlcVVraGFIRkdTN18xVE1sSGtHcTUxaGdBaEtJWUdBZFJzRjk0enF1cDNEY3R2cTM0YXBLM1lhNkFWSG5paDltUmZKLUxBaGhlcnpOVTlyem4xNTloNmlsR290LW5jaDlFWGxQU1lOZVB2cmszeTZEaDRQ?oc=5",
+      "link": "https://www.nintendoblast.com.br/2026/11/spirit-crossing-ganha-trailer-de-lancamento-no-nintendo-switch-switch-2.html",
       "fonte": "Nintendo Blast",
       "data": "2026-11-21T12:46:43.000Z",
       "c": "Consoles",
-      "img": ""
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCDBBKQwo38tzcSv0VfXK_gIqt94faR9MvYQLsu5e-RX6K3uLtMrk4HoTQs3kEeOM6MrdbxsL0YuOTQRn3gUOFOG7GWk53Ueck64TqjiZ9ZZEq8MbF8m0EKfWa_4Xri7Tr2q8wHdjmoefOgIjV1hz4orlia20StbI9-Py6ttD5M-5NEwOU3VTGXFp4N3oy/w1200-h630-p-k-no-nu/spirit.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVlaa2VLTnd0OXNQbzdOTkVEZXh4aEdhaTFiR2RHdVFxS0pVTVo3SHBzZ3lyeVZzazdwUElHXzU0VzdtMXVlcVVraGFIRkdTN18xVE1sSGtHcTUxaGdBaEtJWUdBZFJzRjk0enF1cDNEY3R2cTM0YXBLM1lhNkFWSG5paDltUmZKLUxBaGhlcnpOVTlyem4xNTloNmlsR290LW5jaDlFWGxQU1lOZVB2cmszeTZEaDRQ?oc=5"
     },
     {
       "t": "Games viram oportunidade de negócios e empregos no interior de SP no mercado internacional",
       "d": "",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZG5EdnFISkEtWTdTUmFGNVZCRDZGRFFLMU9taXJoRlNTMkhUNnhEdVEzZ3pTVWFud21KN3JxUmpQZXpQSXVwZ3FLbmZCNklGV3Q5QmJHT3V4bUhkaFplRUhwaDl5RmxwbmJtU3RHODM4bEFkU2xURE9ZZHJyUF9OYTBlU3dMdVM5S3hHWWFvdkZaY3Z6ekstSTFTQ1dQc1hyUFFFR29rS1FfakZiNjRvdVBhbTFGc0s1Q3c?oc=5",
+      "link": "https://ancora1.com/noticias/games-viram-oportunidade-de-negcios-e-empregos-no-interior-de-sp-no-mercado-internacional",
       "fonte": "Âncora 1",
       "data": "2026-11-21T12:38:00.000Z",
       "c": "Geral",
-      "img": ""
+      "img": "https://ancora1.com/site/views/_data/news/games-viram-oportunidade-de-negcios-e-empregos-no-interior-de-sp-no-mercado-internacional-1795222398.png",
+      "orig": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZG5EdnFISkEtWTdTUmFGNVZCRDZGRFFLMU9taXJoRlNTMkhUNnhEdVEzZ3pTVWFud21KN3JxUmpQZXpQSXVwZ3FLbmZCNklGV3Q5QmJHT3V4bUhkaFplRUhwaDl5RmxwbmJtU3RHODM4bEFkU2xURE9ZZHJyUF9OYTBlU3dMdVM5S3hHWWFvdkZaY3Z6ekstSTFTQ1dQc1hyUFFFR29rS1FfakZiNjRvdVBhbTFGc0s1Q3c?oc=5"
     },
     {
       "t": "Quanto vale à pena pagar no ROG Xbox Ally na Black Friday 2026?",
       "d": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONmRscThpcHhXcU96LVN0aHp3a25xVjMyOW0tM2JDTUtPNGtyX0hnV3dwQ3FjTWRIQ2NPSndVMUNiV3RVZFFqeTEwS0pQQmI3VTZYMHRaR2dYQjRQUzVxbms4M3VmQVlqVGswdUw1TW5WTDdPRG5OWG9WWnRZNTFEVnhoVDBfN1diQjNBNDVYUQ?oc=5",
+      "link": "https://canaltech.com.br/hardware/black-friday-quanto-vale-a-pena-pagar-rog-xbox-ally/",
       "fonte": "Canaltech",
       "data": "2026-11-21T12:30:04.000Z",
       "c": "Ofertas",
-      "img": ""
-    },
-    {
-      "t": "GTA 6 corre a 60fps na Xbox Series X com um glitch",
-      "d": "",
-      "link": "https://www.eurogamer.pt/gta-6-corre-a-60fps-na-xbox-series-x-com-um-glitch",
-      "fonte": "Eurogamer.pt",
-      "data": "2026-11-21T12:16:00.000Z",
-      "c": "Consoles",
-      "img": "https://assetsio.gnwcdn.com/Brian_Heder_04_NnC3mGN.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYUFxcjZvdmx4N3p6Z1dRejFIU3VONXVRQmlqVUdkYlBGS0lBZzdnNE9jVXVicHBvV2l6SGFqbDBONHRnS1ctbTRxdndrTG9XUXdaTndvUEw0MEJRbnp2SUw0dl9FY29oY0xremJndnhTenNSNjlHaTl0Zm9tR2NPbA?oc=5"
-    },
-    {
-      "t": "Why Effie Trinket From The Hunger Games: Sunrise On The Reaping Looks So Familiar",
-      "d": "",
-      "link": "https://www.imdb.com/pt/news/ni66121959/?ref_",
-      "fonte": "IMDb",
-      "data": "2026-11-21T12:14:58.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IaTl3amphZllFOWtCMl9vSGljbllzc0JBMmF0OEh3Q2pGOEQtSFdpelJKcEM4dVVJTlJXelNwcUdwTGZqbjRLcDFOSndoSHlqZnNGQjZTMGZGVjI1XzF2RGJlcG8yQThjVXc?oc=5"
+      "img": "https://tl.ctcdn.com.br/jR9qU2Mw9lnV3nqZPVRNioczse4=/1200x675/smart/filters:format(webp):quality(85)/5d43495e-b348-4ef9-bcc3-cb2b56efaa92.png",
+      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONmRscThpcHhXcU96LVN0aHp3a25xVjMyOW0tM2JDTUtPNGtyX0hnV3dwQ3FjTWRIQ2NPSndVMUNiV3RVZFFqeTEwS0pQQmI3VTZYMHRaR2dYQjRQUzVxbms4M3VmQVlqVGswdUw1TW5WTDdPRG5OWG9WWnRZNTFEVnhoVDBfN1diQjNBNDVYUQ?oc=5"
     },
     {
       "t": "Masashi Kishimoto trará uma das batalhas mais aguardadas pelos fãs em novo mangá de Naruto",
@@ -250,15 +271,6 @@
       "img": "https://sm.ign.com/ign_br/news/g/gta-6-play/gta-6-players-are-refusing-to-make-use-of-an-infinite-money_8t6p.jpg"
     },
     {
-      "t": "É possível terminar o relacionamento de Jason e Lucia em GTA 6?",
-      "d": "Para aqueles que querem a vida de solteiro GTA 6 é um marco na franquia da Rockstar porque, pela primeira vez, a história é protagonizada por um casal. Jason e Lucia são o coração desse novo...",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157823/e-possivel-terminar-o-relacionamento-de-jason-e-lucia-em-gta-6",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-20T15:18:43.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/jason-and-lucia-13_py1c.jpg"
-    },
-    {
       "t": "Como trocar de personagem em GTA 6? Saiba mudar entre Jason e Lucia no gameplay",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/como-trocar-de-personagem-em-gta-6-saiba-mudar-entre-jason-e-lucia-no-gameplay/",
@@ -266,15 +278,6 @@
       "data": "2026-11-20T15:15:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/FIE7AKJTPVETNCQNUHYJY6RDQM.jpg?quality=80&auth=5f66b7d76763fcc5942bfdb2353879ef7b7cc1f2a8a2cecbdfed9927b01c5ba6&width=710"
-    },
-    {
-      "t": "Exodus: trailer revela versão feminina do protagonista Jun",
-      "d": "Versão feminina de Jun em Exodus parece ter sido bem recebido pelo público",
-      "link": "https://flowgames.gg/exodus-trailer-revela-feminina-do-protagonista-jun/",
-      "fonte": "Flow Games",
-      "data": "2026-11-20T15:00:30.000Z",
-      "c": "Lançamentos",
-      "img": "https://www.youtube.com/embed/DqCdA1B0cUA"
     }
   ],
   "videos": [
@@ -282,7 +285,7 @@
       "id": "3oZewmz2Wjk",
       "t": "I Found an ALIEN SPACESHIP in GTA 6",
       "data": "2026-11-20T13:23:57Z",
-      "views": 70,
+      "views": 74,
       "img": "https://i.ytimg.com/vi/3oZewmz2Wjk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3oZewmz2Wjk"
     },
@@ -298,7 +301,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8345,
+      "views": 8346,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
