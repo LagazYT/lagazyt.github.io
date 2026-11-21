@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T02:17:41.350Z",
+  "atualizadoEm": "2026-11-21T02:29:12.138Z",
   "noticias": [
     {
       "t": "Próxima semana no Xbox: 23 a 27 de nov – 21 lançamentos",
@@ -10,6 +10,16 @@
       "c": "Consoles",
       "img": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/nwox-hero-ef51c7c09b225a954b30.jpg",
       "orig": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdzhGRTV2OHdaNXNQU3VkS2JwQ2xWMFc2TGRQVEMxd29YSjNyMFJkRldjQklvMkV1VHRrNjNIcVlWNFo1bGFja2w4Y1o4YklZNWN6c3FJMy1fYXdQMl8tQjM1eFBLNXNxdE84blAySklsWFZSVm41Y3dVdVJTeG4wcUFSYw?oc=5"
+    },
+    {
+      "t": "BrokenLore: MIKI-CHAN confirma versão para o Switch 2",
+      "d": "",
+      "link": "https://universonintendo.com/brokenlore-miki-chan-confirma-versao-para-o-switch-2/",
+      "fonte": "Universo Nintendo",
+      "data": "2026-11-21T00:03:07.000Z",
+      "c": "Consoles",
+      "img": "https://universonintendo.com/wp-content/uploads/2026/11/BrokenLore-MIKI-CHAN-KEYART.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZXlzOHNKN3Joa2FuTnZ3c0NLZEFkNjJKbFBzT2sxVEM5b3RqUDBhMmhqN2Z3SDY5SU1BRlRtTWp6dFlOQ3lFM3RlQ1F4dnBRck80VjRPMjBGM3lJTVlxOGJENmx2RzRiWTlQUENnd0ZGMEdZd3RjeHhwZG1POWNCcmRoTVd0S0pJZEE?oc=5"
     },
     {
       "t": "Jogatina de FDS #85: o que estamos jogando",
@@ -40,16 +50,6 @@
       "c": "Lançamentos",
       "img": "https://universonintendo.com/wp-content/uploads/2025/12/Baptiste-KEYART.jpg",
       "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWGdxNmdxUDMxeHVwMWJTZWdZaDdBUVZhRUJiQ3R1Y0g1ZHZsazhzTVpuZUxYUF9ISm9PazZlbW53SldOMzlmUDBfc2tnSHIwWVhieVZMc2h0OV9jaGtkbGx2Z2h2NDBnZzhnZFFWcV9uNjN2eFl5YXl6TEtBdGduWlg1dUx3WHMzY3VDUWlFUmgwMEdwcHJMck4yX0FEQzA?oc=5"
-    },
-    {
-      "t": "Ugly Within é anunciado e Serafini revela trailers de mais cinco jogos de terror",
-      "d": "",
-      "link": "https://pizzafria.ig.com.br/news/ugly-within-anunciado-ps5-switch-2-pc/",
-      "fonte": "Pizza Fria",
-      "data": "2026-11-20T23:16:14.000Z",
-      "c": "Lançamentos",
-      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/Ugly-Within.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QbW5MUUhRVE9aNE1vUERjSWp2VFlFeGdfeHNYR0tNYlJtS21sT1pQblZ4dERNQllHVWRtdWkxTjc5Q0tjZUthUHdxb0ZnMDVOWGZDeXY0eWFxcEJSVTFMX2dlQ0txV09MR183OXA0dzgxb3BPWU9IZGJyZw?oc=5"
     },
     {
       "t": "GTA 6 roda a 60 fps com DLSS 5 no PC via Remote Play do PS5",
@@ -301,7 +301,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8340,
+      "views": 8344,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -389,7 +389,7 @@
       "id": "gZSUZuB5jJ0",
       "t": "PICTO INSANO MUITO ROUBADO TENHA MAIS TURNOS | EXPEDITION 33",
       "data": "2025-05-22T17:01:01Z",
-      "views": 2387,
+      "views": 2388,
       "img": "https://i.ytimg.com/vi/gZSUZuB5jJ0/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=gZSUZuB5jJ0"
     },
@@ -429,7 +429,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 4035,
+      "views": 4042,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
