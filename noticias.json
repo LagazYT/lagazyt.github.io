@@ -1,55 +1,82 @@
 {
-  "atualizadoEm": "2026-11-21T16:24:39.180Z",
+  "atualizadoEm": "2026-11-21T19:27:47.770Z",
   "noticias": [
+    {
+      "t": "Antena 10 FM",
+      "d": "",
+      "link": "https://www.antena10fm.com.br/noticiaatual/geral_homem-que-comprou-ps5-para-jogar-gta-vi-e-perdeu-console-apos-raio-atingir-casa-ganha-dois-videogames-novos",
+      "fonte": "Antena 10 FM",
+      "data": "2026-11-21T19:18:37.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNb0RmTEdWRzR3Tm1JZ3hkMS1sZmZJMnJCcEJ5VVhWT3N0WWJHdVByMnh0R0tCbWNlUlNtajUyR0lwRTNhbUxVUWFPaHBxWHpjNzZOT3VCSVZWeWtIbGJMWGxFOWxQeXZoU2dOVnFvOXdyMnF3MnNhOURKNXVMU21ZcVljQlIwREJKVkx2LUZXREFCLV9EbndDYUtMQ1JrUVdTTjQxX3lQOXhaZTBIcFNOeXZ1VE82azZIc05CM19KWUFHMXJyakZIU2tjZTRjM0JWRmJ2X1g3OGJBY2xEajVuODJvWU1TbVJIUHJ4cA?oc=5"
+    },
+    {
+      "t": "Call of Duty: Modern Warfare 4: guia com dicas para iniciantes",
+      "d": "",
+      "link": "https://www.nintendoblast.com.br/2026/11/dicas-e-truques-call-of-duty-modern-warfare-4-switch2.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-11-21T19:03:10.000Z",
+      "c": "Geral",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYTAaL09yhc9llnq5YNNqRM76DX68gK_4V01AuY3LCuizrCmGH33OV-u4nCPu1ZnMuzcxv9MCb12wj4ztOmTDxm987KhoZU5U_I6T2ZCvpvTU9oYLdyd7VtRR7hnz2UT53C4m7IlMP2gqZ_W4sfEeWItuAmLWI6RNsAzlzJjLlopkyk0EcXoln0UAiYqI/w1200-h630-p-k-no-nu/call-of-duty-modern-warfare-4-confirmado-nintendo-switch-2.webp",
+      "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0ZiS2JTd29xXy1uckVtT1A5NjdJYi1HemJKSDllZTZSNnZDUlhCcGxVQUtOWDcxT0Q0Yk4tcVB3TG04cmhWNjZkN3FmNkVVQWI3WW9VaEFGTkU4RzB6ZjFabklxVzd2UjJwZTJfQnV0NDJlWG1LYUZVNkxxOENZVDRpYjVEcmZCZlhGMklBNUJ2b2t4SmpTMjl0UjNCay1t?oc=5"
+    },
+    {
+      "t": "Homem que comprou PS5 para jogar GTA VI e perdeu console após raio atingir casa ganha dois videogames novos",
+      "d": "",
+      "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/21/homem-que-comprou-ps5-para-jogar-gta-vi-e-perdeu-console-apos-raio-atingir-casa-ganha-dois-videogames-novos.ghtml",
+      "fonte": "G1",
+      "data": "2026-11-21T19:02:23.000Z",
+      "c": "Consoles",
+      "img": "https://s2-g1.glbimg.com/uYBrwIq5TQORHc52ZpqBrvZH8X0=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/i/WFu44ISCOEHf4JAw5E0w/texto-do-seu-paragrafo-2026-11-21t150725.668.png",
+      "orig": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVFJGUmJOM1B2bmF5TGFDVVNvSDhoSWNnbWoxakg3T1VxTGkzSFZ6RzRfYmpwQXNkV0VPLWdjM2JtV2ZsQWpfNnlsNzd1WmtQQktGVHY5WDVXb0R0Snp0NFFsdU55Nm1Oa01pS2wzaWdlMk1IOGxndmtZTzAzc19oMk1wQTAxOTR4aFZfTl82b0dMUzNZWDc5X0pYVE9Bekxld2p6MzRwQlVMN1NndDJOMmpDVE9nUTMtS2RqY2hWSGZ5cVlzNERpLVFCbm1NY1FkWUxEVHE3a0lZNGI4QmhDOWg0QXBnYVdFUkVpNU5fYUkxV3VIcFU4dklGYmt5REdlSlR30gGSAkFVX3lxTE1jOXZNaW9QN21Zc0FQaVFmdXhObC13Z3BvRmV0WktQM3NCVVM2ejVta2N3Q1c2VHd6dUNhdnp2cXNaZzZVM0RjTk95NXpZa083OC1Oall3N1ByUy1rc1p2b3I1U2hhOVFld3k1NWpQMXFMaTV5SUlNU2VQODhwZHNCTmlTNTVWVnhNdmhTNFJ6NGNYUUN0aTY3bHMyYWtJcEZwR3g3V2RnZ3o5M3E0WWMzYk9Ta0VPYVh6WnN3U3JRTzVwdGEwT09vTENWc09OVDg4UVp2Y19iNHVzbGt4djJwTVJENTdrMnFQdV9tYlNfcVpwQjYyM0htYVhyVkdmLWNXMHdLQ1JsRm9LenU3N09nV2c?oc=5"
+    },
+    {
+      "t": "Américas | Nintendo Store: Top 50 jogos que são tendência – Zelda: Ocarina of Time permanece em No. 1",
+      "d": "",
+      "link": "https://universonintendo.com/americas-nintendo-store-top-50-jogos-que-sao-tendencia-zelda-ocarina-of-time-permanece-em-no-1-2/",
+      "fonte": "Universo Nintendo",
+      "data": "2026-11-21T18:58:41.000Z",
+      "c": "Consoles",
+      "img": "https://universonintendo.com/wp-content/uploads/2026/11/Zelda-Ocarina-of-Time-ALT-4.png",
+      "orig": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdTBMQ282bEVFVV85Ukg5SzMwa0lzSEhsMlozaHFfbGpHN2p1VTRKZWIyZlVXaWZDUG04QzAzNGtiZUxZVURwQUxoYmlPQnpQZmFNNDgzWkk1SEJlT0pVbGRpeTVjUlhNdER1RnM5cl82amE1YWJ5M09HM3JXNlpSUHl4aEwxMlF3c1J6S1F3X2x0anRrR3RXZElRLVZieDJZbmdZMWZQdDlHS1NKWEdVVnhpVHVYNElLV3J1SDMyLWNmNk5I?oc=5"
+    },
+    {
+      "t": "Japão | Weekly Famitsu No. 1972 – Top 10 jogos mais aguardados pelos leitores",
+      "d": "",
+      "link": "https://universonintendo.com/japao-weekly-famitsu-no-1972-top-10-jogos-mais-aguardados-pelos-leitores/",
+      "fonte": "Universo Nintendo",
+      "data": "2026-11-21T18:38:41.000Z",
+      "c": "Geral",
+      "img": "https://universonintendo.com/wp-content/uploads/2026/03/Pokemon-Ventos-Ondas-18-03-2026-2.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3hrbmxlM09aTFJCU09hamE3eXFMSUw3VlFOUVJLcFdXTXdHaXM5bWxqS1FkMDRBSGZ4ZmdiOGpGT1llLUJ6Wl90ejBxdWdCZ0plbkhuU2FxOEYxcDl0aHp1cVRSeGxzcmNXdjVHWlllUkhwa2dndXlGbWxPVDlVbEdJc29OUmZHVnNhZ0lYSHNpSmt0VHlkOUM2UGlZb3hYUG5XMQ?oc=5"
+    },
+    {
+      "t": "Mega Man Dual Override revela chefe feito por brasileiro",
+      "d": "Conheça o chefão de Mega Man Dual Override com DNA brasileiro",
+      "link": "https://flowgames.gg/mega-man-dual-override-revela-chefe-feito-brasileiro/",
+      "fonte": "Flow Games",
+      "data": "2026-11-21T18:00:33.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.youtube.com/embed/lfOSvGwvT18"
+    },
+    {
+      "t": "Polícia japonesa prende ladrão apelidado \"Homem-Aranha da Chuva\" depois de 10 anos aterrorizando os prédios de Tóquio",
+      "d": "Suspeito escalava e invadia prédios em dias chuvosos para não ser notado ​A Polícia Metropolitana de Tóquio prendeu Yuki Horiguchi , de 33 anos, suspeito de ser o autor de uma série de furtos...",
+      "link": "https://br.ign.com/homem-aranha-um-novo-dia/157728/policia-japonesa-prende-ladrao-apelidado-homem-aranha-da-chuva-depois-de-10-anos-aterrorizando-os-pr",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-21T17:00:33.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/photo/default/sbnd-27223-r-resized-1785242428532_waay.jpg"
+    },
     {
       "t": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (21)",
       "d": "",
-      "link": "https://www.estadao.com.br/em-alta/tecmundo/voxel/xbox-game-pass-recebe-6-novos-jogos-esta-semana-veja-os-lancamentos-21/",
-      "fonte": "Estadão",
-      "data": "2026-11-21T16:18:58.000Z",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-6-novos-jogos-esta-semana-veja-os-lancamentos-21/",
+      "fonte": "TecMundo",
+      "data": "2026-11-21T16:15:00.000Z",
       "c": "Consoles",
-      "img": "https://www.estadao.com.br/resizer/v2/OE66IO4QJVLG5CDNZDQNFVAR3Q.jpg?quality=80&auth=2ce9fd99b5bd6a6061a0b74db1883873b6542fba91bdc509073d08fb0428cebe&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOS1MZXl5WHoyVmdfdWxfcnJqSlNvTmhwN1FScUFTeC0zVi1JbS1sWEVwMFRCRW5iWk54OGVTbzdrdDhSbW12TXc3NFhmeElKM21JcDZsWG4xaVByOWwwN2lWem1xc1FzcGhhTXVZQVAyZkc1dktCM2JxX0tLbzl2MnBTMWNPMlg3ZWVJTzlXME1CNlJZRC02dVBzc3loT3hFenNKSXhrOG1oVHhmNFNxN1ZKYmt2aW01UFM1a0dB?oc=5"
-    },
-    {
-      "t": "Kitsune Zero, plataforma com raposa e yōkai, sai de surpresa no Switch",
-      "d": "",
-      "link": "https://projectn.com.br/kitsune-zero-lancamento-surpresa-nintendo-switch/",
-      "fonte": "Project N",
-      "data": "2026-11-21T15:39:59.000Z",
-      "c": "Consoles",
-      "img": "https://projectn.com.br/wp-content/uploads/2026/11/Kitsune-Zero-trailer.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WeHZyWDJlSlFfQlJ1WkVwbUpoT1VhODZVdlVnSG04c1ZrZWRYbzdqM3FDTTJBRExhXzU0a1lTeVhMZWFHeGpXZFVkMHE5ODB6WWltTGhqV0VCd1pyeXI5bVpGeGpBWEZDZi1SdDhxeU8tRl9Ka1cxWVA2UWtFZw?oc=5"
-    },
-    {
-      "t": "Tiny Pizza chega ao Nintendo Switch em 26 de novembro",
-      "d": "",
-      "link": "https://projectn.com.br/tiny-pizza-nintendo-switch-26-novembro/",
-      "fonte": "Project N",
-      "data": "2026-11-21T15:24:56.000Z",
-      "c": "Consoles",
-      "img": "https://projectn.com.br/wp-content/uploads/2026/11/tinypizza-1.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PNmwyN1JIbWNVOEROTlZpTHlTb2RBUEVOcW5IejgxN2hfVVJMbW5zUnBXckRwc2dzX1RRS2s0cEJadmIta3NvdkM2eEZxZVlXUGdLZVFfWVgwUXFQVnV6UDNzWXZJVFdielhlUENtaXM?oc=5"
-    },
-    {
-      "t": "Sindicatos europeus da indústria de games publicam manifesto contra o uso de IA generativa",
-      "d": "",
-      "link": "https://www.hardware.com.br/games/sindicatos-europeus-da-industria-games-publicam-manifesto-contra-uso-ia-generativa/",
-      "fonte": "Hardware.com.br",
-      "data": "2026-11-21T15:21:14.000Z",
-      "c": "Geral",
-      "img": "https://www.hardware.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-17-160903-1416x797.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSWxIMEZob1JscWIxaFF1c1RrTWtpZW82MW9lZlE3SU9FQkU0STZjT3lwUlJfWmVZbExCSU9GZlJSQkRwdTFnQmE0Q01KSm9VdjRxM0cwbHNUMkFxZDJfV0toeExVdDNtNUp3M3hyajBYMTJzeFJzZ2ZqZDVtdzkwV3pTbURmQmhyUlJhZXhaS2U2SnJWajdoczNHLUItbTFLZTJkb1k1WmxYd2ZYM20zblJqRFhXRW54?oc=5"
-    },
-    {
-      "t": "Thysiastery chega ao Nintendo Switch em 3 de dezembro",
-      "d": "",
-      "link": "https://projectn.com.br/thysiastery-switch-data-3-dezembro/",
-      "fonte": "Project N",
-      "data": "2026-11-21T15:20:20.000Z",
-      "c": "Consoles",
-      "img": "https://projectn.com.br/wp-content/uploads/2026/11/Thysiastery1.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGNV8tNW42bTBUdXIxbFFMRjVSNFppOFE0Mld3amItRU1RMXBieHJGbi1teDFaNTFGWGV1VjZldTU0SEdVSWg1dk93M1pKdFhvSktfc1VkX3JLbHpITDR4Z0FBX0pKT2k5X0tJ?oc=5"
+      "img": "https://www.estadao.com.br/resizer/v2/OE66IO4QJVLG5CDNZDQNFVAR3Q.jpg?quality=80&auth=2ce9fd99b5bd6a6061a0b74db1883873b6542fba91bdc509073d08fb0428cebe&width=710"
     },
     {
       "t": "Últimas unidades da oferta: monitor gamer LG UltraGear de 25\" e 200 Hz por R$ 551 na Amazon",
@@ -188,15 +215,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/L7UWRSUXJJPONBHWRF4BEO34GU.jpg?quality=80&auth=9217a5b3dc48098a68987b258b65d73ac4f7b447c2ae076b7a7c961251381a88&width=710"
     },
     {
-      "t": "Box com os dois artbooks oficiais de Elden Ring está com 50% de desconto na Amazon",
-      "d": "Edição da Panini em capa dura reúne cenários, masmorras, inimigos e armas do jogo em português",
-      "link": "https://br.ign.com/descontos/157830/box-com-os-dois-artbooks-oficiais-de-elden-ring-esta-com-50-de-desconto-na-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-20T21:00:35.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem-2026-11-20-155051121_sf3c.jpg"
-    },
-    {
       "t": "MSI apresenta RTX 5080 de COD MW4 e confirma lançamento para o Brasil",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/msi-apresenta-rtx-5080-de-cod-mw4-e-confirma-lancamento-para-o-brasil/",
@@ -260,24 +278,6 @@
       "c": "Ofertas",
       "img": "https://www.adrenaline.com.br/wp-content/uploads/2024/05/Ghost-of-Tsushima-veja-diferencas-do-jogo-rodando-no-PS5-e-no-PC.jpg",
       "orig": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa2VDWVkwUFlwZTZVal9sSWt0SmI0aTVRM290MkxtT0piT2hIM1VNam5RRkpEMXYwMXFBZjBYNmtOOUdzZlp1OEZ2QnZyY2ZfbmJCQ3NSOThvdTZ5UUNsSngtMnJQdm01Zk9RbHRjcVNhWGRXQjFXWGlPS2RvWmZmZUFIZU5lTUMwNjhaSktXcFVQalRwZnpSS3IzRDdRNS1FVW9BUHBUUmotZnRmRzhB?oc=5"
-    },
-    {
-      "t": "GTA 6: a cobertura completa do Flow Games!",
-      "d": "Confira a lista com todas as dezenas de matérias do Flow Games sobre GTA 6",
-      "link": "https://flowgames.gg/gta-6-tudo-sobre-o-jogo-ps5-xbox-series/",
-      "fonte": "Flow Games",
-      "data": "2026-11-20T17:00:44.000Z",
-      "c": "Geral",
-      "img": "https://www.youtube.com/embed/Y8x_j-h_i3g"
-    },
-    {
-      "t": "GTA 6: como correr com o botão X ou A",
-      "d": "O GTA 6 traz uma opção para que os jogadores possam correr com o botão X ou A. Veja como usá-la!",
-      "link": "https://flowgames.gg/gta-6-como-correr-com-o-botao-x-ou-a/",
-      "fonte": "Flow Games",
-      "data": "2026-11-20T16:00:21.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/09/GTA-6-Lucia-na-academia.jpg"
     }
   ],
   "videos": [
@@ -285,7 +285,7 @@
       "id": "3oZewmz2Wjk",
       "t": "I Found an ALIEN SPACESHIP in GTA 6",
       "data": "2026-11-20T13:23:57Z",
-      "views": 74,
+      "views": 104,
       "img": "https://i.ytimg.com/vi/3oZewmz2Wjk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3oZewmz2Wjk"
     },
@@ -453,7 +453,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20488,
+      "views": 20492,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -521,6 +521,26 @@
       "link": "https://www.igdb.com/games/gothic-3-classic"
     },
     {
+      "t": "PiPu Party",
+      "data": "2026-11-24",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coat3t.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/pipu-party"
+    },
+    {
+      "t": "Rekindled",
+      "data": "2026-11-24",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc651.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/rekindled"
+    },
+    {
       "t": "Bore",
       "data": "2026-11-24",
       "plats": [
@@ -539,6 +559,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1at.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/ezalm-magics-memory"
+    },
+    {
+      "t": "Forge the Fates",
+      "data": "2026-11-25",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbd0.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/forge-the-fates"
     },
     {
       "t": "Sunstone of Time",
@@ -601,6 +631,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobylu.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/reshine"
+    },
+    {
+      "t": "Split Brain Samsara",
+      "data": "2026-11-26",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc266.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/split-brain-samsara"
     },
     {
       "t": "Shark Mart",
@@ -4250,16 +4290,6 @@
       "link": "https://www.igdb.com/games/wonderfall"
     },
     {
-      "t": "Forge the Fates",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbd0.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/forge-the-fates"
-    },
-    {
       "t": "Grindworm",
       "data": "2026-12-31",
       "plats": [
@@ -4636,36 +4666,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapnr.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/gladiators-of-roma-revixit"
-    },
-    {
-      "t": "Cairn: Stone Towers",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapog.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/cairn-stone-towers"
-    },
-    {
-      "t": "Plantverk: Perfectly Plantastic Plant Simulator",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauc6.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/plantverk-perfectly-plantastic-plant-simulator"
-    },
-    {
-      "t": "Project Sara",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapw8.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/project-sara"
     }
   ],
   "musicas": []
