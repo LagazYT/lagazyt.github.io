@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T00:47:21.200Z",
+  "atualizadoEm": "2026-11-21T01:17:27.470Z",
   "noticias": [
     {
       "t": "Próxima semana no Xbox: 23 a 27 de nov – 21 lançamentos",
@@ -603,6 +603,16 @@
       "link": "https://www.igdb.com/games/reshine"
     },
     {
+      "t": "Shark Mart",
+      "data": "2026-11-26",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc5la.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/shark-mart"
+    },
+    {
       "t": "Fishing Nooks: Beaver's Pond",
       "data": "2026-11-26",
       "plats": [
@@ -651,6 +661,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobya4.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/dwarrf-a-pinball-roguelike"
+    },
+    {
+      "t": "10 Million Pixels",
+      "data": "2026-11-27",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod7ys.jpg",
+      "hype": 2,
+      "link": "https://www.igdb.com/games/10-million-pixels"
     },
     {
       "t": "6guY2",
@@ -4646,30 +4666,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapw8.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/project-sara"
-    },
-    {
-      "t": "Paper.Void",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocin6.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/paper-dot-void"
-    },
-    {
-      "t": "Dumb Ways to Party",
-      "data": "2026-12-31",
-      "plats": [
-        "Xbox",
-        "Switch 2",
-        "PC",
-        "PS5",
-        "Switch"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaqqm.jpg",
-      "hype": 4,
-      "link": "https://www.igdb.com/games/dumb-ways-to-party"
     }
   ],
   "musicas": []
