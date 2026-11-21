@@ -1,6 +1,45 @@
 {
-  "atualizadoEm": "2026-11-21T14:24:10.382Z",
+  "atualizadoEm": "2026-11-21T14:54:16.691Z",
   "noticias": [
+    {
+      "t": "Com artes de Jim Kay, edição especial do primeiro livro de Harry Potter entra em oferta na Amazon",
+      "d": "Edição tem capa dura, ilustrações coloridas e uma luva ilustrada",
+      "link": "https://br.ign.com/descontos/157833/com-artes-de-jim-kay-edicao-especial-do-primeiro-livro-de-harry-potter-entra-em-oferta-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-21T14:42:38.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/harry-potter-pedra-filosofal-jim-kay-produto-1280x720_4n85.jpg"
+    },
+    {
+      "t": "Bug Bounty em Jogos: 2 de 5 Plataformas Confirmam",
+      "d": "",
+      "link": "https://shattered.io/pt/bug-bounty-jogos-steam-playstation-xbox-nintendo-epic-2026/",
+      "fonte": "shattered.io",
+      "data": "2026-11-21T14:25:57.000Z",
+      "c": "Geral",
+      "img": "https://shattered.io/pt/wp-content/uploads/sites/10/2026/11/bug-bounty-jogos-steam-playstation-xbox-nintendo-epic-2026-img13.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNclZuOGh6Tnlac0FHOU1JR1NQTXZPOUVoUW9kMWJZdy1UaTNneWFhc2hocUk2RHREbUdxRkF2ZktiLWJzRFlMZDlhZTlrVFdYRkRHRlh5NERNWmI4NFl3ZjBYa1lfaGZzUUtXUm0zNnRMNzFjZDdYSXhhZW1SanRIN0hPbklFZzZaTGpV?oc=5"
+    },
+    {
+      "t": "Limitador de velocidade adaptativo de GTA 6 transforma o gatilho do DualSense do PS5 em piloto automático, e jogadores do Xbox ficam de fora",
+      "d": "",
+      "link": "https://www.notebookcheck.info/Limitador-de-velocidade-adaptativo-de-GTA-6-transforma-o-gatilho-do-DualSense-do-PS5-em-piloto-automatico-e-jogadores-do-Xbox-ficam-de-fora.1456192.0.html",
+      "fonte": "Notebookcheck.info",
+      "data": "2026-11-21T14:21:39.000Z",
+      "c": "Consoles",
+      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/Grand-Theft-Auto-VI-Screenshot-of-Jason-and-Lucia-in-55-Vapid-Stanier-Deluxe-Vehicle-Image-Source-Rockstar-Games.jpg.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTEVUTjF3MzNubkJ6Y3FEWEgwalBOc2t0eFB4RmV3bzdQem9FSVMxdmhtYUZfV1ZUMUw1VVZPTzlqMDF1ZU1vZmRCdWgyLUJXRWRpUUFQT3lXMHVGdzNhdVBxbFliMGlrZDFrMmNjdzZUUS1xV0J3MVozZzFRc2Fka2RpNXRIb1haSUFTODY0TDJFTXVUZTNDblRNN2F0REl6N2xCZDVwb0JwYmR4V3BaaVdfeFVNS1dVVkJlMC1KM2I3cFJLbnRHYVFGamFuN2w1TFY1M0tzT1RiZXZ4QzdoZ2FfWUJxLU9GWEs4RGRLQi1Xb2hzSERrb1NNY0hBOHJOY0pYbGo1VzIwNFc2SWM1NFNCTQ?oc=5"
+    },
+    {
+      "t": "Aplicativo Nintendo Today! adiciona pacote de cartas de Ocarina of Time para o remake do Switch 2",
+      "d": "",
+      "link": "https://www.notebookcheck.info/Aplicativo-Nintendo-Today-adiciona-pacote-de-cartas-de-Ocarina-of-Time-para-o-remake-do-Switch-2.1456188.0.html",
+      "fonte": "Notebookcheck.info",
+      "data": "2026-11-21T14:21:38.000Z",
+      "c": "Consoles",
+      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/ocarina-of-time-nintendo-today-cards-featured.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVWJpdnN5QjcyVWtpLUt2dGwwWFJrX1N3eUxpWm9ZY29vQlhuVk9sak1zLS0zanJ2YzJtcjJnWXQzcnl3c1hUdWRvODljOHoteFZoOW15ZllNM240SUFPSWViZnhnY0FoZ0NPRWwzQkNobjRIb0lSQmxrZUlORFJ0M0JpX1ZNTGtyYlFTQTdId3lpT0tBanBtS3BaRzRJQjVWUE1pSnNrVzNNQVNqRzd5SG8yeUxSTkJlTUlNUHRLUHMzNDhaNkJ2RlVmLWFsMndHRXhmRmlOZmM5UQ?oc=5"
+    },
     {
       "t": "Jogo sem IA vira destaque em competição da Epic Games dedicada à inteligência artificial",
       "d": "",
@@ -22,16 +61,6 @@
       "orig": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSVNEdGtFUWJuVks3N29sc3BXdHlSd29JREU4QkptdUpjWTZpV2JfSEY1YzN3NzRZbU1GdjU5cGlSdkwyd2U3UU5WdkRNTTllRV9HMEtLQ3h5cFdLQ2FydWZGVjEwc1RUUFVDWFJjVVhFT29ONGRDVnM4VXhweW9WSUFUM1pGQmJ4X0ZZQm9hX2NrS2RnWXFLTm12emEwZDBMd044aUQtdGR2OUo4eEd5SkZYWG53VE92MW9YVlh1d184QUNfU0VGUmF5TTFlbkdndjhuUlh1X0ZVM2Fnb2VEcmRObVB2enVZ?oc=5"
     },
     {
-      "t": "Lançamentos e ofertas de games da semana – 16 a 20 de novembro",
-      "d": "",
-      "link": "https://www.gameblast.com.br/2026/11/lancamentos-ofertas-games-da-semana-16-20-novembro.html",
-      "fonte": "GameBlast",
-      "data": "2026-11-21T14:03:38.000Z",
-      "c": "Ofertas",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzHECIukDA-1TMqfXXC6k3fGKjGqRVoWCuvqLZAeK9-Q_ug3x_EBYEHOYA3h2u_SIgq0_iICR1acfRBiUIdpca_MJ3agDsIvuBwgIn8qgx7kyLal6lc6KaWv39Pj3hXtj0KDoxMba62udLv5-GZmBWm6Jy8Ro7d7WFecDkVB9QoCwMMado88eCz0vpwxQ/w1200-h630-p-k-no-nu/lancamentos-ofertas-games-da-semana-16-20-novembro.png",
-      "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZUFqbUNOMkhuOHRnWWp1a2MzMVUzaFR3Rms3NUpUNzV1NWtzODNPTXhBaDVfZF9hTlZETWNJTGJUb1o0Y2VRME43NEZlV1JPUFBjbGxMQ0J0bHhydDZwM3BJLTRUTTNjbTVMak9EWWs0ZHU1WEpDNU4wZmR6SWlsZUxmd0V6WVZ4S1c2dmp5b2ZjcTI2RWlj?oc=5"
-    },
-    {
       "t": "Stellar Blade e mais jogos para PC na Steam com até 95% OFF",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/stellar-blade-e-mais-jogos-para-pc-na-steam-com-ate-95-off/",
@@ -39,26 +68,6 @@
       "data": "2026-11-21T14:00:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/Y2QNF6QQF5NN5K4KA4KUUWZ7VQ.jpg?quality=80&auth=34d894149c87330e7fd04a5c0154433a3f7f4cf02c2d3ff440935443e63ad12e&width=710"
-    },
-    {
-      "t": "Jogos de PlayStation em oferta por menos de R$ 35 na Black Friday",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/playstation/jogos-de-playstation-em-oferta-por-menos-de-r-35-na-black-friday/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-21T14:00:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2025/07/Criador-Dead-Space-Dirigir-Games-The-Callisto-Protocol.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2tweHBmU3hyTnFaWWMtWk9SSXc3VVhEUzUtZXVPT25IVXpGZ3B2aE81ek43YXR4ZEVMNElYdVJVYXV2aC0wdUFQYjVmUVFyNjY1dDN6SVowUWR1ZlU2X3lwdVNlV1lxLWE0eG45SkxkQ2lrWHFvc3pxNUw1RF9IcGxGUFBHaGpVSDc2QmRhdWNJdm5aV3BCYS1PeE1ZRU1ORVFNUTRqakhubjFIOG1GcWJ4WQ?oc=5"
-    },
-    {
-      "t": "Ubisoft demite 166 funcionários e segue com cortes na empresa",
-      "d": "",
-      "link": "https://www.metropoles.com/colunas/metropoles-games/ubisoft-demite-166-funcionarios-e-segue-com-cortes-na-empresa",
-      "fonte": "Metrópoles",
-      "data": "2026-11-21T13:47:00.000Z",
-      "c": "Geral",
-      "img": "https://i.metroimg.com/DmoXnh24EoRupr8mgy9wyNWvbof3Enyx7mVw7Gl8Iww/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/11/ubisoft.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1FqSklONVNYaktMRnRDMVV3VEpNVzlDUjF2RjhxYWg1OGlUQVpQOW5oSnhaREF3OUZWYVp5dXpzU2tIVFJ6VllzS3V3N0JWSXZZZF91NnBqX0lraEk2TTVmSDZvRDZwWkNYT1VybjJ3NVRzTjNsZXZkRThRdDJuUkxnVkhPc2pmVnZrejRJNGd6amFBZXFzT0hvajlid0FsYlhzT2lpMThRb2JFaVlxQzlCSQ?oc=5"
     },
     {
       "t": "Amazon está dando R$ 1.000 de desconto na próxima compra para quem levar um iPhone 18 Pro ou Pro Max",
@@ -269,15 +278,6 @@
       "data": "2026-11-20T16:00:00.000Z",
       "c": "Lançamentos",
       "img": "https://www.estadao.com.br/resizer/v2/IS6TCVBZMZGP5DLWAHHS4JGEEA.jpg?quality=80&auth=c5132d12d1b14c88fa35dc4699f9f9ff93e9fcc59b5d5bbb6528ad76e98d220c&width=710"
-    },
-    {
-      "t": "Quantos capítulos tem GTA 6?",
-      "d": "E uma bela história de amor GTA 6 chegou ontem para o resto do mundo (depois da Nova Zelândia, claro) e muitos estão se perguntando quanto tempo você passará com Jason e Lucia nesse novo capítulo...",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157824/quantos-capitulos-tem-gta-6",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-20T15:49:39.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/g/gta-6-fans/gta-6-fans-are-divided-over-confirmation-of-30fps_fxpf.jpg"
     }
   ],
   "videos": [
@@ -301,7 +301,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8346,
+      "views": 8345,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
