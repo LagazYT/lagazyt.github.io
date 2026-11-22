@@ -1,6 +1,36 @@
 {
-  "atualizadoEm": "2026-11-22T18:54:58.640Z",
+  "atualizadoEm": "2026-11-22T19:25:10.212Z",
   "noticias": [
+    {
+      "t": "MS Geek debate políticas públicas e abre caminhos para fortalecer o setor de games em Mato Grosso do Sul",
+      "d": "",
+      "link": "https://www.campograndenoticias.com.br/ms-geek-debate-politicas-publicas-e-abre-caminhos-para-fortalecer-o-setor-de-games-em-mato-grosso-do-sul/",
+      "fonte": "Campo Grande Notícias",
+      "data": "2026-11-22T19:19:45.000Z",
+      "c": "Geral",
+      "img": "https://i2.wp.com/campograndenoticias.com.br/wp-content/uploads/2026/11/MSGeek-Daniel-Reino-2.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHJRRTcwVmxlOVh6VkZFM0VzblBVWGQ0cjEtSVlpMDVTRVM5bUhwTUo5MHdnTFBsNlpUdFBpUzZBT2tYSjFDWHpXNklqTW9ha2VWN21kRGdYZTVTZk5KZEcwa3FzZWVrNkJhanZETVdCUDlwbVhpbE1CU2JkNnV5R0UyRERmOVBOUGJNUGZxT24wM1U2TXMtZ25IZThxbHlqZUdxWHNUUDdaUVZlRjlkbTZvTzV3T2dVYW1fbjlyYU5iZjNNX0l1YW1IbFJnRV9vXzJzdFhzaHVDR1Vk?oc=5"
+    },
+    {
+      "t": "Shinji Mikami critica o avanço da inteligência artificial generativa e teme impacto na indústria dos games",
+      "d": "",
+      "link": "https://evilhazard.com.br/shinji-mikami-critica-o-avanco-da-inteligencia-artificial-generativa-e-teme-impacto-na-industria-dos-games/",
+      "fonte": "EvilHazard",
+      "data": "2026-11-22T19:08:59.000Z",
+      "c": "Geral",
+      "img": "https://evilhazard.com.br/wp-content/uploads/2026/11/shinji-mikami-set-up-a-new-studio-to-help-young-devs-cover662bae686a21f.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUd3S2lzX05HbTU2d1B0eG1rYU9wWkUwMGhiajJTNkpTRm5qLUxFZldUMnFicjRPX3Q5ejZDWlNsMXpRWmxhM2FibW5uWjlwRmdVbmdoRnp3THhnSXdDUk0ybFktYm9Oa1JhdTlFb1BTQ1EwZEoxcGJ1RXV2V0F6czlzS3gxZW1sOTNtZVpiVktGeG9oZEQ3OGJadHdqRjZ6ZUdsVE5SSjdRRkRmR3lHYnY2ZzlqcE4tUzVzRmxDRjIzS1M2bjFOV294dzA0QQ?oc=5"
+    },
+    {
+      "t": "Noah Schnapp Says He Auditioned to Play Haymitch in ‘Hunger Games: Sunrise on the Reaping’: ‘They Picked Right for This One’",
+      "d": "",
+      "link": "https://www.imdb.com/pt/news/ni66123559/?ref_",
+      "fonte": "IMDb",
+      "data": "2026-11-22T19:04:49.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ob0VpNmVsV29qWEw3Q1JCYkw4Q19WM3NGSVpJSFlUT3BmVFFkMEtleXJUU2swRWdHX0xfZnYxRWlnODM3WDRXenFhZktxVTRSMjF3Y3NDbXRrMzJCVkI1WFZXUXBJUGpEMEE?oc=5"
+    },
     {
       "t": "LEGO do Dragão Ender bate as asas com manivela e está com 34% de desconto na Amazon",
       "d": "Conjunto de 710 peças tem cabeça, pescoço, cauda e pernas articuladas e item bônus para o jogo",
@@ -40,16 +70,6 @@
       "orig": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vTW9odmcyWEE0RXJEWHB6N3cxRnZPaWJ3WXZwMmFBOXdRSnJXVzZzRUpOVHVmcGNnQi10aFZubFM2Z1hNMHBpeHFiZVR1QW1WbVB4Rl9CaXhHTUtxekNrRXhiWQ?oc=5"
     },
     {
-      "t": "Jogos da Nintendo em oferta de Black Friday na Nuuvem por tempo limitado",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/noticias/jogos-da-nintendo-em-oferta-de-black-friday-na-nuuvem-por-tempo-limitado/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-22T17:27:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2024/12/donkey-kong-country-returns-hd.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0t3WGliWTZHOFNzX2tnRnZuNFNNa0o5Q3NFNFlMTlhrTkl5R1VsOEtkbkpBTjlWZ3JwRXpBaWV6V2hYVVFERUh5bnpqaHBSQ2RJUnFSejFmZ2RmUTZVMTlLcVE5bGcxQy1kc1R4Q3I5aC1oUDdMQktIMjJqWnM3SUxUcG9NUXlTR2dMOFFCRXFWUHFVV1RpNFhrd0lMTFQ3TzlBOWk1b0hJXzBKc3JzcGhB?oc=5"
-    },
-    {
       "t": "Para quem quer reviver a história de Ellie e Abby, The Last of Us Part II Remastered atinge 45% de desconto na Amazon",
       "d": "Versão para PS5 traz modo roguelike Sem Volta, melhorias gráficas e recursos do controle DualSense",
       "link": "https://br.ign.com/descontos/157838/para-quem-quer-reviver-a-historia-de-ellie-e-abby-the-last-of-us-part-ii-remastered-atinge-45-de-des",
@@ -57,26 +77,6 @@
       "data": "2026-11-22T17:16:41.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/news/t/the-last-o/the-last-of-us-part-2-multiplayer-mod-cancelled-at-sonys-req_g89u.jpg"
-    },
-    {
-      "t": "‘The Hunger Games: Sunrise on the Reaping’ Just Pulled Off a Prequel Feat Only ‘Rogue One’ Has Topped",
-      "d": "",
-      "link": "https://www.imdb.com/pt/news/ni66123333/?ref_",
-      "fonte": "IMDb",
-      "data": "2026-11-22T17:09:51.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TWkk3MF9qOEdDN0hXWHA5eHkyZmpXQi05RGR3Tk5DQmZBdnBRejNrMGpEc1FVcmNCTmFaN0VJVWNsSGVmQkwtdnhxcFktUk1ndGpOWWZzaGNLU1IyeHVmUFRXQVBrSVptS3Fn?oc=5"
-    },
-    {
-      "t": "Thronefall: O indie hit chega ao PS5, Xbox Series X|S e Game Pass com DLC Craaghelm no mesmo dia!",
-      "d": "",
-      "link": "https://www.gamerscore.com.br/thronefall-o-indie-hit-chega-ao-ps5-xbox-series-xs-e-game-pass-com-dlc-craaghelm-no-mesmo-dia/",
-      "fonte": "Gamerscore Brasil",
-      "data": "2026-11-22T17:01:25.000Z",
-      "c": "Consoles",
-      "img": "https://www.gamerscore.com.br/wp-content/uploads/2025/12/THRONEFALL.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWFd3eThmenhfckE1bGpXQlVmSmd6T1FpbElibkJkUE9ucEYyVV9iX0wyRlg4VzhtOW9VQ01HYUxpaXl0WEM1OWZoNHFLclRLa21Dd2hVS0dTdTMyUWRzSWphblJZWVc1YUVmcVFIbHhZQlJtcTFLNUMySFpCQlJzbGZORFJjX05rNVBUNEdMR2FGM3BDMTRmbTJxamJfLTBJdlR0c2IzNnEzS0pYRFBhRjBQZFZGM1IwalJvZkY0NHVldw?oc=5"
     },
     {
       "t": "O principal detalhe da trama de GTA 6 foi escondido a sete chaves",
@@ -285,7 +285,7 @@
       "id": "3oZewmz2Wjk",
       "t": "I Found an ALIEN SPACESHIP in GTA 6",
       "data": "2026-11-20T13:23:57Z",
-      "views": 138,
+      "views": 143,
       "img": "https://i.ytimg.com/vi/3oZewmz2Wjk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3oZewmz2Wjk"
     },
@@ -301,7 +301,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8359,
+      "views": 8360,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -453,7 +453,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20514,
+      "views": 20516,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -485,7 +485,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3134,
+      "views": 3135,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
@@ -3319,16 +3319,6 @@
       "link": "https://www.igdb.com/games/pico-drift"
     },
     {
-      "t": "Biofactory",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobqm3.jpg",
-      "hype": 2,
-      "link": "https://www.igdb.com/games/biofactory"
-    },
-    {
       "t": "The Lightkeeper is Gone",
       "data": "2026-12-31",
       "plats": [
@@ -4666,6 +4656,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapnr.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/gladiators-of-roma-revixit"
+    },
+    {
+      "t": "Cairn: Stone Towers",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coapog.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/cairn-stone-towers"
     }
   ],
   "musicas": []
