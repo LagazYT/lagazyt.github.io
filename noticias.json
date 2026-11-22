@@ -1,6 +1,24 @@
 {
-  "atualizadoEm": "2026-11-22T12:39:54.525Z",
+  "atualizadoEm": "2026-11-22T13:10:03.761Z",
   "noticias": [
+    {
+      "t": "GTA VI movimenta mercado de games em Goiás e impulsiona procura por consoles",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc3VDdPYVpuRjYzOElhNmotVnFMby1RajZfTTZyakh3YVQxNDlLdEp1YWZvR19CdVRGR3phSDZjV2lfN183b0JNQ1RhU0dyT3NfdmtGNjJWRTk3RUcxRDc4QjE4V0lDRmdnVko1NWIyTjBqUGZtQkRRZkFLYU9mTThoYWZCUzdEc3pONGdlV1hrQ3hYUV85UFQzaC01QUIwRU5GbF93bGdkeVlWM2I4clRvUFM0Y09yZjNDRkhzeE0?oc=5",
+      "fonte": "Jornal Opção",
+      "data": "2026-11-22T13:06:00.000Z",
+      "c": "Geral",
+      "img": ""
+    },
+    {
+      "t": "Dino Crisis 2 recebe mod que altera drasticamente os gráficos",
+      "d": "O novo mod de Dino Crisis 2 traz 60 fps, iluminação melhor, texturas refeitas e até modelos 3D novos! Veja",
+      "link": "https://flowgames.gg/dino-crisis-2-ganha-mod-altera-drasticamente-graficos/",
+      "fonte": "Flow Games",
+      "data": "2026-11-22T13:00:55.000Z",
+      "c": "PC",
+      "img": "https://www.youtube.com/embed/erjk9ngKs3g"
+    },
     {
       "t": "Jogos PS5 em promoção: O que vale a pena na Black Friday da PlayStation",
       "d": "",
@@ -8,6 +26,15 @@
       "fonte": "Eurogamer.pt",
       "data": "2026-11-22T12:19:50.000Z",
       "c": "Ofertas",
+      "img": ""
+    },
+    {
+      "t": "Produtor de Final Fantasy afirma que Zelda: Ocarina of Time é uma verdadeira aula de como fazer remakes",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54QzJ2U21PM29nRVpnbHBsdWxpbWo0X3N0NlkyeGE3WE9JM3l0bTRzWVo4NHpIcm5UMkVNQUpVUjVlOGRxUlZCNFlJVGYtQkVWSDIxSUdJeG1BcW5TVnBCTkcwMW04S1BoWExZcTRsNlFPOElSR3ZtSw?oc=5",
+      "fonte": "Hardware.com.br",
+      "data": "2026-11-22T12:11:54.000Z",
+      "c": "Geral",
       "img": ""
     },
     {
@@ -49,16 +76,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_6pfh.jpg"
     },
     {
-      "t": "GTA VI fatura US$ 3,79 bilhões no primeiro dia, diz Take-Two",
-      "d": "",
-      "link": "https://espacodopovo.com.br/gta-vi-take-two-3-79-bilhoes-primeiro-dia/",
-      "fonte": "Espaço do Povo",
-      "data": "2026-11-22T10:11:02.000Z",
-      "c": "Geral",
-      "img": "https://espacodopovo.com.br/wp-content/uploads/2026/11/f-games-3.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nek1vYV9CcGYwb1N2a18tN2hYNGdfN08tTEdyYkRKMXZpSmZsakJkdXl3Q3pXTmhqdnpXY1FpcWp3dEFwZHRxQjA0WjhYdGJHemt2cmpGT2gyOWsyTGxVRk5EaHpSTTB5WHZlTnYxUUh5T2RkTTRfQVl3?oc=5"
-    },
-    {
       "t": "\"Decidi deixar a Nvidia\": engenheiro se recusa a trabalhar para uma empresa que não explicou os motivos da saída de Jensen Huang",
       "d": "E ele não está sozinho, relatos afirmam que mais trabalhadores também se demitiram O engenheiro anunciou sua saída da Nvidia devido ao tratamento dado pela empresa a Jensen Huang e seus funcionários.",
       "link": "https://br.ign.com/nvidia/157697/decidi-deixar-a-nvidia-engenheiro-se-recusa-a-trabalhar-para-uma-empresa-que-nao-explicou-os-motivos",
@@ -66,16 +83,6 @@
       "data": "2026-11-22T10:00:39.000Z",
       "c": "PC",
       "img": "https://sm.ign.com/ign_br/screenshot/default/1200-800_g8mk.jpg"
-    },
-    {
-      "t": "GTA VI expõe desafio: tecnologia avançada leva a videogames mais caros",
-      "d": "",
-      "link": "https://www.cnnbrasil.com.br/economia/money/tecnologia/gta-vi-expoe-desafio-tecnologia-avancada-leva-a-videogames-mais-caros/",
-      "fonte": "CNN Brasil",
-      "data": "2026-11-22T09:31:00.000Z",
-      "c": "Geral",
-      "img": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/GTA-VI.jpeg?w=1200&h=630&crop=1",
-      "orig": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXRHZlF2NFZGOU1XOTNfdTN6NTBPcmFRblgzY1BadUljMXNGNkl2UnRzVl9vZk9naDloOWNxR3poYVNBVkZjQVpqeUxpbmNVbHBCR295djlwUGpMRmVNWTNya1dyNHJqTlR3SFJkZUp1UnRhVzJzWjRGV0VsMHFZQmpHbHJEWkpUelQxTFQyQUxrLVRrWFhkYXIwOU9Sbk1ramxWazZSanRzLVlPZVMxVUZPSkJkaTdjTjRJR3lsbVVoT2c?oc=5"
     },
     {
       "t": "O realismo em Cyberpunk 2077 atingiu outro patamar com um novo mod que aumenta a imersão absurdamente",
@@ -269,15 +276,6 @@
       "data": "2026-11-20T22:30:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/L7UWRSUXJJPONBHWRF4BEO34GU.jpg?quality=80&auth=9217a5b3dc48098a68987b258b65d73ac4f7b447c2ae076b7a7c961251381a88&width=710"
-    },
-    {
-      "t": "MSI apresenta RTX 5080 de COD MW4 e confirma lançamento para o Brasil",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/msi-apresenta-rtx-5080-de-cod-mw4-e-confirma-lancamento-para-o-brasil/",
-      "fonte": "TecMundo",
-      "data": "2026-11-20T20:17:00.000Z",
-      "c": "PC",
-      "img": "https://www.estadao.com.br/resizer/v2/QAPG7Y7TYFE6DMC45XLXEKQDWA.webp?quality=80&auth=486543dc7b68caa3a50784231d9238c4bc7862b0ffedcc73f5adb52132657341&width=710"
     }
   ],
   "videos": [
