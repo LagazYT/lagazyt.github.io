@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-22T08:38:33.759Z",
+  "atualizadoEm": "2026-11-22T09:08:44.090Z",
   "noticias": [
     {
       "t": "Glitch libera 60 fps em GTA 6 na Series X e coloca em xeque o limite imposto pela Rockstar",
@@ -45,6 +45,15 @@
       "fonte": "IMDb",
       "data": "2026-11-22T01:43:26.000Z",
       "c": "Geral",
+      "img": ""
+    },
+    {
+      "t": "GTA 6: Como rodar o jogo em 60 FPS no PS5 e Xbox com a ajuda de um PC",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5QkdzQ252eGt2UERWcnoyOHhMdF9fMWcyZE8wRmlwMnRfNDJVRG94Um1IOFgtVThKaFdsbHA3RURxRkpEdEh4WnAzMFF3a0lzUGd5REZ5MXdrZ0ItcGxlZzNuV0s4cGpqOFA5R21QMHI3elU1RlhB?oc=5",
+      "fonte": "Portal Viciados",
+      "data": "2026-11-21T21:44:48.000Z",
+      "c": "PC",
       "img": ""
     },
     {
@@ -264,16 +273,6 @@
       "data": "2026-11-20T20:00:05.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-21.jpg"
-    },
-    {
-      "t": "Jogos de PC em oferta no Rush da Black Friday Nuuvem; veja lista!",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-no-rush-da-black-friday-nuuvem-veja-lista/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-20T19:13:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2024/03/resident-evil-4.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3BKVTl2YUZzWHFKN2VvMU1LYjl5YXplZVlsWDNZNWdvdk9xUGR4a0s5Z0doTGUtN01GZ1FENjVIRWxNZmwtdXJjejZMQlRaWGpTRnM0UTFUUDdndU41cWNLdWVMSUI5dXowZ3kwVnUtd3R5Vnp5dlJwVjJ3X0FaM09BRGVmWU9kME5YMGtCM0EzMmlFbVZvXzJ6VWRCXzROd0ZKZHJ0NXJRNmVlYXc?oc=5"
     }
   ],
   "videos": [
