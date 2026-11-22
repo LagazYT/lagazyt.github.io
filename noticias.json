@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-22T04:30:19.440Z",
+  "atualizadoEm": "2026-11-22T05:00:25.668Z",
   "noticias": [
     {
       "t": "Lançamentos e ofertas de games da semana – 16 a 20 de novembro",
@@ -32,16 +32,6 @@
       "orig": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQjEtM3JQeS1oNXVNc3A3eHZRd3VjSmRYZk9DN0lKNWFLR0tSR3dsUFRoTGpkTDVfaWYwNHFiNGl3N2VsR1d2SGEwcUVjYnQxQ3cxOEFETWRJYnlTZUJSQThuaXZMNXBSRG1CQkktYUlSanRFTTVPclZjQ0VETTJfTFFfY1N3em4wZ245Rm5mRVkwZjlpWloxWWd1Q005RVo3cHhYUnBvYjFqb2p2UWU0a3FiMnl6WFh5b1h5cXpmOVJJYTA5N3hsTWpn?oc=5"
     },
     {
-      "t": "‘The Hunger Games: Sunrise on the Reaping’ Wins Over Audiences With Strong CinemaScore as Box Office Heats Up",
-      "d": "",
-      "link": "https://www.imdb.com/pt/news/ni66121834/?ref_",
-      "fonte": "IMDb",
-      "data": "2026-11-21T23:26:00.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SQ3FIa3RaeXZRdDNUY2Fvc1hUT2N6YXNyYnA2LWFRNkFTZE9mNC0tbi14QXFmdk1HMi1xS0RvV09ObVY3TEZJeHVUVjlweU5VUjdGWXEycmlVRUlxYjl5NlV2MjZsSm5aNU9R?oc=5"
-    },
-    {
       "t": "‘The Hunger Games: Sunrise on the Reaping’ Opens With a Preview Haul Only ‘Catching Fire’ Has Beaten",
       "d": "",
       "link": "https://www.imdb.com/pt/news/ni66120561/?ref_",
@@ -50,6 +40,16 @@
       "c": "Geral",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ENmw1cWZBd01GZTlIcE9OZE1sUTA4SGFQaV9mQjVTWWtrN2hqaUhuek45NU5sQTlTX0pJMXNkSnQzakpCOXA5OTRIYTREM0FtdWhCWXN1ZHBVbDA5aWlUZEpnZ2U2UjY1aE5r?oc=5"
+    },
+    {
+      "t": "‘Sunrise on the Reaping’ Brings the Hunger Games Franchise Roaring Back at the Box Office",
+      "d": "",
+      "link": "https://www.imdb.com/pt/news/ni66122424/?ref_",
+      "fonte": "IMDb",
+      "data": "2026-11-21T23:25:35.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3bzFIZFZnNHR1QldYQ2lwRWs1TVA3Z3hPZ3hsMnEyRGJqZzRfd1dGS0xOaS1BZVBscEhmX29ReFBYZXdjLV9kSk9DMlMwek8xUVhMM3BxejdoUXh5QmRRbW8wWTBMMW01bmhF?oc=5"
     },
     {
       "t": "GTA 6 tem console próprio com jogos ‘desenvolvidos por equipe dentro da equipe’; entenda",
@@ -285,7 +285,7 @@
       "id": "3oZewmz2Wjk",
       "t": "I Found an ALIEN SPACESHIP in GTA 6",
       "data": "2026-11-20T13:23:57Z",
-      "views": 119,
+      "views": 114,
       "img": "https://i.ytimg.com/vi/3oZewmz2Wjk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3oZewmz2Wjk"
     },
@@ -301,7 +301,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8352,
+      "views": 8354,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -453,7 +453,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20512,
+      "views": 20510,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
