@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-22T03:30:00.665Z",
+  "atualizadoEm": "2026-11-22T04:00:11.442Z",
   "noticias": [
     {
       "t": "Lançamentos e ofertas de games da semana – 16 a 20 de novembro",
@@ -224,16 +224,6 @@
       "img": "https://sm.ign.com/ign_br/blogroll/h/h3death-st/h3death-stranding-directors-cuth3brdeath-stranding-is-making_u8hb.jpg"
     },
     {
-      "t": "GTA 6 roda a 60 fps com DLSS 5 no PC via Remote Play do PS5",
-      "d": "",
-      "link": "https://www.gamevicio.com/noticias/2026/11/gta-6-60fps-dlss-5-remote-play-ps5/",
-      "fonte": "GameVicio",
-      "data": "2026-11-20T22:57:41.000Z",
-      "c": "PC",
-      "img": "https://www.gamevicio.com/wp-content/uploads/2026/11/gta-6-60fps-dlss-5-remote-play-ps5.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejZ0c0lvSUh6aXRyc05RX295OW5NbnVQN1RBamgwOHk4TDBGUjBPRW1ZM3JyMGQwV3RMMmF3QjU3QkI1VXJoeHFkRXpMTzBzdkZuSnRfUVR6QkNidGNocXB0R240V1JqYXVWMTVWUlozejMwWE9JZGpwMXJ5cngzRUI4WTU?oc=5"
-    },
-    {
       "t": "Orbitals e mais jogos para Switch na eShop com até 90% OFF",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/orbitals-e-mais-jogos-para-switch-na-eshop-com-ate-90-off/",
@@ -278,6 +268,15 @@
       "data": "2026-11-20T18:25:35.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/09/GTA-6-Jason-em-caiaque.jpg"
+    },
+    {
+      "t": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (20)",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-20/",
+      "fonte": "TecMundo",
+      "data": "2026-11-20T18:15:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/DQOJWPC7EFAE3CJDYT27CBYOVI.jpg?quality=80&auth=f9ee85317c49018858c9e8ad7fe09a4abc9aa6b3e3bda9627e4187c0de134360&width=710"
     }
   ],
   "videos": [
@@ -285,7 +284,7 @@
       "id": "3oZewmz2Wjk",
       "t": "I Found an ALIEN SPACESHIP in GTA 6",
       "data": "2026-11-20T13:23:57Z",
-      "views": 114,
+      "views": 115,
       "img": "https://i.ytimg.com/vi/3oZewmz2Wjk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3oZewmz2Wjk"
     },
@@ -333,7 +332,7 @@
       "id": "eC8zHzW_tcc",
       "t": "KANABO LENDÁRIO PILAR VENENOSO COM O DANO INSANO | ASSASSINS CREED SHADOWS",
       "data": "2025-06-18T14:01:06Z",
-      "views": 172,
+      "views": 171,
       "img": "https://i.ytimg.com/vi/eC8zHzW_tcc/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=eC8zHzW_tcc"
     },
@@ -341,7 +340,7 @@
       "id": "lPaufeVb688",
       "t": "TEPPO LENDARIO FLORESCER DA MORTE CARREGUE BEM MAIS RAPIDO | ASSASSINS CREED SHADOWS",
       "data": "2025-06-17T14:01:09Z",
-      "views": 102,
+      "views": 101,
       "img": "https://i.ytimg.com/vi/lPaufeVb688/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=lPaufeVb688"
     },
@@ -413,7 +412,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2958,
+      "views": 2954,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
@@ -453,7 +452,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20502,
+      "views": 20506,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
