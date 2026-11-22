@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-22T20:25:30.422Z",
+  "atualizadoEm": "2026-11-22T20:55:42.373Z",
   "noticias": [
+    {
+      "t": "IFS oferece 180 vagas em curso gratuito de desenvolvimento de games em Sergipe",
+      "d": "",
+      "link": "https://g1.globo.com/se/sergipe/noticia/2026/11/22/ifs-oferece-180-vagas-em-curso-gratuito-de-desenvolvimento-de-games-em-sergipe.ghtml",
+      "fonte": "G1",
+      "data": "2026-11-22T20:36:51.000Z",
+      "c": "Ofertas",
+      "img": "https://s2-g1.glbimg.com/SRJDUoKd_0lVyeqblHF-zKwb94M=/1700x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/D/FYMFQ4Sgi6IQBn4q5TAA/foto-de-orva-studio-na-unsplash.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDVrWUxqb2VTTVhRUmJ6MGZIdlFFYzZ3ZXRWRUpzdjFaVU1iTXUxWjhUYXljb1pzUktrNi1XaEdLQXlfU2Uyd0pROUJISWNGazFQQ3FvTmRJX2xPQ0FpNFI0cU01ZkxzTkczS2RVakMyUDZQZTg0YTBUTzBkZkdxX0FGdkJKeENFOTZaZHZmdlh5NjNPTGlnYnM3ZW9mU3lYbVQ4a1lZRlppbVVvMXJWUlB4Z2ZLckZoc1RlR1J0MVZEY0xtU0JoTTE4UElhY3Ja0gHfAUFVX3lxTE5IUEtVSUxQbmxFMlNLZUNKelZuWVVxLWU1X2NvZ0d1OVlJRldQY0pUeEdRRVY4R3hDMWxGU0ozZ2JSbFpsSEhDTEE5cXpDNjRSY3E3ZV9JaDJxSmdqbENsS21YN1FDQ0dSODBzcEQ5aWtkWFo2T2Nnd2hkNFhvWjQtMzVRQ2JvbW5zaVo2d2tWajJZS3drSGNVQW93bFRzV09pSlAtQ0d0VTJFYnlGNkFwS25DWGxUQmVjS2RIa2xJV1dWN1dKM3dpSTd0UHpQWGw5Z1hEaTNaRHh5VkZGUE0?oc=5"
+    },
     {
       "t": "‘Hunger Games: Sunrise on the Reaping’ Ending Explained: Jennifer Lawrence, Josh Hutcherson & Woody Harrelson’s Returns",
       "d": "",
@@ -49,16 +59,6 @@
       "c": "Geral",
       "img": "https://www.hardware.com.br/wp-content/uploads/2026/11/sociedade-conectada-virtual-scaled-1600x900.jpg",
       "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNajNUeEhrREdvelU3WHk2ZEpVbFhMQTlHUkZSTTdaWTVHQVU3cmVvblRvRFBOVE94ZFUtbGV6SHFxelVmT0hWaFhOZlVDVllxbUIwMDEtSUs0STlxQWNoVW1kdUVUUU04VVpZZmdhQVJJd1FETU1Gb2F2MW5kTUtpaUVDaUo4cTFEVTBWUnJkcmhXWE9JN3FiendMdm56RDYwX3g1UFlZYXJPVW9Dbmc?oc=5"
-    },
-    {
-      "t": "‘Sunrise On The Reaping’ fires up ‘Hunger Games’ franchise on $120m at US box office",
-      "d": "",
-      "link": "https://www.imdb.com/pt/news/ni66123580/?ref_",
-      "fonte": "IMDb",
-      "data": "2026-11-22T19:43:52.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aamZyY01wRk1PeG9wRVdHYXdVMDNndmdHNFl5WkQzLWVkYmlESUJxZTlhTW1jT05FX1JWWE56NTBBWXBqcnVQdENMd2RFWEZKSklNaWRHN21kb2Q0VnBWQnlIbGV0UzhuOUE?oc=5"
     },
     {
       "t": "LEGO do Dragão Ender bate as asas com manivela e está com 34% de desconto na Amazon",
@@ -285,7 +285,7 @@
       "id": "3oZewmz2Wjk",
       "t": "I Found an ALIEN SPACESHIP in GTA 6",
       "data": "2026-11-20T13:23:57Z",
-      "views": 143,
+      "views": 138,
       "img": "https://i.ytimg.com/vi/3oZewmz2Wjk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3oZewmz2Wjk"
     },
@@ -301,7 +301,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8360,
+      "views": 8359,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -453,7 +453,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20516,
+      "views": 20514,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -485,7 +485,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3135,
+      "views": 3134,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
