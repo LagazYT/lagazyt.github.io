@@ -1,6 +1,55 @@
 {
-  "atualizadoEm": "2026-11-22T19:55:19.890Z",
+  "atualizadoEm": "2026-11-22T20:25:30.422Z",
   "noticias": [
+    {
+      "t": "‘Hunger Games: Sunrise on the Reaping’ Ending Explained: Jennifer Lawrence, Josh Hutcherson & Woody Harrelson’s Returns",
+      "d": "",
+      "link": "https://www.imdb.com/pt/news/ni66123568/?ref_",
+      "fonte": "IMDb",
+      "data": "2026-11-22T20:16:23.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3Y0dNTDVxSnQtcDlwM3ZrYkh3WDBMZVFocFNSek1qMU9YOHJLdTJHS240V1NrTEZib0E0RjlCckE0QmZLR013MmRKYWd0Y1ZkckZEa1NETWhjbkJuZmYyeksxRWg1ODdrMFE?oc=5"
+    },
+    {
+      "t": "GTA 6 provoca maior pico de tráfego de internet já registrado na história da Comcast",
+      "d": "",
+      "link": "https://www.hardware.com.br/games/gta-6-maior-pico-trafego-internet-na-historia-comcast/",
+      "fonte": "Hardware.com.br",
+      "data": "2026-11-22T20:04:05.000Z",
+      "c": "Geral",
+      "img": "https://www.hardware.com.br/wp-content/uploads/2026/10/South-Park-surpreende-ao-revelar-nova-gameplay-de-GTA-6-com-mecanica-inusitada.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaG1pckRLcG1Qcm9RV2pCREZaeHdxcy1ocWk5VW9ILVR3SEtxQUpNZ2RDaDkzVHNNV0NGSG8xTGRkZG9iNHY3dmVYTFd3LVM5OXZsWmZyekdZYUdWOGJiQlhUbVlMUnFEdE1ySmZLdC1xTnpxY1RhQlM5RFNMZWw5TEx3ZUtkM2tQQW1DZV9lUFhidw?oc=5"
+    },
+    {
+      "t": "Brasileiro relata que GTA 6 passou a travar a cada 5 minutos no PS5 Slim",
+      "d": "",
+      "link": "https://www.hardware.com.br/games/brasileiro-gta-6-travar-cada-5-minutos-ps5-slim/",
+      "fonte": "Hardware.com.br",
+      "data": "2026-11-22T20:01:38.000Z",
+      "c": "Consoles",
+      "img": "https://www.hardware.com.br/wp-content/uploads/2026/11/brasileiro-gta-6-travando-ps5.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZmdOUlVBZ2Z0U1VFZ2tpQWlqUXU1aGlWckFlckI0TjJuSEpvakFybFVNaXQ5OGkzYkxVSmNxLTFGUXlZRUoybFR3X0QyZW5mbl9NejhJVXlKSVBJdThpc0dpcjNTaGtkYWFlRHJweElfTkZ3VHBOalc2akJnTzV6Z0VXMmM3SXBZOGc?oc=5"
+    },
+    {
+      "t": "Para quem quer jogar a 144 Hz, monitor AOC de 27 polegadas está com 39% de desconto no Pix na Amazon",
+      "d": "AOC AGON G50 tem tela IPS Full HD, HDR10, G-Sync e recursos para reduzir o cansaço visual",
+      "link": "https://br.ign.com/descontos/157840/para-quem-quer-jogar-a-144-hz-monitor-aoc-de-27-polegadas-esta-com-39-de-desconto-no-pix-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-22T20:00:33.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/para-quem-quer-jogar-a-144-hz-monitor-aoc-de-27-polegadas-e_7j22.jpg"
+    },
+    {
+      "t": "CEO da Anthropic teria sugerido videogames para acalmar as pessoas após IA causar desempregos em massa",
+      "d": "",
+      "link": "https://www.hardware.com.br/noticias/ceo-anthropic-sugerido-games-acalmar-pessoas-apos-ia-causar-desempregos/",
+      "fonte": "Hardware.com.br",
+      "data": "2026-11-22T19:59:08.000Z",
+      "c": "Geral",
+      "img": "https://www.hardware.com.br/wp-content/uploads/2026/11/sociedade-conectada-virtual-scaled-1600x900.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNajNUeEhrREdvelU3WHk2ZEpVbFhMQTlHUkZSTTdaWTVHQVU3cmVvblRvRFBOVE94ZFUtbGV6SHFxelVmT0hWaFhOZlVDVllxbUIwMDEtSUs0STlxQWNoVW1kdUVUUU04VVpZZmdhQVJJd1FETU1Gb2F2MW5kTUtpaUVDaUo4cTFEVTBWUnJkcmhXWE9JN3FiendMdm56RDYwX3g1UFlZYXJPVW9Dbmc?oc=5"
+    },
     {
       "t": "‘Sunrise On The Reaping’ fires up ‘Hunger Games’ franchise on $120m at US box office",
       "d": "",
@@ -12,36 +61,6 @@
       "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aamZyY01wRk1PeG9wRVdHYXdVMDNndmdHNFl5WkQzLWVkYmlESUJxZTlhTW1jT05FX1JWWE56NTBBWXBqcnVQdENMd2RFWEZKSklNaWRHN21kb2Q0VnBWQnlIbGV0UzhuOUE?oc=5"
     },
     {
-      "t": "MS Geek debate políticas públicas e abre caminhos para fortalecer o setor de games em Mato Grosso do Sul",
-      "d": "",
-      "link": "https://www.campograndenoticias.com.br/ms-geek-debate-politicas-publicas-e-abre-caminhos-para-fortalecer-o-setor-de-games-em-mato-grosso-do-sul/",
-      "fonte": "Campo Grande Notícias",
-      "data": "2026-11-22T19:19:45.000Z",
-      "c": "Geral",
-      "img": "https://i2.wp.com/campograndenoticias.com.br/wp-content/uploads/2026/11/MSGeek-Daniel-Reino-2.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHJRRTcwVmxlOVh6VkZFM0VzblBVWGQ0cjEtSVlpMDVTRVM5bUhwTUo5MHdnTFBsNlpUdFBpUzZBT2tYSjFDWHpXNklqTW9ha2VWN21kRGdYZTVTZk5KZEcwa3FzZWVrNkJhanZETVdCUDlwbVhpbE1CU2JkNnV5R0UyRERmOVBOUGJNUGZxT24wM1U2TXMtZ25IZThxbHlqZUdxWHNUUDdaUVZlRjlkbTZvTzV3T2dVYW1fbjlyYU5iZjNNX0l1YW1IbFJnRV9vXzJzdFhzaHVDR1Vk?oc=5"
-    },
-    {
-      "t": "Shinji Mikami critica o avanço da inteligência artificial generativa e teme impacto na indústria dos games",
-      "d": "",
-      "link": "https://evilhazard.com.br/shinji-mikami-critica-o-avanco-da-inteligencia-artificial-generativa-e-teme-impacto-na-industria-dos-games/",
-      "fonte": "EvilHazard",
-      "data": "2026-11-22T19:08:59.000Z",
-      "c": "Geral",
-      "img": "https://evilhazard.com.br/wp-content/uploads/2026/11/shinji-mikami-set-up-a-new-studio-to-help-young-devs-cover662bae686a21f.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQUd3S2lzX05HbTU2d1B0eG1rYU9wWkUwMGhiajJTNkpTRm5qLUxFZldUMnFicjRPX3Q5ejZDWlNsMXpRWmxhM2FibW5uWjlwRmdVbmdoRnp3THhnSXdDUk0ybFktYm9Oa1JhdTlFb1BTQ1EwZEoxcGJ1RXV2V0F6czlzS3gxZW1sOTNtZVpiVktGeG9oZEQ3OGJadHdqRjZ6ZUdsVE5SSjdRRkRmR3lHYnY2ZzlqcE4tUzVzRmxDRjIzS1M2bjFOV294dzA0QQ?oc=5"
-    },
-    {
-      "t": "Noah Schnapp Says He Auditioned to Play Haymitch in ‘Hunger Games: Sunrise on the Reaping’: ‘They Picked Right for This One’",
-      "d": "",
-      "link": "https://www.imdb.com/pt/news/ni66123559/?ref_",
-      "fonte": "IMDb",
-      "data": "2026-11-22T19:04:49.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ob0VpNmVsV29qWEw3Q1JCYkw4Q19WM3NGSVpJSFlUT3BmVFFkMEtleXJUU2swRWdHX0xfZnYxRWlnODM3WDRXenFhZktxVTRSMjF3Y3NDbXRrMzJCVkI1WFZXUXBJUGpEMEE?oc=5"
-    },
-    {
       "t": "LEGO do Dragão Ender bate as asas com manivela e está com 34% de desconto na Amazon",
       "d": "Conjunto de 710 peças tem cabeça, pescoço, cauda e pernas articuladas e item bônus para o jogo",
       "link": "https://br.ign.com/descontos/157839/lego-do-dragao-ender-bate-as-asas-com-manivela-e-esta-com-34-de-desconto-na-amazon",
@@ -49,16 +68,6 @@
       "data": "2026-11-22T18:30:30.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/black-friday-lego-do-dragao-ender-vilao-do-minecraft-bate-as_m3ub.jpg"
-    },
-    {
-      "t": "Carol e Genilson Frazão são destaques da Headscon XP ES 2026",
-      "d": "",
-      "link": "https://www.metropoles.com/colunas/metropoles-games/carol-e-genilson-frazao-sao-destaques-da-headscon-xp-es-2026",
-      "fonte": "Metrópoles",
-      "data": "2026-11-22T18:17:00.000Z",
-      "c": "Geral",
-      "img": "https://i.metroimg.com/sCsRx7URnqQTGn_TqYKpO6104uOfhh_2kLj5HkY-PKs/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/11/carol-e-genilson2.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHdSYXdhSm5qbE9sOUcwdDVkTjBJTV9DT0pRTzNwMDFPRG85a1lVazlRX0t4UWZlbDVDSU9OR1c4SkxiVzlQUzVWWnYwUDgyOEtPM1RJcjNnVzZzOU1HWDJlNU1mUXFPZElEUE5YYXMxelFsdzZNZmJLWndHUF91RHA0UUl5anZ6cVhXT0hzYUl5cVhONWRiUExpU0h1aTVsRFBnczZ0bkc2WFpoMi04YzZ3?oc=5"
     },
     {
       "t": "Pokémon Emerald ganha remaster HD-2D feito por fãs",
@@ -244,15 +253,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/OE66IO4QJVLG5CDNZDQNFVAR3Q.jpg?quality=80&auth=2ce9fd99b5bd6a6061a0b74db1883873b6542fba91bdc509073d08fb0428cebe&width=710"
     },
     {
-      "t": "Últimas unidades da oferta: monitor gamer LG UltraGear de 25\" e 200 Hz por R$ 551 na Amazon",
-      "d": "O desconto é exclusivo para membros Prime",
-      "link": "https://br.ign.com/descontos/157834/ultimas-unidades-da-oferta-monitor-gamer-lg-ultragear-de-25-e-200-hz-por-r-551-na-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-21T15:10:52.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/lg-ultragear-25g523b-capa-1280x720_ujk7.jpg"
-    },
-    {
       "t": "Mais leve e resistente: veja a nova coleção Carbon Fiber da Razer",
       "d": "Nova coleção reestrutura o Viper V4 Pro e DeathAdder V4 Pro com fibra de carbono trançada",
       "link": "https://flowgames.gg/razer-anuncia-colecao-carbon-fiber/",
@@ -285,7 +285,7 @@
       "id": "3oZewmz2Wjk",
       "t": "I Found an ALIEN SPACESHIP in GTA 6",
       "data": "2026-11-20T13:23:57Z",
-      "views": 140,
+      "views": 143,
       "img": "https://i.ytimg.com/vi/3oZewmz2Wjk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3oZewmz2Wjk"
     },
@@ -301,7 +301,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8359,
+      "views": 8360,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -453,7 +453,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20514,
+      "views": 20516,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -485,7 +485,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3134,
+      "views": 3135,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
