@@ -1,6 +1,35 @@
 {
-  "atualizadoEm": "2026-11-22T17:24:30.992Z",
+  "atualizadoEm": "2026-11-22T17:54:40.878Z",
   "noticias": [
+    {
+      "t": "Como rodar GTA 6 a 60 FPS no Xbox Series X",
+      "d": "",
+      "link": "https://mobidevices.com/pt/gta-6-xbox-series-x-60-fps",
+      "fonte": "mobidevices.com",
+      "data": "2026-11-22T17:32:33.000Z",
+      "c": "PC",
+      "img": "https://mobidevices.com/images/2026/06/gta-6_1.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vTW9odmcyWEE0RXJEWHB6N3cxRnZPaWJ3WXZwMmFBOXdRSnJXVzZzRUpOVHVmcGNnQi10aFZubFM2Z1hNMHBpeHFiZVR1QW1WbVB4Rl9CaXhHTUtxekNrRXhiWQ?oc=5"
+    },
+    {
+      "t": "Jogos da Nintendo em oferta de Black Friday na Nuuvem por tempo limitado",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/noticias/jogos-da-nintendo-em-oferta-de-black-friday-na-nuuvem-por-tempo-limitado/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-22T17:27:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2024/12/donkey-kong-country-returns-hd.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0t3WGliWTZHOFNzX2tnRnZuNFNNa0o5Q3NFNFlMTlhrTkl5R1VsOEtkbkpBTjlWZ3JwRXpBaWV6V2hYVVFERUh5bnpqaHBSQ2RJUnFSejFmZ2RmUTZVMTlLcVE5bGcxQy1kc1R4Q3I5aC1oUDdMQktIMjJqWnM3SUxUcG9NUXlTR2dMOFFCRXFWUHFVV1RpNFhrd0lMTFQ3TzlBOWk1b0hJXzBKc3JzcGhB?oc=5"
+    },
+    {
+      "t": "Para quem quer reviver a história de Ellie e Abby, The Last of Us Part II Remastered atinge 45% de desconto na Amazon",
+      "d": "Versão para PS5 traz modo roguelike Sem Volta, melhorias gráficas e recursos do controle DualSense",
+      "link": "https://br.ign.com/descontos/157838/para-quem-quer-reviver-a-historia-de-ellie-e-abby-the-last-of-us-part-ii-remastered-atinge-45-de-des",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-22T17:16:41.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/news/t/the-last-o/the-last-of-us-part-2-multiplayer-mod-cancelled-at-sonys-req_g89u.jpg"
+    },
     {
       "t": "‘The Hunger Games: Sunrise on the Reaping’ Just Pulled Off a Prequel Feat Only ‘Rogue One’ Has Topped",
       "d": "",
@@ -39,26 +68,6 @@
       "c": "Geral",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MdTlFeTBzdE52cEZWVng3ekxOdkh2V29hWE52ZGxFYkRPbFR1ZUdxX1VtNVJHMnFZNXBITlhOckVBR1dJTkstcnBiNU5CT1QxZ3JGdFV3TTJnYnptd3VFenJLcURvSkVsR1E?oc=5"
-    },
-    {
-      "t": "‘Hunger Games: Sunrise on the Reaping’ Deadlifts Box Office With $225 Million Global Opening",
-      "d": "",
-      "link": "https://www.imdb.com/pt/news/ni66123356/?ref_",
-      "fonte": "IMDb",
-      "data": "2026-11-22T16:56:21.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlVVB6UVpwWUtMOXF5QlRmS3I4SzM0UDNJUURueWhCMy1jNUZlbU02YmM0NWdyLXpITjRYMzZVaktIOUtHeDNOdWtjTG1fLTZobjZDWGVQaTN0X2xvb2JwTXdTZ2pjQ09EMUE?oc=5"
-    },
-    {
-      "t": "Como funciona o Perfil Criminal de GTA 6? Entenda os níveis e consequências",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/como-funciona-o-perfil-criminal-de-gta-6-entenda-os-niveis-e-consequencias/",
-      "fonte": "Estadão",
-      "data": "2026-11-22T16:15:00.000Z",
-      "c": "Geral",
-      "img": "https://www.estadao.com.br/resizer/v2/D56EOPDENVADLETV44JZZ3XVUE.jpg?quality=80&auth=e940d1b36726c5fc90ebf8b829d2523fc8d9c27a539e8849efecd6e642391a00&width=1200&height=630&smart=true",
-      "orig": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGNyZnpsa242R1BUemNWMHFtbXdGeFN1SnByM0JpSFdOSklWV2JPUFVhM2dhYndHdGw0NVowWURTRUhablM0Q1J5cGNqa2cxdFFYV0xHTms5dWxUQUZObmN2Z2ZoUFZxOHZOUGh1cjlmZVFmbGZOU1VUR0VZT3puRUF1d1lzVm5VdFlJTmxlRGp1VUpacXhyOExWbXFCSjJkeG9TOFdubnpvU3RldTl1M05mU1AtZEEt0gG-AUFVX3lxTE92S2liMEs2Njd3QVlYZGkxOUJwdHpwYmNLMEdGUDVwUEJLSjVrenlXU3RkWUhwaF9FVEFWX1NPZV9sZFVybkc5aUpXdXAtVU9xM0RwTmt1R3lrRFdfMnpkbEhfR0ZINmd5MWxCY0MyVDVHUjFJc2xEMWZtZ2RKWXBIQi1iUHRlZVBQSzA2amhyTVZPSVhRbW9qYTB4WlVqeXJHcWNrX0h5Q0U4elRHNVpBRWYzZUQ2bzFpOWNCT3c?oc=5"
     },
     {
       "t": "Proibido perder aura: novo game brasileiro leva meme ao pé da letra",
@@ -242,15 +251,6 @@
       "data": "2026-11-21T15:00:35.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/oot-20261116-161921-0000_2g8r.png"
-    },
-    {
-      "t": "Com artes de Jim Kay, edição especial do primeiro livro de Harry Potter entra em oferta na Amazon",
-      "d": "Edição tem capa dura, ilustrações coloridas e uma luva ilustrada",
-      "link": "https://br.ign.com/descontos/157833/com-artes-de-jim-kay-edicao-especial-do-primeiro-livro-de-harry-potter-entra-em-oferta-na-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-21T14:42:38.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/harry-potter-pedra-filosofal-jim-kay-produto-1280x720_4n85.jpg"
     },
     {
       "t": "Stellar Blade e mais jogos para PC na Steam com até 95% OFF",
