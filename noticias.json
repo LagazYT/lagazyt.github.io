@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-22T01:29:31.456Z",
+  "atualizadoEm": "2026-11-22T01:59:39.086Z",
   "noticias": [
+    {
+      "t": "Why Beetee Latier From The Hunger Games: Sunrise On The Reaping Looks So Familiar",
+      "d": "",
+      "link": "https://www.imdb.com/pt/news/ni66122751/?ref_",
+      "fonte": "IMDb",
+      "data": "2026-11-22T01:43:26.000Z",
+      "c": "Geral",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zWDZ4RkVnLUxrLXZPdjh0SWhoMnJxRGpKZDJkT29IOElBN1ZtMElEcXNGNlJsVHdLRE4yOGZDdS1GY1pxNGtMZUIyS0x0ZXNTdlp1VUhEMzQtWFBVYzlSR0VYWTN4bUhwZEE?oc=5"
+    },
     {
       "t": "Play Nintendo disponibiliza caça ao tesouro temática da Princesa Peach para crianças",
       "d": "",
@@ -40,16 +50,6 @@
       "c": "Geral",
       "img": "",
       "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5aWtncmZvOXhxbEtzWHo5a0l3ZjFlT2RlWDgteXVBVWhRWi1yMnlNNVN6SHR1OTF5N3U5RDlZUVJKamVQMU5ualdESDVQdVlpckNNTlVnUlY0VDgtWHphQTV5Q1hnZHF2OUdB?oc=5"
-    },
-    {
-      "t": "‘The Hunger Games: Sunrise on the Reaping’ Stages a Massive Box Office Comeback for the Franchise",
-      "d": "",
-      "link": "https://www.imdb.com/pt/news/ni66122368/?ref_",
-      "fonte": "IMDb",
-      "data": "2026-11-21T23:25:38.000Z",
-      "c": "Geral",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xZDNoZVJwMjdWYkVtLTFNVXlNMElTcVh1TC1KeTYtcENEazdYdFh1VTJKRUFkMzhEZVc4Sk1mZDE1R1dUa2hFVWMzQURFdV83amg1NE16ejltRC04OHdfeDNudndKbWNFR1ln?oc=5"
     },
     {
       "t": "GTA 6 tem console próprio com jogos ‘desenvolvidos por equipe dentro da equipe’; entenda",
@@ -224,6 +224,16 @@
       "img": "https://sm.ign.com/ign_br/blogroll/h/h3death-st/h3death-stranding-directors-cuth3brdeath-stranding-is-making_u8hb.jpg"
     },
     {
+      "t": "GTA 6 roda a 60 fps com DLSS 5 no PC via Remote Play do PS5",
+      "d": "",
+      "link": "https://www.gamevicio.com/noticias/2026/11/gta-6-60fps-dlss-5-remote-play-ps5/",
+      "fonte": "GameVicio",
+      "data": "2026-11-20T22:57:41.000Z",
+      "c": "PC",
+      "img": "https://www.gamevicio.com/wp-content/uploads/2026/11/gta-6-60fps-dlss-5-remote-play-ps5.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejZ0c0lvSUh6aXRyc05RX295OW5NbnVQN1RBamgwOHk4TDBGUjBPRW1ZM3JyMGQwV3RMMmF3QjU3QkI1VXJoeHFkRXpMTzBzdkZuSnRfUVR6QkNidGNocXB0R240V1JqYXVWMTVWUlozejMwWE9JZGpwMXJ5cngzRUI4WTU?oc=5"
+    },
+    {
       "t": "Orbitals e mais jogos para Switch na eShop com até 90% OFF",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/orbitals-e-mais-jogos-para-switch-na-eshop-com-ate-90-off/",
@@ -268,15 +278,6 @@
       "data": "2026-11-20T18:25:35.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/09/GTA-6-Jason-em-caiaque.jpg"
-    },
-    {
-      "t": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (20)",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/steam-recebe-5-jogos-gratis-nesta-semana-veja-lista-e-resgate-20/",
-      "fonte": "TecMundo",
-      "data": "2026-11-20T18:15:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/DQOJWPC7EFAE3CJDYT27CBYOVI.jpg?quality=80&auth=f9ee85317c49018858c9e8ad7fe09a4abc9aa6b3e3bda9627e4187c0de134360&width=710"
     }
   ],
   "videos": [
