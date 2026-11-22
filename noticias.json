@@ -1,6 +1,24 @@
 {
-  "atualizadoEm": "2026-11-22T09:38:54.626Z",
+  "atualizadoEm": "2026-11-22T10:09:04.666Z",
   "noticias": [
+    {
+      "t": "Luma Island: O sucesso indie relaxante chega ao Xbox Series X|S com cross-play para todos!",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS05Ca2w3QzFtQjNwVUh4bnBwdk1ZUjNCQVVOdU9zQi1uYUxZcXJQQzkzMnlwTE1OYk9FZU5sM0JYZTRwZUpOanpFMm41TVB6cG9GZkxVdUhZX292RGpmTjZ1aW1KRGNHeXlMYWtOREJEUENjV0huVy1iNzRLTjIwd3VaSkVTdTFNLUJTZmY3N1QyZTVCYzZsVWlQdEhHRmFQRVZrdW1JNVR1U2JmOVNtWUVtQUNNaDNZR2c?oc=5",
+      "fonte": "Gamerscore Brasil",
+      "data": "2026-11-22T10:04:24.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "\"Decidi deixar a Nvidia\": engenheiro se recusa a trabalhar para uma empresa que não explicou os motivos da saída de Jensen Huang",
+      "d": "E ele não está sozinho, relatos afirmam que mais trabalhadores também se demitiram O engenheiro anunciou sua saída da Nvidia devido ao tratamento dado pela empresa a Jensen Huang e seus funcionários.",
+      "link": "https://br.ign.com/nvidia/157697/decidi-deixar-a-nvidia-engenheiro-se-recusa-a-trabalhar-para-uma-empresa-que-nao-explicou-os-motivos",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-22T10:00:39.000Z",
+      "c": "PC",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/1200-800_g8mk.jpg"
+    },
     {
       "t": "GTA VI expõe desafio: tecnologia avançada leva a videogames mais caros",
       "d": "",
@@ -44,15 +62,6 @@
       "fonte": "Rádio Geek",
       "data": "2026-11-22T08:29:23.000Z",
       "c": "PC",
-      "img": ""
-    },
-    {
-      "t": "PlayStation Black Friday Brasil: Veja as Melhores Ofertas de 2026",
-      "d": "",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBd1VGbWp0Q3hoaXNodldjT1lxNEJHSndIS2NuNEVzUWl2UzRoT1g0TG8zbl85Wm5SdzVGbmtPYkVkeXUxNTZLd0h3TG11bkRJbkdockI2empLTDB4VGt3c2NfSThWUW56NXFYNEZBLTVvU0dudm5FTk9R?oc=5",
-      "fonte": "Última Ficha",
-      "data": "2026-11-22T06:51:58.000Z",
-      "c": "Ofertas",
       "img": ""
     },
     {
@@ -226,15 +235,6 @@
       "data": "2026-11-21T10:00:41.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/gallery/g/george-luc/george-lucas-would-have-killed-luke-skywalker-and-other-weir_m8z3.jpg"
-    },
-    {
-      "t": "Estrela de Resident Evil: Requiem, Hopes Grace Ashcroft afirma que tem “um longo caminho pela frente”, mesmo que ela “nunca venha a ser uma personagem do tipo Leon”",
-      "d": "“Ela nunca vai ser do tipo durona, sabe”",
-      "link": "https://br.ign.com/resident-evil-requiem/157758/estrela-de-resident-evil-requiem-hopes-grace-ashcroft-afirma-que-tem-um-longo-caminho-pela-frente-me",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-21T09:00:41.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/r/resident-e/resident-evil-requiem-star-hopes-grace-ashcroft-has-a-long-w_gjuz.jpg"
     },
     {
       "t": "GTA 6 roda a 60 fps com DLSS 5 no PC via Remote Play do PS5",
