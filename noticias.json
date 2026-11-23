@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T02:03:05.117Z",
+  "atualizadoEm": "2026-11-23T02:33:16.166Z",
   "noticias": [
     {
       "t": "Jogos da Square Enix em oferta na Steam com até 90% de desconto",
@@ -215,16 +215,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_w1gb.jpg"
     },
     {
-      "t": "GTA 6: Como rodar o jogo em 60 FPS no PS5 e Xbox com a ajuda de um PC",
-      "d": "",
-      "link": "https://viciados.net/gta-6-como-rodar-jogo-60-fps-ps5-xbox-ajuda-pc/",
-      "fonte": "Portal Viciados",
-      "data": "2026-11-21T21:44:48.000Z",
-      "c": "PC",
-      "img": "https://viciados.net/wp-content/uploads/2026/11/GTA-6-Jason-Duval-Grand-Theft-Auto-VI-2026.webp",
-      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5QkdzQ252eGt2UERWcnoyOHhMdF9fMWcyZE8wRmlwMnRfNDJVRG94Um1IOFgtVThKaFdsbHA3RURxRkpEdEh4WnAzMFF3a0lzUGd5REZ5MXdrZ0ItcGxlZzNuV0s4cGpqOFA5R21QMHI3elU1RlhB?oc=5"
-    },
-    {
       "t": "GTA 6 tem console próprio com jogos ‘desenvolvidos por equipe dentro da equipe’; entenda",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-tem-console-proprio-com-jogos-desenvolvidos-por-equipe-dentro-da-equipe-entenda/",
@@ -253,16 +243,6 @@
       "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRTVGa3Jjbm9qY2FodlNYWjRQQUV4MWQ1SWN4WWU0T2txZ2JiNzhpX1lCb1psUUhrZlprbHdpLWpRWldCanJYOW04LTRMdFpoOUVBYTVMX2t5U0JRVlpjbk1GQXFIdnpPc1gzWUlMRjJNM2gxZlZUVE9NTXYxNWZrVW40NGI0RTFBMlJyLUc4MGdCZzFvbGxpWlhBY2VMZkhrWGQtaFNRTUhoYW1OdVZCWQ?oc=5"
     },
     {
-      "t": "Steam recebe ofertas antecipadas de Black Friday no PC",
-      "d": "",
-      "link": "https://gameplayscassi.com.br/videos/steam-recebe-ofertas-antecipadas-de-black-friday-no-pc/136317/",
-      "fonte": "Gameplayscassi",
-      "data": "2026-11-21T18:56:05.000Z",
-      "c": "Ofertas",
-      "img": "https://gameplayscassi.com.br/wp-content/uploads/2026/11/maxresdefault-10.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTdwVlJyUmZlU3BWSExWZ3ZiVUItWXU1cjc3V052aExObVVIZVRwQUhYZWZpVlpRcjdFeHBZNTNWVW5Kei1ySDMxTERGaXlVZl9WZkRWMXlkWVAtMHAwVVFOVDZUcVNWb2ZMX0lpOUJKNFZpRFhkTUFselJ2akNTM01EcHl4dnVkT0E5N1QydDY3eVotSmFCMjM0MWNHV083?oc=5"
-    },
-    {
       "t": "Mega Man Dual Override revela chefe feito por brasileiro",
       "d": "Conheça o chefão de Mega Man Dual Override com DNA brasileiro",
       "link": "https://flowgames.gg/mega-man-dual-override-revela-chefe-feito-brasileiro/",
@@ -279,6 +259,24 @@
       "data": "2026-11-21T16:15:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/OE66IO4QJVLG5CDNZDQNFVAR3Q.jpg?quality=80&auth=2ce9fd99b5bd6a6061a0b74db1883873b6542fba91bdc509073d08fb0428cebe&width=710"
+    },
+    {
+      "t": "Mais leve e resistente: veja a nova coleção Carbon Fiber da Razer",
+      "d": "Nova coleção reestrutura o Viper V4 Pro e DeathAdder V4 Pro com fibra de carbono trançada",
+      "link": "https://flowgames.gg/razer-anuncia-colecao-carbon-fiber/",
+      "fonte": "Flow Games",
+      "data": "2026-11-21T15:00:40.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/Real-Carbon-Fiber.-Real-Engineering.jpg"
+    },
+    {
+      "t": "Stellar Blade e mais jogos para PC na Steam com até 95% OFF",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/stellar-blade-e-mais-jogos-para-pc-na-steam-com-ate-95-off/",
+      "fonte": "TecMundo",
+      "data": "2026-11-21T14:00:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/Y2QNF6QQF5NN5K4KA4KUUWZ7VQ.jpg?quality=80&auth=34d894149c87330e7fd04a5c0154433a3f7f4cf02c2d3ff440935443e63ad12e&width=710"
     }
   ],
   "videos": [
@@ -286,7 +284,7 @@
       "id": "3oZewmz2Wjk",
       "t": "I Found an ALIEN SPACESHIP in GTA 6",
       "data": "2026-11-20T13:23:57Z",
-      "views": 150,
+      "views": 155,
       "img": "https://i.ytimg.com/vi/3oZewmz2Wjk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3oZewmz2Wjk"
     },
@@ -302,7 +300,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8364,
+      "views": 8368,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -414,7 +412,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2958,
+      "views": 2959,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
@@ -454,7 +452,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20520,
+      "views": 20523,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -462,7 +460,7 @@
       "id": "GnGWWpjnYsk",
       "t": "CONSIGA TODAS HABILIDADES DO MONOCO FACILMENTE | EXPEDITION 33",
       "data": "2025-05-14T15:00:34Z",
-      "views": 4305,
+      "views": 4306,
       "img": "https://i.ytimg.com/vi/GnGWWpjnYsk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=GnGWWpjnYsk"
     },
@@ -470,7 +468,7 @@
       "id": "ugGDjTdbvpU",
       "t": "MELHOR ARMA PARA MAELLE APÓS O NERF | EXPEDITION 33!",
       "data": "2025-05-13T17:30:14Z",
-      "views": 5551,
+      "views": 5552,
       "img": "https://i.ytimg.com/vi/ugGDjTdbvpU/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ugGDjTdbvpU"
     },
@@ -486,7 +484,7 @@
       "id": "0B4-LV8vwI8",
       "t": "ARMA MUITO ROUBADA PARA O MONOCO + PICTO INSANO | EXPEDITION 33!",
       "data": "2025-05-11T16:00:01Z",
-      "views": 3136,
+      "views": 3137,
       "img": "https://i.ytimg.com/vi/0B4-LV8vwI8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0B4-LV8vwI8"
     },
