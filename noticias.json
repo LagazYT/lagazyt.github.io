@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-23T08:18:27.731Z",
+  "atualizadoEm": "2026-11-23T08:48:39.057Z",
   "noticias": [
     {
       "t": "Jogos em viagem: Nintendo Switch 2 ganha adaptador de internet móvel sem bateria",
@@ -215,16 +215,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_w1gb.jpg"
     },
     {
-      "t": "GTA 6: Como rodar o jogo em 60 FPS no PS5 e Xbox com a ajuda de um PC",
-      "d": "",
-      "link": "https://viciados.net/gta-6-como-rodar-jogo-60-fps-ps5-xbox-ajuda-pc/",
-      "fonte": "Portal Viciados",
-      "data": "2026-11-21T21:44:48.000Z",
-      "c": "PC",
-      "img": "https://viciados.net/wp-content/uploads/2026/11/GTA-6-Jason-Duval-Grand-Theft-Auto-VI-2026.webp",
-      "orig": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5QkdzQ252eGt2UERWcnoyOHhMdF9fMWcyZE8wRmlwMnRfNDJVRG94Um1IOFgtVThKaFdsbHA3RURxRkpEdEh4WnAzMFF3a0lzUGd5REZ5MXdrZ0ItcGxlZzNuV0s4cGpqOFA5R21QMHI3elU1RlhB?oc=5"
-    },
-    {
       "t": "GTA 6 tem console próprio com jogos ‘desenvolvidos por equipe dentro da equipe’; entenda",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/voxel/gta-6-tem-console-proprio-com-jogos-desenvolvidos-por-equipe-dentro-da-equipe-entenda/",
@@ -253,16 +243,6 @@
       "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRTVGa3Jjbm9qY2FodlNYWjRQQUV4MWQ1SWN4WWU0T2txZ2JiNzhpX1lCb1psUUhrZlprbHdpLWpRWldCanJYOW04LTRMdFpoOUVBYTVMX2t5U0JRVlpjbk1GQXFIdnpPc1gzWUlMRjJNM2gxZlZUVE9NTXYxNWZrVW40NGI0RTFBMlJyLUc4MGdCZzFvbGxpWlhBY2VMZkhrWGQtaFNRTUhoYW1OdVZCWQ?oc=5"
     },
     {
-      "t": "Steam recebe ofertas antecipadas de Black Friday no PC",
-      "d": "",
-      "link": "https://gameplayscassi.com.br/videos/steam-recebe-ofertas-antecipadas-de-black-friday-no-pc/136317/",
-      "fonte": "Gameplayscassi",
-      "data": "2026-11-21T18:56:05.000Z",
-      "c": "Ofertas",
-      "img": "https://gameplayscassi.com.br/wp-content/uploads/2026/11/maxresdefault-10.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTdwVlJyUmZlU3BWSExWZ3ZiVUItWXU1cjc3V052aExObVVIZVRwQUhYZWZpVlpRcjdFeHBZNTNWVW5Kei1ySDMxTERGaXlVZl9WZkRWMXlkWVAtMHAwVVFOVDZUcVNWb2ZMX0lpOUJKNFZpRFhkTUFselJ2akNTM01EcHl4dnVkT0E5N1QydDY3eVotSmFCMjM0MWNHV083?oc=5"
-    },
-    {
       "t": "Mega Man Dual Override revela chefe feito por brasileiro",
       "d": "Conheça o chefão de Mega Man Dual Override com DNA brasileiro",
       "link": "https://flowgames.gg/mega-man-dual-override-revela-chefe-feito-brasileiro/",
@@ -279,6 +259,24 @@
       "data": "2026-11-21T16:15:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/OE66IO4QJVLG5CDNZDQNFVAR3Q.jpg?quality=80&auth=2ce9fd99b5bd6a6061a0b74db1883873b6542fba91bdc509073d08fb0428cebe&width=710"
+    },
+    {
+      "t": "Mais leve e resistente: veja a nova coleção Carbon Fiber da Razer",
+      "d": "Nova coleção reestrutura o Viper V4 Pro e DeathAdder V4 Pro com fibra de carbono trançada",
+      "link": "https://flowgames.gg/razer-anuncia-colecao-carbon-fiber/",
+      "fonte": "Flow Games",
+      "data": "2026-11-21T15:00:40.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/Real-Carbon-Fiber.-Real-Engineering.jpg"
+    },
+    {
+      "t": "Stellar Blade e mais jogos para PC na Steam com até 95% OFF",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/stellar-blade-e-mais-jogos-para-pc-na-steam-com-ate-95-off/",
+      "fonte": "TecMundo",
+      "data": "2026-11-21T14:00:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/Y2QNF6QQF5NN5K4KA4KUUWZ7VQ.jpg?quality=80&auth=34d894149c87330e7fd04a5c0154433a3f7f4cf02c2d3ff440935443e63ad12e&width=710"
     }
   ],
   "videos": [
