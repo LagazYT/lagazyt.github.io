@@ -1,6 +1,16 @@
 {
-  "atualizadoEm": "2026-11-24T04:51:04.529Z",
+  "atualizadoEm": "2026-11-24T05:21:12.201Z",
   "noticias": [
+    {
+      "t": "Odin Q, novo MMORPG da Kakao Games, será lançado em janeiro de 2027 na Coreia, Taiwan e Japão",
+      "d": "",
+      "link": "https://mmorpgbr.com.br/odin-q-novo-mmorpg-da-kakao-games-sera-lancado-em-janeiro-de-2027-na-coreia-taiwan-e-japao/",
+      "fonte": "mmorpgbr",
+      "data": "2026-11-24T04:59:00.000Z",
+      "c": "Lançamentos",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeE1mUGpjLXFvU2lIYVBpSUNPZFJ4T2xWWXZJOFZoYm52QmVhSFdvb0lza2s5UW5oVi1RY2dvV01zZWZvYzV4dDc5cURmWEp6LUhENFZfaVZqU0xWZVRFX2d5ZVdVLU5lSE0zR3hHdmVBTl9PcW1zZWxNWkhjeFZGV3V3dS01NE9jNzVnZHFDdTBJR05fY2RLTGhBNVZnOVpmUVQxc2FqWkRHOVAxcS0tdnZrcmJTdw?oc=5"
+    },
     {
       "t": "Nintendo Classics do GameCube permite desativar bordas da tela no Switch 2",
       "d": "",
@@ -8,7 +18,7 @@
       "fonte": "Nintendo Blast",
       "data": "2026-11-24T04:00:25.000Z",
       "c": "Consoles",
-      "img": "",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjhOZajyLg9p8273_RGs1rhx1K2H9DBQpSXjsRf7nl1PyNPtWt_7QdVR2tSZ9PJy1MQHvMoDqJeXtrIAJKprNhSjmUUglBK6Z5h0AUkW1zHhn92KEfMRkW1SE32hxJbwbnLzCk51DdFLf-HgOVeoGdcF6lZUYWhpr_oRBsmpWBxz3KyAqAD4U7Rk3rBed/w1200-h630-p-k-no-nu/nintendo%20classics%20gamecube.jpg",
       "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeThITHhRQ1dWSTRjWTAtenp5bWVOcFp5eGlCOE1kTVV5MVFGbjBuQlhBdXVERHE2SGdBSE9SQ0JXZUF3Q1dsZ2Z2WjdLQWFvdFJGRXZPZU1heVYzU0JVMmlZb0MzU3JPY3JLaHZHU1ItY3JERTZtWEloblZUblZCb1dBR2VqSi12SU11bDNyN2kwMDR0Ulh2Njc0ZTZNUkkwVW12ck8zZTIyYmhfVFRuMW93MDBWWHd2V0VnWg?oc=5"
     },
     {
@@ -42,16 +52,6 @@
       "orig": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAzQzlOS1dndThhX0FFS0pZYkhGdW5OQUQtR0ZSRzRiNDNacVJNakk3Q3ZhTDV2VlZaaUR0MVJUYzZ6dG1qNmc?oc=5"
     },
     {
-      "t": "Relatório indica que GTA 6 já vendeu 45 milhões de cópias",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/relatorio-indica-que-gta-6-ja-vendeu-45-milhoes-de-copias/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-24T02:05:00.000Z",
-      "c": "Geral",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/gta-6-the-album-deluxe-edition-23-faixas-bonus-travis-scott-anitta-overmono-lista-5.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb3FRTElLN2w2VUhBTjd1eVZPeEZwZGdNblF6bHpMTU8zV1hZVy1lelhnMlVfVUozTE1IaEVKaThoZTI3cGs2SHQ0cl9NblpkRDd3RTN1MnBTaU80TWNFa3prNG9iLTJVX2dLV2paWFYyRkxCT0treS1sMUtNRU1vNm1JUmJjY196ZUFobWxsWDYxM243NnVnSXF3?oc=5"
-    },
-    {
       "t": "Loja oficial de Pokémon TCG faz liquidação de ETB da expansão Reinado Delta com 15% de desconto na Amazon",
       "d": "Com Mega Rayquaza ex na embalagem, a Coleção Treinador Avançado chega à Amazon com preço reduzido pela Copag. Veja os detalhes da expansão Megaevolução — Reinado Delta e clique para garantir a sua...",
       "link": "https://br.ign.com/descontos/157895/loja-oficial-de-pokemon-tcg-faz-liquidacao-de-etb-da-expansao-reinado-delta-com-15-de-desconto-na-am",
@@ -68,6 +68,16 @@
       "data": "2026-11-24T01:38:26.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/photo/t/the-best-g/the-best-game-of-2025_g44w.jpg"
+    },
+    {
+      "t": "KaBuM! Derruba Preço da Radeon RX 9050 Gaming OC 8GB Gigabyte na Black Friday com Cupom no PIX",
+      "d": "",
+      "link": "https://seletronic.com.br/kabum-derruba-preco-radeon-rx-9050-gaming-oc-8gb-gigabyte-black-friday/",
+      "fonte": "Seletronic",
+      "data": "2026-11-24T00:43:05.000Z",
+      "c": "Ofertas",
+      "img": "https://seletronic.com.br/wp-content/uploads/2026/11/gigabyte-rx-9050-gaming-oc-8gb-kabum-black-friday.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaURPY3FnLXlfeEVIcVpTMi1lcVZqZ0dkUWxYWVpQVWdCWlZvNDVBX1lOYTVHYS1ZZ1c3bnZnU3VKR2VFT3R5YVl3ZElOaGY5MGZGNG9peU04aWZ1SlZmN1ZrZmRmcld1bVdUSmhGYlJrczR6aHUxeFpuNFVrcnF0NzZ6YTVQZGRXXzRkUHRSbnBWWUVrZVE5ZUxNNTVjZw?oc=5"
     },
     {
       "t": "Hoje no TecMundo (23): Jensen Huang voltou para a Nvidia, GTA 6 bate recorde e mais",
@@ -244,6 +254,16 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/lego-donkey-kong-72051-montado-em-uso-1280x720_u6yk.jpg"
     },
     {
+      "t": "Can I Run Leonida: o site que testa se seu PC roda GTA 6",
+      "d": "",
+      "link": "https://gameoverdrive.com.br/can-i-run-leonida-gta-6-pc/",
+      "fonte": "Game Overdrive",
+      "data": "2026-11-23T19:09:38.000Z",
+      "c": "PC",
+      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/gta-6-vice-city-desempenho-scaled-1-1-1600x900.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEcjhGYy1lcnduV0NnbjRLdW41c0NNa1RYTmFnaXQxcUFSQ29Uc3V1aFc2NFA3RS1iQnFSZ3ZPbXJaQWZfS1BJcDNOU1BHbTAyNUk2Xy1fQm55QlF5R00xMTJkc3JvODA?oc=5"
+    },
+    {
       "t": "O que a volta de Jensen Huang significa para o futuro da Nvidia?",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/big-techs/o-que-a-volta-de-jensen-huang-significa-para-o-futuro-da-nvidia/",
@@ -253,16 +273,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/3O4XI5HFQBGS5JB2YHWHQQJFIM.jpg?quality=80&auth=4031963ed9b1585dd804401e454aa1f814bf243c28e0fd883c292f6c2ba9cf69&width=710"
     },
     {
-      "t": "Requisitos do GTA 6 no PC: o que esperar para rodar o jogo",
-      "d": "",
-      "link": "https://querobolsa.com.br/revista/requisitos-gta-6-pc",
-      "fonte": "Quero Bolsa",
-      "data": "2026-11-23T18:50:59.000Z",
-      "c": "PC",
-      "img": "https://wordpress-cms-revista-prod-assets.quero.space/uploads/2026/11/gta-6-causes-17-spike-in-time-off-requests-on-games-release_xcwx.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlVV84U2hDRGF6MllPeng4MzJyODBLVXg3SnI3VWRkdW80WTFhR2RmRjJ2ekdieWR4UTYtVWgwMXJGZFlHR2ZhdWtFNVVTeW5lQWVrODQ0LVFVckYxMWpPWFlFMA?oc=5"
-    },
-    {
       "t": "GTA 6 está te dando dor de cabeça? Uma configuração simples pode resolver seu problema!",
       "d": "Os 30 FPS podem causar incômodos em algumas pessoas Uma mudança muito simples de fazer em GTA 6 costuma resolver dor de cabeça e enjoo.",
       "link": "https://br.ign.com/grand-theft-auto-vi/157874/gta-6-esta-te-dando-dor-de-cabeca-uma-configuracao-simples-pode-resolver-seu-problema",
@@ -270,15 +280,6 @@
       "data": "2026-11-23T18:30:28.000Z",
       "c": "PC",
       "img": "https://sm.ign.com/ign_br/gallery/g/gta-6-reve/gta-6-reveal-15-new-screenshots-including-1-exclusive-on-ign_zhtq.jpg"
-    },
-    {
-      "t": "Saiba qual é a agenda de podcasts do Flow Games nesta semana",
-      "d": "A gente conta para você quais são os programas, temas e convidados dos próximos podcasts do Flow Games – incluindo sua data e horário",
-      "link": "https://flowgames.gg/confira-agenda-podcasts-flow-games-nesta-semana/",
-      "fonte": "Flow Games",
-      "data": "2026-11-23T17:45:54.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2023/11/image-2023-11-06T132528.896.jpg"
     }
   ],
   "videos": [
