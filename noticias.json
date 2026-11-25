@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-24T23:35:42.212Z",
+  "atualizadoEm": "2026-11-25T00:05:51.708Z",
   "noticias": [
     {
       "t": "Site mostra ao vivo progresso dos ports de GTA 6 para o PC; acompanhe",
@@ -500,26 +500,6 @@
     }
   ],
   "lancamentos": [
-    {
-      "t": "Forge the Fates",
-      "data": "2026-11-25",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocbd0.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/forge-the-fates"
-    },
-    {
-      "t": "Sunstone of Time",
-      "data": "2026-11-25",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod29b.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/sunstone-of-time"
-    },
     {
       "t": "Azur Promilia",
       "data": "2026-11-26",
@@ -4669,6 +4649,26 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarch.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/descent-of-lunaris"
+    },
+    {
+      "t": "Under Heaven or Hell",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazw3.jpg",
+      "hype": 3,
+      "link": "https://www.igdb.com/games/under-heaven-or-hell"
+    },
+    {
+      "t": "Object Impermanence",
+      "data": "2026-12-31",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1li.jpg",
+      "hype": 9,
+      "link": "https://www.igdb.com/games/object-impermanence"
     }
   ],
   "musicas": []
