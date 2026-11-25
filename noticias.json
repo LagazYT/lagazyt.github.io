@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-11-25T00:36:01.898Z",
+  "atualizadoEm": "2026-11-25T01:06:11.149Z",
   "noticias": [
+    {
+      "t": "Hoje no TecMundo (24): Jensen volta ao comando da Nvidia, GTA 6 recebe atualização e mais",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-24-jensen-volta-ao-comando-da-nvidia-gta-6-recebe-atualizacao-e-mais/",
+      "fonte": "TecMundo",
+      "data": "2026-11-25T00:44:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/ERRSSYJAOVEPVNLY47JAT4IZBE.jpeg?quality=80&auth=5dd81b680a7f6fd1f1b7fd89920f37d153c7a7d8eec5c259d62d0ce67fc906a2&width=1150"
+    },
     {
       "t": "GTA 6 vira o maior lançamento da história do PlayStation, com 39 milhões de jogadores",
       "d": "",
@@ -270,15 +279,6 @@
       "c": "Geral",
       "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/valve-proton-11-0-3-linux-15-jogos-crysis-amd-far-cry-5-hdr-steam-deck-oled-2.jpg",
       "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZktnWkxwT0YyWWpDSnJMblA2OGJGNEpRNXZCaXZybXIwWU9BQzBQVUprbW1iZW90QW40cjJ3OGtLaTU1UlMyYjlKX1p3UElSczh2TnM5aEUxelRXRkQ3b2Z1Um91RzhRVTZvelRQR1JrVUE0WGsyaFZyVkFNQVBDN080SlJfSHUtY18wMFpOdklCbUVqQ1FWZHl1RHdPTXpUZ0dVZWxwdDBGOUVZS3V5M3hmcnNFU0ZRT3NrNURn?oc=5"
-    },
-    {
-      "t": "GTA 6: fãs começam a desenvolver ports para PC",
-      "d": "Ainda longe de estarem em um estado jogável, diversos ports do GTA 6 para PC surgiram na internet",
-      "link": "https://flowgames.gg/gta-6-fas-comecam-a-desenvolver-ports-para-pc/",
-      "fonte": "Flow Games",
-      "data": "2026-11-24T14:34:56.000Z",
-      "c": "PC",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/09/GTA-6-Brian-Heder.jpg"
     }
   ],
   "videos": [
