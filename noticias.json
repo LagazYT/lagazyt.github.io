@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T05:29:10.457Z",
+  "atualizadoEm": "2026-11-25T05:59:16.499Z",
   "noticias": [
     {
       "t": "ÚLTIMAS HORAS: Epic Games Store solta o jogo Mark of the Deep de graça",
@@ -1290,6 +1290,16 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocrqy.jpg",
       "hype": 20,
       "link": "https://www.igdb.com/games/guns-of-eschaton"
+    },
+    {
+      "t": "Little Bettas",
+      "data": "2026-12-08",
+      "plats": [
+        "PC"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/codfw7.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/little-bettas"
     },
     {
       "t": "Diorama Tactics",
@@ -4658,16 +4668,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coarch.jpg",
       "hype": 1,
       "link": "https://www.igdb.com/games/descent-of-lunaris"
-    },
-    {
-      "t": "Under Heaven or Hell",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coazw3.jpg",
-      "hype": 3,
-      "link": "https://www.igdb.com/games/under-heaven-or-hell"
     }
   ],
   "musicas": []
