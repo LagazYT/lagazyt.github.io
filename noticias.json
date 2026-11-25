@@ -1,15 +1,23 @@
 {
-  "atualizadoEm": "2026-11-25T01:36:21.788Z",
+  "atualizadoEm": "2026-11-25T02:06:31.853Z",
   "noticias": [
     {
-      "t": "Mario Kart World recebe atualização 1.9.0 adição de oito pistas clássicas e replays; mais detalhes",
-      "d": "",
-      "link": "https://universonintendo.com/mario-kart-world-recebe-atualizacao-1-9-0-adicao-de-oito-pistas-classicas-e-replays-mais-detalhes/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-11-25T01:11:00.000Z",
-      "c": "Geral",
-      "img": "https://universonintendo.com/wp-content/uploads/2026/11/Mario-Kart-World-1.9.0.png",
-      "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNE9KTnJnUjZ4RFdKQUdfNFI1QUhDdHFMUi01VW5ZdVlYaUhJQWpMMEVqbjNDb2IxRXh2b284N2hBMnI4SVN6Nlc3TENuS0t2ekE5cDRSSEl3bWRiV0dDVnI0NGdLdjhGOWNNV3UtMnR6MnhoU2I2UHdFNVZwcmdVOTR4elhRYmpYbmtqSmdkdXJfZkFYWTB6dlNpdG1ITGV4Mmg2RFRsTUtYdGNuVlFkSGpZamRFTjFUNGhTSEVBYzRUV3piemc?oc=5"
+      "t": "Membros Prime levam quatro livros de estoicismo por menos de R$ 35 na Black da Amazon",
+      "d": "Oferta da Black Friday reúne três clássicos e uma coletânea de reflexões",
+      "link": "https://br.ign.com/descontos/157931/membros-prime-levam-quatro-livros-de-estoicismo-por-menos-de-r-35-na-black-da-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-25T01:50:34.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/biblioteca-estoica-volume-1-capa-1280x720_ckvb.jpg"
+    },
+    {
+      "t": "Black da Amazon: box comemorativo de 20 anos de Crepúsculo com cinco livros ganha mega desconto",
+      "d": "Coleção inclui Sol da Meia-Noite, novas capas ilustradas e um pôster exclusivo da edição brasileira",
+      "link": "https://br.ign.com/descontos/157930/black-da-amazon-box-comemorativo-de-20-anos-de-crepusculo-com-cinco-livros-ganha-mega-desconto",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-25T01:26:42.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/box-crepusculo-20-anos-capa-1280x720_kw3w.jpg"
     },
     {
       "t": "Hoje no TecMundo (24): Jensen volta ao comando da Nvidia, GTA 6 recebe atualização e mais",
@@ -29,16 +37,6 @@
       "c": "Consoles",
       "img": "https://uploads.acritica.net/2026/09/0d59c81b-b4a9-4256-8f54-d7da377cd99a.jpg",
       "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcExVSWVrNUdMdFdpQThJMjhxUHl6ZTBMNFQtbUVyQ1E4aWI4azRiX2JuT1UzZDJEOXY5YU1kQUF0MWNLejNjRHdLd2F1d3JuTnZXUHVFWkl3aXVidGc4cjJTakJrdWpMRnJraFlkNWxFZUlWVl9mOVV2NmpNeEpXdEVXOXNuUml1dm5rUk1PbDNrclh3elpvT1dhYzcwUEVkeF9NSlU4cw?oc=5"
-    },
-    {
-      "t": "Site mostra ao vivo progresso dos ports de GTA 6 para o PC; acompanhe",
-      "d": "",
-      "link": "https://canaltech.com.br/games/site-mostra-ao-vivo-progresso-dos-ports-de-gta-6-para-o-pc-acompanhe/",
-      "fonte": "Canaltech",
-      "data": "2026-11-24T23:20:00.000Z",
-      "c": "PC",
-      "img": "https://tl.ctcdn.com.br/8PN9WFpNqWxfHLtBDUr0h5pOmrQ=/1200x675/smart/filters:format(webp):quality(85)/ac236a17-ceae-4021-9246-e7d0f7545016.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONWJ6bGdmQlZqZUQ4c0I3bTdFeEZ4T09YakZnNkZrNHBpeXRwTEdFSWZ4bFFqa1lKV25KVnRhazVNMXJUWVhwTkhTQ3N2eUpYcGI2RWpRRFo5clhxTWhISTJDUEQzNG11aTJ4RUV3OWFISlVJM09nNkx3ZlZFTE1yUmNjMlNYc0cwMVpKZmN2VzNtMEV4NnVJUFRXM1kxVE9peFE?oc=5"
     },
     {
       "t": "Paper Shredder será lançado no PC e Xbox Series em 12 de janeiro de 2027",
@@ -78,6 +76,26 @@
       "data": "2026-11-24T22:30:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/AH3P7T2LBNK67BMAF74RGUBWOI.jpg?quality=80&auth=d41c38e49128439b379ea4f5a29a74b4b37a40872dd427de751da54451574e40&width=710"
+    },
+    {
+      "t": "GTA 6 vira o maior lançamento da história do PlayStation, diz Sony",
+      "d": "",
+      "link": "https://exame.com/pop/gta-6-vira-o-maior-lancamento-da-historia-do-playstation-diz-sony/",
+      "fonte": "Exame",
+      "data": "2026-11-24T22:17:07.000Z",
+      "c": "Consoles",
+      "img": "https://classic.exame.com/wp-content/uploads/2026/11/GTA6_oficial.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2pSOHVkeW1MU0lkLUp5UDJzOEJOM0RxMDN2R3hobDBCdlNtOWxLUGpVZzJZZDMtWUxWT2FIMFViR0tOWHlkWWl2NkJ2ejI2c2kta2p6RWx0R2pJZ2k2cXFfbDM1Uko3NW1UY0FlWi0wS1lUaEppYVUxVjZMSkJza0pFUFJfUlNGV2Z5ODF4Z01nZw?oc=5"
+    },
+    {
+      "t": "ROG XBOX Ally ou ROG XBOX Ally X: qual portátil comprar na Black Friday 2026?",
+      "d": "",
+      "link": "https://canaltech.com.br/games/rog-xbox-ally-ou-rog-xbox-ally-x-qual-comprar-black-friday-2026/",
+      "fonte": "Canaltech",
+      "data": "2026-11-24T22:00:03.000Z",
+      "c": "Ofertas",
+      "img": "https://tl.ctcdn.com.br/lVAyEMFfdvmUQUUbME9P8RHa8y0=/1200x675/smart/filters:format(webp):quality(85)/21eb21e8-6d31-4eb3-850a-7a81204c9b7b.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVlhaFM4cFpCLWM5SGZqNXZ4UWZRODhINmJwUVNLbkxsZ0pvY0VpcThTVm9IQ0VkQUxvSHROcllZR2hJRnUyNFlYa2IzZ09MRllKU1NncHpmZ0ItVEFUeF9uZmR3NTUzXzl6WTVfNHV5WTNDMHdqZGktWnQ4Z3ljMVpkNHVvOWxhYUFfRkRoQW5LazdKM2FwTUJHQQ?oc=5"
     },
     {
       "t": "Salto de The Witcher 3 para The Witcher 4 será comparável ao de GTA 5 para o 6, diz CD Projekt Red",
@@ -217,15 +235,6 @@
       "orig": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbk5raFhyQ0N2eTR5eDNabU1OS3NpZTdJZkJteWtCYllPcDdRODZ6UzB2WlVMUXRFWkFWM1otLUQ3MFVVSkgzNTRQVlZReVZyRkdlM3NkMGhEYWczckJ2VUVTYU1BdmNaLUhsNUQ3SjJ6ZU5pSmx3TV9YTy1wRFJxOVpQZXZhRW1TeG1fb0xuOTFLa1FKV19QeUppT0N4SDBrZ2owd3ZHVS1mZXM1VnZtbWkySGc5cE9aYnQxeUNLSnowenA5?oc=5"
     },
     {
-      "t": "GTA 6: altere todas essas configurações antes de iniciar o jogo",
-      "d": "Antes de mergulhar de cabeça no mundo de GTA 6, recomendamos alterar algumas configurações para aproveitar ao máximo tudo o que o jogo tem a oferecer",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157908/gta-6-altere-todas-essas-configuracoes-antes-de-iniciar-o-jogo",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-24T17:03:57.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/blob_a391.png"
-    },
-    {
       "t": "Xbox pode repensar online pago na nova geração",
       "d": "Boatos indicam que a tradição de pagar pelo online pode ser revista pelo xbox",
       "link": "https://flowgames.gg/xbox-project-helix-pode-largar-online-pago/",
@@ -242,15 +251,6 @@
       "data": "2026-11-24T16:14:19.000Z",
       "c": "PC",
       "img": "https://flowgames.gg/wp-content/uploads/2025/03/download-2-1-1.jpg"
-    },
-    {
-      "t": "Scott Pilgrim e Ramona Flowers chegam ao Fortnite esta semana",
-      "d": "We are Sex Bob-Omb! Scott Pilgrim chega ao mundo de Fortnite ainda esta semana, como parte do próximo crossover. Visuais de personagem para Scott Pilgrim e Ramona Flowers ficarão disponíveis na...",
-      "link": "https://br.ign.com/fortnite/157905/scott-pilgrim-e-ramona-flowers-chegam-ao-fortnite-esta-semana",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-24T16:07:04.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/news/s/scott-pilg/scott-pilgrim-and-ramona-flowers-join-fortnite-this-week_ebt6.jpg"
     },
     {
       "t": "GTA 6: a cobertura completa do Flow Games!",
