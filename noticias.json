@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T09:30:06.202Z",
+  "atualizadoEm": "2026-11-25T10:00:13.523Z",
   "noticias": [
     {
       "t": "Carro de Velozes e Furiosos no GTA 6: onde encontrar o Penumbra FF na Ilha Vespucci?",
@@ -9,16 +9,6 @@
       "data": "2026-11-25T09:00:38.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_zdff.jpg"
-    },
-    {
-      "t": "Patente da Microsoft propõe joystick substituível no Xbox",
-      "d": "",
-      "link": "https://www.neoteo.com/pt/patente-atribuida-a-microsoft-propoe-joystick-substituivel-para-controles-xbox",
-      "fonte": "NeoTeo",
-      "data": "2026-11-25T07:17:36.000Z",
-      "c": "Consoles",
-      "img": "https://www.nitroindex.com/opengraph/www.neoteo.com/og.png?url=https%3A%2F%2Fwww.neoteo.com%2Fpt%2Fpatente-atribuida-a-microsoft-propoe-joystick-substituivel-para-controles-xbox",
-      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc3ZHRndJWmlVVUhvVllLd3BCSS1jUGUwTlZEd3k0ZHFUVkxRN1BCaG5fY295YUZLMXlYN0t4ZUVnQ2lreV9sQWZMdkI1TDgzLUVSVGtCSkVLWjh3dHp3LTcwM0M5SmozX0ozQVVzWjVYODVsSEtVQTR1cnZIeEJqWHRmS1FGY0NGTnphTU9YYUhOZ21qSVdKSjRRd3NFLTBFVGhVdHF2aw?oc=5"
     },
     {
       "t": "Benchmark aponta que GTA 6 tem desempenho inferior no PS5 em relação ao Xbox Series X, com mais quedas na taxa de quadros",
@@ -77,6 +67,16 @@
       "data": "2026-11-25T01:50:34.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/biblioteca-estoica-volume-1-capa-1280x720_ckvb.jpg"
+    },
+    {
+      "t": "Fim abrupto de Destruction AllStars põe em xeque ofensiva da Sony em games-como-serviço",
+      "d": "",
+      "link": "https://radiogeekbr.com.br/fim-destruction-allstars-ameaca-ofensiva-sony-games-servico/",
+      "fonte": "radiogeekbr.com.br",
+      "data": "2026-11-25T01:28:49.000Z",
+      "c": "Geral",
+      "img": "https://radiogeekbr.com.br/wp-content/uploads/2026/11/radiogeekbr-1795571915.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaUVDb0lpYUJKaGtOQ0VfaUZVVUwyWWhFWGZuUnpFM3oxVzdodzJ6TksySGZTd1FjSHJFNkxUUmM5MkE2TjM2S3UtQWJIeDZuTWNOcXdlVkxYa09Ma1BVN2pKY0NTZ2FpU0pCMi1UWmpab3ZDRWIxZDhuaFFlS0xKdEFPck5aMGFDVmZZZUhSRmQ?oc=5"
     },
     {
       "t": "Black da Amazon: box comemorativo de 20 anos de Crepúsculo com cinco livros ganha mega desconto",
@@ -302,7 +302,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8393,
+      "views": 8396,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -414,7 +414,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2961,
+      "views": 2962,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
