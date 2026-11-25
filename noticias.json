@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T21:55:18.213Z",
+  "atualizadoEm": "2026-11-25T22:25:25.137Z",
   "noticias": [
     {
       "t": "Metroid Ravenous ganha data de lançamento no Nintendo Switch 2",
@@ -250,26 +250,6 @@
       "img": "https://www.estadao.com.br/resizer/v2/SFIFXYAMLRFQXHNWMY5IZKCTGU.jpg?quality=80&auth=4b84f58be3c986eef2901b6dcbf31dae0bf8985dcf8c7bb8b191a38e282771d6&width=710"
     },
     {
-      "t": "URTI adiciona reflexos com ray tracing a jogos de PC",
-      "d": "",
-      "link": "https://criticalhits.com.br/mods/urti-adiciona-reflexos-com-ray-tracing-a-jogos-de-pc/",
-      "fonte": "Critical Hits",
-      "data": "2026-11-25T12:57:56.000Z",
-      "c": "PC",
-      "img": "https://criticalhits.com.br/wp-content/uploads/2026/11/urti-adiciona-reflexos-com-ray-tracing-a-jogos-de-pc-featured.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQXFDUGJRZUFKT19Ub1hVN29yMjdRaWRkMV9PNF9xZmpDVk1tQ2ZrTXJpRndmaGZkTk03Z0ZUMk10R2EzQWhQQXdBNWF2cDA2QVJieFA5UmNYVzE2OGQ0LVF2QWd6SnFkbGNHVXhzSzBYWnJSTzBOcVFZWkZWRHRSNkZmdEFwZ0VkSVlYX08tYw?oc=5"
-    },
-    {
-      "t": "PortWatch VI: veja o progresso de GTA 6 no PC",
-      "d": "",
-      "link": "https://gameoverdrive.com.br/portwatch-vi-gta-6-pc/",
-      "fonte": "Game Overdrive",
-      "data": "2026-11-25T12:49:52.000Z",
-      "c": "PC",
-      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/como-roubar-carros-em-gta-6-sem-disparar-alarmes-3-1600x900.webp",
-      "orig": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xaVRkajBFN1lNb2xWZkEyUndjNzNGWVVsemRGR2FHY3RNYnJuOWhIUmZ4V2Vwa1d1X3dJOTBxeTVHZ29NckFURjJaR0dURGFUOHd0Wk0tRnhWd0swWlVKUA?oc=5"
-    },
-    {
       "t": "Hoje no TecMundo (24): Jensen volta ao comando da Nvidia, GTA 6 recebe atualização e mais",
       "d": "",
       "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-24-jensen-volta-ao-comando-da-nvidia-gta-6-recebe-atualizacao-e-mais/",
@@ -277,6 +257,25 @@
       "data": "2026-11-25T00:44:00.000Z",
       "c": "PC",
       "img": "https://www.estadao.com.br/resizer/v2/ERRSSYJAOVEPVNLY47JAT4IZBE.jpeg?quality=80&auth=5dd81b680a7f6fd1f1b7fd89920f37d153c7a7d8eec5c259d62d0ce67fc906a2&width=1150"
+    },
+    {
+      "t": "Jogos da Rockstar em oferta na Steam com até 75% de desconto",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-da-rockstar-em-oferta-na-steam-com-ate-75-de-desconto/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-24T22:43:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/03/red-dead-redemption-2.webp",
+      "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHVTOS1kRFR6OFp5VHBhN3R5anRBYkU5dDM0TUlOemN5WGN6Q3lxc3h3X3pTWWl0Y3Z2emRtbXdjODZsMHZQeUFOMkwtQVdWSDhiNGRudjlMMlU4bnN2U3dyeUlHMzhLaHI1dFU3d3ppV0F5UWxwTkpNblk1YXFmc2ppQ0pUdWJ6bTRXLUpvd3dxTV9UT0JnTkstd1IwZElDOHdmcmhDMm8?oc=5"
+    },
+    {
+      "t": "Metaphor: ReFantazio e mais jogos da Steam com até 95% OFF na Nuuvem",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/metaphor-refantazio-e-mais-jogos-da-steam-com-ate-95-off-na-nuuvem/",
+      "fonte": "TecMundo",
+      "data": "2026-11-24T22:30:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/AH3P7T2LBNK67BMAF74RGUBWOI.jpg?quality=80&auth=d41c38e49128439b379ea4f5a29a74b4b37a40872dd427de751da54451574e40&width=710"
     }
   ],
   "videos": [
