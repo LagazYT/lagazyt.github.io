@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-11-25T02:36:42.076Z",
+  "atualizadoEm": "2026-11-25T03:06:51.208Z",
   "noticias": [
+    {
+      "t": "Como automatizar tarefas com o Codex CLI em uma VPS",
+      "d": "Servidor remoto permite manter projetos, executar testes e programar rotinas com IA em um ambiente acessível de qualquer lugar",
+      "link": "https://br.ign.com/tech/157932/como-automatizar-tarefas-com-o-codex-cli-em-uma-vps",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-25T02:27:11.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/futuristic-cloud-automation-terminal_gqan.jpg"
+    },
     {
       "t": "Membros Prime levam quatro livros de estoicismo por menos de R$ 35 na Black da Amazon",
       "d": "Oferta da Black Friday reúne três clássicos e uma coletânea de reflexões",
@@ -34,7 +43,7 @@
       "d": "",
       "link": "https://universonintendo.com/mario-kart-world-recebe-atualizacao-1-9-0-adicao-de-oito-pistas-classicas-e-replays-mais-detalhes/",
       "fonte": "Universo Nintendo",
-      "data": "2026-11-25T01:11:00.000Z",
+      "data": "2026-11-25T01:11:36.000Z",
       "c": "Geral",
       "img": "https://universonintendo.com/wp-content/uploads/2026/11/Mario-Kart-World-1.9.0.png",
       "orig": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNE9KTnJnUjZ4RFdKQUdfNFI1QUhDdHFMUi01VW5ZdVlYaUhJQWpMMEVqbjNDb2IxRXh2b284N2hBMnI4SVN6Nlc3TENuS0t2ekE5cDRSSEl3bWRiV0dDVnI0NGdLdjhGOWNNV3UtMnR6MnhoU2I2UHdFNVZwcmdVOTR4elhRYmpYbmtqSmdkdXJfZkFYWTB6dlNpdG1ITGV4Mmg2RFRsTUtYdGNuVlFkSGpZamRFTjFUNGhTSEVBYzRUV3piemc?oc=5"
@@ -216,15 +225,6 @@
       "img": "https://sm.ign.com/ign_br/news/g/gta-6-mand/gta-6-mandy-actor-calls-viral-fame-bittersweet-because-peopl_d6dc.jpg"
     },
     {
-      "t": "Vazamentos de The Last of Us: Part 2 agravaram reações negativas, afirma Laura Bailey",
-      "d": "“Isso simplesmente se transformou em um pesadelo na internet”",
-      "link": "https://br.ign.com/the-last-of-us-part-ii/157909/vazamentos-de-the-last-of-us-part-2-agravaram-reacoes-negativas-afirma-laura-bailey",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-24T17:19:23.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/t/the-last-o/the-last-of-us-part-2-leaks-made-backlash-worse-laura-bailey_f8yn.jpg"
-    },
-    {
       "t": "GTA 5 e Red Dead Redemption 2 entre os mais vendidos da Steam em semana de GTA 6",
       "d": "",
       "link": "https://www.adrenaline.com.br/games/pc-games/gta-5-e-red-dead-redemption-2-entre-os-mais-vendidos-da-steam-em-semana-de-gta-6/",
@@ -302,7 +302,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8391,
+      "views": 8392,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -454,7 +454,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20540,
+      "views": 20543,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -494,7 +494,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3725,
+      "views": 3726,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
