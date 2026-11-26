@@ -1,35 +1,73 @@
 {
-  "atualizadoEm": "2026-11-26T20:45:31.029Z",
+  "atualizadoEm": "2026-11-26T21:15:38.681Z",
   "noticias": [
     {
-      "t": "O melhor console portátil? Nintendo Switch 2 com EA FC 27 cai para R$ 3.519 na Amazon",
+      "t": "Pantanal Game Show reúne setor de games e destaca oportunidades para desenvolvedores em MS",
       "d": "",
-      "link": "https://www.tudocelular.com/jogos/noticias/n268034/nintendo-switch-2-ea-fc-27-oferta-amazon.html",
-      "fonte": "TudoCelular.com",
-      "data": "2026-11-26T20:41:08.000Z",
+      "link": "https://ms.agenciasebrae.com.br/inovacao-e-tecnologia/pantanal-game-show-reune-setor-de-games-e-destaca-oportunidades-para-desenvolvedores-em-ms/",
+      "fonte": "Agência Sebrae de Notícias",
+      "data": "2026-11-26T21:11:59.000Z",
+      "c": "Geral",
+      "img": "https://ms.agenciasebrae.com.br/wp-content/uploads/sites/12/2026/11/ok_p24606_thumb_resized.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTEw4eFhkTHBTWnc0OVQya1V2b21KZDNkVkdLalN6ZExtc1pNaGZVLUZ2czF0S3Nwdk9ZcGJ3Qk5jQlQxTTJHX0RZemVPVGpEbDlFdE5meXQ2T2loWi1SNlNLNzYybEFtekVsQ2JnTkVlXzhnSXZBMHhMaWtSQ2QyZnVwb2ZaSW01aWViMWN3TE5PQ1ROZGV6bUd5WGZCdnVrcG9hejBWYUQyVVlpRWY1SllNYW5rRVJWcWFkdnBKTGREZmFIb3BLWWhwN2plOXhrRnhtRVdsY2d0bVNjTlE?oc=5"
+    },
+    {
+      "t": "GTA 6 ajuda o PS5 a superar o Switch 2 no Japão",
+      "d": "Pela primeira vez o PS5 vendeu mais que o Switch 2, e foi graças a GTA 6",
+      "link": "https://flowgames.gg/gta-6-faz-ps5-vender-mais-que-switch-2-no-japao/",
+      "fonte": "Flow Games",
+      "data": "2026-11-26T21:05:23.000Z",
+      "c": "Consoles",
+      "img": "https://s.w.org/images/core/emoji/17.0.2/72x72/27a1.png"
+    },
+    {
+      "t": "Mercado de games: pesquisa revela interesse e desafios no ES",
+      "d": "",
+      "link": "https://tribunaonline.com.br/economia/mercado-de-games-interesse-desafios/",
+      "fonte": "Tribuna Online",
+      "data": "2026-11-26T21:04:56.000Z",
+      "c": "Lançamentos",
+      "img": "https://media.tribunaonline.com.br/wp-content/uploads/2026/11/NOVO-PADRAO-SITE-1200-x-745-px-76.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZlptaGFxZkphcjFtRGVQRks1dXhBZWRndVBEa1RqS0VlN1FzbGJraVVKS2k1S2Y2WW9tQllTMzVqQTdOckJPQ3lwaU1PbDdGQkdTdmlMVzlsbHAzZDRyTERxWmhuYk1WVzJNZ09HWnJ3bTNkbXRvZmZSc3ozN3c?oc=5"
+    },
+    {
+      "t": "Instituto Federal e Ministério da Ciência oferecem Formação em Games que paga até R$ 2 mil por mês",
+      "d": "",
+      "link": "https://www.pebsp.com/instituto-federal-e-ministerio-da-ciencia-oferecem-formacao-em-games-que-paga-ate-r-2-mil-por-mes/",
+      "fonte": "PEBSP",
+      "data": "2026-11-26T20:59:14.000Z",
+      "c": "Geral",
+      "img": "https://www.pebsp.com/wp-content/uploads/2026/11/residencia-games-tic56-sergipe-1.webp",
+      "orig": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3picmdiOVdLNlZhTzFYY0RITW1xSDNTak04c20tNzU1RFI3LUhFVm80cG9BMlBoV0lXUEE0WHdOZmNRVFBLMDl4X21JaVQ0YVZ0X0wyOVBOT3hiY3ZFTTJVcVRkM1dZWTFUanIxdnNONmdHRE9QVXh3VWZadVFtYXVlVGNkdDVHUTNBUXFmeVNmX0FybEJOVHZTei10LUUtZkx4aHdsWnJ4SXZucmlIU1haM1RkXzdnQ2NNQQ?oc=5"
+    },
+    {
+      "t": "Esquenta Black Friday: Nintendo Switch 2 com EA Sports FC 27 está com quase R$ 1.180 de desconto na Amazon",
+      "d": "",
+      "link": "https://br.ign.com/descontos/158001/esquenta-black-friday-nintendo-switch-2-com-ea-sports-fc-27-esta-com-quase-r-1180-de-desconto-na-ama",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-26T20:50:19.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/t/ign_br/screenshot/default/nintendo-switch-2-com-ea-sports-fc-27-1_ty7a.1200.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEpfd2w5TDBvU2I5WEpkZmZza1JCdTZ6NWlUeW9CZVZUVmpIZGNfLWgxYkp4SEswNXVJTGE1OTdqSlVjNF9LUW1sWTN2LUxWSkdyVGdKa1EzZUUtR3hFdlZUV0dJYV9MTkhySjRnZHotcTdKejNRd0ZIUU0yaS1YN1U3bGY0OUwzcDYzSTg0VG9VYlBUTG13OGdsOGNJemhjRTZ5TTI2SnY5NS02MC1HZ2Q2ODdyRkxoOU1nUmVVLWdqcW5naEdaOUVaYzJqUzZqREE?oc=5"
+    },
+    {
+      "t": "PlayStation Store 20 Anos: A Evolução da Loja Digital da Sony",
+      "d": "",
+      "link": "https://ultimaficha.com.br/2026/11/26/playstation-store-20-anos/",
+      "fonte": "Última Ficha",
+      "data": "2026-11-26T20:49:42.000Z",
       "c": "Consoles",
       "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMXhDX25PS3VhMlhEUnRPWkZCV3gyZE00YVM1aDlIVnVxUjFKbFZjNkJDZWlGMkYxbzV5SE9nUXRtc0R5NkdpNzBVWXpBVjUtbndtdUZDN1dfWjk3LXBYR24zMUNaU3Y0aXRIMk9EM1dxY2gyNkFUbFpuQUxxcURad0VXQmlNVG5fYWZmSHVOUXJOVzZNSExFdWVpeDY?oc=5"
+      "orig": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fdTlFbGFleUh0Yi1YdmYzMkFZTEdDYlJINU9ySkZXQV9RMWxlTHA4VDNndjl6MHRZREZCbnpsdUVMWDU5ZlhnVkdsaU42dDBKMEo4T1E5YUJlUHZkUkRxTHc5dnZ2d0VrMUwzQnAtTUt6Zw?oc=5"
     },
     {
-      "t": "Reboot de Fable foi afetado por The Witcher 3, afirma Playground Games",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/reboot-de-fable-foi-afetado-por-the-witcher-3-afirma-playground-games/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-26T20:29:00.000Z",
-      "c": "Geral",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Fable-Reboot-The-Witcher.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNTFKSmwtY29qSHlHMTRDQmt3dXRWZ0xFWWVuYzdWR2k5TGprblQ0cFZCNHJKQTcyXzRCWC04Z1lLSmoteGJ0Q2pycFJTakZRSWpOOXhTTlBWd1lHZWxHSXdVUTEyamRjQ1NvVEVhNEFCdFFaSWdjeUl1ajNzanNfNFYybUhZQVVvb3FDUFl0Q0tJSHBXNEFNbzdmazVIblVUbzB4emRtYTNpQQ?oc=5"
-    },
-    {
-      "t": "Station to Station recebe trailer de lançamento na chegada ao Switch 2",
-      "d": "",
-      "link": "https://www.nintendoblast.com.br/2026/11/station-to-station-recebe-trailer-lancamento-chegada-switch2.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-11-26T20:22:06.000Z",
-      "c": "Consoles",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLntAimMMx8E76s7a9tKrTxHOQI29JlSQMLJGHGwIrstcC2wrrkkBhe84JNhFQ-2lyFigKePMONhj26-CMW7IhfZ3gHihH4D3sjX8I6241Zxz6nykKOqDwp84HUuGYNWqKDkM40X5QKzUgBU0xsiHv4jlYuTEP7hAYoZRt90JO9fP5IU09JbQyjht8bQA/w1200-h630-p-k-no-nu/StationToStation_16x9_1920x1080.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLVdpYThWUm9SdTh6cVJwUEp0RjdBa2Z4dzVuUlpvY01MekVjbEJBZzJ6QzZMYmtvTlM2X3BNSVNycXdoMWhHM1FhZi1zZDN1NnlVTmRyTlZCcVFfMURHcDBUYjJxSHhkZVlVRmRFbWZhbVl3M2xJVzVwbkg3RHNDbmp2cm5HQkxtODRBaGYtXzdpaElfb0NxTEtneGM3ZHU2UHZGT0xPWnZjZw?oc=5"
+      "t": "Xbox libera dois jogos para aproveitar grátis no fim de semana",
+      "d": "Disponível até domingo (29), os membros do Xbox Game Pass podem aproveitar mais dois jogos de graça",
+      "link": "https://flowgames.gg/xbox-libera-dois-jogos-gratis-fim-de-semana/",
+      "fonte": "Flow Games",
+      "data": "2026-11-26T20:45:41.000Z",
+      "c": "Ofertas",
+      "img": "https://flowgames.gg/wp-content/uploads/2024/09/tekeshwar-singh-8rVDQsOajWM-unsplash-1-1044x696.jpg"
     },
     {
       "t": "GTA 6: datamining revela configuração gráfica dos consoles",
@@ -41,16 +79,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-37.jpg"
     },
     {
-      "t": "Imperdível: Ryzen 7 7800X3D, o rei dos games, saindo por menos de R$ 1.620 no PIX",
-      "d": "",
-      "link": "https://canaltech.com.br/hardware/imperdivel-ryzen-7-7800x3d-o-rei-dos-games-saindo-por-menos-de-r-1620-no-pix/",
-      "fonte": "Canaltech",
-      "data": "2026-11-26T20:12:36.000Z",
-      "c": "Geral",
-      "img": "https://tl.ctcdn.com.br/RoqKHMkeC6erfi4P6rBtLRWTokI=/1200x675/smart/filters:format(webp):quality(85)/2f39b078-9548-49b8-9970-14c7ee6fbe95.png",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORFRKZjBKNFhNNXhxWkxYMEp0MFNnbkZJLXdmUXY1R2IwN2NxVm1tOHVMUDZnSTY0WERSQzBYRm1qcU1pVVRHVmR0Nlk3VERXclZ5aW1rS2E0VUkxdGZkbmdjRVpoS1JobmJQQWYycDJaajE4UF9fV3VZRXdmanpaZW93d3ZYMzJreGIyVW80TzE4blFsb0NVbWR2V29zZlNqZ0JIUkxPZk5QRWZiY3BGUQ?oc=5"
-    },
-    {
       "t": "Uepa! GTA 6 está com tudo nas buscas do Pornhub",
       "d": "GTA 6 está em alta nas buscas do Pornhub, assim como a Lucia, Jason e... Mandy!",
       "link": "https://flowgames.gg/gta-6-pornhub-dispara-buscas-de-porno/",
@@ -58,16 +86,6 @@
       "data": "2026-11-26T20:01:30.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/08/GTAVI_9.jpg"
-    },
-    {
-      "t": "GTA 6 recebeu recursos extras para rodar no Xbox One, afirma Digital Foundry",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/gta-6-recebeu-recursos-extras-para-rodar-no-xbox-one-afirma-digital-foundry/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-26T19:55:00.000Z",
-      "c": "Consoles",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTA-6-Recursos-Extras-Xbox-One.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUF1OEVJYkFLZ25FM1FUY0ZQU0xWZHF6OEQyV1B4bzZSdmdKRHBXRnFNcGRtaWxCVmQ5S0pCNmRfM24wYXhtUnVmM3Z2cFhVcDRMZk4yT1lBekFMMHEyNXJmVEJocUdVZUZibUpNS3hXN0hYM0NEc3g4OHR6LVl0a1c2NHFFNDE0bURCTDAxeW02MS1iM3dVVWlReXhNT1lGdVRaWkxiaEk0MjhMTE5GdVRn?oc=5"
     },
     {
       "t": "Nintendo confirma presença na CCXP 26: confira jogos e brindes do estande",
@@ -262,24 +280,6 @@
       "data": "2026-11-26T14:25:54.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/echo-dot-capa_phk4.jpg"
-    },
-    {
-      "t": "Sem exclusividade: The Witcher 4 permanecerá multiplataforma, diz CDPR",
-      "d": "CD Projekt Red esclarece dúvidas sobre exclusividade de The Witcher 4 no PlayStation",
-      "link": "https://flowgames.gg/the-witcher-4-permanecera-multiplataforma-diz-cdpr/",
-      "fonte": "Flow Games",
-      "data": "2026-11-26T14:12:01.000Z",
-      "c": "Consoles",
-      "img": "https://flowgames.gg/wp-content/uploads/2025/03/The-Witcher-4-5.jpg"
-    },
-    {
-      "t": "GTA 6: a cobertura completa do Flow Games!",
-      "d": "Confira a lista com todas as dezenas de matérias do Flow Games sobre GTA 6",
-      "link": "https://flowgames.gg/gta-6-tudo-sobre-o-jogo-ps5-xbox-series/",
-      "fonte": "Flow Games",
-      "data": "2026-11-26T14:04:44.000Z",
-      "c": "Geral",
-      "img": "https://www.youtube.com/embed/Y8x_j-h_i3g"
     }
   ],
   "videos": [
@@ -303,7 +303,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8403,
+      "views": 8404,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -327,7 +327,7 @@
       "id": "-4zg_Y74HoA",
       "t": "KUSARIGAMA LENDARIA FLOR DA MORTE é MUITO DANO | ASSASSINS CREED SHADOWS!",
       "data": "2025-06-19T20:00:00Z",
-      "views": 264,
+      "views": 265,
       "img": "https://i.ytimg.com/vi/-4zg_Y74HoA/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=-4zg_Y74HoA"
     },
@@ -455,7 +455,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20571,
+      "views": 20569,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
