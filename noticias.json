@@ -1,55 +1,64 @@
 {
-  "atualizadoEm": "2026-11-26T12:33:48.418Z",
+  "atualizadoEm": "2026-11-26T13:03:56.530Z",
   "noticias": [
     {
-      "t": "Ken Kutaragi diz que o PlayStation nunca foi uma vingança contra a Nintendo",
+      "t": "E.S.D.E. chega ao PC e PS5 em 3 de dezembro; Xbox estreia dia 18",
+      "d": "",
+      "link": "https://pizzafria.ig.com.br/news/e-s-d-e-data-lancamento-xbox/",
+      "fonte": "Pizza Fria",
+      "data": "2026-11-26T12:55:58.000Z",
+      "c": "PC",
+      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/10/E.S.D.E.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzc1gwOVBRWmxTZTBELWlGMWlJMmstdzF1Mm1yTi1WNTRwLS1ZZWU5Z3FvRkRKRHA1d0ljRFp1aDJjVnl4cERyTkpuLUpXV1BLS3NTcUsyejJfTDV5aWdUcm9Bb3hUQjRUcjdFaFlfSQ?oc=5"
+    },
+    {
+      "t": "Space Mechanic Simulator chega ao PS5 e Xbox Series X|S em 3 de dezembro",
+      "d": "",
+      "link": "https://pizzafria.ig.com.br/news/space-mechanic-simulator-ps5-xbox/",
+      "fonte": "Pizza Fria",
+      "data": "2026-11-26T12:52:11.000Z",
+      "c": "Consoles",
+      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/Space-Mechanic-Simulator-press-material.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTeUtmcm1BMjdGaGtxUFRHaU93SHZyMzR0OG9ubFhlaXRpT1Z3RDZibm45Y0lJOUo5c3luVzYxeWQ2c3I5ME9mRGc0NDhfTkplVHNDTzBuU3ZLN1h3NE5mTFE4ZjMzREJJQXkxbTBibDlPM05xMXc?oc=5"
+    },
+    {
+      "t": "SAI-KYO-OH! Clash Battle Kings chega ao Nintendo Switch 2",
+      "d": "",
+      "link": "https://pizzafria.ig.com.br/news/sai-kyo-oh-clash-battle-kings-switch-2/",
+      "fonte": "Pizza Fria",
+      "data": "2026-11-26T12:49:05.000Z",
+      "c": "Consoles",
+      "img": "https://pizzafria.ig.com.br/wp-content/uploads/2026/11/SAI-KYO-OH-Clash-Battle-Kings.avif",
+      "orig": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5QWtQUzJRT2lkQjFkOFMxT3FDZmRuZkdLRU1CSzF3SExGRUJOQkVNb21kZWtrZE5BZm9Kbk1nY2JXSGo3Wm04WFl2WXNUbFJHQURmRFd6VWMzUkRTeWtwNFhINzBKSWVQaHFxOFdDekF0S1VXY0VEUi1LZDg?oc=5"
+    },
+    {
+      "t": "Draft de Disney Lorcana: como escolher cartas e montar deck",
+      "d": "Entenda como funciona o Draft de Disney Lorcana, o que pegar nas primeiras escolhas, como ler os sinais da mesa e como chegar ao deck de 35 cartas",
+      "link": "https://flowgames.gg/draft-disney-lorcana-como-escolher-cartas/",
+      "fonte": "Flow Games",
+      "data": "2026-11-26T12:37:23.000Z",
+      "c": "Lançamentos",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/11/imagem_2026-11-22_095627494.png"
+    },
+    {
+      "t": "Neon Abyss 2 receberá DLC gratuito em 4 de dezembro",
+      "d": "",
+      "link": "https://www.nintendoblast.com.br/2026/11/neon-abyss2-recebera-dlc-gratuito-4-dezembro.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-11-26T12:36:45.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1pFRnp4Nldqbm0zRTJ2a1VCUmMwb2F2eTAxbVRWdmRVNVB3UnNBU3hDcEpsclhtNXNDc2xadDltLW1KOE9hQm5ydVBmOHZBQzZmVWVZOEUyV0JBTU1FVl9HUE5HUU1ISzF0dXBYYXBFMDFWNHBDcktuMXl5U1NlS0ppZy1hdmJzNktKY0tKUUJUSWJn?oc=5"
+    },
+    {
+      "t": "Kutaragi nega vingança da Sony contra a Nintendo",
       "d": "",
       "link": "https://arkade.com.br/ken-kutaragi-diz-que-o-playstation-nunca-foi-uma-vinganca-contra-a-nintendo/",
-      "fonte": "arkade.com.br",
+      "fonte": "Arkade",
       "data": "2026-11-26T12:30:00.000Z",
       "c": "Consoles",
       "img": "https://arkade.com.br/wp-content/uploads/2026/11/Capa-Materias-33.webp",
       "orig": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc1dwVGNzdjBpd1QzNGZkRk12R1U5TFlsLUJvSlBSUGNIS2YyT3NWaHdGVGRCaGdUdUtwN3BXS2FOV0dxa0lfQWI3emZzcjZCcEdnTnlvMWx2TnpCUERrcmI5SHY2V1labVhucUNpM1NqYWJzZFZ4LWVuNVdnTnNBcmh1NjM5ZzZhV3JBck1WVzYxOU5ZeGhuS1JBTXZOT3M?oc=5"
-    },
-    {
-      "t": "Absolum ficará gratuito por uma semana para assinantes do Nintendo Switch Online na Europa",
-      "d": "",
-      "link": "https://projectn.com.br/absolum-ficara-gratuito-por-uma-semana-para-assinantes-do-nintendo-switch-online-na-europa/",
-      "fonte": "projectn.com.br",
-      "data": "2026-11-26T12:27:18.000Z",
-      "c": "Ofertas",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYW83azNic3ZXajN6c1VsQVZqQ2JqSjBIMjQ4MGx6cm9KOVRZM3NWTFd0YUNOTXlaYW5UeVBaREZpaFMxeG9zMFF0ZEVjUEU4R21jR3N5OFZEQXNfOTZIUHpBNlhOVnladFVQbVRrU3ZjVTM4RnlRbnFmaGRSUVhQY1R6emR3eGZDNURJMzk1TzNnbHVxSmdqTGFGbE9wX1BXeFpvSmtrdWhOcE9sVTBHQlhhajk0dw?oc=5"
-    },
-    {
-      "t": "The Legend of Zelda: Ocarina of Time recebe última leva de ícones no Nintendo Switch Online",
-      "d": "",
-      "link": "https://projectn.com.br/the-legend-of-zelda-ocarina-of-time-recebe-ultima-leva-de-icones-no-nintendo-switch-online/",
-      "fonte": "Project N",
-      "data": "2026-11-26T12:21:20.000Z",
-      "c": "Consoles",
-      "img": "https://projectn.com.br/wp-content/uploads/2026/11/Ocarina-icons-icones.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGpQOGNQQ3E1U09XbHRiVWZVVS1pYWhVaTNPTTdoOXhMbEQ1ZVhnUkZxaV8xbU11dHBoMU1zYjNOa2RORm5MRjhmeUtGTEJlTXJQb0xrSE1NcTRVS3dfVW1PcEJVWmZMS0c5a0l5LWxGT1N4bldjNXpZWkNiR0FMQ3pRNWRyY3Q1d1FMRlVQX2V1bG5YVzFZc2JrNk9XZXV0RXpWSkhLWjlDbnNCMGtZOEJNZktyUQ?oc=5"
-    },
-    {
-      "t": "Nintendo fala sobre problema envolvendo a edição de Nintendo Swich 2 de Pikmin 4",
-      "d": "",
-      "link": "https://projectn.com.br/nintendo-fala-sobre-problema-envolvendo-a-edicao-de-nintendo-swich-2-de-pikmin-4/",
-      "fonte": "Project N",
-      "data": "2026-11-26T12:15:24.000Z",
-      "c": "Consoles",
-      "img": "https://projectn.com.br/wp-content/uploads/2026/11/Pikmin-4-Nintendo-Switch-2-Edition-Dandori-Academy-trailer.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMlljYTVNdmVqMXdsZGo4RVlrV2FzRXpZUmVZOS1DdlZ6WEszeGYwTmZuYlotcnplZUFzRi1pRklIeDhMcXJjaUVLS1FtYlpTNWtrdmFveldXaFdVenVmclNfa0xnQ0gyejREam9sajhRcUxyeDFNYlFJMzd3RjBUNlVJMjhlODFMQ1JESXJlVmxYVEdZcWZseXd2ZWt3MllMQ3IzVkpOUkc?oc=5"
-    },
-    {
-      "t": "Aventura retrô inspirada na mitologia grega, ORPHEUS: TO HELL AND BACK é anunciado para o Switch",
-      "d": "",
-      "link": "https://universonintendo.com/aventura-retro-inspirada-na-mitologia-grega-orpheus-to-hell-and-back-e-anunciado-para-o-switch/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-11-26T12:14:53.000Z",
-      "c": "Consoles",
-      "img": "https://universonintendo.com/wp-content/uploads/2026/11/ORPHEUS-TO-HELL-AND-BACK-KEYART.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlZST21pcl9zSE52TWd1dE9oUmx2UjJ0aEE1MmJHRnpLQUhDdXpIYXRRU09mcUVyUm5CV1huME5tbGxTN2UwM0lnZzdCX1Q1ZG9UNlV0cnpBRDlwcFZ3RUFHbU84cEJEZjZ4eWxTdmJyNHRjOHpEdDhhRDdLX2pLX19IaXZFWmZjRk16UXJQT1lweUg3Q01CZFNXdjhVU1c5aWdiUTBjVXB4Y2FJODRkbmMzTDNwbFlEdVUyNVFMT3BuUQ?oc=5"
     },
     {
       "t": "Doutor Destino: 7 curiosidades sobre o antagonista de Vingadores",
@@ -258,15 +267,6 @@
       "data": "2026-11-25T15:25:50.000Z",
       "c": "Consoles",
       "img": "https://www.youtube.com/embed/lhx-NZmGAdQ"
-    },
-    {
-      "t": "PS5 Pro de GTA 6: Davy Jones recebe edição raríssima",
-      "d": "Essa edição do PS5 Pro de GTA 6 é raríssima e enviada somente para algumas pessoas, veja detalhes",
-      "link": "https://flowgames.gg/ps5-pro-de-gta-6-davy-jones-recebe-edicao-rarissima/",
-      "fonte": "Flow Games",
-      "data": "2026-11-25T14:44:48.000Z",
-      "c": "Consoles",
-      "img": "https://www.youtube.com/embed/dmuDVzxFeVs"
     },
     {
       "t": "Play Store libera 5 jogos grátis por tempo limitado! Resgate agora (25)",
