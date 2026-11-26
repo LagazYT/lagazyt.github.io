@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T05:21:31.411Z",
+  "atualizadoEm": "2026-11-26T05:51:37.847Z",
   "noticias": [
     {
       "t": "Xenoblade Chronicles 3 recebe trailer com novidades da edição de Switch 2",
@@ -143,16 +143,6 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-6.jpg"
     },
     {
-      "t": "PortWatch VI: veja o progresso de GTA 6 no PC",
-      "d": "",
-      "link": "https://gameoverdrive.com.br/portwatch-vi-gta-6-pc/",
-      "fonte": "Game Overdrive",
-      "data": "2026-11-25T17:49:25.000Z",
-      "c": "PC",
-      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/como-roubar-carros-em-gta-6-sem-disparar-alarmes-3-1600x900.webp",
-      "orig": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xaVRkajBFN1lNb2xWZkEyUndjNzNGWVVsemRGR2FHY3RNYnJuOWhIUmZ4V2Vwa1d1X3dJOTBxeTVHZ29NckFURjJaR0dURGFUOHd0Wk0tRnhWd0swWlVKUA?oc=5"
-    },
-    {
       "t": "Hollow Knight Silksong terá detalhes da DLC revelados nesta sexta (27)",
       "d": "Evento promete \"vários anúncios empolgantes\"",
       "link": "https://flowgames.gg/hollow-knight-silksong-tera-detalhes-dlc-sexta-27/",
@@ -277,6 +267,15 @@
       "data": "2026-11-25T13:15:00.000Z",
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/SFIFXYAMLRFQXHNWMY5IZKCTGU.jpg?quality=80&auth=4b84f58be3c986eef2901b6dcbf31dae0bf8985dcf8c7bb8b191a38e282771d6&width=710"
+    },
+    {
+      "t": "Hoje no TecMundo (24): Jensen volta ao comando da Nvidia, GTA 6 recebe atualização e mais",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-24-jensen-volta-ao-comando-da-nvidia-gta-6-recebe-atualizacao-e-mais/",
+      "fonte": "TecMundo",
+      "data": "2026-11-25T00:44:00.000Z",
+      "c": "PC",
+      "img": "https://www.estadao.com.br/resizer/v2/ERRSSYJAOVEPVNLY47JAT4IZBE.jpeg?quality=80&auth=5dd81b680a7f6fd1f1b7fd89920f37d153c7a7d8eec5c259d62d0ce67fc906a2&width=1150"
     }
   ],
   "videos": [
@@ -284,7 +283,7 @@
       "id": "3oZewmz2Wjk",
       "t": "I Found an ALIEN SPACESHIP in GTA 6",
       "data": "2026-11-20T13:23:57Z",
-      "views": 179,
+      "views": 178,
       "img": "https://i.ytimg.com/vi/3oZewmz2Wjk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3oZewmz2Wjk"
     },
@@ -300,7 +299,7 @@
       "id": "xbr8w0tzNIQ",
       "t": "UBISOFT CONNECT SEM CONEXÃO COM A INTERNET | VEJA COMO RESOLVER!",
       "data": "2025-10-28T21:13:29Z",
-      "views": 8400,
+      "views": 8402,
       "img": "https://i.ytimg.com/vi/xbr8w0tzNIQ/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=xbr8w0tzNIQ"
     },
@@ -380,7 +379,7 @@
       "id": "zUskua35owE",
       "t": "FARM BRUTAL DE TOM DE LUMINA 1 MILHÃO POR HORA | EXPEDITION 33!",
       "data": "2025-05-23T22:23:39Z",
-      "views": 3539,
+      "views": 3540,
       "img": "https://i.ytimg.com/vi/zUskua35owE/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=zUskua35owE"
     },
@@ -412,7 +411,7 @@
       "id": "TXFvKvFD53M",
       "t": "PICTO INSANO CAUSE ATÉ 200% DE DANO NO INIMIGO | EXPEDITION 33",
       "data": "2025-05-19T14:00:46Z",
-      "views": 2964,
+      "views": 2966,
       "img": "https://i.ytimg.com/vi/TXFvKvFD53M/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=TXFvKvFD53M"
     },
@@ -476,7 +475,7 @@
       "id": "uOAqwQcFWjs",
       "t": "PICTO INSANO CAUSE 100% DE QUEBRA NO INIMIGO | EXPEDITION 33!",
       "data": "2025-05-12T21:01:03Z",
-      "views": 2449,
+      "views": 2450,
       "img": "https://i.ytimg.com/vi/uOAqwQcFWjs/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=uOAqwQcFWjs"
     },
@@ -492,7 +491,7 @@
       "id": "ItfN9mTJiJY",
       "t": "ELDEN RING - COMO PEGAR A ALGEMA DE MOHG | ATUALIZADO 2025!",
       "data": "2024-07-16T15:30:04Z",
-      "views": 3729,
+      "views": 3730,
       "img": "https://i.ytimg.com/vi/ItfN9mTJiJY/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=ItfN9mTJiJY"
     }
