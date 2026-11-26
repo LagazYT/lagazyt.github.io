@@ -1,6 +1,148 @@
 {
-  "atualizadoEm": "2026-11-26T16:04:56.638Z",
+  "atualizadoEm": "2026-11-26T20:15:23.815Z",
   "noticias": [
+    {
+      "t": "GTA 6 recebeu recursos extras para rodar no Xbox One, afirma Digital Foundry",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/gta-6-recebeu-recursos-extras-para-rodar-no-xbox-one-afirma-digital-foundry/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-26T19:55:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTA-6-Recursos-Extras-Xbox-One.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUF1OEVJYkFLZ25FM1FUY0ZQU0xWZHF6OEQyV1B4bzZSdmdKRHBXRnFNcGRtaWxCVmQ5S0pCNmRfM24wYXhtUnVmM3Z2cFhVcDRMZk4yT1lBekFMMHEyNXJmVEJocUdVZUZibUpNS3hXN0hYM0NEc3g4OHR6LVl0a1c2NHFFNDE0bURCTDAxeW02MS1iM3dVVWlReXhNT1lGdVRaWkxiaEk0MjhMTE5GdVRn?oc=5"
+    },
+    {
+      "t": "Novas patentes da Nintendo indicam chegada dos jogos de DS ao Switch 2",
+      "d": "",
+      "link": "https://www.portaldonerd.com.br/patente-nintendo-jogos-ds-switch-2/",
+      "fonte": "Portal do Nerd",
+      "data": "2026-11-26T19:53:44.000Z",
+      "c": "Consoles",
+      "img": "https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2026/11/nintendo-ds.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LeUVIQzBDcEpDRVBJb1g1dDJNMURsWWMyWUxHZHFBNm5fdE95OXdkVkY1LTNocUNxT2NMTUoxWURBQXZTY2xqWWMxX1NsNXRxZHM5cjZXei02WnZ6YjMyTFBVVGhkS1Zhc3JGd3p5Z2hzNjY1U1E?oc=5"
+    },
+    {
+      "t": "CCXP26 | Nintendo celebra 40 anos de Zelda com Ocarina of Time em português e jogos do Switch 2",
+      "d": "",
+      "link": "https://www.jwave.com.br/2026/11/ccxp26-nintendo-zelda-switch-2/",
+      "fonte": "jwave.com.br",
+      "data": "2026-11-26T19:51:29.000Z",
+      "c": "Consoles",
+      "img": "https://www.jwave.com.br/wp-content/uploads/2026/09/Zelda.png",
+      "orig": "https://news.google.com/rss/articles/CBMickFVX3lxTE91NGFmd3BmT0dPZ25Gak9qUmU4aVE2a3lORk9fRGNZZUNDcEJSZFRsc1h5Skh3ZDQ0aUUyS3B1Z1BwQTRUWnp4TF9hZWpVVERrT2g2TFZnQmFEZFBpWW1CRjRxOWRkVm9DQnNWU0pJTjVtZw?oc=5"
+    },
+    {
+      "t": "Nintendo Switch 2 com FC 27 despenca para preço absurdo na Black Friday do AliExpress",
+      "d": "",
+      "link": "https://canaltech.com.br/games/bundle-nintendo-switch-2-com-fc-27-preco-despenca-black-friday/",
+      "fonte": "Canaltech",
+      "data": "2026-11-26T19:49:25.000Z",
+      "c": "Ofertas",
+      "img": "https://tl.ctcdn.com.br/e0lLpaNcFTHFhcUbZSIu0XHlv7s=/1200x675/smart/filters:format(webp):quality(85)/51e9fd8a-f12b-4a00-a093-31d2cc2caa97.png",
+      "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY19PUlRySmYzZVRFZ2ZJckRsc2lVNXdWUXR6WE1TQnAydU1GRTkzSnNQcGhUaHJCVGJGcElDLWUyNjUxTVRuSG13YV9aaW8ycVAxM2lNWXM2eVV1ekg2R1h2TjNWbHR5a1pzU3Q0aWtiZ0pnRUFpaFlaX09ERDBGMDIyZVQxNnNva2YweUFTbmZrZXJyTnFqMWRn?oc=5"
+    },
+    {
+      "t": "Nintendo confirma presença na CCXP 26: confira jogos e brindes do estande",
+      "d": "",
+      "link": "https://br.ign.com/nintendo/157998/nintendo-confirma-presenca-na-ccxp-26-confira-jogos-e-brindes-do-estande",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-26T19:40:19.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/t/ign_br/screenshot/default/n1_pfrd.1200.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSC15b05pZXl3YkktRW9YUmpnVkptck4yMEhQN2hsSDUwVDRmVWZjZ25GajFKNE93Wl8yUlVlNF82b29tVmxOZzNRNlNGTHM4VXR4VDFjMkxxSEZ0NWlJU3dEa09TTEgyUlhMMXhMX25FR2swdU5tTURzbHg0LTdja1pYay1qdGVTc0Z6TnJqZVQ5UXZLdFl5bE1YTnRna0l4a3Y0TmFjVGUwR0E?oc=5"
+    },
+    {
+      "t": "Jogos na Steam em oferta de Black Friday com até 95% de desconto",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-na-steam-em-oferta-de-black-friday-com-ate-95-de-desconto/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-26T19:38:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/05/007-First-Light-Gameplay-60-FPS.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONGhlU3M2U0xJQmRVcnJQend0c1oyanNlalMtZXN0T0JkaE9MZVNLTk9LejRJOGNiRkFibzIzeWEtQXFRd1Q5dllNcTFHMG5WS2dWb0plZTFfWlN1MnlUeU1FeEd2cHgwZmtOVHpFREFXWFhzQzNjLTFJSGtzQktIRmxWN1Bac2c3VEJUanJJdGFhNFpMZjRzVXFMYnU2S1p1LUtwVzh5bFp1SjFTYXc?oc=5"
+    },
+    {
+      "t": "Como escolher um monitor gamer na Black Friday 2026? Veja dicas do que avaliar",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-escolher-um-monitor-gamer-na-black-friday-2026-veja-dicas-do-que-avaliar/",
+      "fonte": "TecMundo",
+      "data": "2026-11-26T19:15:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/RGXVQELI55HXVKJAZSAI4S3ZNU.jpg?quality=80&auth=1776eac505543757bf3ea7843e3c109e4bdc18cf1fadbe188e22b65d9bce451f&width=710"
+    },
+    {
+      "t": "Jogos de PC em oferta na Black Friday Nuuvem com até 95% de desconto + cupom limitado",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-na-black-friday-nuuvem-com-ate-95-de-desconto-cupom-limitado/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-26T19:01:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/phantom-blade-zero.webp",
+      "orig": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdDJNd0tVVnJNSVpmei1Ydlo5T2pWMGdNR0hOb1RwamxKdUNXemdlMURiYUdndUZJX3JVcHkyX0hFUFpoNUdYczlXVEdtYTVVQ1duY0FzTDdOWnJkTll6UVFRUHFINWtmeUxJX1duS0Rlb2lPTDNwbkdkeVJxLWdBaG5iWnptYTJwNmFSTS1aSERSLTY0cER3VmJ5ZEQzY0pHUkl1RFJyOU5iQkM1U29ONURvckhndEk5Q0xFaV96QndrbWI2alZz?oc=5"
+    },
+    {
+      "t": "Como escolher um teclado gamer na Black Friday 2026? Saiba o que avaliar",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-escolher-um-teclado-gamer-na-black-friday-2026-saiba-o-que-avaliar/",
+      "fonte": "TecMundo",
+      "data": "2026-11-26T18:45:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/2INQPASVTBBTTGVOLZZCZYP76I.jpg?quality=80&auth=bce3a9db464c71e717577fe058d7f3585cc2d814551000b8f5ea18b056811f8e&width=710"
+    },
+    {
+      "t": "LEGO na Black Friday: Sonic, Marvel, Pokémon e Star Wars com até 54% de desconto para montar sua coleção",
+      "d": "Ofertas incluem desde montagens compactas inspiradas em Sonic até modelos de Star Wars com mais de mil peças",
+      "link": "https://br.ign.com/descontos/157987/lego-na-black-friday-sonic-marvel-pokemon-e-star-wars-com-ate-54-de-desconto-para-montar-sua-colecao",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-26T18:44:04.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/fotojet-2026-11-26t150748667_cu4n.jpg"
+    },
+    {
+      "t": "Logitech G316 X 98 é o teclado gamer de 8.000 Hz que sorri para você; vale a pena?",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/logitech-g316-x-98-e-o-teclado-gamer-de-8000-hz-que-sorri-para-voce-vale-a-pena/",
+      "fonte": "TecMundo",
+      "data": "2026-11-26T18:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/BS3XPPNGC5EX7M24SI2XNFSWJU.jpg?quality=80&auth=acb05452803645903d6be19f696619a1188b8fa89740dbde6ab95fd44de2d83b&width=710"
+    },
+    {
+      "t": "Nintendo Switch 2 com jogo EA Sport 27 por R$ 3.520",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/guia-de-compras/nintendo-switch-2-com-jogo-ea-sport-27-por-r-3520/",
+      "fonte": "TecMundo",
+      "data": "2026-11-26T17:52:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.estadao.com.br/resizer/v2/T3WRUAOQ7FHYTEIJ4SJEZBLWG4.jpg?quality=80&auth=65c801ca0df7dc071c3f0360c95bba75cf90f4a8494edbc6cec85ef6cf3c04db&width=710"
+    },
+    {
+      "t": "Funko Friday! Colecionáveis despencam de preço na Black da Amazon",
+      "d": "Colecionáveis de games, animes, filmes e até do esporte aparecem com descontos para quem quer aumentar a coleção sem gastar tanto!",
+      "link": "https://br.ign.com/descontos/157986/funko-friday-colecionaveis-despencam-de-preco-na-black-da-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-26T17:14:18.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_d4pp.png"
+    },
+    {
+      "t": "Skate terá chat de proximidade e outras novidades em novo update",
+      "d": "Nova atualização de Skate chega em 1º de dezembro",
+      "link": "https://flowgames.gg/skate-tera-chat-de-proximidade-e-novidades-update/",
+      "fonte": "Flow Games",
+      "data": "2026-11-26T16:59:50.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.youtube.com/embed/TPxwo_zrV08"
+    },
+    {
+      "t": "Qual é o próximo jogo grátis da Epic Games Store? Saiba aqui!",
+      "d": "O Flow Games conta para você qual será a próxima jogatina gratuita da loja da Epic Games",
+      "link": "https://flowgames.gg/saiba-proximo-jogo-gratis-epic-games-store/",
+      "fonte": "Flow Games",
+      "data": "2026-11-26T16:10:51.000Z",
+      "c": "Ofertas",
+      "img": "https://www.youtube.com/embed/EDWeb7r26ao"
+    },
     {
       "t": "Epic Games Store traz co-op bem criativo grátis hoje (26)",
       "d": "Visite a Epic Games Store para baixar o seu novo jogo grátis de PC agora mesmo",
@@ -9,26 +151,6 @@
       "data": "2026-11-26T16:04:44.000Z",
       "c": "Ofertas",
       "img": "https://www.youtube.com/embed/MM09k_NgkeA"
-    },
-    {
-      "t": "Dias para Jogar de Graça: Warhammer 40,000: Mechanicus e Little Rocket Lab",
-      "d": "",
-      "link": "https://news.xbox.com/pt-br/2026/11/26/dias-para-jogar-de-graca-warhammer-40000-mechanicus-e-little-rocket-lab/",
-      "fonte": "XBOX Wire",
-      "data": "2026-11-26T16:03:04.000Z",
-      "c": "Ofertas",
-      "img": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/FY26-Social-FPD_11-26-2026_1920x1080-419bebd6ee1344c2db33.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnBtOU5KaUVWUERPdERlNlg2ak1Fakx2N3RIbkJ6VExzTjZKb2dMa2ZXZE40Ym9MT3Yzb2x3cXFwVC1CaUR2dGJEbDc1cjgyUWgwYXJSZUVaRUlqaUNnVzI1UnREdFdXdEREZlRSNjFkeHFoSUpUQjQ0dnNvLURORHZIOXpyVDIyLVhSN0tFVU1wY25SVFNoeFAzU0dIYzNYMnhWZFg1OFNzdVhURGVsQQ?oc=5"
-    },
-    {
-      "t": "Epic Games Store libera jogo grátis com Pinguins e mais de R$ 500 em conteúdo para RPG",
-      "d": "",
-      "link": "https://www.tudocelular.com/jogos/noticias/n267987/epic-games-store-jogos-gratis-26112026.html",
-      "fonte": "TudoCelular.com",
-      "data": "2026-11-26T16:00:37.000Z",
-      "c": "Ofertas",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUlZ1TkpVTkkwakVuYjZ0ZDBkcVV3a210OXRTc2Y2VjU1SnpLN2JSN2lndXBjYnVkTnJqbDlrV25kQmM0ZHg0WDlOdG5sSmxXZlRpUG5uZ3hoUlo1LVdyNXF0eGxOSkJlUXFlaVhwU29ZRE51Y1lLcHE1UE5YTXJVX015ZGN1WFlLdDZFeHlEWXZUSm02VFVGZ0p3?oc=5"
     },
     {
       "t": "25 detalhes insanos de GTA 6 que você talvez não tenha visto",
@@ -40,24 +162,14 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-21.jpg"
     },
     {
-      "t": "VISH! MOSTRARAM O CONTRATO DO GTA VI COM O XBOX! O SERIES S SEMPRE TEVE RAZÃO!",
+      "t": "Bread & Fred para PC de graça hoje - resgate agora!",
       "d": "",
-      "link": "https://xboxers.com.br/vish-mostraram-o-contrato-do-gta-vi-com-o-xbox-o-series-s-sempre-teve-razao/",
-      "fonte": "Xboxers",
-      "data": "2026-11-26T15:40:11.000Z",
-      "c": "Consoles",
-      "img": "https://i0.wp.com/xboxers.com.br/wp-content/uploads/2026/11/thumbnail-hGnGm1jpItw.jpg?fit=480%2C360&ssl=1",
-      "orig": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaExjQ3hxZzc0eGZjWWkwT1pOcmJZbE96MF9xeTE2RW0tMVZVVlNKVFczQV9hUU5xZklBWlZLMnZkcXAzT08wSkVJa0Z3aEpmM3VqdUZpUkl6UkFSQk5WOExpMWF4MjRxWTVLMDMwVGEwUHlhOG8tbHBqQnJCd3BFU1BPY0x2cDhka3VUcVh2X0MzcUdEc3dSVnB6V0E5ZVdo?oc=5"
-    },
-    {
-      "t": "GTA 6: Lançamento de jogo da Rockstar diminui jogadores ativos em Call of Duty em até 42%",
-      "d": "",
-      "link": "https://www.issoenoticia.com.br/variedades/gta-6-lancamento-de-jogo-da-rockstar-diminui-jogadores-ativos-em-call-of-duty-em-ate-42/934639",
-      "fonte": "Isso É Notícia",
-      "data": "2026-11-26T15:36:00.000Z",
-      "c": "Lançamentos",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONXZ6dk53VjQ5Qzk3OUtGRGJUeTRRSVZSMzdiU2Y1OW90U044SE12SmEzT05IWThTal9ESnpEaG5RU0Z0OU45T1d6dm5rREw1YnBvV1pLUGUtYUFON3lFYzVQRUZkQUVfQWlGX1VIVlZ5UFJoczJkVy1pbWJiRXhPUDdxQ2JaUkc1eFVDalIwWlA4c2toOGpyVnR4ek5MY3J1Y25wWThDWEp6QlhEWk13ZFp0dU5EMlV2MklFUF95WXNvQ3ZrczY5SklGQjA0QVNRR2hB?oc=5"
+      "link": "https://www.adrenaline.com.br/noticias/bread-fred-para-pc-de-graca-hoje-resgate-agora/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-26T16:00:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2023/05/bread-and-fred-game.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0Z0VVJDWUEwN1FyZEpWQzhxTXFRbnhENVNUN2o2ejN2Uk50eUw1ZXJPZHVhUlpnSEhYZHViU0s1bS1UdWZmNVJQRnFJdEpPYm55OUFIWnJqby1CLTFNa0NObExHd1BUY1J2enY0MTFXX2w3aWMtT1RSNHpLWWtnb2U0NG5Ub3JpSnNGTkpQOA?oc=5"
     },
     {
       "t": "GTA 6: falta de chuva pode ser bug, veja como corrigir",
@@ -67,16 +179,6 @@
       "data": "2026-11-26T15:27:10.000Z",
       "c": "Consoles",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-chuva.jpg"
-    },
-    {
-      "t": "Goiânia se prepara para sediar o FIM Intercontinental Games e reforça rota de grandes eventos",
-      "d": "",
-      "link": "https://jornalmetropolitan.com.br/goiania-prepara-sediar-fim-intercontinental-games/",
-      "fonte": "Jornal Metropolitan",
-      "data": "2026-11-26T15:26:04.000Z",
-      "c": "Eventos",
-      "img": "https://jornalmetropolitan.com.br/wp-content/uploads/2026/11/goiania-se-prepara-para-sediar-o-fim-intercontinental-ga-1795705087252-780x470.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVZIYVpDVnVZVWM4Z1N3aUNBYVRIcV9sV1k0M2FMNlBTN0draVdTbG5ST3BVaXkxREVLOTZaZVNXbm5rY1VKcHRNQ3p5dGdZWjdlMHNha3B3ei1ZMHNZRnhSY0RMczN3SlBOWVhVc21QQy1oOHBGRXhiZ1lUV0xMNmFBUVY1SGFOTDVPYw?oc=5"
     },
     {
       "t": "O que jogar depois de GTA 6? A depre pós-jogo é real, mas estes títulos podem ajudar",
@@ -114,16 +216,6 @@
       "data": "2026-11-26T14:40:23.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2023/05/616249-1.jpeg"
-    },
-    {
-      "t": "Epic Games libera jogo grátis hoje e Steam recebe ofertas de Black Friday",
-      "d": "",
-      "link": "https://gameplayscassi.com.br/videos/epic-games-libera-jogo-gratis-hoje-e-steam-recebe-ofertas-de-black-friday/136514/",
-      "fonte": "Gameplayscassi",
-      "data": "2026-11-26T14:38:42.000Z",
-      "c": "Ofertas",
-      "img": "https://gameplayscassi.com.br/wp-content/uploads/2026/11/maxresdefault-14.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNanBvajNVV2RKSFZYclAyY19hWkI5WG5FUFlUSUZLSDRrQlh2TVR0Vk9ZTXdvZjF6aVJkZ2thUlU3Q21Cb3NFV2VuX29mb1BuQnhFaTZUMmJvX1ExZ21xQVhoLW5hS1NDMEZNb3d4V09pOUdnQXlIVkdKOVZXNkFqWUxCVHlERFdzOUZpbU5nSHRZUnZmUTlVX2tQNFRWcXpBc0I1VXdMVDVLak91MG40SEd4aTRqcTFRSnc?oc=5"
     },
     {
       "t": "Black da Amazon: Echo Dot com Alexa tem mais de 50% OFF e sai por menos de R$ 290",
@@ -187,97 +279,6 @@
       "data": "2026-11-26T13:15:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/QNAQ5B3FAVGYLOP5MMVHUTVMUQ.jpg?quality=80&auth=81c28c41445e7caf2b9114cd86d1446434b24b2f1ef0980d041598b7a775531d&width=710"
-    },
-    {
-      "t": "GTA 6 pode fazer o PlayStation 5 esquentar bastante",
-      "d": "Streamers e diversos jogadores têm relatado problemas de superaquecimento ao jogar o GTA 6 no PlayStation 5",
-      "link": "https://flowgames.gg/gta-6-pode-fazer-o-playstation-5-esquentar-bastante/",
-      "fonte": "Flow Games",
-      "data": "2026-11-26T13:14:27.000Z",
-      "c": "Consoles",
-      "img": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f600.png"
-    },
-    {
-      "t": "GTA 6 não permite que você repita as missões, e a Rockstar tem um bom motivo para isso",
-      "d": "Tanto GTA 5 quanto Red Dead Redemption 2 permitiam que os jogadores repetissem missões livremente, mas esse não é o caso em GTA 6",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157972/gta-6-nao-permite-que-voce-repita-as-missoes-e-a-rockstar-tem-um-bom-motivo-para-isso",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-26T13:03:45.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/g/gta-6-does/gta-6-doesnt-let-you-replay-missions-and-rockstar-says-there_4szv.jpg"
-    },
-    {
-      "t": "GTA 6: Como conseguir a dança especial da Vicki no clube de striptease? Você só tem uma chance!",
-      "d": "Um dia específico após uma missão específica Uma performance que só pode ser presenciada no dia de uma certa missão. Se não conseguir, é preciso carregar um save anterior ou jogar tudo de novo!",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157964/gta-6-como-conseguir-a-danca-especial-da-vicki-no-clube-de-striptease-voce-so-tem-uma-chance",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-26T13:03:35.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_6w36.jpg"
-    },
-    {
-      "t": "Draft de Disney Lorcana: como escolher cartas e montar deck",
-      "d": "Entenda como funciona o Draft de Disney Lorcana, o que pegar nas primeiras escolhas, como ler os sinais da mesa e como chegar ao deck de 35 cartas",
-      "link": "https://flowgames.gg/draft-disney-lorcana-como-escolher-cartas/",
-      "fonte": "Flow Games",
-      "data": "2026-11-26T12:37:23.000Z",
-      "c": "Lançamentos",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/11/imagem_2026-11-22_095627494.png"
-    },
-    {
-      "t": "Doutor Destino: 7 curiosidades sobre o antagonista de Vingadores",
-      "d": "Tudo que você precisa saber sobre o vilão do longa que chega em 16 de dezembro nos cinemas O Doutor Destino é um dos vilões que mais despertam o fascínio dos fãs da Marvel. Criado por Stan Lee e...",
-      "link": "https://br.ign.com/avengers-doomsday/157962/doutor-destino-7-curiosidades-sobre-o-antagonista-de-vingadores",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-26T12:00:44.000Z",
-      "c": "Lançamentos",
-      "img": "https://sm.ign.com/ign_br/news/a/avengers-s/avengers-secret-wars-will-be-a-different-genre-to-doomsday-a_gvvw.jpg"
-    },
-    {
-      "t": "GTA 6: Essas 3 coisas desaparecem para sempre após o final do Capítulo 2",
-      "d": "Veja o que não deixar para trás antes de ir para o terceiro ato Apesar de você poder voltar para a área no capítulo seguinte, algumas coisas estarão indisponíveis mesmo assim.",
-      "link": "https://br.ign.com/grand-theft-auto-vi/157961/gta-6-essas-3-coisas-desaparecem-para-sempre-apos-o-final-do-capitulo-2",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-26T12:00:39.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_e33w.jpg"
-    },
-    {
-      "t": "\"Seria absolutamente incrível\": Hideki Kamiya quer fazer um novo jogo de Castlevania com a Konami",
-      "d": "Não nos dê esperança Hideki Kamiya, a mente por trás de Devil May Cry , Bayonetta e Okami , deseja criar um novo jogo da franquia Castlevania, afirmando que sua equipe na CLOVERS poderia produzir...",
-      "link": "https://br.ign.com/castlevania-belmonts-curse-1/157957/seria-absolutamente-incrivel-hideki-kamiya-quer-fazer-um-novo-jogo-de-castlevania-com-a-konami",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-26T11:30:28.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/i/it-would-b/it-would-be-absolutely-incredible-hideki-kamiya-wants-to-mak_h41q.jpg"
-    },
-    {
-      "t": "Prime Gaming: Amazon Luna recebe últimos jogos grátis de novembro! Resgate agora (26)",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/prime-gaming-amazon-luna-recebe-ultimos-jogos-gratis-de-novembro-resgate-agora-26/",
-      "fonte": "TecMundo",
-      "data": "2026-11-26T11:15:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/BE7VHWSYV5LBBIO7MG4GT4U7S4.jpg?quality=80&auth=958cadcc620d62f3502d90f40df9b533420f88773844bb7e64632a7a84067aaa&width=710"
-    },
-    {
-      "t": "Novo teaser de Vingadores mostra Magneto tentando arrancar a máscara do Doutor Destino",
-      "d": "Muitas teorias",
-      "link": "https://br.ign.com/avengers-doomsday/157971/novo-teaser-de-vingadores-mostra-magneto-tentando-arrancar-a-mascara-do-doutor-destino",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-26T11:00:47.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/a/avengers-d/avengers-doomsday-teaser-shows-magneto-trying-to-rip-dooms-m_bb48.jpg"
-    },
-    {
-      "t": "Jogos da Capcom em oferta na Nuuvem com até 87% de desconto",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-da-capcom-em-oferta-na-nuuvem-com-ate-87-de-desconto-3/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-25T23:00:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/resident-evil-requiem-5.webp",
-      "orig": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnhWMVVCXzdUZ0ZyTDBIaC1KdkhCOUhKN1JYWjdYYlZadFRVTzM1NjVWeTEzSVRzd1BzY1BSeXlvSHl1WnBMQzJFdzFaLURkYUtLdXdKbFk3QjFOalNZTWpJNGZrdXRnSl9VUTNhTl84a3E3SGMyMVNIenFnY1ZLRXJWd3hWRy1yNGV5dDMtbWNTQ2hCeEtaV2FXNzVTQTdBWXlZUlhTR3lPZw?oc=5"
     }
   ],
   "videos": [
@@ -349,7 +350,7 @@
       "id": "0ZIRBuW6lqE",
       "t": "KATANA LENDARIA ZÉFIRO TURQUESA PARA O YASUKE | ASSASSINS CREED SHADOWS!",
       "data": "2025-06-16T14:00:02Z",
-      "views": 196,
+      "views": 197,
       "img": "https://i.ytimg.com/vi/0ZIRBuW6lqE/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=0ZIRBuW6lqE"
     },
@@ -405,7 +406,7 @@
       "id": "pmcNtnPu_64",
       "t": "PICTO SECRETO INSANO TENHA VARIOS ESCUDOS | EXPEDITION 33",
       "data": "2025-05-20T14:01:21Z",
-      "views": 3572,
+      "views": 3573,
       "img": "https://i.ytimg.com/vi/pmcNtnPu_64/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=pmcNtnPu_64"
     },
@@ -429,7 +430,7 @@
       "id": "Vi2sXRDf-AM",
       "t": "PICTO INSANO MUITO ROUBADO TENHA O DANO DOBRADO | EXPEDITION 33",
       "data": "2025-05-17T20:00:15Z",
-      "views": 4047,
+      "views": 4048,
       "img": "https://i.ytimg.com/vi/Vi2sXRDf-AM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=Vi2sXRDf-AM"
     },
@@ -437,7 +438,7 @@
       "id": "NKfEJDWhkmw",
       "t": "PICTO INSANO MUITO ROUBADO ESCUDO INFINITO | EXPEDITION 33",
       "data": "2025-05-17T17:00:21Z",
-      "views": 6756,
+      "views": 6758,
       "img": "https://i.ytimg.com/vi/NKfEJDWhkmw/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=NKfEJDWhkmw"
     },
@@ -453,7 +454,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20569,
+      "views": 20571,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -978,7 +979,7 @@
         "Switch 2"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc7ms.jpg",
-      "hype": 3,
+      "hype": 4,
       "link": "https://www.igdb.com/games/xenoblade-chronicles-3-nintendo-switch-2-edition"
     },
     {
@@ -1089,7 +1090,7 @@
         "PC"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/codemz.jpg",
-      "hype": 1,
+      "hype": 2,
       "link": "https://www.igdb.com/games/dirt-town"
     },
     {
@@ -1411,7 +1412,7 @@
         "PS5"
       ],
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocikv.jpg",
-      "hype": 139,
+      "hype": 140,
       "link": "https://www.igdb.com/games/silver-palace"
     },
     {
