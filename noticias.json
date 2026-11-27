@@ -1,44 +1,82 @@
 {
-  "atualizadoEm": "2026-11-27T15:45:17.782Z",
+  "atualizadoEm": "2026-11-27T16:15:24.447Z",
   "noticias": [
+    {
+      "t": "“SubwaySim 2” recebe dois novos trens no PC, PS5 e Xbox",
+      "d": "",
+      "link": "https://www.hu3br.com/subwaysim-2-recebe-dois-novos-trens-no-pc-ps5-e-xbox/",
+      "fonte": "Hu3br",
+      "data": "2026-11-27T16:12:29.000Z",
+      "c": "PC",
+      "img": "https://www.hu3br.com/wp-content/uploads/2026/11/subwaysim2-dlc-destaque.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOajJ4TGtPUE9JWjd6bFZJUG4zQkJHd241cGI3NTIzczhqa2x4RjJBUFdfaDZCU0dVTFBOTkFPXy1KZnNneGl3NjQzMmZ3bUJ4V2ZMMi0wMEJlZDZBcGVsaVpYWXpUYno0bUNmSFZQc2tWdVRmT0s0NVpRTG5Dc1pDSQ?oc=5"
+    },
+    {
+      "t": "O gerente ficou maluco!: Bundle de Switch OLED está por quase metade do preço",
+      "d": "",
+      "link": "https://canaltech.com.br/games/o-gerente-ficou-maluco-bundle-de-switch-oled-esta-por-quase-metade-do-preco/",
+      "fonte": "Canaltech",
+      "data": "2026-11-27T16:07:02.000Z",
+      "c": "Consoles",
+      "img": "https://tl.ctcdn.com.br/_8Ek-KZgBHruOPJ_uLHJPiuJQIw=/1200x675/smart/filters:format(webp):quality(85)/8deada24-9b03-4a13-83e7-c0db4f69ce11.jpeg",
+      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGlGS0xCX2NlRXJoQ01YSi1GQTV4THU4elp0dnZLWm4taUZ4d3J0eGh3TGk3NXRjelhLYVZVSGMyZVpTSGRpcThLcFd3WXpKeVkxQi1IVGdNVENUQzZienVyXzZtODRlM0JMdkNXd1FGV0VFNmNDRjJVaGpaMTkyOXZKZkp2bldoQkVLYXpZSm16WTI3VzNMYXV3bnc0MnlUb0hMSG1kLXlxWlU?oc=5"
+    },
+    {
+      "t": "Fã tem plano de transformar um dos vilões mais populares de Baldur’s Gate 3 em um personagem com quem é possível ter um romance",
+      "d": "O mod ainda está em desenvolvimento",
+      "link": "https://br.ign.com/baldurs-gate-3/158023/fa-tem-plano-de-transformar-um-dos-viloes-mais-populares-de-baldurs-gate-3-em-um-personagem-com-quem",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-27T16:00:31.000Z",
+      "c": "Geral",
+      "img": "https://sm.ign.com/ign_br/news/s/someone-is/someone-is-making-one-of-baldurs-gate-3s-most-popular-villai_9bes.jpg"
+    },
+    {
+      "t": "DLC de Hollow Knight Silksong ganha trailer e data para dezembro",
+      "d": "Nova DLC de Hollow Knight Silksong levará os jogadores para uma aventura em um \"vasto mar esquecido\"",
+      "link": "https://flowgames.gg/dlc-de-hollow-knight-silksong-ganha-data-dezembro/",
+      "fonte": "Flow Games",
+      "data": "2026-11-27T15:57:19.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.youtube.com/embed/7hj4g173FhM"
+    },
+    {
+      "t": "XBOX Game Pass abre dezembro com terror de The Outlast Trials e aventura mágica",
+      "d": "",
+      "link": "https://canaltech.com.br/games/xbox-game-pass-abre-dezembro-com-terror-de-the-outlast-trials-e-aventura-magica/",
+      "fonte": "Canaltech",
+      "data": "2026-11-27T15:56:00.000Z",
+      "c": "Consoles",
+      "img": "https://tl.ctcdn.com.br/7gzE_PrQ3a7agYXdYJ8jjyepW6g=/1200x675/smart/filters:format(webp):quality(85)/9f23690b-491b-4af8-9129-9f1fc66c95fd.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTJlSmttX3YzZGtpTUk2QlVDT1RMMTZCZGN1SV80eWJYZDNIdG5aZm9EWWdGOG01YUpGaGxwVGpfYmlNbkJmX211al9qeG9TajRrZHVPYS12LTRNcmx4cEYxczRwSWlBOHJfaEZrUFFNd01DSkpHdm9pdUxianZRQTcydTB2TlhvdG1TZDhVOC12eFNaRGJLMDBhUW0wS1V3Qm5PUlZhVXEySmVyTUJBZQ?oc=5"
+    },
+    {
+      "t": "Motorola lança jogo grátis contra violência à mulher na Milan Games Week 2026",
+      "d": "",
+      "link": "https://www.tudocelular.com/motorola/noticias/n268129/motorola-lanca-jogo-contra-violencia-a-mulher.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-11-27T15:49:07.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlVidXZVZGRlakhkenZKdWVHekpNbXhRREloaVh6VEEzQ3J4T0paWENnMFFnZnNTbzh6Rl9YUHEwT3h2MG5MaVZHYkkxVkpJRDdwNUdYcTlvYVdacFZBMTF1NFhiY180TXU5UEt5YmtnM3Awb3NQemxKeEMwZGpVcEplRXVvUG9hTW9YWno2Y0EtYy1jY08zT0tUaVBtZnJIRHhRUTdabw?oc=5"
+    },
     {
       "t": "Melhores ofertas esportivas da Black Friday 2026: chuteiras, camisas, games e itens de treino",
       "d": "",
       "link": "https://www.goal.com/br/listas/melhores-ofertas-esportivas-da-black-friday-2026-chuteiras-camisas-games-e-itens-de-treino/blt5c3e5a3a35232866",
       "fonte": "Goal.com",
-      "data": "2026-11-27T15:42:23.000Z",
+      "data": "2026-11-27T15:44:57.000Z",
       "c": "Ofertas",
       "img": "https://assets.goal.com/images/v3/blt1faef8a79335bda8/crop/MM5DCOJSGA5DCMBYGA5G433XMU5DAORR/Goal.com%20black%20friday%20deals%20.jpg",
       "orig": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM1BVd01mTG1ac3VQY3llMjc3OFQ1ZDdzbFlSWjFxcXJHMkJIUTM5VURyVzJ0NlpUVF9GNll2MURwblkyMVdqMXlscDNmMElXN2xqMHZINGp2NjNYV2VBWVBQT2dSaEZPcTVFeE1ZeHlqN0NkM3dNWVpadFdjUU5uNlFLcWYwOUE1NEhQUW5Iem0ta29BWXRIYWNZSGhFWWVWcU82UkdJT0lSOHBvaGpkdkZlX0pQRWlhdVloN0dBbnJhTW14WU81TVNYbkE2Q01JZWFDbGYweEs?oc=5"
     },
     {
       "t": "Expansão gratuita de Hollow Knight: Silksong ganha data de lançamento para dezembro",
-      "d": "E tem pesca! A Team Cherry revelou a data de lançamento para o DLC gratuito de Hollow Knight: Silksong para 11 de dezembro. A expansão é gratuita. Durante a apresentação especial Cherry Time!...",
+      "d": "E tem pesca! A Team Cherry revelou a data de lançamento para a DLC gratuita de Hollow Knight: Silksong para 11 de dezembro. Durante a apresentação especial Cherry Time! Special Presentation , a...",
       "link": "https://br.ign.com/hollow-knight-silksong/158032/expansao-gratuita-de-hollow-knight-silksong-ganha-data-de-lancamento-para-dezembro",
       "fonte": "IGN Brasil",
       "data": "2026-11-27T15:25:11.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/ss-20261127-121746-0000_ya6u.jpg"
-    },
-    {
-      "t": "Hollow Knight: Silksong – Expansão gratuita “Sea of Sorrow” será lançada em 11 de dezembro",
-      "d": "",
-      "link": "https://universonintendo.com/hollow-knight-silksong-expansao-gratuita-sea-of-sorrow-sera-lancada-em-11-de-dezembro/",
-      "fonte": "Universo Nintendo",
-      "data": "2026-11-27T15:20:27.000Z",
       "c": "Lançamentos",
-      "img": "https://universonintendo.com/wp-content/uploads/2025/12/Hollow-Knight-Silksong-–-DLC-Sea-of-Sorrow.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXpHZ3M0LV9DZjRMNVRFVHMzdk5JTEpzVnBPM1F4UlMtS3RKUFljRDhKZTBmSWFWWFBQS2YxdGNlV2NJWVdSeXZfMGVPRjZ1WkdVTG8wNnY3c0lNbWdKVk5sLXRLSjh6Y2pJblVvR3hURk5vd1R2dlVsdFZjWl9JbzhGQy1va0Z6WmJ5THdESWdPcDN4dlFRQWZvcDZZVVlBLUd0NjhKMUlGdklFSTZ2OHUxVGVjZw?oc=5"
-    },
-    {
-      "t": "Zaire-Emery to hit 200 PSG games at just 20",
-      "d": "",
-      "link": "https://onefootball.com/pt-br/video/zaire-emery-to-hit-200-psg-games-at-just-20-3Mh8nNn80f061PMd6SJ5hQDb1TR",
-      "fonte": "OneFootball",
-      "data": "2026-11-27T15:16:30.000Z",
-      "c": "Geral",
-      "img": "https://image-service.onefootball.com/transform?w=840&h=472&dpr=2&image=https://cdn.jwplayer.com/v2/media/DJOtOwrp/poster.jpg?width=720",
-      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT3FycEVOTWpFOHl5ajRMb1k3ajdCVFJGbzNhdW1Jc2l6OFR1ZFppMjA5NmV4am44NDNFWGhIMUtMdHZjX0ctNmZKN1ltbzg4ekFTRi1SQnJHZHVwQ3FJeEJWTXdQRGxkQmJLY09UVll0Q1NXVl81dkhCTjBlODJHUW5wcWxRWHRjNDRhLUVOM0xVS2I2WFA5aEhSQ2RfWDgwaXFwTGlNM1ZEVDQ?oc=5"
+      "img": "https://sm.ign.com/ign_br/screenshot/default/ss-20261127-121746-0000_ya6u.jpg"
     },
     {
       "t": "Black Friday: Confira dicas para comprar um notebook gamer com boas configurações",
@@ -48,26 +86,6 @@
       "data": "2026-11-27T15:15:00.000Z",
       "c": "Ofertas",
       "img": "https://www.estadao.com.br/resizer/v2/I25RFPEKWZDDRJWFZWWYWH7N7Q.jpg?quality=80&auth=35c971c5d81819539ce060014bfacb2af7a450db7124820e6a2a783da0c80059&width=710"
-    },
-    {
-      "t": "Consoles: 6 ofertas da Black Friday 2026, do PS5 ao Xbox",
-      "d": "",
-      "link": "https://engenhariae.com.br/tecnologia/tech-ofertas/black-friday-consoles-ps5-xbox-2026",
-      "fonte": "Engenharia é",
-      "data": "2026-11-27T15:13:23.000Z",
-      "c": "Ofertas",
-      "img": "https://cdnsjengenhariae.nuneshost.com/wp-content/uploads/2026/11/black-friday-consoles-ps5-xbox-2026-ofertas.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc1UtdU14Qkg5NUVFb3NwQ1FXNFZvU0gxS1czdlMweEctdzVleDFTdE5PRDlLcW1rWk9MbW9jSlVOU2w3ZV9GOEIzNk9NdXFfWWN0MUVDakg5Nmg2VXR6TWJJejJTblQ2QU1KWUtKX0UzSjk4UTREWk00MEFURlAtQ1FxMFB6TG1xVjZvRXZJbw?oc=5"
-    },
-    {
-      "t": "Próxima semana no XBOX: novos jogos de 30 de novembro a 4 de dezembro",
-      "d": "",
-      "link": "https://xboxers.com.br/proxima-semana-no-xbox-novos-jogos-de-30-de-novembro-a-4-de-dezembro/",
-      "fonte": "Xboxers",
-      "data": "2026-11-27T15:04:47.000Z",
-      "c": "Consoles",
-      "img": "https://i0.wp.com/xboxers.com.br/wp-content/uploads/2026/11/nwox-hero-34c5d30c373ea9dc1ade.jpg?fit=1920%2C1080&ssl=1",
-      "orig": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEw2QmFsXzRRODB1Qm1BR0JaZFRJXzRqNk4weXVtd2RuMTY1WG1rR2VrVGE3WkMxOGhGUVhfMU5PQjRPSlBwUHItVDVVc3R1Tk5jbUJGWWk1ZXp6aTE3bDZkMGRscVNVSy1nU0h6NmNxTUowMVM0YXp3c2RISk85UzhtUmJIVW9zSUlteWlYaF92Vk85OXlj?oc=5"
     },
     {
       "t": "Galaxy A57 fica quase pela metade do preço com 48% OFF na loja oficial da Samsung no Mercado Livre",
@@ -169,15 +187,6 @@
       "img": "https://sm.ign.com/ign_br/shot/r/reviewed-b/reviewed-by-jose-oterobr-march-2-2017br-the-legend-of-zelda_sbyb.jpg"
     },
     {
-      "t": "McAfee Total Protection Plus protege até 5 dispositivos e está com R$ 70 de desconto",
-      "d": "A internet está presente em praticamente todas as atividades do dia a dia, desde compras e pagamentos até conversas, trabalho e entretenimento. Com tantas informações pessoais circulando pela...",
-      "link": "https://br.ign.com/descontos/158024/mcafee-total-protection-plus-protege-ate-5-dispositivos-por-1-ano-e-esta-com-r-70-de-desconto",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-27T13:07:29.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/shutterstock-2771206043_s8g5.jpg"
-    },
-    {
       "t": "GTA 6: modder cria modo multiplayer online no PC",
       "d": "Um modder surpreende ao criar um modo multiplayer para GTA 6 antes mesmo da chegada oficial do jogo ao PC",
       "link": "https://flowgames.gg/gta-6-modder-cria-modo-multiplayer-online-no-pc/",
@@ -194,6 +203,26 @@
       "data": "2026-11-27T12:57:30.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/imagem_2026-11-24_160537352.png"
+    },
+    {
+      "t": "GTA 6 Multiplayer no PC vem primeiro do que nos consoles! Mod é apresentado rodando!",
+      "d": "",
+      "link": "https://www.nerdmaldito.com/2026/11/grand-theft-auto-vi-mod-multiplayer-pc.html",
+      "fonte": "Nerd Maldito",
+      "data": "2026-11-27T10:08:00.000Z",
+      "c": "PC",
+      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDfsBlJODq2ga8WN-qX6yyIIDICrStxdYVZuagql3JkRv4CtS00F10d9AF8UIWBuBOAxZ4-LQbVwj1DkD5-IMmGMDerNG83_Xt5xHXwz752gahANKaUXoAEV6xt4xu-dkWv00EwBwraF1ZhpEzvfNKsEwhbuE1egcm9FHulPrYFx6IqLoDA9cODd4Q5rgM/w1200-h630-p-k-no-nu/simulador%20de%20bandido%20multiplayer.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVJfT21WeU9SaWlyT1ZneHA2SWhHUEpjVWdIZi0zWnBoOU5QLUxsLWhnQ0kzQWlpVE5yaUh0Q0dZSGozYW96Rlk4NkVoQnA2R195VmFRYXY4ZmlOYzJiWTdCdHh6cE9kNXJCakVZTmFmUC1GS0t3MGZPb1ZQUXlydl9TMEdBUQ?oc=5"
+    },
+    {
+      "t": "GTA 6 tem multiplayer no PC antes do GTA Online",
+      "d": "",
+      "link": "https://gameoverdrive.com.br/gta-6-multiplayer-pc-portwatch/",
+      "fonte": "Game Overdrive",
+      "data": "2026-11-27T08:58:57.000Z",
+      "c": "PC",
+      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/gta-6-multiplayer-pc-portwatch.webp",
+      "orig": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVZlVxOGlaWUdaTlJ1VlR3akYxM1lSVGpnSnhZMndNUDZsVWtkUEJZZFpyMDh5dFN1dF9yblFaanV5QmFscGttT2tlaDNLSXNzT2V5Z0txYjluOUJHVzZNUllxV2p5OEMxMTVrbw?oc=5"
     },
     {
       "t": "Jogos de PC em oferta na Flash Sale da Black Friday Nuuvem com cupom limitado",
@@ -249,34 +278,6 @@
       "data": "2026-11-26T20:21:43.000Z",
       "c": "PC",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-37.jpg"
-    },
-    {
-      "t": "Uepa! GTA 6 está com tudo nas buscas do Pornhub",
-      "d": "GTA 6 está em alta nas buscas do Pornhub, assim como a Lucia, Jason e... Mandy!",
-      "link": "https://flowgames.gg/gta-6-pornhub-dispara-buscas-de-porno/",
-      "fonte": "Flow Games",
-      "data": "2026-11-26T20:01:30.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/08/GTAVI_9.jpg"
-    },
-    {
-      "t": "Jogos na Steam em oferta de Black Friday com até 95% de desconto",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-na-steam-em-oferta-de-black-friday-com-ate-95-de-desconto/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-26T19:38:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/05/007-First-Light-Gameplay-60-FPS.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONGhlU3M2U0xJQmRVcnJQend0c1oyanNlalMtZXN0T0JkaE9MZVNLTk9LejRJOGNiRkFibzIzeWEtQXFRd1Q5dllNcTFHMG5WS2dWb0plZTFfWlN1MnlUeU1FeEd2cHgwZmtOVHpFREFXWFhzQzNjLTFJSGtzQktIRmxWN1Bac2c3VEJUanJJdGFhNFpMZjRzVXFMYnU2S1p1LUtwVzh5bFp1SjFTYXc?oc=5"
-    },
-    {
-      "t": "Como escolher um monitor gamer na Black Friday 2026? Veja dicas do que avaliar",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/como-escolher-um-monitor-gamer-na-black-friday-2026-veja-dicas-do-que-avaliar/",
-      "fonte": "TecMundo",
-      "data": "2026-11-26T19:15:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/RGXVQELI55HXVKJAZSAI4S3ZNU.jpg?quality=80&auth=1776eac505543757bf3ea7843e3c109e4bdc18cf1fadbe188e22b65d9bce451f&width=710"
     }
   ],
   "videos": [
