@@ -1,6 +1,53 @@
 {
-  "atualizadoEm": "2026-11-27T16:45:31.094Z",
+  "atualizadoEm": "2026-11-27T17:15:37.859Z",
   "noticias": [
+    {
+      "t": "Nintendo Switch OLED com Super Mario Bros. Wonder fica mais barato com cupom-relâmpago na Amazon",
+      "d": "",
+      "link": "https://br.ign.com/descontos/158037/nintendo-switch-oled-com-super-mario-bros-wonder-fica-mais-barato-com-cupom-relampago-na-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-27T17:14:24.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_7vjg.1200.png",
+      "orig": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONUZaWmVmek9hOVN1b1lmZGstRUN4VDJSOEpBSGk2SXN3ZFpvRFRJcVRMUHlSZGNtempYaFRVdDVTekpIUTh5VkhaOF9KQlY4clBMSWtWMEJtUTFxY2FtdlNBQTQ0amFueXc0LWRTRjRrTm9qQnJTdFdiV3FTem9RVkM0QnZ3dVVUM3NGaDY4cnlXVlJIbXlHX3B0TmFEdmtzTEZsdnFOQXUySC1BS0lVZnQ3YUd2eXZTdEVNNTJRM011d1pZSldxeEUwVQ?oc=5"
+    },
+    {
+      "t": "Arteta: 'We know how important home games are in title race'",
+      "d": "",
+      "link": "https://onefootball.com/pt-br/video/arteta-we-know-how-important-home-games-are-in-title-race-3MhNP2yLcnt0sdzHJERMo84aiDQ",
+      "fonte": "OneFootball",
+      "data": "2026-11-27T17:12:58.000Z",
+      "c": "Geral",
+      "img": "https://image-service.onefootball.com/transform?w=840&h=472&dpr=2&image=https://cdn.jwplayer.com/v2/media/9SSlEk6g/poster.jpg?width=720",
+      "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNG1MUnJKOTN4YUtjX3lKVFZDM3ZBVjkwbzNJUEVSQldBeWdRNzlBYzhzUlhXSzRya3NGcDFzSUk3b25SWHVEczB2Mk5hN3FiU1FvaVhnNzlNN1dJVWxGZjN3dGJQTDdaQ3lDYkRNTlU1ay1vdlJaRXZyWE1HTU1jaXRPUnIwNzVyamZPOTQ3S3NsZDFzNUxrZVdud0dURldOQVBXRVNJVVVDZG1mdk53cnlIWW0tMTA3dDhRMXR3?oc=5"
+    },
+    {
+      "t": "\"Extremamente desapontado\": Denis Villeneuve não gostou que a Disney colocou Vingadores: Doutor Destino no mesmo dia de lançamento de Duna: Parte Três",
+      "d": "\"Aceitei meu destino, rezando aos deuses do cinema\" Denis Villeneuve revelou sua decepção com a decisão da Disney de lançar Vingadores: Doutor Destino nos cinemas no mesmo dia que Duna: Parte Três...",
+      "link": "https://br.ign.com/duna-parte-3/158035/extremamente-desapontado-denis-villeneuve-nao-gostou-que-a-disney-colocou-vingadores-doutor-destino",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-27T17:07:07.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/d1-20261127-140618-0000_2cmw.jpg"
+    },
+    {
+      "t": "Os lançamentos da Netflix para dezembro",
+      "d": "O mês de dezembro está bem agitado na Netflix e o grande destaque fica com a chegada da animação \"Ray Gunn\"",
+      "link": "https://flowgames.gg/os-lancamentos-da-netflix-para-dezembro/",
+      "fonte": "Flow Games",
+      "data": "2026-11-27T16:51:23.000Z",
+      "c": "Lançamentos",
+      "img": "https://www.youtube.com/embed/WaFFXMUBKiA"
+    },
+    {
+      "t": "2 Smart TVs pelo preço de 1! Combo oficial da Samsung traz dois modelos em oferta na Black da Amazon",
+      "d": "Samsung reúne a MiniLED 4K de 75\" e a QLED Full HD de 43\" em um só combo oficial na Amazon. Compare os modelos, veja o que cada tecnologia entrega e clique para garantir as duas TVs de uma vez na...",
+      "link": "https://br.ign.com/descontos/158034/2-smart-tvs-pelo-preco-de-1-combo-oficial-da-samsung-traz-dois-modelos-em-oferta-na-black-da-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-27T16:29:25.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_94kr.png"
+    },
     {
       "t": "Jogadores encontram glitch em GTA 6 que impede progredir na campanha do game; saiba o que fazer se isso ocorrer",
       "d": "Uma ligação que nunca chegou... Alguns jogadores relataram um estranho glitch que impede o progresso da campanha de GTA 6 mesmo após um pacote de atualização para o jogo lançado pela Rockstar no...",
@@ -28,46 +75,6 @@
       "data": "2026-11-27T16:15:00.000Z",
       "c": "Geral",
       "img": "https://www.estadao.com.br/resizer/v2/6KU5JADNERFEVLZHZ2C7YJ3X7I.jpg?quality=80&auth=4bed7aaccdcd5bb955927292961b5b21ff0d7994d6f516265fb558311a0cfe80&width=710"
-    },
-    {
-      "t": "Pesquisa Abragames 2026: indústria brasileira de games tem cerca de 1.680 operações e faturamento estimado de R$ 495 milhões",
-      "d": "",
-      "link": "https://arkade.com.br/pesquisa-abragames-2026-industria-brasileira-de-games-tem-cerca-de-1-680-operacoes-e-faturamento-estimado-de-r-495-milhoes/",
-      "fonte": "Arkade",
-      "data": "2026-11-27T16:15:00.000Z",
-      "c": "Geral",
-      "img": "https://arkade.com.br/wp-content/uploads/2026/11/pesquisa-abragames-2026-industria-brasileira-de-games-tem-cerca-de-1-680-operaco-1.webp",
-      "orig": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZmFkOGlSckdnOGkxS2pLTHBkQ3hoQUlrUmN1aXVjVkVZRktRTVN3ZmszSUE4Z1pFQmNwTnV3cy1yWE5HWTVKcC1WaFBVMEtNNG9rY2tOWDJRYVhRNzlwTGxSYlVfenBKUkNBSmRCbDRORjNYWENZRU1xdFpwNXJXWU9rV3dZaWs1TFVyMmlpdkVtakdiSXpDbkFSVWduZ0JNZWo2d3dxZHlfVVJyYVR3YlV0eEJsbEZlbEJXWjRIOEVodXFUM1NZNC1ZcHlwU3VPTDVyd2I2NHNIeEJqWGc?oc=5"
-    },
-    {
-      "t": "Hollow Knight: Silksong ganha data para primeira expansão",
-      "d": "",
-      "link": "https://www.pichauarena.com.br/games/hollow-knight-silksong-data-expansao/",
-      "fonte": "Pichau Arena",
-      "data": "2026-11-27T16:13:37.000Z",
-      "c": "Geral",
-      "img": "https://www.pichauarena.com.br/wp-content/uploads/2026/11/sea-of-sorrow.webp",
-      "orig": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00Z2o2MWh4ZVVkeTI1YWJ3YkRFb2ZYRThhTnQ1ZENLeC1SeENWMmVrZUVXU3BjUWhISjJkTnpuWUtlLUFzY0xTZ1VuWGdRY3c0aGlxRmNCXzFwVWNBZS1SMzNXdndGM21uUDRmei1maUlRSl9UQXo5MHN4YlV5RDg?oc=5"
-    },
-    {
-      "t": "“SubwaySim 2” recebe dois novos trens no PC, PS5 e Xbox",
-      "d": "",
-      "link": "https://www.hu3br.com/subwaysim-2-recebe-dois-novos-trens-no-pc-ps5-e-xbox/",
-      "fonte": "Hu3br",
-      "data": "2026-11-27T16:12:29.000Z",
-      "c": "PC",
-      "img": "https://www.hu3br.com/wp-content/uploads/2026/11/subwaysim2-dlc-destaque.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOajJ4TGtPUE9JWjd6bFZJUG4zQkJHd241cGI3NTIzczhqa2x4RjJBUFdfaDZCU0dVTFBOTkFPXy1KZnNneGl3NjQzMmZ3bUJ4V2ZMMi0wMEJlZDZBcGVsaVpYWXpUYno0bUNmSFZQc2tWdVRmT0s0NVpRTG5Dc1pDSQ?oc=5"
-    },
-    {
-      "t": "O gerente ficou maluco!: Bundle de Switch OLED está por quase metade do preço",
-      "d": "",
-      "link": "https://canaltech.com.br/games/o-gerente-ficou-maluco-bundle-de-switch-oled-esta-por-quase-metade-do-preco/",
-      "fonte": "Canaltech",
-      "data": "2026-11-27T16:07:02.000Z",
-      "c": "Consoles",
-      "img": "https://tl.ctcdn.com.br/_8Ek-KZgBHruOPJ_uLHJPiuJQIw=/1200x675/smart/filters:format(webp):quality(85)/8deada24-9b03-4a13-83e7-c0db4f69ce11.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGlGS0xCX2NlRXJoQ01YSi1GQTV4THU4elp0dnZLWm4taUZ4d3J0eGh3TGk3NXRjelhLYVZVSGMyZVpTSGRpcThLcFd3WXpKeVkxQi1IVGdNVENUQzZienVyXzZtODRlM0JMdkNXd1FGV0VFNmNDRjJVaGpaMTkyOXZKZkp2bldoQkVLYXpZSm16WTI3VzNMYXV3bnc0MnlUb0hMSG1kLXlxWlU?oc=5"
     },
     {
       "t": "Fã tem plano de transformar um dos vilões mais populares de Baldur’s Gate 3 em um personagem com quem é possível ter um romance",
@@ -169,15 +176,6 @@
       "img": "https://sm.ign.com/ign_br/news/r/rockstar-n/rockstar-north-boss-knew-some-gta-6-players-would-reject-new_yw8j.jpg"
     },
     {
-      "t": "GTA 6: Parece que Jason e Mandy realmente têm um passado",
-      "d": "Jason, você é melhor que isso Atenção! A matéria contém spoilers de GTA 6! Mandy se tornou a personagem favorita de muitos assim que GTA 6 chegou para os consoles. Não é difícil entender o motivo....",
-      "link": "https://br.ign.com/grand-theft-auto-vi/158027/gta-6-parece-que-jason-e-mandy-realmente-tem-um-passado",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-27T13:53:21.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/i/it-turns-o/it-turns-out-jason-might-have-a-history-with-mandy-in-gta-6_hcvh.jpg"
-    },
-    {
       "t": "GTA 6: a cobertura completa do Flow Games!",
       "d": "Confira a lista com todas as dezenas de matérias do Flow Games sobre GTA 6",
       "link": "https://flowgames.gg/gta-6-tudo-sobre-o-jogo-ps5-xbox-series/",
@@ -185,15 +183,6 @@
       "data": "2026-11-27T13:37:44.000Z",
       "c": "Geral",
       "img": "https://www.youtube.com/embed/Y8x_j-h_i3g"
-    },
-    {
-      "t": "DualSense Galactic Purple despenca de preço e vira destaque na Black Friday da Amazon",
-      "d": "O controle sem fio do PS5 está com preço reduzido na Black Friday da Amazon, uma boa oportunidade para quem quer renovar o setup ou garantir uma nova opção para jogar.",
-      "link": "https://br.ign.com/descontos/158026/dualsense-galactic-purple-despenca-de-preco-e-vira-destaque-na-black-friday-da-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-27T13:29:48.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/captura-de-tela-2026-11-27-102801_t5m2.png"
     },
     {
       "t": "GTA 6: modder cria modo multiplayer online no PC",
@@ -269,13 +258,23 @@
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-37.jpg"
     },
     {
-      "t": "Uepa! GTA 6 está com tudo nas buscas do Pornhub",
-      "d": "GTA 6 está em alta nas buscas do Pornhub, assim como a Lucia, Jason e... Mandy!",
-      "link": "https://flowgames.gg/gta-6-pornhub-dispara-buscas-de-porno/",
-      "fonte": "Flow Games",
-      "data": "2026-11-26T20:01:30.000Z",
-      "c": "Geral",
-      "img": "https://flowgames.gg/wp-content/uploads/2026/08/GTAVI_9.jpg"
+      "t": "Jogos na Steam em oferta de Black Friday com até 95% de desconto",
+      "d": "",
+      "link": "https://www.adrenaline.com.br/games/pc-games/jogos-na-steam-em-oferta-de-black-friday-com-ate-95-de-desconto/",
+      "fonte": "Adrenaline",
+      "data": "2026-11-26T19:38:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/05/007-First-Light-Gameplay-60-FPS.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONGhlU3M2U0xJQmRVcnJQend0c1oyanNlalMtZXN0T0JkaE9MZVNLTk9LejRJOGNiRkFibzIzeWEtQXFRd1Q5dllNcTFHMG5WS2dWb0plZTFfWlN1MnlUeU1FeEd2cHgwZmtOVHpFREFXWFhzQzNjLTFJSGtzQktIRmxWN1Bac2c3VEJUanJJdGFhNFpMZjRzVXFMYnU2S1p1LUtwVzh5bFp1SjFTYXc?oc=5"
+    },
+    {
+      "t": "Como escolher um monitor gamer na Black Friday 2026? Veja dicas do que avaliar",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/como-escolher-um-monitor-gamer-na-black-friday-2026-veja-dicas-do-que-avaliar/",
+      "fonte": "TecMundo",
+      "data": "2026-11-26T19:15:00.000Z",
+      "c": "Ofertas",
+      "img": "https://www.estadao.com.br/resizer/v2/RGXVQELI55HXVKJAZSAI4S3ZNU.jpg?quality=80&auth=1776eac505543757bf3ea7843e3c109e4bdc18cf1fadbe188e22b65d9bce451f&width=710"
     }
   ],
   "videos": [
@@ -451,7 +450,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20575,
+      "views": 20573,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
