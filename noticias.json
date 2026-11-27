@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T06:57:45.821Z",
+  "atualizadoEm": "2026-11-27T07:27:59.249Z",
   "noticias": [
     {
       "t": "Goiânia recebe Intercontinental Games com 72 pilotos de 25 países em dezembro",
@@ -372,7 +372,7 @@
       "id": "T-tVa0nevb0",
       "t": "PICTO MUITO FORTE TENHA CURA DOBRADA | EXPEDITION 33",
       "data": "2025-05-27T14:00:43Z",
-      "views": 380,
+      "views": 381,
       "img": "https://i.ytimg.com/vi/T-tVa0nevb0/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=T-tVa0nevb0"
     },
@@ -420,7 +420,7 @@
       "id": "3G_pEJcUfYU",
       "t": "ESSA É A MELHOR BUILD DO JOGO | EXPEDITION 33",
       "data": "2025-05-18T22:30:01Z",
-      "views": 2362,
+      "views": 2364,
       "img": "https://i.ytimg.com/vi/3G_pEJcUfYU/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=3G_pEJcUfYU"
     },
@@ -1194,6 +1194,19 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cod1jn.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/diorama-tactics"
+    },
+    {
+      "t": "Thomas & Friends: Wonders of Sodor - Henry Add-On",
+      "data": "2026-12-08",
+      "plats": [
+        "Xbox",
+        "PC",
+        "PS5",
+        "Switch"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/codglx.jpg",
+      "hype": 1,
+      "link": "https://www.igdb.com/games/thomas-and-friends-wonders-of-sodor-henry-add-on"
     },
     {
       "t": "Wish Upon a Llama",
@@ -4665,16 +4678,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0tb.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/the-abyss-break"
-    },
-    {
-      "t": "Amelorn",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawg3.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/amelorn"
     }
   ],
   "musicas": []
