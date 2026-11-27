@@ -1,25 +1,55 @@
 {
-  "atualizadoEm": "2026-11-27T17:15:37.859Z",
+  "atualizadoEm": "2026-11-27T17:45:47.056Z",
   "noticias": [
+    {
+      "t": "Black Friday gamer: jogos com até 80% de desconto; veja as melhores ofertas para PS5, Xbox e PC",
+      "d": "",
+      "link": "https://diariodorn.com.br/black-friday-gamer-jogos-com-ate-80-de-desconto-veja-as-melhores-ofertas-para-ps5-xbox-e-pc/",
+      "fonte": "Portal Diário do RN",
+      "data": "2026-11-27T17:35:41.000Z",
+      "c": "Ofertas",
+      "img": "https://diariodorn.com.br/wp-content/uploads/2026/11/header.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONTc1aUJPYkpQU2xiQnNGazMzOTF2VzBvdXZ3dzk3TmY0dTV5U1BXOTdadVg1OEdfT1Fjb0xIZjktbkZwcGMzUlVLYi00WXpwWThlMmdGV2tfV1Z0NEMtaFhtWkViMmpibUstNWNpWVRfWU5iZmc0TjE5M0kzU1dKcnV0eTRIWkxLdVUtQmw2Njk3OWtGOTV0VDdmVDNsclJJNmRlWS1TUk9PRVNROTZkd1ZWLWJxVHg5Z2c?oc=5"
+    },
+    {
+      "t": "Abragames | Brasil tem 1,7 mil operações de games e faturamento estimado em R$ 495 milhões",
+      "d": "",
+      "link": "https://www.acidadeon.com/tudoep/epgames/noticias/abragames-brasil-tem-17-mil-operacoes-de-games-e-faturamento-estimado-em-r-495-milhoes/",
+      "fonte": "ACidade ON",
+      "data": "2026-11-27T17:27:30.000Z",
+      "c": "Geral",
+      "img": "https://www.acidadeon.com/tudoep/wp-content/uploads/sites/10/2023/12/league_of_1200x675_09092022174212.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd01XbEJKR3hVNk1fcmpxLWc4TGVzTy1waWVtSndZVnNBd1VmMUtSN05rdUtvVHBfaGZ1SXVjNUp2OWZlMFpucjhQZDN1TlFLOTdzQ0h6MDlrYXBlN2FhejVYX0pWTzdBc1R4U2tYSTNlS1haT2NjTVZUb21NeC1EbjAweEgtX1RSZE1raHZlRG9xM0NGYXljeGhTckY4bG10MUpabnBIeDg3UFNQRXFIVDVfTUhVVWQ0MXRTSDBjOUdrVUhhODRRWnFCOTM2QWpxNFdB?oc=5"
+    },
+    {
+      "t": "Nintendo Switch OLED com Super Mario Bros. Wonder surge em oferta imperdível por R$ 1.583",
+      "d": "",
+      "link": "https://www.tudocelular.com/jogos/noticias/n268145/nintendo-switch-oled-super-mario-wonder-meli.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-11-27T17:26:15.000Z",
+      "c": "Ofertas",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNalRUTlB4aFRUTzRwbnNMWVdMLUtWUVRnc09wV1ZmbWQ3QWh4RGh4dTVNa05yVlZGemVoVnZVVjJJN3hieURIc2FtR1hkQ2V5WkcwTExaeG1DbmROSGNFZjh5aFNmUVMweU9KdGloMmtDR01XU1hpb0p0WkJnNW9zQXo1a2NfemZXT1RXYjRMemdDUWVxQ2phYmxabG5uY2hfaHc?oc=5"
+    },
+    {
+      "t": "Desenvolvimento de games no Brasil cresce 61%",
+      "d": "",
+      "link": "https://www.meioemensagem.com.br/marketing/desenvolvimento-de-games-no-brasil-cresce-61",
+      "fonte": "Meio e Mensagem",
+      "data": "2026-11-27T17:25:00.000Z",
+      "c": "Geral",
+      "img": "https://www.meioemensagem.com.br/wp-content/uploads/2026/11/menina-jogando-jogos-pc-cred-gorodenkoff-AdobeStock_274381340-1280x852-1.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaG94VFZLT1RnRXE3bDJVY0RaRi1hdGFCNEloTVFNeURZdEM5a0VkZmdIOW1uS3Y0RkZtZG5JeXJ4UlpfOFpUaDBwZThrenQwdWFPMDdRamNTV3ZwdVJIWEFhTC0taU5VZmlrWFMxOEs3TDVOa3dHbGlYQ1A4Z3FaektUajJsOTd4QVI3UHhFU2Y?oc=5"
+    },
     {
       "t": "Nintendo Switch OLED com Super Mario Bros. Wonder fica mais barato com cupom-relâmpago na Amazon",
       "d": "",
       "link": "https://br.ign.com/descontos/158037/nintendo-switch-oled-com-super-mario-bros-wonder-fica-mais-barato-com-cupom-relampago-na-amazon",
       "fonte": "IGN Brasil",
-      "data": "2026-11-27T17:14:24.000Z",
+      "data": "2026-11-27T17:15:00.000Z",
       "c": "Consoles",
       "img": "https://sm.ign.com/t/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_7vjg.1200.png",
       "orig": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONUZaWmVmek9hOVN1b1lmZGstRUN4VDJSOEpBSGk2SXN3ZFpvRFRJcVRMUHlSZGNtempYaFRVdDVTekpIUTh5VkhaOF9KQlY4clBMSWtWMEJtUTFxY2FtdlNBQTQ0amFueXc0LWRTRjRrTm9qQnJTdFdiV3FTem9RVkM0QnZ3dVVUM3NGaDY4cnlXVlJIbXlHX3B0TmFEdmtzTEZsdnFOQXUySC1BS0lVZnQ3YUd2eXZTdEVNNTJRM011d1pZSldxeEUwVQ?oc=5"
-    },
-    {
-      "t": "Arteta: 'We know how important home games are in title race'",
-      "d": "",
-      "link": "https://onefootball.com/pt-br/video/arteta-we-know-how-important-home-games-are-in-title-race-3MhNP2yLcnt0sdzHJERMo84aiDQ",
-      "fonte": "OneFootball",
-      "data": "2026-11-27T17:12:58.000Z",
-      "c": "Geral",
-      "img": "https://image-service.onefootball.com/transform?w=840&h=472&dpr=2&image=https://cdn.jwplayer.com/v2/media/9SSlEk6g/poster.jpg?width=720",
-      "orig": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNG1MUnJKOTN4YUtjX3lKVFZDM3ZBVjkwbzNJUEVSQldBeWdRNzlBYzhzUlhXSzRya3NGcDFzSUk3b25SWHVEczB2Mk5hN3FiU1FvaVhnNzlNN1dJVWxGZjN3dGJQTDdaQ3lDYkRNTlU1ay1vdlJaRXZyWE1HTU1jaXRPUnIwNzVyamZPOTQ3S3NsZDFzNUxrZVdud0dURldOQVBXRVNJVVVDZG1mdk53cnlIWW0tMTA3dDhRMXR3?oc=5"
     },
     {
       "t": "\"Extremamente desapontado\": Denis Villeneuve não gostou que a Disney colocou Vingadores: Doutor Destino no mesmo dia de lançamento de Duna: Parte Três",
@@ -56,16 +86,6 @@
       "data": "2026-11-27T16:28:30.000Z",
       "c": "Lançamentos",
       "img": "https://sm.ign.com/ign_br/photo/default/jason-and-lucia-20-1793891731333_4qnv.jpg"
-    },
-    {
-      "t": "Próxima Semana em XBOX: novos jogos de 30 de novembro a 4 de dezembro",
-      "d": "",
-      "link": "https://news.xbox.com/pt-br/2026/11/27/proxima-semana-em-xbox-novos-jogos-de-30-de-novembro-a-4-de-dezembro/",
-      "fonte": "XBOX Wire",
-      "data": "2026-11-27T16:23:44.000Z",
-      "c": "Consoles",
-      "img": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/nwox-hero-1daca34c0ae433cf46e4.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkptZ3dtMTNkZWExUlZKaHFxMmw3RWJuYnMwUDdQNzNWWHhSUmRiMjl3eW5DbkVQa19lNXJjNWY4WlRZYVFENERMV081c3h0dWpsY1JFVlpaeGRkZlFJWDZScWUtbDBPUkMtcWtXREF2VWF2M19jV21qdjdHSTNKUGgxa0xIQWFIWnBldzIxcXhKbVB1Z19FSjM1TUtJeGpHaF91Rm5NRUZoSWJZ?oc=5"
     },
     {
       "t": "Atriz de Lucia em GTA 6, Manni L. Perez confirma que está trabalhando no jogo ‘há quase uma década’",
@@ -167,15 +187,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_vda3.png"
     },
     {
-      "t": "Chefe da Rockstar North sabia que alguns jogadores de GTA 6 “rejeitariam” novos sistemas, como os perfis criminais, mas insiste que “você ainda pode fazer tudo o que queria fazer antes”",
-      "d": "“Eu pensei: ‘Ah, merd*, estamos em apuros’”",
-      "link": "https://br.ign.com/grand-theft-auto-vi/158021/chefe-da-rockstar-north-sabia-que-alguns-jogadores-de-gta-6-rejeitariam-novos-sistemas-como-os-perfi",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-27T14:03:21.000Z",
-      "c": "Geral",
-      "img": "https://sm.ign.com/ign_br/news/r/rockstar-n/rockstar-north-boss-knew-some-gta-6-players-would-reject-new_yw8j.jpg"
-    },
-    {
       "t": "GTA 6: a cobertura completa do Flow Games!",
       "d": "Confira a lista com todas as dezenas de matérias do Flow Games sobre GTA 6",
       "link": "https://flowgames.gg/gta-6-tudo-sobre-o-jogo-ps5-xbox-series/",
@@ -266,15 +277,6 @@
       "c": "Ofertas",
       "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/05/007-First-Light-Gameplay-60-FPS.jpg",
       "orig": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONGhlU3M2U0xJQmRVcnJQend0c1oyanNlalMtZXN0T0JkaE9MZVNLTk9LejRJOGNiRkFibzIzeWEtQXFRd1Q5dllNcTFHMG5WS2dWb0plZTFfWlN1MnlUeU1FeEd2cHgwZmtOVHpFREFXWFhzQzNjLTFJSGtzQktIRmxWN1Bac2c3VEJUanJJdGFhNFpMZjRzVXFMYnU2S1p1LUtwVzh5bFp1SjFTYXc?oc=5"
-    },
-    {
-      "t": "Como escolher um monitor gamer na Black Friday 2026? Veja dicas do que avaliar",
-      "d": "",
-      "link": "https://www.estadao.com.br/tecmundo/voxel/como-escolher-um-monitor-gamer-na-black-friday-2026-veja-dicas-do-que-avaliar/",
-      "fonte": "TecMundo",
-      "data": "2026-11-26T19:15:00.000Z",
-      "c": "Ofertas",
-      "img": "https://www.estadao.com.br/resizer/v2/RGXVQELI55HXVKJAZSAI4S3ZNU.jpg?quality=80&auth=1776eac505543757bf3ea7843e3c109e4bdc18cf1fadbe188e22b65d9bce451f&width=710"
     }
   ],
   "videos": [
@@ -450,7 +452,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20573,
+      "views": 20575,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
