@@ -1,6 +1,54 @@
 {
-  "atualizadoEm": "2026-11-27T16:15:24.447Z",
+  "atualizadoEm": "2026-11-27T16:45:31.094Z",
   "noticias": [
+    {
+      "t": "Jogadores encontram glitch em GTA 6 que impede progredir na campanha do game; saiba o que fazer se isso ocorrer",
+      "d": "Uma ligação que nunca chegou... Alguns jogadores relataram um estranho glitch que impede o progresso da campanha de GTA 6 mesmo após um pacote de atualização para o jogo lançado pela Rockstar no...",
+      "link": "https://br.ign.com/grand-theft-auto-vi/158033/jogadores-encontram-glitch-em-gta-6-que-impede-progredir-na-campanha-do-game-saiba-o-que-fazer-se-is",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-27T16:28:30.000Z",
+      "c": "Lançamentos",
+      "img": "https://sm.ign.com/ign_br/photo/default/jason-and-lucia-20-1793891731333_4qnv.jpg"
+    },
+    {
+      "t": "Próxima Semana em XBOX: novos jogos de 30 de novembro a 4 de dezembro",
+      "d": "",
+      "link": "https://news.xbox.com/pt-br/2026/11/27/proxima-semana-em-xbox-novos-jogos-de-30-de-novembro-a-4-de-dezembro/",
+      "fonte": "XBOX Wire",
+      "data": "2026-11-27T16:23:44.000Z",
+      "c": "Consoles",
+      "img": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/nwox-hero-1daca34c0ae433cf46e4.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkptZ3dtMTNkZWExUlZKaHFxMmw3RWJuYnMwUDdQNzNWWHhSUmRiMjl3eW5DbkVQa19lNXJjNWY4WlRZYVFENERMV081c3h0dWpsY1JFVlpaeGRkZlFJWDZScWUtbDBPUkMtcWtXREF2VWF2M19jV21qdjdHSTNKUGgxa0xIQWFIWnBldzIxcXhKbVB1Z19FSjM1TUtJeGpHaF91Rm5NRUZoSWJZ?oc=5"
+    },
+    {
+      "t": "Atriz de Lucia em GTA 6, Manni L. Perez confirma que está trabalhando no jogo ‘há quase uma década’",
+      "d": "",
+      "link": "https://www.estadao.com.br/tecmundo/voxel/atriz-de-lucia-em-gta-6-manni-l-perez-confirma-que-esta-trabalhando-no-jogo-ha-quase-uma-decada/",
+      "fonte": "TecMundo",
+      "data": "2026-11-27T16:15:00.000Z",
+      "c": "Geral",
+      "img": "https://www.estadao.com.br/resizer/v2/6KU5JADNERFEVLZHZ2C7YJ3X7I.jpg?quality=80&auth=4bed7aaccdcd5bb955927292961b5b21ff0d7994d6f516265fb558311a0cfe80&width=710"
+    },
+    {
+      "t": "Pesquisa Abragames 2026: indústria brasileira de games tem cerca de 1.680 operações e faturamento estimado de R$ 495 milhões",
+      "d": "",
+      "link": "https://arkade.com.br/pesquisa-abragames-2026-industria-brasileira-de-games-tem-cerca-de-1-680-operacoes-e-faturamento-estimado-de-r-495-milhoes/",
+      "fonte": "Arkade",
+      "data": "2026-11-27T16:15:00.000Z",
+      "c": "Geral",
+      "img": "https://arkade.com.br/wp-content/uploads/2026/11/pesquisa-abragames-2026-industria-brasileira-de-games-tem-cerca-de-1-680-operaco-1.webp",
+      "orig": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZmFkOGlSckdnOGkxS2pLTHBkQ3hoQUlrUmN1aXVjVkVZRktRTVN3ZmszSUE4Z1pFQmNwTnV3cy1yWE5HWTVKcC1WaFBVMEtNNG9rY2tOWDJRYVhRNzlwTGxSYlVfenBKUkNBSmRCbDRORjNYWENZRU1xdFpwNXJXWU9rV3dZaWs1TFVyMmlpdkVtakdiSXpDbkFSVWduZ0JNZWo2d3dxZHlfVVJyYVR3YlV0eEJsbEZlbEJXWjRIOEVodXFUM1NZNC1ZcHlwU3VPTDVyd2I2NHNIeEJqWGc?oc=5"
+    },
+    {
+      "t": "Hollow Knight: Silksong ganha data para primeira expansão",
+      "d": "",
+      "link": "https://www.pichauarena.com.br/games/hollow-knight-silksong-data-expansao/",
+      "fonte": "Pichau Arena",
+      "data": "2026-11-27T16:13:37.000Z",
+      "c": "Geral",
+      "img": "https://www.pichauarena.com.br/wp-content/uploads/2026/11/sea-of-sorrow.webp",
+      "orig": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00Z2o2MWh4ZVVkeTI1YWJ3YkRFb2ZYRThhTnQ1ZENLeC1SeENWMmVrZUVXU3BjUWhISjJkTnpuWUtlLUFzY0xTZ1VuWGdRY3c0aGlxRmNCXzFwVWNBZS1SMzNXdndGM21uUDRmei1maUlRSl9UQXo5MHN4YlV5RDg?oc=5"
+    },
     {
       "t": "“SubwaySim 2” recebe dois novos trens no PC, PS5 e Xbox",
       "d": "",
@@ -38,36 +86,6 @@
       "data": "2026-11-27T15:57:19.000Z",
       "c": "Lançamentos",
       "img": "https://www.youtube.com/embed/7hj4g173FhM"
-    },
-    {
-      "t": "XBOX Game Pass abre dezembro com terror de The Outlast Trials e aventura mágica",
-      "d": "",
-      "link": "https://canaltech.com.br/games/xbox-game-pass-abre-dezembro-com-terror-de-the-outlast-trials-e-aventura-magica/",
-      "fonte": "Canaltech",
-      "data": "2026-11-27T15:56:00.000Z",
-      "c": "Consoles",
-      "img": "https://tl.ctcdn.com.br/7gzE_PrQ3a7agYXdYJ8jjyepW6g=/1200x675/smart/filters:format(webp):quality(85)/9f23690b-491b-4af8-9129-9f1fc66c95fd.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRTJlSmttX3YzZGtpTUk2QlVDT1RMMTZCZGN1SV80eWJYZDNIdG5aZm9EWWdGOG01YUpGaGxwVGpfYmlNbkJmX211al9qeG9TajRrZHVPYS12LTRNcmx4cEYxczRwSWlBOHJfaEZrUFFNd01DSkpHdm9pdUxianZRQTcydTB2TlhvdG1TZDhVOC12eFNaRGJLMDBhUW0wS1V3Qm5PUlZhVXEySmVyTUJBZQ?oc=5"
-    },
-    {
-      "t": "Motorola lança jogo grátis contra violência à mulher na Milan Games Week 2026",
-      "d": "",
-      "link": "https://www.tudocelular.com/motorola/noticias/n268129/motorola-lanca-jogo-contra-violencia-a-mulher.html",
-      "fonte": "TudoCelular.com",
-      "data": "2026-11-27T15:49:07.000Z",
-      "c": "Ofertas",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlVidXZVZGRlakhkenZKdWVHekpNbXhRREloaVh6VEEzQ3J4T0paWENnMFFnZnNTbzh6Rl9YUHEwT3h2MG5MaVZHYkkxVkpJRDdwNUdYcTlvYVdacFZBMTF1NFhiY180TXU5UEt5YmtnM3Awb3NQemxKeEMwZGpVcEplRXVvUG9hTW9YWno2Y0EtYy1jY08zT0tUaVBtZnJIRHhRUTdabw?oc=5"
-    },
-    {
-      "t": "Melhores ofertas esportivas da Black Friday 2026: chuteiras, camisas, games e itens de treino",
-      "d": "",
-      "link": "https://www.goal.com/br/listas/melhores-ofertas-esportivas-da-black-friday-2026-chuteiras-camisas-games-e-itens-de-treino/blt5c3e5a3a35232866",
-      "fonte": "Goal.com",
-      "data": "2026-11-27T15:44:57.000Z",
-      "c": "Ofertas",
-      "img": "https://assets.goal.com/images/v3/blt1faef8a79335bda8/crop/MM5DCOJSGA5DCMBYGA5G433XMU5DAORR/Goal.com%20black%20friday%20deals%20.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM1BVd01mTG1ac3VQY3llMjc3OFQ1ZDdzbFlSWjFxcXJHMkJIUTM5VURyVzJ0NlpUVF9GNll2MURwblkyMVdqMXlscDNmMElXN2xqMHZINGp2NjNYV2VBWVBQT2dSaEZPcTVFeE1ZeHlqN0NkM3dNWVpadFdjUU5uNlFLcWYwOUE1NEhQUW5Iem0ta29BWXRIYWNZSGhFWWVWcU82UkdJT0lSOHBvaGpkdkZlX0pQRWlhdVloN0dBbnJhTW14WU81TVNYbkE2Q01JZWFDbGYweEs?oc=5"
     },
     {
       "t": "Expansão gratuita de Hollow Knight: Silksong ganha data de lançamento para dezembro",
@@ -178,15 +196,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/captura-de-tela-2026-11-27-102801_t5m2.png"
     },
     {
-      "t": "Novo The Legend of Zelda 3D e de mundo aberto ainda está longe de ser lançado, mas deve continuar o que Breath of the Wild e Tears of the Kingdom fizeram tão bem, aponta rumor",
-      "d": "Mais detalhes sobre o possível próximo game da franquia Após o remake de Ocarina of Time sair para consoles Nintendo Switch 2, todos já estão se perguntando sobre os próximos passos da franquia...",
-      "link": "https://br.ign.com/the-legend-of-zelda-breath-of-the-wild/158025/novo-the-legend-of-zelda-3d-e-de-mundo-aberto-ainda-esta-longe-de-ser-lancado-mas-deve-continuar-o-q",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-27T13:26:28.000Z",
-      "c": "Consoles",
-      "img": "https://sm.ign.com/ign_br/shot/r/reviewed-b/reviewed-by-jose-oterobr-march-2-2017br-the-legend-of-zelda_sbyb.jpg"
-    },
-    {
       "t": "GTA 6: modder cria modo multiplayer online no PC",
       "d": "Um modder surpreende ao criar um modo multiplayer para GTA 6 antes mesmo da chegada oficial do jogo ao PC",
       "link": "https://flowgames.gg/gta-6-modder-cria-modo-multiplayer-online-no-pc/",
@@ -203,26 +212,6 @@
       "data": "2026-11-27T12:57:30.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/imagem_2026-11-24_160537352.png"
-    },
-    {
-      "t": "GTA 6 Multiplayer no PC vem primeiro do que nos consoles! Mod é apresentado rodando!",
-      "d": "",
-      "link": "https://www.nerdmaldito.com/2026/11/grand-theft-auto-vi-mod-multiplayer-pc.html",
-      "fonte": "Nerd Maldito",
-      "data": "2026-11-27T10:08:00.000Z",
-      "c": "PC",
-      "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDfsBlJODq2ga8WN-qX6yyIIDICrStxdYVZuagql3JkRv4CtS00F10d9AF8UIWBuBOAxZ4-LQbVwj1DkD5-IMmGMDerNG83_Xt5xHXwz752gahANKaUXoAEV6xt4xu-dkWv00EwBwraF1ZhpEzvfNKsEwhbuE1egcm9FHulPrYFx6IqLoDA9cODd4Q5rgM/w1200-h630-p-k-no-nu/simulador%20de%20bandido%20multiplayer.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVJfT21WeU9SaWlyT1ZneHA2SWhHUEpjVWdIZi0zWnBoOU5QLUxsLWhnQ0kzQWlpVE5yaUh0Q0dZSGozYW96Rlk4NkVoQnA2R195VmFRYXY4ZmlOYzJiWTdCdHh6cE9kNXJCakVZTmFmUC1GS0t3MGZPb1ZQUXlydl9TMEdBUQ?oc=5"
-    },
-    {
-      "t": "GTA 6 tem multiplayer no PC antes do GTA Online",
-      "d": "",
-      "link": "https://gameoverdrive.com.br/gta-6-multiplayer-pc-portwatch/",
-      "fonte": "Game Overdrive",
-      "data": "2026-11-27T08:58:57.000Z",
-      "c": "PC",
-      "img": "https://gameoverdrive.com.br/wp-content/uploads/2026/11/gta-6-multiplayer-pc-portwatch.webp",
-      "orig": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVZlVxOGlaWUdaTlJ1VlR3akYxM1lSVGpnSnhZMndNUDZsVWtkUEJZZFpyMDh5dFN1dF9yblFaanV5QmFscGttT2tlaDNLSXNzT2V5Z0txYjluOUJHVzZNUllxV2p5OEMxMTVrbw?oc=5"
     },
     {
       "t": "Jogos de PC em oferta na Flash Sale da Black Friday Nuuvem com cupom limitado",
@@ -278,6 +267,15 @@
       "data": "2026-11-26T20:21:43.000Z",
       "c": "PC",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/GTA-6-37.jpg"
+    },
+    {
+      "t": "Uepa! GTA 6 está com tudo nas buscas do Pornhub",
+      "d": "GTA 6 está em alta nas buscas do Pornhub, assim como a Lucia, Jason e... Mandy!",
+      "link": "https://flowgames.gg/gta-6-pornhub-dispara-buscas-de-porno/",
+      "fonte": "Flow Games",
+      "data": "2026-11-26T20:01:30.000Z",
+      "c": "Geral",
+      "img": "https://flowgames.gg/wp-content/uploads/2026/08/GTAVI_9.jpg"
     }
   ],
   "videos": [
@@ -453,7 +451,7 @@
       "id": "9L9748hEUTM",
       "t": "PICTO INSANO MUITO ROUBADO FIQUE IMORTAL | EXPEDITION 33",
       "data": "2025-05-15T18:00:09Z",
-      "views": 20573,
+      "views": 20575,
       "img": "https://i.ytimg.com/vi/9L9748hEUTM/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=9L9748hEUTM"
     },
@@ -1343,6 +1341,20 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/codgtf.jpg",
       "hype": 3,
       "link": "https://www.igdb.com/games/that-damn-grass"
+    },
+    {
+      "t": "Hollow Knight: Silksong - Sea of Sorrow",
+      "data": "2026-12-11",
+      "plats": [
+        "Xbox",
+        "Switch 2",
+        "PC",
+        "PS5",
+        "Switch"
+      ],
+      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob1ng.jpg",
+      "hype": 8,
+      "link": "https://www.igdb.com/games/hollow-knight-silksong-sea-of-sorrow"
     },
     {
       "t": "Silver Palace",
@@ -4669,16 +4681,6 @@
       "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob0tb.jpg",
       "hype": 2,
       "link": "https://www.igdb.com/games/the-abyss-break"
-    },
-    {
-      "t": "Amelorn",
-      "data": "2026-12-31",
-      "plats": [
-        "PC"
-      ],
-      "img": "https://images.igdb.com/igdb/image/upload/t_cover_big/coawg3.jpg",
-      "hype": 1,
-      "link": "https://www.igdb.com/games/amelorn"
     }
   ],
   "musicas": []
