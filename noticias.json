@@ -1,6 +1,55 @@
 {
-  "atualizadoEm": "2026-11-27T02:56:30.108Z",
+  "atualizadoEm": "2026-11-27T03:26:38.614Z",
   "noticias": [
+    {
+      "t": "Nintendo Music recebe mais músicas da trilha sonora de Tomodachi Life: Living the Dream",
+      "d": "",
+      "link": "https://www.nintendoblast.com.br/2026/11/nintendo-music-recebe-mais-musicas-da-trilha-sonora-de-tomodachi-life-living-the-dream.html",
+      "fonte": "Nintendo Blast",
+      "data": "2026-11-27T03:07:49.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRzU2bWE2ZVVoNm5tUG5GWFd4WV94NjZ3b3JDanBqbFpzNEpwTXZYUzNuaGs3NFdXYjU0blJnMUpibXV6cTA4ZjlwNnR4bjVrSThrZERac21ESUxtNjYxV2NiSXJXWUw2REdhNE9xYTEzM1ZuTzRQNXgyRUlaSXF5ZGdXbkhSMldXTG9OQlpVSEZNVnNBelJnbXdvbXZMMU9ZZ3pDU1dza3NrNHd4M0FGM0xxRkN4bHN4aVg1WDRsYkVmdU15aS1nYXV5MVM?oc=5"
+    },
+    {
+      "t": "O Batmóvel de Batman Begins virou LEGO de controle remoto e está com 40% de desconto na Black da Amazon",
+      "d": "O Tumbler ainda pode ser pilotado pelo celular",
+      "link": "https://br.ign.com/descontos/158010/o-batmovel-de-batman-begins-virou-lego-de-controle-remoto-e-esta-com-40-de-desconto-na-black-da-amaz",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-27T03:05:06.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/batmovel-tumbler-lego-42239-capa-1280x720_9ec8.jpg"
+    },
+    {
+      "t": "Baixou! GTA 6 para XBOX Series X/S por apenas R$ 359 via cupom no Mercado Livre",
+      "d": "",
+      "link": "https://www.tudocelular.com/jogos/noticias/n268069/oferta-black-friday-gta-6-26112026.html",
+      "fonte": "TudoCelular.com",
+      "data": "2026-11-27T02:58:50.000Z",
+      "c": "Consoles",
+      "img": "",
+      "orig": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQzhBNFBnZzNkdndXUXhQWnc3TzhsTGQyWm9oLVpkUmNnak9sanpRTElfVFZwSWE4aU00QTI3Qkh4TGxtUHhPeFNqUjdydi1NMWwwWUtpNTJPQkhHTmNYQUZQOWwyY1g0eVRqbDVhdHI1M01TNnAzeXZNT3UybEVTMU5nQkNFS1VzVTFvVjVuSUlJaS1J?oc=5"
+    },
+    {
+      "t": "Lançamento de GTA 6 deixa vários consoles Xbox inutilizáveis, somando-se aos PS5 que já apresentavam falhas",
+      "d": "",
+      "link": "https://www.notebookcheck.info/Lancamento-de-GTA-6-deixa-varios-consoles-Xbox-inutilizaveis-somando-se-aos-PS5-que-ja-apresentavam-falhas.1461418.0.html",
+      "fonte": "Notebookcheck.info",
+      "data": "2026-11-27T02:48:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/XboxSeriesXGTABricked.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRDliWE5vNDRJdDRZbW9McnB5WEYzSDNwai0xbDU3SW5kMC1HSERlYnhJNkZJbkx6N2NNMmJhWnJ2RnB6YVNXeWdOTmctVlJsVktRTU81dC14OHktN09hNU55NWNzNXU3UTB0QnlNM3RPb1p6Tk52Rjh4WjdERnZqbUlhcVFxdFZ1WGR6Sld4dTZla0Q5TTJ5Q2tkM2ZqTjdMOHZjTW5NVW5XZG8zQ2EtZTRYQ1llMDVKQVJ0cTdFS2lGc3RFc0hid3RrOEZFdjdPbUdPMEt6SThMVG9vd00wZ1lKMHdQTUU?oc=5"
+    },
+    {
+      "t": "RG 47G1: Anbernic revela novo console portátil inspirado no Nintendo Game Boy com tela de 120 Hz",
+      "d": "",
+      "link": "https://www.notebookcheck.info/RG-47G1-Anbernic-revela-novo-console-portatil-inspirado-no-Nintendo-Game-Boy-com-tela-de-120-Hz.1461420.0.html",
+      "fonte": "Notebookcheck.info",
+      "data": "2026-11-27T02:48:00.000Z",
+      "c": "Consoles",
+      "img": "https://www.notebookcheck.info/fileadmin/Notebooks/News/_nc5/anbernic-rg-47g1-launch-kv.jpg",
+      "orig": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZFZ6N3pZdW5ZU3ZtRHdPU2ZSc1JOakNMV0FTcTJqU1hyZWNRNHFWR2FKdng1eWI1czJabDlNT09wVkJEWkozUVEwYlI0eTJiZGM1QW9qTUZiYkJmSGdRUHZSSklZS24tNlNYUXNOTzFsWXNURXg2SGx5MVJmSUR1Y0xwWC0wZVlGa2o1UmVXN09VcUVGUk5uWDBVa3JvcnFCZHE4cURHc05Zb0ZTYWM3UktaZlk1NGNhYTVHX0ZYSDZYWFpCckFHMllvY3JHY2ZSQzdtR3lKQTY?oc=5"
+    },
     {
       "t": "Sony anuncia vários jogos novos que chegarão ao PlayStation Plus",
       "d": "",
@@ -21,36 +70,6 @@
       "img": "https://sm.ign.com/ign_br/screenshot/default/lego-do-laboratorio-do-homem-de-ferro-traz-tres-armaduras-de_11ws.jpg"
     },
     {
-      "t": "GTA VI: a versão cloud gaming na Xbox One é extremamente sólida",
-      "d": "",
-      "link": "https://news.instant-gaming.com/pt/artigos/23229-gta-vi-a-versao-cloud-gaming-na-xbox-one-e-extremamente-solida",
-      "fonte": "Instant Gaming News",
-      "data": "2026-11-27T01:23:56.000Z",
-      "c": "Consoles",
-      "img": "https://gaming-cdn.com/images/news/articles/23229/cover/gta-vi-a-versao-cloud-gaming-na-xbox-one-e-extremamente-solida-cover6b0865bd0fed7.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTzEyd2xaMmU4NXZzeDVUZjdQT24wOXN0V1RIdVNzLVgwOXU3Q0c0NE1SWTZLdlZ1Zkd0U1AtaVBoX2s5U2xPVzk3UDUyajlFRjFna3pzYzNwdHVjZC1CSUFqY3JvNnJJVnU4Ui1tUWo2Sl9xbnJFMGtXMnNHdXg0Z3Jybnhac0xhMU9EdjdBejZPOE95Q0tYdVBRaWxPTGtsckJMTFVGbEtWczlwZ2dyUw?oc=5"
-    },
-    {
-      "t": "GTA 6 para PlayStation 5 aparece por R$ 305; veja como conseguir o desconto",
-      "d": "",
-      "link": "https://canaltech.com.br/games/gta-6-para-playstation-5-aparece-por-r-305-veja-como-conseguir-o-desconto/",
-      "fonte": "Canaltech",
-      "data": "2026-11-27T01:12:04.000Z",
-      "c": "Ofertas",
-      "img": "https://tl.ctcdn.com.br/71yC39HCseQ81JOenZJ9JBPrjIM=/1200x675/smart/filters:format(webp):quality(85)/d96cc711-170c-4808-af6a-1d8e78d85523.png",
-      "orig": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTjh5ZTludHhWaWJrbUtsa2xOVGV2TzdDbXpUeWM4aUIwVGVkRTBqem9YRER3ZGYwTUdCZ2dOWEo1YjhlV1RXWEdiNTg2MVJzc0dHaDlSQmFlSlgyNnVGcklBYWY5SnlHaEZkOGVNQWMzazN1NHJXZjdxSldzU0dSbUIyWXFSWmgtMXRENnVHX0tFUG5wdDY5TS1fYlN3V3FsbnZ2LTMzenE?oc=5"
-    },
-    {
-      "t": "PlayStation 5 ou Nintendo Switch 2: qual comprar na Black Friday 2026?",
-      "d": "",
-      "link": "https://canaltech.com.br/games/black-friday-2026-playstation-5-ou-nintendo-switch-2-qual-comprar/",
-      "fonte": "Canaltech",
-      "data": "2026-11-27T01:00:00.000Z",
-      "c": "Ofertas",
-      "img": "https://tl.ctcdn.com.br/AjL_F5jJZ-Ju2DU_8NFdHF-gQRM=/1200x675/smart/filters:format(webp):quality(85)/12a2018a-07e5-402e-8bd2-30d5d00965b3.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0hiaC1vRVF3OW1aMlg0aG1pT3VnRDBOSjhnWWpscU5MUm9aY2tYWFkwRGFvaFNLdGlXdWpqY1A3TEo0dVdIendGWEdtdmdDV2dOS0poZXBtRHJGRWxnQTFKSk00NlBKSnRiUV82RGVqODlwbVNhOTdGS3NiVFFUVHVfZ0kyX1Z4OC1kRUpUaWUyRGZEVGVEMmVwTzYydw?oc=5"
-    },
-    {
       "t": "Black Friday: Galaxy S26 FE com carregador de 25W na caixa está com 41% de desconto no Mercado Livre",
       "d": "Celular da Samsung traz tela AMOLED de 120 Hz, câmera com zoom óptico de 3x e certificação IP68",
       "link": "https://br.ign.com/descontos/158007/black-friday-galaxy-s26-fe-com-carregador-de-25w-na-caixa-esta-com-41-de-desconto-no-mercado-livre",
@@ -58,16 +77,6 @@
       "data": "2026-11-27T00:58:09.000Z",
       "c": "Ofertas",
       "img": "https://sm.ign.com/ign_br/screenshot/default/black-friday-galaxy-s26-fe-com-carregador-de-25w-na-caixa-es_eqxk.jpg"
-    },
-    {
-      "t": "Bundle Nintendo Switch 2 + EA Sports FC 27: videogame com jogo incluso",
-      "d": "",
-      "link": "https://www.terra.com.br/especiais/black-friday/bundle-nintendo-switch-2-ea-sports-fc-27-videogame-com-jogo-incluso,e4f4f2f2576a851a1c69f92ac59398d0dig7vf5k.html",
-      "fonte": "Terra",
-      "data": "2026-11-27T00:48:35.000Z",
-      "c": "Consoles",
-      "img": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/27/1511651295-a78686e1b9621e6ea8660516947d8c6e12d398459170650e1d31c3ef430fec82.jpg",
-      "orig": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWXJXLVFPSnFiWGZJUUNZbzUtQW9mWlFnWVFETjFhbFRubGN4TzVsanFra25yYUF2YVh1YmJHLXN1ZXltcWU5TjZTaldSUWFhNG9nVWMwc1ptWXZVRFpFSERyY21vSVJpMVhJUVU1UVdIOEZjbC1EdnZLN3dGY2pDOWpfQzRsX0xsQm1mZ1NnRnZoVTNpQkFMYzIwUUZ3ZHQ4MTZNWmJKalNZdGVxQnI4akVsOTZOb05wSklhemVtQ2RWUFNBZTcwdG91X0NTcUNickpvZFVwcUJtOGk0Q1NyY1p5MHFyRkJJYkNZWHJDcVctbGs?oc=5"
     },
     {
       "t": "Jogos de PC em oferta na Flash Sale da Black Friday Nuuvem com cupom limitado",
@@ -241,15 +250,6 @@
       "data": "2026-11-26T17:52:00.000Z",
       "c": "Consoles",
       "img": "https://www.estadao.com.br/resizer/v2/T3WRUAOQ7FHYTEIJ4SJEZBLWG4.jpg?quality=80&auth=65c801ca0df7dc071c3f0360c95bba75cf90f4a8494edbc6cec85ef6cf3c04db&width=710"
-    },
-    {
-      "t": "Funko Friday! Colecionáveis despencam de preço na Black da Amazon",
-      "d": "Colecionáveis de games, animes, filmes e até do esporte aparecem com descontos para quem quer aumentar a coleção sem gastar tanto!",
-      "link": "https://br.ign.com/descontos/157986/funko-friday-colecionaveis-despencam-de-preco-na-black-da-amazon",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-26T17:14:18.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/apresentacao-proposta-comercial-basica-e-simples-em-tons-de_d4pp.png"
     },
     {
       "t": "Skate terá chat de proximidade e outras novidades em novo update",
