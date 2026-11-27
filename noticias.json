@@ -1,25 +1,77 @@
 {
-  "atualizadoEm": "2026-11-27T13:14:32.849Z",
+  "atualizadoEm": "2026-11-27T13:44:43.155Z",
   "noticias": [
     {
-      "t": "De ar-condicionado a PlayStation 5: confira ofertas da Black Friday com descontos de até 30%",
+      "t": "God of War Ragnarök para PlayStation 5",
       "d": "",
-      "link": "https://oglobo.globo.com/economia/noticia/2026/11/27/de-ar-condicionado-a-playstation-5-confira-ofertas-da-black-friday-com-descontos-de-ate-30percent.ghtml",
-      "fonte": "O GLOBO",
-      "data": "2026-11-27T13:03:14.000Z",
-      "c": "Ofertas",
-      "img": "https://s2-oglobo.glbimg.com/a9sJc4WZ88jTdDCU2Xg5IlWB1CQ=/667x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/G/I/9uxHaYTZWNwANaCVvuNA/captura-de-tela-2023-11-16-as-21.16.51.png",
-      "orig": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOelNrcU5PdUhrQi04UC1hVFo2cHlGUFF3YWQzMElIUGt3ZnZ1UUpwZlpBdEQwU2pQQ1psbkh4bXZPeVpBWVB0TVJDMVlMZmhScWdtcXdkSENtX2FqZGZxdEdsckVLZzhWUlNvenVzVVBQb2tJeWw2UVRid3pSZ0VfcFVYZFRIcHBhWTN3ZmQ1VGNMeWhGVjk5ZFluTHdDSzdYbUJvc05OZGtRNE44YzFlOEM4bUJ0eWtiRDlKOVVCWG8tdUJTU3g2MEk0RGRISzV1UXVBdGMyOFRGZ3VqWmtfdldZQVBLSmNNYlE2a9IB-wFBVV95cUxQazJQMU5FTFV0ZWpEOWxGckNmTzNmZXc3dmRoNDZrTTZ3R1FCd1E3Sy02RXVnTnJrMjlPeVFickhLLUZLa3pFV3ZQNGd5ald1c3RwcHJId0VtTVYzWjBscWxRWU9EQ25ybi1QYVYzNENibHBlcHd4ZmVKQWk5VEJtUHlLazRCNzdRUHROM2tDVTVvUGxFbDFubjBoUWRaRWRRWjc3TFJpc2dNNXRwVnB1cWJsbEdPb1F1TWZlbzFIWDZ1VVVnamdzOTFtMUpxQ0JNSzRzLVBpdWJQS2czWjVZeS14Rng4UDBSMlRTTlJKWnNoVThtYjRiLXdIdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTZiWWVaZ1VVdXEwSnp2SFN2eGs1dEtMTmdkYXl2cHdJU2tMeV9kTHZWOEltNGptbXZoQVB3RWl3c01XaUhCTW5CWjBVS0s5ZGhodDdWcDVMVVl1UFhoQW5Fd1Q4ZjBxYzR4Qm55ZTZUQ0VSZ2xSRnYyQ3l1cWg5bXpuUGo3RlNKemxJcXB6UHhFZUt6ZVNSYVpxSm5xWmhSelAzREUxVXpLOFZWSHRiOW8xN3B5Nkw0NlpTMkxkaHlsUUVlMlJJdWxiV2I?oc=5",
+      "fonte": "Terra",
+      "data": "2026-11-27T13:38:00.000Z",
+      "c": "Consoles",
+      "img": ""
     },
     {
-      "t": "Retail Hell é anunciado para Nintendo Switch",
+      "t": "Pokémon Ventos e Ondas – Pelúcias dos Pokémon iniciais são anunciadas para o Japão",
       "d": "",
-      "link": "https://www.nintendoblast.com.br/2026/11/retail-hell-anunciado-para-nintendo-switch.html",
-      "fonte": "Nintendo Blast",
-      "data": "2026-11-27T13:02:14.000Z",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM3A5aUp6b2NkX3Voc21QV3gzMXRQdzhYSDY2QkEwN3kyUG5QRFRZUDk3RFhwUWhrYUdkOGRNT3lMQ3JVTkw5WXJWRnIwYmtMcWJDVWpad0VscWhrWV9WRDU2Wm9OU19QOFVKRnpnNEhmVlRBazNWbldVQU5NMWptclFOTE91b2hiZ3ZmQWRWdDNwSUxLTXlNU1dPSDM2SkN5bjdFNjlRZk9ycVFEQThF?oc=5",
+      "fonte": "Universo Nintendo",
+      "data": "2026-11-27T13:30:26.000Z",
+      "c": "Lançamentos",
+      "img": ""
+    },
+    {
+      "t": "Tomodachi Life: Living the Dream tem sua trilha sonora adicionada ao Nintendo Music",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHE1ZWlpUVRiYno5TmluTFYwcWMwZ3l0WkZSeXdrbTlJZEs1ZzJzaC1nZmNvU1ZRdFlrUDRVdF9vcTNFRGktUkNhSmFXbnBqdXVWeVZNZVliVFdYaFFPRnJEQkVwMDk3NVR5bjVWcmota0JGNWJ5X0tUNkw0V3F1d1lYTlhpTzQ3TGsyQ0hOQ1VXSmRZb2RudlVWazBJWnVnSURJUEo4UEt0dG1HOVBGU0xn?oc=5",
+      "fonte": "Universo Nintendo",
+      "data": "2026-11-27T13:30:00.000Z",
       "c": "Consoles",
-      "img": "",
-      "orig": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDE4WXVmYXhVOTVpTm8zZjQ2S1czV04zbktiUzhscWd3MjVnT3F2WW5zQld2ZF9kdkFLOFJobzRSTlNKa3k1N3VINVJMSzdQZno3ODNtMkFLODlEV1F3OXhZSDhZTklhOEpLZ2U0RWRXVHkyYk9fY08wWVRfVzZBcDRUWmExal9kSjBVOWRUV2Jkdw?oc=5"
+      "img": ""
+    },
+    {
+      "t": "DualSense Galactic Purple despenca de preço e vira destaque na Black Friday da Amazon",
+      "d": "O controle sem fio do PS5 está com preço reduzido na Black Friday da Amazon, uma boa oportunidade para quem quer renovar o setup ou garantir uma nova opção para jogar.",
+      "link": "https://br.ign.com/descontos/158026/dualsense-galactic-purple-despenca-de-preco-e-vira-destaque-na-black-friday-da-amazon",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-27T13:29:48.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/captura-de-tela-2026-11-27-102801_t5m2.png"
+    },
+    {
+      "t": "Novo The Legend of Zelda 3D e de mundo aberto ainda está longe de ser lançado, mas deve continuar o que Breath of the Wild e Tears of the Kingdom fizeram tão bem, aponta rumor",
+      "d": "Mais detalhes sobre o possível próximo game da franquia Após o remake de Ocarina of Time sair para consoles Nintendo Switch 2, todos já estão se perguntando sobre os próximos passos da franquia...",
+      "link": "https://br.ign.com/the-legend-of-zelda-breath-of-the-wild/158025/novo-the-legend-of-zelda-3d-e-de-mundo-aberto-ainda-esta-longe-de-ser-lancado-mas-deve-continuar-o-q",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-27T13:26:28.000Z",
+      "c": "Consoles",
+      "img": "https://sm.ign.com/ign_br/shot/r/reviewed-b/reviewed-by-jose-oterobr-march-2-2017br-the-legend-of-zelda_sbyb.jpg"
+    },
+    {
+      "t": "Thrifty Business já está disponível para Nintendo Switch",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON19HVEdOSWxLQWxSaXJTbzJ0UWlUTXhvVVJsdncycFpPdENYd09WYV85MXFtSVdLUmZ2NUI2YS0xNU54TV9uNW5mMmJ4QXZpT0JiTWtveF8xaGhzenl0SVo2a3BCRWhXTURfZHdaN3dnRmgwZS1ybE05TFFsUGQxZDlveEE4dVZuSmZNWXZfUndzZDhSTzdkbjlNa29jWE5xNkdUSQ?oc=5",
+      "fonte": "Nintendo Blast",
+      "data": "2026-11-27T13:16:19.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "Space Mechanic Simulator chega ao Xbox Series X|S e Xbox One",
+      "d": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2xSVUhqZU8zcTdnSkVUeWhMSDYzTFhfZ3N3VUY4MWh5enJrcXp0b1BWWXFjTTEtWXk2Y2tNSlJWajdhbzMzOVBwbHhldlVTMkNKbHhIcXZibDVjN0o5RWpqWURfTXNpVjI4OHhlRDZ4SWlHRXBGMkFwaFlIb0RkZTJnd0xuVTRRSHhN?oc=5",
+      "fonte": "Xboxers",
+      "data": "2026-11-27T13:15:16.000Z",
+      "c": "Consoles",
+      "img": ""
+    },
+    {
+      "t": "McAfee Total Protection Plus protege até 5 dispositivos por 1 ano e está com R$ 70 de desconto",
+      "d": "A internet está presente em praticamente todas as atividades do dia a dia, desde compras e pagamentos até conversas, trabalho e entretenimento. Com tantas informações pessoais circulando pela...",
+      "link": "https://br.ign.com/descontos/158024/mcafee-total-protection-plus-protege-ate-5-dispositivos-por-1-ano-e-esta-com-r-70-de-desconto",
+      "fonte": "IGN Brasil",
+      "data": "2026-11-27T13:07:29.000Z",
+      "c": "Ofertas",
+      "img": "https://sm.ign.com/ign_br/screenshot/default/shutterstock-2771206043_s8g5.jpg"
     },
     {
       "t": "GTA 6: modder cria modo multiplayer online no PC",
@@ -38,36 +90,6 @@
       "data": "2026-11-27T12:57:30.000Z",
       "c": "Geral",
       "img": "https://flowgames.gg/wp-content/uploads/2026/11/imagem_2026-11-24_160537352.png"
-    },
-    {
-      "t": "Black Friday: jogos de Switch 2 por até R$ 50 na eShop",
-      "d": "",
-      "link": "https://projectn.com.br/black-friday-jogos-ate-50-reais-nintendo-switch-2-eshop/",
-      "fonte": "Project N",
-      "data": "2026-11-27T12:39:03.000Z",
-      "c": "Ofertas",
-      "img": "https://projectn.com.br/wp-content/uploads/2026/11/Promocao-Black-Friday-Nintendo-Switch.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTi0wRk40Zjd2cXhDYXBEa2plZ3Bhclh0WTNOVWZxRmY1WDVrLTRicEdDMDN5U21wY1pNUlVrTUdqdE5ERzJIeFhYNVk2Mm1OV254bkM5M2Njd2YtYTZ1YmhOWkJ4d25YQVVZY0lyXzhSbjdjT20ybDg1M3JoazBsSGZIanlYaDA?oc=5"
-    },
-    {
-      "t": "Nintendo Switch 2 com Mario Kart sai por US$ 499,99 nos EUA",
-      "d": "",
-      "link": "https://revistaempreende.com.br/nintendo-switch-2-mario-kart-black-friday-eua-2026/",
-      "fonte": "Revista Empreende",
-      "data": "2026-11-27T12:39:00.000Z",
-      "c": "Consoles",
-      "img": "https://i0.wp.com/revistaempreende.com.br/wp-content/uploads/2026/11/nintendo-switch-2-mario-kart-black-friday-eua-2026-551338b1-scaled.webp?fit=1200%2C675&quality=80&ssl=1",
-      "orig": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3VSUldtakdRUTJ6YzhCVV9oTWZHVGRsZEgwdlo2SmtOM2VvWmVqS0NpVGM0OFVRS3E3UTBXT0dPeFQwUmxOVW5yMC1OenRmNXBXbGVUVGVZZWhBNV96Sno1X1gybVdGN0xRMG9SYTlGRzFIbmZfaUtQbEk5b1JtWEdEbjhESzA1MkVN?oc=5"
-    },
-    {
-      "t": "GTA 6 quebra recordes de vendas de mídias físicas na Europa, mesmo sem ter disco",
-      "d": "",
-      "link": "https://www.adrenaline.com.br/games/gta-6-quebra-recordes-de-vendas-de-midias-fisicas-na-europa-mesmo-sem-ter-disco/",
-      "fonte": "Adrenaline",
-      "data": "2026-11-27T12:39:00.000Z",
-      "c": "Geral",
-      "img": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTA-6-Recordes-Vendas-Europa.jpeg",
-      "orig": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNODRMVHdreXpENklVUHRsVXJ4ODBmS19CdlhKX195MmNURmc4eGE0WktfMk1LbU5DZW9zLWVtaTkta1VPdEFreUhhVVF3bEprNDZNaWhNRG9sRjRmOWtGcGhQaHNPLTRjdGFPWEN0eERjWHFTMGdRRGlqVVhJNlV5cWItYVZULWR5RlpnX1pHOWZ5WE96cWZkdmlreFBPSzRWSy1TNVYxZFNSZWhTRTdKUjJHenI3bVE?oc=5"
     },
     {
       "t": "GTA 6: Lista de todos os códigos dos cofres do jogo",
@@ -131,33 +153,6 @@
       "data": "2026-11-27T09:03:21.000Z",
       "c": "Geral",
       "img": "https://sm.ign.com/ign_br/screenshot/default/imagem_46tq.jpg"
-    },
-    {
-      "t": "Black Friday da Amazon leva controle Xbox Pulse Red ao seu menor preço histórico",
-      "d": "Modelo sem fio da Microsoft funciona no Xbox, PC e celular",
-      "link": "https://br.ign.com/descontos/158013/black-friday-da-amazon-leva-controle-xbox-pulse-red-ao-seu-menor-preco-historico",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-27T04:07:41.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/fba4b1b3-a093-44f7-afe3-548783279992_k3kw.jpg"
-    },
-    {
-      "t": "De Goku criança à chegada de Freeza, box com 21 mangás de Dragon Ball está com 40% de desconto na Black da Amazon",
-      "d": "Coleção da Panini traz a primeira metade da obra de Akira Toriyama e ainda acompanha cinco maxi postais",
-      "link": "https://br.ign.com/descontos/158012/de-goku-crianca-a-chegada-de-freeza-box-com-21-mangas-de-dragon-ball-esta-com-40-de-desconto-na-blac",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-27T03:39:30.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/box-dragon-ball-1-21-produto-1280x720_zd7y.jpg"
-    },
-    {
-      "t": "O Batmóvel de Batman Begins virou LEGO de controle remoto e está com 40% de desconto na Black da Amazon",
-      "d": "O Tumbler ainda pode ser pilotado pelo celular",
-      "link": "https://br.ign.com/descontos/158010/o-batmovel-de-batman-begins-virou-lego-de-controle-remoto-e-esta-com-40-de-desconto-na-black-da-amaz",
-      "fonte": "IGN Brasil",
-      "data": "2026-11-27T03:05:06.000Z",
-      "c": "Ofertas",
-      "img": "https://sm.ign.com/ign_br/screenshot/default/batmovel-tumbler-lego-42239-capa-1280x720_9ec8.jpg"
     },
     {
       "t": "Jogos de PC em oferta na Flash Sale da Black Friday Nuuvem com cupom limitado",
